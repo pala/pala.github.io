@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>http://example.com</loc>
+    <lastmod>2011-09-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://example.com/2011/09/16/automagical-post-generation-script-for-jekyll/</loc>
+    <lastmod>2011-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2011/09/13/back-from-bike-riding/</loc>
+    <lastmod>2011-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2011/09/12/jekyll-and-github-pages/</loc>
+    <lastmod>2011-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2011/09/12/karate-certificates/</loc>
+    <lastmod>2011-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://example.com/archive/</loc>
+    <lastmod>2011-09-16</lastmod>
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/category/</loc>
+    <lastmod>2011-09-16</lastmod>
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/index.html</loc>
+    <lastmod>2011-09-16</lastmod>
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/template.html</loc>
+    <lastmod>2011-09-16</lastmod>
+    
+    
+  </url>
+  
+</urlset>

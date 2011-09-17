@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <title>ztnote.com</title>
+   <meta name="author" content="<%= @page.author %>" />
+   <!-- Homepage CSS -->
+   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
+</head>
+<body>
+<div id="page">
+  <p id="breadcrumbs">在建中...</p>
+
+<div id="first_post">
+  <a href="/2011/09/16/automagical-post-generation-script-for-jekyll"><h2>Automagical post generation script for Jekyll</h2></a>
+  <div>
+    <p>Jekyll默认的新文章编写方法很让人头疼，你必须新建一个日期+名称.markdown的文件，下面这个小程序可以很方便的根据模版新建post而且自动用vim打开：</p>
+
+<div><script src='https://gist.github.com/1223405.js?file='></script>
+<noscript><pre><code>#!/usr/bin/env ruby
+
+# *********************************************
+# Jekyll Post Generator Awesomeness
+# by Cody Krieger (http://codykrieger.com)
+# *********************************************
+
+# Usage:
+# % ./newpost.rb POST NAME
+
+if ARGV.empty? or ARGV[0].downcase == &quot;--help&quot; or ARGV[0].downcase == &quot;-h&quot;
+  puts &lt;&lt;-USAGE
+
+  Usage:
+  % ./newpost.rb POST NAME
+
+  USAGE
+
+  exit (ARGV.empty? ? 1 : 0)
+end
+
+class String
+  
+  # from ruby on rails (https://github.com/rails/rails)
+  # activesupport/lib/active_support/inflector/transliterate.rb
+  def parameterize(sep = '-')
+    # replace accented chars with their ascii equivalents
+    parameterized_string = self.dup
+    # Turn unwanted chars into the separator
+    parameterized_string.gsub!(/[^a-z0-9\-_]+/i, sep)
+    unless sep.nil? || sep.empty?
+      re_sep = Regexp.escape(sep)
+      # No more than one of the separator in a row.
+      parameterized_string.gsub!(/#{re_sep}{2,}/, sep)
+      # Remove leading/trailing separator.
+      parameterized_string.gsub!(/^#{re_sep}|#{re_sep}$/i, '')
+    end
+    parameterized_string.downcase
+  end
+
+end
+
+TEMPLATE = &quot;template.markdown&quot;
+POSTS_DIR = &quot;_posts&quot;
+
+# Get the title and use it to derive the new filename
+title = ARGV.join(&quot; &quot;)
+filename = &quot;#{Time.now.strftime('%Y-%m-%d')}-#{title.parameterize}.markdown&quot; 
+filepath = File.join(POSTS_DIR, filename)
+
+# Load in the template and set the title
+post_text = File.read(TEMPLATE)
+post_text.gsub!('%%TITLE%%', title)
+
+# Write out the post
+post_file = File.open(filepath, 'w')
+post_file.puts post_text
+post_file.close
+
+# Open the new post with vim
+system(&quot;vim #{filepath}&quot;)
+</code></pre></noscript></div>
+
+
+
+
+  </div>
+</div>
+	<ul class="post-list">
+		
+		<li><time datetime="2011-09-13">Sep 13 2011</time>
+		<a href="/2011/09/13/back-from-bike-riding">Back From Bike Riding</a></li>
+		
+		<li><time datetime="2011-09-12">Sep 12 2011</time>
+		<a href="/2011/09/12/jekyll-and-github-pages">Jekyll and GitHub Pages</a></li>
+		
+		<li><time datetime="2011-09-12">Sep 12 2011</time>
+		<a href="/2011/09/12/karate-certificates">空手道证书</a></li>
+		
+	</ul>
+    <p>&rarr; <a href="/archive/">查看所有4篇文章</a></p>
+
+<a href="https://github.com/pala/pala.github.com"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://a248.e.akamai.net/assets.github.com/img/7afbc8b248c68eb468279e8c17986ad46549fb71/687474703a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub"></a> 
+
+</div>
+<footer>
+<p>Follow me: <a href="https://twitter.com/#!/ztpala">Twitter</a> <a href="https://www.facebook.com/taozhang">Facebook</a> | Powered by <a href="https://github.com">GitHub</a> and <a href="https://github.com/mojombo/jekyll">Jekyll</a></p>
+</footer>
+</body>
+</html>
