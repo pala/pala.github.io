@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>ztnote</title>
+  <link href="http://ztnote.com/atom.xml" rel="self"/>
+  <link href="http://ztnote.com/"/>
+  <updated>2011-09-17T16:58:27-04:00</updated>
+  <id>http://ztnote.com/</id>
+  <author>
+    <name>Tao Zhang</name>
+    <email></email>
+  </author>
+  
+  <entry>
+    <title>Automagical post generation script for Jekyll</title>
+    <link href="http://ztnote.com//2011/09/16/automagical-post-generation-script-for-jekyll"/>
+    <updated>2011-09-16T00:00:00-04:00</updated>
+    <id>http://ztnote.com/2011/09/16/automagical-post-generation-script-for-jekyll</id>
+    <content type="html">&lt;p&gt;Jekyll默认的新文章编写方法很让人头疼，你必须新建一个日期+名称.markdown的文件，下面这个小程序可以很方便的根据模版新建post而且自动用vim打开：&lt;/p&gt;
+
+&lt;div&gt;&lt;script type='text/javascript' src='https://gist.github.com/1223405.js?file='&gt;&lt;/script&gt;
+&lt;noscript&gt;&lt;pre&gt;&lt;code&gt;#!/usr/bin/env ruby
+
+# *********************************************
+# Jekyll Post Generator Awesomeness
+# by Cody Krieger (http://codykrieger.com)
+# *********************************************
+
+# Usage:
+# % ./newpost.rb POST NAME
+
+if ARGV.empty? or ARGV[0].downcase == &amp;quot;--help&amp;quot; or ARGV[0].downcase == &amp;quot;-h&amp;quot;
+  puts &amp;lt;&amp;lt;-USAGE
+
+  Usage:
+  % ./newpost.rb POST NAME
+
+  USAGE
+
+  exit (ARGV.empty? ? 1 : 0)
+end
+
+class String
+  
+  # from ruby on rails (https://github.com/rails/rails)
+  # activesupport/lib/active_support/inflector/transliterate.rb
+  def parameterize(sep = '-')
+    # replace accented chars with their ascii equivalents
+    parameterized_string = self.dup
+    # Turn unwanted chars into the separator
+    parameterized_string.gsub!(/[^a-z0-9\-_]+/i, sep)
+    unless sep.nil? || sep.empty?
+      re_sep = Regexp.escape(sep)
+      # No more than one of the separator in a row.
+      parameterized_string.gsub!(/#{re_sep}{2,}/, sep)
+      # Remove leading/trailing separator.
+      parameterized_string.gsub!(/^#{re_sep}|#{re_sep}$/i, '')
+    end
+    parameterized_string.downcase
+  end
+
+end
+
+TEMPLATE = &amp;quot;template.markdown&amp;quot;
+POSTS_DIR = &amp;quot;_posts&amp;quot;
+
+# Get the title and use it to derive the new filename
+title = ARGV.join(&amp;quot; &amp;quot;)
+filename = &amp;quot;#{Time.now.strftime('%Y-%m-%d')}-#{title.parameterize}.markdown&amp;quot; 
+filepath = File.join(POSTS_DIR, filename)
+
+# Load in the template and set the title
+post_text = File.read(TEMPLATE)
+post_text.gsub!('%%TITLE%%', title)
+
+# Write out the post
+post_file = File.open(filepath, 'w')
+post_file.puts post_text
+post_file.close
+
+# Open the new post with vim
+system(&amp;quot;vim #{filepath}&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/noscript&gt;&lt;/div&gt;
+
+
+
+</content>
+  </entry>
+  
+  <entry>
+    <title>Back From Bike Riding</title>
+    <link href="http://ztnote.com//2011/09/13/back-from-bike-riding"/>
+    <updated>2011-09-13T20:17:00-04:00</updated>
+    <id>http://ztnote.com/2011/09/13/back-from-bike-riding</id>
+    <content type="html">&lt;p&gt;@ the Barrents&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/--cUrOaKCs1g/Tm_zIcrNNUI/AAAAAAABfJE/O35Cj0xDQK4/s640/IMG_2078.jpg%20%&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;空手道训练前匆匆去的，中间还下了小雨，转了半天没找到想找的一个小湖，改天再去。另计划这个周末再去一次Tytoona山洞。&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Jekyll and GitHub Pages</title>
+    <link href="http://ztnote.com//2011/09/12/jekyll-and-github-pages"/>
+    <updated>2011-09-12T23:07:00-04:00</updated>
+    <id>http://ztnote.com/2011/09/12/jekyll-and-github-pages</id>
+    <content type="html">&lt;p&gt;现在这个blog由&lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&lt;/a&gt;生成。Jekyll最大的好处是无需数据库，所有页面均为静态，所以你将所有源代码文件保存在dropbox上或者push到github上，然后将生成的静态html再deploy到服务器。&lt;/p&gt;
+
+&lt;p&gt;如果你是github的用户，那么可以在pages.github.com上创建自己的页面。Github Pages支持Jekyll，如果你创建了一个repo名字是yourusername.github.com并且将Jekyll的代码发布上去，那么github会自动在yourusername.github(不支持插件).com这个地址通过Jekyll为你自动生成一个站点。&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Real World Example: github.com/pages/pages.github.com → http://pages.github.com/.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;同时这个站点也支持自己绑定的域名，详情请参阅&lt;a href=&quot;http://pages.github.com&quot;&gt;GitHub Pages 页面&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pros:
+无需数据库，php，纯静态，便于用git管理&lt;/p&gt;
+
+&lt;p&gt;Cons:
+某些地方稍微复杂，比如文章编写，没有wordpress的富文本编辑器，但用vim+markdown还是能快速的写完一篇日志的。&lt;/p&gt;
+
+&lt;p&gt;目前还只有最近几篇文章，老文章以后再说，虽然已经有人写出了很好的wordpress文章导出转换工具。&lt;/p&gt;
+
+&lt;p&gt;Update:&lt;/p&gt;
+
+&lt;p&gt;目前GitHub Pages还不支持Jekyll插件，如果你的站点需要插件，则必须只能push生成好的站点文件，也就是_site/里的文件到yourname.github.com，而Jekyll则需另建一个新的repo来管理。&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>空手道证书</title>
+    <link href="http://ztnote.com//2011/09/12/karate-certificates"/>
+    <updated>2011-09-12T17:20:00-04:00</updated>
+    <id>http://ztnote.com/2011/09/12/karate-certificates</id>
+    <content type="html">&lt;p&gt;昨天Sensei终于把我们以前所有空手道考试得到的证书发下来了&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-o3HArx4jsOo/Tm52K3cZV1I/AAAAAAABfIc/Ftmz18j93Uw/s640/IMG_2079.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/-9TRILDhjsK8/Tm52LMD7tVI/AAAAAAABfIg/Kzd4z4qhZOM/s640/IMG_2080.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-4npQvYkKaGs/Tm52K5wphgI/AAAAAAABfIY/LiccAdrMZ1A/s640/IMG_2081.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-cdEJKmXOzfU/Tm52LHnFQFI/AAAAAAABfIk/_RXP6mPbBLU/s640/IMG_2082.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-Ua9KdPwsHik/Tm52LvHqKBI/AAAAAAABfIo/pM2PILaIWpc/s640/IMG_2085.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+</feed>
