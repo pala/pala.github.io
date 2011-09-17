@@ -1,27 +1,51 @@
----
-layout: default
-title: 404
-permalink: /404/
----
-<p id="breadcrumbs">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <title>404</title>
+   <meta name="author" content="Tao Zhang" />
+   <!-- Homepage CSS -->
+   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
+</head>
+<body>
+<div id="page">
+  <p id="breadcrumbs">
 <a href="/">主页</a>
 &rsaquo; 小黑屋
 </p>
 <h2>404，您可以看看文章列表</h2>
 <div id="blog-archive">
-{% capture post_year1 %}{{ 'now' | date: '%Y' }}{% endcapture %}
-<h3>{{ post_year1 }}</h3>
+
+<h3>2011</h3>
 <ul class="post-list">
-{% for post in site.posts %}
-{% capture post_year2 %}{{ post.date | date: '%Y' }}{% endcapture %}
-{% if post_year1 != post_year2 %}
-{% assign post_year1 = post_year2 %}
-</ul>
-<h3>{{ post_year1 }}</h3>
-<ul class="post-list">
-{% endif %}
-<li><time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%b %d %Y' }}</time>
-<a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
+
+
+
+<li><time datetime="2011-09-16">Sep 16 2011</time>
+<a href="/2011/09/16/automagical-post-generation-script-for-jekyll">Automagical post generation script for Jekyll</a></li>
+
+
+
+<li><time datetime="2011-09-13">Sep 13 2011</time>
+<a href="/2011/09/13/back-from-bike-riding">Back From Bike Riding</a></li>
+
+
+
+<li><time datetime="2011-09-12">Sep 12 2011</time>
+<a href="/2011/09/12/jekyll-and-github-pages">Jekyll and GitHub Pages</a></li>
+
+
+
+<li><time datetime="2011-09-12">Sep 12 2011</time>
+<a href="/2011/09/12/karate-certificates">空手道证书</a></li>
+
 </ul>
 </div>
+</div>
+<div id="footer">
+<p id="followme">Follow me: <a href="https://twitter.com/#!/ztpala">Twitter</a> <a href="https://www.facebook.com/taozhang">Facebook</a> | Powered by <a href="https://github.com">GitHub</a> and <a href="https://github.com/mojombo/jekyll">Jekyll</a></p>
+</div>
+</body>
+</html>

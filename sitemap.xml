@@ -4,7 +4,7 @@
 
   <url>
     <loc>http://example.com</loc>
-    <lastmod>2011-09-16</lastmod>
+    <lastmod>2011-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -41,29 +41,36 @@
 
   
   <url>
+    <loc>http://example.com/404.html</loc>
+    <lastmod>2011-09-17</lastmod>
+    
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/archive/</loc>
-    <lastmod>2011-09-16</lastmod>
+    <lastmod>2011-09-17</lastmod>
     
     
   </url>
   
   <url>
     <loc>http://example.com/category/</loc>
-    <lastmod>2011-09-16</lastmod>
+    <lastmod>2011-09-17</lastmod>
     
     
   </url>
   
   <url>
     <loc>http://example.com/index.html</loc>
-    <lastmod>2011-09-16</lastmod>
+    <lastmod>2011-09-17</lastmod>
     
     
   </url>
   
   <url>
     <loc>http://example.com/template.html</loc>
-    <lastmod>2011-09-16</lastmod>
+    <lastmod>2011-09-17</lastmod>
     
     
   </url>
