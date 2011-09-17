@@ -225,7 +225,7 @@ iframe.twitter-follow-button {
 #related-posts ul {
     padding-left: 40px;
 }
-#related-posts li > time {
+#related-posts li > span {
     color: #999;
     font-size: 12px;
     margin-left: .4em;
@@ -242,7 +242,7 @@ ul.post-list > li {
     margin: 0 0 5px 0;
     padding: 0 0 5px 0;
 }
-ul.post-list > li > time {
+ul.post-list > li > span {
     color: #999;
     display: inline-block;
     float: right;
@@ -292,21 +292,12 @@ a.dsq-brlink {
     font-size: 13px !important;
 }
 
-/* =Footer
--------------------------------------------------------------- */
-
-body > footer {
-    color: #999;
-    font-size: 13px;
-    line-height: 18px;
+#footer {
+	 border-top: 4px solid #ddd;
 }
-#cc-logo {
-    background: url('/resources/default.png') no-repeat left -24px;
-    display: inline-block;
-    float: left;
-    height: 31px;
-    margin: 2px 10px 0 0;
-    width: 88px;
+
+#followme {
+    margin-top: 10px;
 }
 
 /* =Mobile Devices
@@ -349,7 +340,7 @@ body > footer {
         text-overflow: ellipsis;
         white-space: nowrap;
     }
-    ul.post-list > li > time {
+    ul.post-list > li > span {
         margin-left: 1em;
     }
     #blog-archive > h3 {
