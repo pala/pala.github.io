@@ -3,7 +3,7 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>http://example.com</loc>
+    <loc>http://ztnote.com</loc>
     <lastmod>2011-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -11,28 +11,28 @@
 
   
   <url>
-    <loc>http://example.com/2011/09/16/automagical-post-generation-script-for-jekyll/</loc>
+    <loc>http://ztnote.com/2011/09/16/automagical-post-generation-script-for-jekyll/</loc>
     <lastmod>2011-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/2011/09/13/back-from-bike-riding/</loc>
+    <loc>http://ztnote.com/2011/09/13/back-from-bike-riding/</loc>
     <lastmod>2011-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/2011/09/12/jekyll-and-github-pages/</loc>
+    <loc>http://ztnote.com/2011/09/12/jekyll-and-github-pages/</loc>
     <lastmod>2011-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/2011/09/12/karate-certificates/</loc>
+    <loc>http://ztnote.com/2011/09/12/karate-certificates/</loc>
     <lastmod>2011-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.2</priority>
@@ -41,35 +41,35 @@
 
   
   <url>
-    <loc>http://example.com/404.html</loc>
+    <loc>http://ztnote.com/404.html</loc>
     <lastmod>2011-09-17</lastmod>
     
     
   </url>
   
   <url>
-    <loc>http://example.com/archive/</loc>
+    <loc>http://ztnote.com/archive/</loc>
     <lastmod>2011-09-17</lastmod>
     
     
   </url>
   
   <url>
-    <loc>http://example.com/category/</loc>
+    <loc>http://ztnote.com/category/</loc>
     <lastmod>2011-09-17</lastmod>
     
     
   </url>
   
   <url>
-    <loc>http://example.com/index.html</loc>
+    <loc>http://ztnote.com/index.html</loc>
     <lastmod>2011-09-17</lastmod>
     
     
   </url>
   
   <url>
-    <loc>http://example.com/template.html</loc>
+    <loc>http://ztnote.com/template.html</loc>
     <lastmod>2011-09-17</lastmod>
     
     
