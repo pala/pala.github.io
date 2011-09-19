@@ -183,7 +183,12 @@ article > footer > p, article > footer > span {
     margin-top: 4px;
 }
 
+/* Image borders */
 
+img {
+	border: 1px solid #e0e0e0;
+	padding: 6px;
+}
 
 /* Share buttons at the bottom of each blog post */
 
