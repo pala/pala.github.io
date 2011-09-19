@@ -7,6 +7,7 @@ title: ztnote.com
   <h2><a href="{{first_post.url}}">{{ first_post.title }}</a></h2>
   <div>
     {{ first_post.content }}
+	<p id="breadcrumbs"><a href="{{first_post.url}}#disqus_thread">0 Comments</a></p>
   </div>
 </div>
 	<ul class="post-list">
@@ -16,3 +17,13 @@ title: ztnote.com
 		{% endfor %}
 	</ul>
     <p>&rarr; <a href="/archive/">查看所有{{ site.posts | size }}篇文章</a></p>
+
+	<script type="text/javascript">
+	    var disqus_shortname = 'ztnote';
+	    (function () {
+	        var s = document.createElement('script'); s.async = true;
+	        s.type = 'text/javascript';
+	        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+	        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+	    }());
+	</script>

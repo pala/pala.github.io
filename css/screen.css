@@ -135,6 +135,10 @@ body > header > nav > a {
 /* =Content
 -------------------------------------------------------------- */
 
+#first_post {
+	margin-bottom: 20px;
+}
+
 #breadcrumbs {
     color: #999;
     font-size: 13px;
