@@ -4,3 +4,6 @@ title: ztnote.com
 url: http://ztnote.com
 subscribe: http://feeds.feedburner.com/pala
 exclude: [ README.md ]
+domain: ztnote.com
+author: Tao Zhang
+email: ztpala@gmail.com
