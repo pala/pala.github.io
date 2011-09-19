@@ -1,0 +1,14 @@
+<h2 class="title"><a href="{{ page.url }}">{{ page.title }}</a></h2> 
+  <div class="post post-{{ page.id }}">
+
+    <p class="author">
+	{{ page.date | date: '%b %d %Y' }}
+    | {% for category in page.categories %}
+       <a href="/{{category | downcase}}.html">{{category}}</a>
+      {% endfor %}
+    </p>
+    
+    <div class="entrybody">
+      {{ page.content }}
+    </div>
+  </div>

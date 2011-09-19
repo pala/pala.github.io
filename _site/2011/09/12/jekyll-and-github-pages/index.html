@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <title>Jekyll and GitHub Pages</title>
+   <meta name="author" content="Tao Zhang" />
+   <!-- Homepage CSS -->
+   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
+   <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5531632-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+   </script>
+</head>
+<body>
+<div id="page">
+  <p id="breadcrumbs">
+<a href="/">主页</a>
+&rsaquo; <a href="/archive/">存档</a>
+&rsaquo; Jekyll and GitHub Pages
+</p>
+<article>
+<header>
+<h2><a title="Permalink to Jekyll and GitHub Pages" href="http://ztnote.com/2011/09/12/jekyll-and-github-pages">Jekyll and GitHub Pages</a></h2>
+<time datetime="2011-09-12" pubdate="pubdate">Sep 12 2011</time>
+
+| <a href="/category#Blog">Blog</a>
+
+| <a href="/category#Jekyll">Jekyll</a>
+
+</header>
+<p>现在这个blog由<a href="https://github.com/mojombo/jekyll">Jekyll</a>生成。Jekyll最大的好处是无需数据库，所有页面均为静态，所以你将所有源代码文件保存在dropbox上或者push到github上，然后将生成的静态html再deploy到服务器。</p>
+
+<p>如果你是github的用户，那么可以在pages.github.com上创建自己的页面。Github Pages支持Jekyll，如果你创建了一个repo名字是yourusername.github.com并且将Jekyll的代码发布上去，那么github会自动在yourusername.github(不支持插件).com这个地址通过Jekyll为你自动生成一个站点。</p>
+
+<blockquote><p>Real World Example: github.com/pages/pages.github.com → http://pages.github.com/.</p></blockquote>
+
+<p>同时这个站点也支持自己绑定的域名，详情请参阅<a href="http://pages.github.com">GitHub Pages 页面</a>.</p>
+
+<p>Pros:
+无需数据库，php，纯静态，便于用git管理</p>
+
+<p>Cons:
+某些地方稍微复杂，比如文章编写，没有wordpress的富文本编辑器，但用vim+markdown还是能快速的写完一篇日志的。</p>
+
+<p>目前还只有最近几篇文章，老文章以后再说，虽然已经有人写出了很好的wordpress文章导出转换工具。</p>
+
+<p>Update:</p>
+
+<p>目前GitHub Pages还不支持Jekyll插件，如果你的站点需要插件，则必须只能push生成好的站点文件，也就是_site/里的文件到yourname.github.com，而Jekyll则需另建一个新的repo来管理。</p>
+
+<footer>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'ztnote'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</footer>
+</article>
+</div>
+<div id="footer">
+<p id="followme">Follow me: <a href="https://twitter.com/#!/ztpala">Twitter</a> <a href="https://www.facebook.com/taozhang">Facebook</a> <a href="http://feeds.feedburner.com/pala">RSS</a> | Powered by <a href="https://github.com">GitHub</a> and <a href="https://github.com/mojombo/jekyll">Jekyll</a></p>
+</div>
+</body>
+</html>
