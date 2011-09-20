@@ -7,16 +7,20 @@ layout: default
 &rsaquo; {{ page.title }}
 </p>
 <article>
-<header>
-<h2><a title="Permalink to {{ page.title }}" href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></h2>
-<time datetime="{{ page.date | date: '%Y-%m-%d' }}" pubdate="pubdate">{{ page.date | date: '%b %d %Y' }}</time>
-{% for category in page.categories %}
-| <a href="/category#{{ category }}">{{ category }}</a>
-{% endfor %}
-</header>
-{{ content }}
+	<div class="post">
+		<div class="post-panel">
+			<div class="post-content">
+	  		<a href="{{first_post.url}}"><h2 class="post-title">{{ page.title }}</h2></a>
+	    	{{ content }}
+			</div>
+			<div class="post-meta">
+				{% for category in page.categories %}
+				<a href="/category#{{ category }}">#{{ category }}</a> 
+				{% endfor %}
+			</div>
+	  	</div>
+	</div>
 <footer>
-
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
