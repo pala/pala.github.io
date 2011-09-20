@@ -3,12 +3,19 @@ layout: default
 title: ztnote.com
 ---	
 {% assign first_post = site.posts.first %}
-<div id="first_post">
-  <h2><a href="{{first_post.url}}">{{ first_post.title }}</a></h2>
-  <div>
-    {{ first_post.content }}
-	<p id="breadcrumbs"><a href="{{first_post.url}}#disqus_thread">0 Comments</a></p>
-  </div>
+<div class="post">
+	<div class="post-panel">
+		<div class="post-content">
+  		<a href="{{first_post.url}}"><h2 class="post-title">{{ first_post.title }}</h2></a>
+    	{{ first_post.content }}
+		</div>
+		<div class="post-meta">
+			{% for category in first_post.categories %}
+			<a href="/category#{{ category }}">#{{ category }}</a> 
+			{% endfor %}
+		 	<a id="reply" href="{{first_post.url}}#disqus_thread">0 Comments</a>
+		</div>
+  	</div>
 </div>
 	<ul class="post-list">
 		{% for post in site.posts limit: 4 offset:1 %}

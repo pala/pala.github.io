@@ -6,7 +6,6 @@
 body > * {
     clear: both;
     margin: 0 auto;
-    width: 700px;
 }
 
 body > header {
@@ -25,7 +24,7 @@ body > footer {
 -------------------------------------------------------------- */
 
 body {
-    background-color: #fff;
+    background-color: #e6e6e6;
     color: #333;
     font: 14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;
     margin: 20px;
@@ -71,6 +70,9 @@ a:hover {
 }
 a img {
     border: 0;
+}
+.post-meta a {
+	color: #bbb;
 }
 ul {
     margin: 0 0 20px 0;
@@ -135,8 +137,40 @@ body > header > nav > a {
 /* =Content
 -------------------------------------------------------------- */
 
-#first_post {
-	margin-bottom: 20px;
+#page {
+    width: 640px;
+    backgournd-color: white;
+}
+
+.post {
+    margin-bottom: 50px;
+}
+
+.post-panel {
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+.post .post-panel {
+	background: white;
+	-webkit-box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.03) inset, 0 0 0 1px rgba(0,0,0,0.15);
+	-moz-box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.03) inset, 0 0 0 1px rgba(0,0,0,0.15);
+	box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.03) inset, 0 0 0 1px rgba(0,0,0,0.15);
+	position: relative;
+	z-index: 3;
+}
+
+.post .post-meta {
+	padding: 10px 0 20px 0;
+	margin: 0 30px;
+	position: relative;
+}
+
+.post .post-content {
+	padding-top: 30px; margin: 0 30px; clear: both; word-wrap: break-word;
+}
+
+.post-meta #reply {
+	float:right;
 }
 
 #breadcrumbs {
