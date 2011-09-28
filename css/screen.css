@@ -177,6 +177,12 @@ body > header > nav > a {
     margin-top: -10px;
 }
 
+#twitter {
+	position: absolute;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
 /* Blog posts */
 
 article {
