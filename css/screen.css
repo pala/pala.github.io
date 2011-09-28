@@ -148,15 +148,11 @@ body > header > nav > a {
     margin-bottom: 50px;
 }
 
-.post-panel {
-	-webkit-border-radius: 5px;
-	-moz-border-radius: 5px;
-}
 .post .post-panel {
 	background: white;
-	-webkit-box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.03) inset, 0 0 0 1px rgba(0,0,0,0.15);
-	-moz-box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.03) inset, 0 0 0 1px rgba(0,0,0,0.15);
-	box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.03) inset, 0 0 0 1px rgba(0,0,0,0.15);
+	-webkit-box-shadow: 0 0 2px 1px #ccc;
+	-moz-box-shadow: 0 0 2px 1px #ccc; 
+	box-shadow: 0 0 2px 1px #ccc; 
 	position: relative;
 	z-index: 3;
 }
