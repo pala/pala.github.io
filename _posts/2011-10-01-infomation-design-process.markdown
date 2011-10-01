@@ -13,7 +13,7 @@ categories:
 
 最近，Google将最古老的希伯来文圣经抄本[死海古卷](http://zh.wikipedia.org/wiki/%E6%AD%BB%E6%B5%B7%E5%8F%A4%E5%8D%B7)[搬上了网](http://googleblog.blogspot.com/2011/09/from-desert-to-web-bringing-dead-sea.html)，任何人都可以在网络上近距离[浏览这部文物](http://dss.collections.imj.org.il/)，甚至当你的鼠标点击羊皮纸上的文字时，会自动跳出英文翻译版供查看。
 
-Google的创始人之一Larry Page在十几年前就设想将所有书籍数字化。2004年，Google Books诞生。到今天，Google Books已经数字化了上千万本书籍。Google的另一位创始人Sergey Brin，在纽约时报上的一篇文章"[A Library to Last Forever](http://www.nytimes.com/2009/10/09/opinion/09brin.html?pagewanted=all)"中说，他在Google Books上找到一本名为Insurance Year Book 1880-1881的书中看到有人记载了几十座图书馆和几百万图书的毁灭，并希望这样的记录能促成一些事来杜绝这样的悲剧。一百多年之后，Google Books终于实现了他这个愿望。
+Google的创始人之一Larry Page在十几年前就设想将所有书籍数字化。2004年，Google Books诞生。到今天，Google Books已经数字化了上千万本书籍。Google的另一位创始人Sergey Brin，在纽约时报上的一篇文章"[A Library to Last Forever](http://www.nytimes.com/2009/10/09/opinion/09brin.html?pagewanted=all)"中说，他在Google Books上找到的一本名为Insurance Year Book 1880-1881的书中看到有人记载了几十座图书馆和几百万图书的毁灭，并希望这样的记录能促成一些事来杜绝这样的悲剧。一百多年之后，Google Books终于实现了这个人的愿望。
 
 对于每个能上网的普通人，动动鼠标就可以看到如此多的书是件幸福的事，对于科学家来说，Google Books则成了研究这个世界的绝好数据来源。
 
@@ -23,11 +23,11 @@ Google的创始人之一Larry Page在十几年前就设想将所有书籍数字�
 
 ## Twitter
 
-5年前，第一条推被发布，今天，上亿Twitter用户[每天发布两亿条推](http://blog.twitter.com/2011/06/200-million-tweets-per-day.html)，约等于8163本战争与和平，摞起来的高度约等于台北101大厦。和第一个故事所讲的书籍不同。Twitter的内容更像是无数个普通人关于普通生活的所见所想。如果把这些数据统计起来，能看到什么呢？
+5年前，第一条推被发布，今天，上亿Twitter用户[每天发布两亿条推](http://blog.twitter.com/2011/06/200-million-tweets-per-day.html)，长度约等于8163本战争与和平，摞起来的高度约等于台北101大厦。和第一个故事所讲的书籍不同。Twitter的内容更像是无数个普通人关于普通生活的所见所想。如果把这些数据统计起来，能看到什么呢？
 
 去年美国国会图书馆宣布将收录所有Twitter消息，也就是说你在Twitter上的喃喃自语可能成为以后研究历史文化的一个重要材料的一部分。
 
-Twitter曾经的口号是做世界的脉搏，最近康奈尔的研究人员在Science上发表了一篇[论文](http://www.sciencemag.org/content/333/6051/1878.abstract)，他们处理了近10亿的推特消息（大约240万用户，发布自2008年2月到1010年1月），通过"awesome"，"agree"，甚至笑脸":)"等表示正面情绪的词汇及"annoy"，"afraid"等表示负面情绪的词来统计Twitter上的情绪变化，结果得出了下面一幅图，不知道和你的生活作息是不是相似呢？
+Twitter曾经的口号是做世界的脉搏，最近康奈尔的研究人员在Science上发表了一篇[论文](http://www.sciencemag.org/content/333/6051/1878.abstract)，他们处理了近10亿的推特消息（大约240万用户，发布自2008年2月到2010年1月），通过"awesome"，"agree"，甚至笑脸":)"等表示正面情绪的词汇及"annoy"，"afraid"等表示负面情绪的词来统计Twitter上的情绪变化，结果得出了下面一幅图，不知道和你的生活作息是不是相似呢？
 
 ![ Studying Moods Through Twitter](http://graphics8.nytimes.com/images/2011/09/30/science/30twitter_graphic/30twitter_graphic-popup-v2.gif) [（新闻来源）](http://www.nytimes.com/2011/09/30/science/30twitter.html)
 
