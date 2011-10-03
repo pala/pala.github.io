@@ -6,8 +6,13 @@ title: ztnote.com
 <div class="post">
 	<div class="post-panel">
 		<div class="post-content">
-  		<a href="{{post.url}}"><h2 class="post-title">{{ post.title }}</h2></a>
+                    {% if post.link %}
+                    {{ post.content }}
+                    <p><a href="{{post.link}}"><blockquote>{{ post.title }}</blockquote></a></p>
+                        {% else %}
+                        <a href="{{post.url}}"><h2 class="post-title">{{ post.title }}</h2></a>
     	{{ post.content }}
+                        {% endif %}
 		</div>
 		<div class="post-meta">
 			{% for category in post.categories %}
