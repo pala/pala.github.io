@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: link
 title: Thank you, Steve
 date: 2011-10-06
 published: true
