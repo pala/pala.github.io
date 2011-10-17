@@ -46,7 +46,7 @@ categories:
 
 ![](https://lh3.googleusercontent.com/-1TyJIgwVR7s/Tps08Ikr_yI/AAAAAAABgNI/05l3mOddVzs/s640/IMG_2794.jpg)
 
-![](https://lh3.googleusercontent.com/-1TyJIgwVR7s/Tps08Ikr_yI/AAAAAAABgNI/05l3mOddVzs/s640/IMG_2794.jpg)
+![](https://lh3.googleusercontent.com/-ib-Rb85ERns/Tps08HF3iDI/AAAAAAABgOY/qB-CsOBg5P0/s640/IMG_2795.jpg)
 
 整个车顶被掀开
 
