@@ -7,18 +7,22 @@ title: ztnote.com
 	<div class="post-panel">
 		<div class="post-content">
                     {% if post.link %}
+<div class="article">
                     {{ post.content }}
+</div>
                     <p><a href="{{post.link}}"><blockquote>{{ post.title }}</blockquote></a></p>
                         {% else %}
                         <a href="{{post.url}}"><h2 class="post-title">{{ post.title }}</h2></a>
+<div class="article">
     	{{ post.content }}
+</div>
                         {% endif %}
 		</div>
 		<div class="post-meta">
 			{% for category in post.categories %}
 			<a href="/category#{{ category }}">#{{ category }}</a> 
 			{% endfor %}
-		 	<a id="reply" href="{{post.url}}#disqus_thread">0 Comments</a>
+			<a id="reply" href="https://twitter.com/share?url={{post.url}}&amp;via=ztpala&amp;text={{post.title}}" target="_blank">Tweet</a>
 		</div>
   	</div>
 </div>
