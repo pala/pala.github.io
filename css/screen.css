@@ -155,11 +155,14 @@ body > header > nav > a {
 
 .post .post-panel {
 	background: white;
-	-webkit-box-shadow: 0 0 2px 1px #ccc;
-	-moz-box-shadow: 0 0 2px 1px #ccc; 
-	box-shadow: 0 0 2px 1px #ccc; 
+	-webkit-box-shadow: 0 1px 2px 1px #ccc;
+	-moz-box-shadow: 0 1px 2px 1px #ccc; 
+	box-shadow: 0 1px 2px 1px #ccc; 
 	position: relative;
 	z-index: 3;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px; /* future proofing */
 }
 
 .post .post-meta {
@@ -188,6 +191,14 @@ body > header > nav > a {
 	margin-left: 20px;
 }
 
+
+article > footer {
+   margin-top: 20px;
+}  	
+article > footer > p, article > footer > span {
+  color: #999;
+   font-size: 13px;
+}
 
 /* Image borders */
 
