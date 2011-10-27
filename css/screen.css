@@ -307,6 +307,16 @@ ul.post-list > li > span {
 
 /* Highlight
  * ================================ */
+code{
+background-color: #F8F8F8;
+border: 1px solid #DEDEDE;
+font-size: 13px;
+padding: 0;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 3px;
+}
+
 .highlight  { background: #ffffff; }
 .highlight .c { color: #999988; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
