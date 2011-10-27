@@ -175,7 +175,7 @@ body > header > nav > a {
 	padding-top: 30px; margin: 0 30px; clear: both; word-wrap: break-word;
 }
 
-.post-meta #reply {
+.post-meta .share {
 	float:right;
 }
 

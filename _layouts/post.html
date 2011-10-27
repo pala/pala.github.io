@@ -19,7 +19,10 @@ layout: default
 				{% for category in page.categories %}
 				<a href="/category#{{ category }}">#{{ category }}</a> 
 				{% endfor %}
-				<a id="reply" href="https://twitter.com/share?url={{ site.url }}{{ page.url }}&amp;via=ztpala&amp;text={{page.title}}" target="_blank">Tweet</a>
+				<div class="share">
+				<a href="https://twitter.com/share?url={{site.url}}{{page.url}}&amp;via=ztpala&amp;text={{page.title}}" target="_blank">推</a>
+				<a  href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://v.t.sina.com.cn/share/share.php?appkey=3823167979',u=z||d.location,p=['&url=',e(u),'&title=',e(t||d.title),'&source=',e(r),'&sourceUrl=',e(l),'&content=',c||'gb2312','&pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','','{{page.title}} 
+				via @pala','{{site.url}}{{page.url}}','utf-8'));">浪</a> </div>
 			</div>
 	  	</div>
 	</div>
