@@ -19,7 +19,7 @@ layout: default
 				{% for category in page.categories %}
 				<a href="/category#{{ category }}">#{{ category }}</a> 
 				{% endfor %}
-				<a id="reply" href="https://twitter.com/share?url={{page.url}}&amp;via=ztpala&amp;text={{page.title}}" target="_blank">Tweet</a>
+				<a id="reply" href="https://twitter.com/share?url={{ site.url }}{{ page.url }}&amp;via=ztpala&amp;text={{page.title}}" target="_blank">Tweet</a>
 			</div>
 	  	</div>
 	</div>

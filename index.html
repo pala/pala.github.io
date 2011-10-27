@@ -22,7 +22,7 @@ title: ztnote.com
 			{% for category in post.categories %}
 			<a href="/category#{{ category }}">#{{ category }}</a> 
 			{% endfor %}
-			<a id="reply" href="https://twitter.com/share?url={{post.url}}&amp;via=ztpala&amp;text={{post.title}}" target="_blank">Tweet</a>
+			<a id="reply" href="https://twitter.com/share?url={{site.url}}{{post.url}}&amp;via=ztpala&amp;text={{post.title}}" target="_blank">Tweet</a>
 		</div>
   	</div>
 </div>
