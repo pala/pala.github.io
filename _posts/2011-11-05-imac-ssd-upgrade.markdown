@@ -27,11 +27,11 @@ categories:
 
 3. [吸盘一个](http://www.walmart.com/ip/Bondo-Double-Handle-Locking-Suction-Cup-Dent-Puller/17130354) 因为iMac没有所谓的可拆机箱，要换硬盘，只能先把屏幕拿掉，这个吸盘这是用来拿掉最上面的玻璃面板。本来最担心这一步，怕一不小心用力过度把那么大一块玻璃弄碎了，谁知拿下时非常容易，玻璃后面四周有一圈金属圈，用来吸附到iMac里的磁铁上。这个吸盘貌似还可以吸汽车撞痕。
 
-![](https://lh4.googleusercontent.com/-yropBLTEBaM/TrTuEAoXSwI/AAAAAAABh4U/-d5H0UYH6fY/s640/IMG_3316.jpg)
+   ![](https://lh4.googleusercontent.com/-yropBLTEBaM/TrTuEAoXSwI/AAAAAAABh4U/-d5H0UYH6fY/s640/IMG_3316.jpg)
 
-拿掉玻璃面板之后：
+   拿掉玻璃面板之后：
 
-![](https://lh4.googleusercontent.com/-yw6eYJ6rLfQ/TrTuEBTrfWI/AAAAAAABh4I/Rx9m2_W0wyo/s640/IMG_3318.jpg)
+   ![](https://lh4.googleusercontent.com/-yw6eYJ6rLfQ/TrTuEBTrfWI/AAAAAAABh4I/Rx9m2_W0wyo/s640/IMG_3318.jpg)
 
 4. 螺丝刀，需要T8和T10两种。恰好上次用0.99刀收过一副小螺丝刀，刚好能用上。
 
