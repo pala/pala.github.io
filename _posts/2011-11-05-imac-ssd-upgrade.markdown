@@ -39,7 +39,11 @@ categories:
 
 6. 一小段导线。
 
-因为原来的HDD会连着一段风扇用的导线，不过SSD没有发热问题所以不需要风扇，也就没有这段导线的接口，但如果这段导线放那什么都不连的话则会导致风扇狂转（不知道它是不是以为硬盘温度高的读不出来）。[MacRumors](http://forums.macrumors.com/showthread.php?t=808178)上面有人发现只要用一小段导线把它绝缘便可以解决这个问题。我用了一段订书钉，最后发现无效，不知道是不是不导电，最后还是得用软件解决。有人推荐用[HDD Fan Control](http://www.hddfancontrol.com/)，试用了一下果然效果很好，马上转速由5000多恢复正常，不过这个小软件售价29.95刀。还有人推荐smcFanControl，我这里根本不工作。最后还是在上面那个MacRumors的主题下有人分享了自己写的一个免费小程序，叫[SSD Fan Control](http://exirion.net/ssdfanctrl/Site/SSD_Fan_Control.html)，果然很好用，超级感激那位网友。
+因为原来的HDD会连着一段风扇用的导线，不过SSD没有发热问题所以不需要风扇，也就没有这段导线的接口，但如果这段导线放那什么都不连的话则会导致风扇狂转（不知道它是不是以为硬盘温度高的读不出来）。[MacRumors](http://forums.macrumors.com/showthread.php?t=808178)上面有人发现只要用一小段导线把它绝缘便可以解决这个问题。我用了一段订书钉，最后发现无效，不知道是不是不导电，最后还是得用软件解决。有人推荐用[HDD Fan Control](http://www.hddfancontrol.com/)，试用了一下果然效果很好，马上转速由5000多恢复正常，不过这个小软件售价29.95刀。还有人推荐smcFanControl，<del>我这里根本不工作</del>，安装后用Automator将以下命令生成一个小app，然后设置成开机运行：
+
+>/Applications/smcFanControl.app/Contents/Resources/smc -k F1Mx -w 0000
+
+最后在上面那个MacRumors的主题下有人分享了自己写的一个免费小程序，叫[SSD Fan Control](http://exirion.net/ssdfanctrl/Site/SSD_Fan_Control.html)，果然很好用，超级感激那位网友。
 
 现在电脑一切工作正常，附一下SSD读写速度测试：
 
