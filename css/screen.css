@@ -34,7 +34,7 @@ body > footer {
 -------------------------------------------------------------- */
 
 body {
-    background-color: #eeeeee;
+    background-color: #FFFFFF;
     color: #333;
     font: 14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;
     margin: 20px;
@@ -145,14 +145,14 @@ body > header > nav > a {
 -------------------------------------------------------------- */
 
 #page {
-    width: 714px;
+    width: 604px;
     backgournd-color: white;
 }
 
 .post {
     margin-bottom: 50px;
 }
-
+/*
 .post .post-panel {
 	background: white;
 	-webkit-box-shadow: 0 1px 2px 1px #ccc;
@@ -164,6 +164,7 @@ body > header > nav > a {
 	-webkit-border-radius: 5px;
 	border-radius: 5px; /* future proofing */
 }
+*/
 
 .post .post-meta {
 	padding: 10px 0 20px 0;
@@ -172,7 +173,7 @@ body > header > nav > a {
 }
 
 .post .post-content {
-	padding-top: 30px; margin: 0 30px; clear: both; word-wrap: break-word;
+	padding-top: 30px; clear: both; word-wrap: break-word;
 }
 
 .post-meta .share {
@@ -204,7 +205,6 @@ article > footer > p, article > footer > span {
 
 img {
         display: block;
-        margin: 10px auto;
         border: 1px solid #e0e0e0;
 	padding: 4px;
 	max-width: 100%;
