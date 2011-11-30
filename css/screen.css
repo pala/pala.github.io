@@ -201,15 +201,6 @@ article > footer > p, article > footer > span {
    font-size: 13px;
 }
 
-/* Image borders */
-
-img {
-        display: block;
-        border: 1px solid #e0e0e0;
-	padding: 4px;
-	max-width: 100%;
-}
-
 
 ul.post-list {
     font-size: 16px;
