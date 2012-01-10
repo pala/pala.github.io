@@ -78,8 +78,8 @@
         <div class="container">
           <a class="brand" href="/">pala的网络日志</a>
           <ul class="nav">
-            <li class="active"><a href="/">Home</a></li>
-            <li><a href="/archive/">Archive</a></li>
+            <li {% if page.permalink == "/" %} class="active" {% endif %}><a href="/">Home</a></li>
+            <li {% if page.permalink == "/archive/" %} class="active" {% endif %}><a href="/archive/">Archive</a></li>
           </ul>
         </div>
       </div>
