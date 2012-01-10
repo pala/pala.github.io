@@ -28,7 +28,7 @@ categories:
 再接着沉寂了一段时间，买了一辆100块的二手凤凰。骑了很久，后来又是毛病百出，现在可能还在三教东面锁着呢。
 
 <!--more-->
-<p style="text-align:center;"><a href="http://ztpala.com/wp-content/uploads/2007/10/pic_0046.jpg"><img class="aligncenter size-medium wp-image-3686" title="浙西" src="http://ztpala.com/wp-content/uploads/2007/10/pic_0046.jpg?w=500" alt="" width="500" height="375" /></a></p>
+<p style="text-align:center;"><a href="http://pic.ztpala.com/wp-content/uploads/2007/10/pic_0046.jpg"><img class="aligncenter size-medium wp-image-3686" title="浙西" src="http://ztpala.com/wp-content/uploads/2007/10/pic_0046.jpg?w=500" alt="" width="500" height="375" /></a></p>
 2005年夏天，在车版潜水一段时间后决定买辆好一点的，结果计划的speed-x最后一路飚升到Windmark-1，从这辆车开始，我算真正变成了车协的一员。刚开始自己骑了湖州，杭州，后来第一次参加了车协活动<a href="http://ztpala.com/2005/09/cycling-xitang-fca/" target="_self">西塘</a>，一个月后自己不经意间组织了一次十一长途骑行：<a href="http://ztpala.com/2005/10/moganshan1/">莫干山安吉之行</a>。从那时开始慢慢变成了车协里的比较活跃的会员。 06年五一十一和6x一起组织的两次活动：<a href="http://azaleasays.com/blog/item/639d9a515ab4ab8e8c5430b7.html">浙西大峡谷</a>，<a href="http://ztpala.com/2006/11/zhenan/">浙南行</a>，在这两次活动中，认识了许许多多的好朋友还有我lp，与他们一起出行的日子，留下了太多美好的回忆。期间还参加了南汇，崇明，西塘等比较短的骑行。
 
 07年开始到现在参加的活动都不是很多，五一十一都没有参加和组织长途骑行，只有几次小活动：<a href="http://azaleasays.com/blog/item/27667f9005813a8ca977a488.html" target="_blank">崇明</a>，<a href="http://ztpala.com/2007/05/data-about-hangzhou/" target="_self">杭州</a>，<a href="http://ztpala.com/2007/05/luchaogang/" target="_blank">芦潮港</a>，<a href="http://ztpala.com/2007/07/longwangshan_pala/" target="_blank">龙王山</a>。四月份我们有了第二辆车，challenger。 现在，lp和她那辆小红已经远在大洋彼岸。希望这两辆车能早日再见吧：）

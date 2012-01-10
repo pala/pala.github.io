@@ -15,24 +15,24 @@ https://services.google.com/fb/forms/cr48basic/?referrer=qr
 
 由于完全没预期，莫名其妙地拆箱时突然看到这幅图还吓了一跳，心想不会是包裹炸弹吧
 
-<a href="http://ztpala.com/wp-content/uploads/2010/12/IMG_0781.jpg"><img class="aligncenter size-medium wp-image-4525" title="IMG_0781" src="http://ztpala.com/wp-content/uploads/2010/12/IMG_0781-400x300.jpg" alt="" width="400" height="300" /></a>
+<a href="http://pic.ztpala.com/wp-content/uploads/2010/12/IMG_0781.jpg"><img class="aligncenter size-medium wp-image-4525" title="IMG_0781" src="http://ztpala.com/wp-content/uploads/2010/12/IMG_0781-400x300.jpg" alt="" width="400" height="300" /></a>
 <p style="text-align:center;">然后看到正面的这个图案才明白怎么回事。</p>
-<a href="http://ztpala.com/wp-content/uploads/2010/12/IMG_0029.jpg"><img class="aligncenter size-medium wp-image-4519" title="IMG_0029" src="http://ztpala.com/wp-content/uploads/2010/12/IMG_0029-400x300.jpg" alt="" width="400" height="300" /></a>
+<a href="http://pic.ztpala.com/wp-content/uploads/2010/12/IMG_0029.jpg"><img class="aligncenter size-medium wp-image-4519" title="IMG_0029" src="http://ztpala.com/wp-content/uploads/2010/12/IMG_0029-400x300.jpg" alt="" width="400" height="300" /></a>
 <p style="text-align:center;">两边固定的东东真像鸡蛋盒子</p>
-<a href="http://ztpala.com/wp-content/uploads/2010/12/IMG_0031.jpg"><img class="aligncenter size-medium wp-image-4520" title="IMG_0031" src="http://ztpala.com/wp-content/uploads/2010/12/IMG_0031-400x300.jpg" alt="" width="400" height="300" /></a>
+<a href="http://pic.ztpala.com/wp-content/uploads/2010/12/IMG_0031.jpg"><img class="aligncenter size-medium wp-image-4520" title="IMG_0031" src="http://ztpala.com/wp-content/uploads/2010/12/IMG_0031-400x300.jpg" alt="" width="400" height="300" /></a>
 <p style="text-align:center;">Google是鼓励用户hacking和改装的，顺便做广告</p>
-<img class="aligncenter size-medium wp-image-4521" title="IMG_0032" src="http://ztpala.com/wp-content/uploads/2010/12/IMG_0032-400x300.jpg" alt="" width="400" height="300" />
+<img class="aligncenter size-medium wp-image-4521" title="IMG_0032" src="http://pic.ztpala.com/wp-content/uploads/2010/12/IMG_0032-400x300.jpg" alt="" width="400" height="300" />
 <p style="text-align:center;">右侧那个是一张硬纸片，上面写着些环保及安全性相关的条目，有趣的是最开始的声明：</p>
 
 <blockquote style="text-align:center;">Don't Panic.
 Read this paper. Then recycle it. Or make it into a paper airplane that you can give to your nephew.</blockquote>
 <p style="text-align:center;">中间的东西是电池，相当薄，似乎也很强劲，Google说可以用8小时。
 囧的是我把它装到电脑上时竟然自动开机了，说自己开机快也不能把按开机键都省了吧。
-<img class="aligncenter size-medium wp-image-4522" title="IMG_0033" src="http://ztpala.com/wp-content/uploads/2010/12/IMG_0033-400x300.jpg" alt="" width="400" height="300" /></p>
+<img class="aligncenter size-medium wp-image-4522" title="IMG_0033" src="http://pic.ztpala.com/wp-content/uploads/2010/12/IMG_0033-400x300.jpg" alt="" width="400" height="300" /></p>
 <p style="text-align:center;">整体看，拍的颜色很差，不过实际比这好很多，尤其是外壳手感，非常好非常好。</p>
-<p style="text-align:center;"><img class="aligncenter size-medium wp-image-4523" title="IMG_0035" src="http://ztpala.com/wp-content/uploads/2010/12/IMG_0035-300x400.jpg" alt="" width="300" height="400" /></p>
+<p style="text-align:center;"><img class="aligncenter size-medium wp-image-4523" title="IMG_0035" src="http://pic.ztpala.com/wp-content/uploads/2010/12/IMG_0035-300x400.jpg" alt="" width="300" height="400" /></p>
 <p style="text-align:center;">登陆时用Gmail帐号</p>
-<img class="aligncenter size-medium wp-image-4524" title="IMG_0780" src="http://ztpala.com/wp-content/uploads/2010/12/IMG_0780-400x300.jpg" alt="" width="400" height="300" />
+<img class="aligncenter size-medium wp-image-4524" title="IMG_0780" src="http://pic.ztpala.com/wp-content/uploads/2010/12/IMG_0780-400x300.jpg" alt="" width="400" height="300" />
 
 使用感受：
 1. 没有caps lock键，取而代之的是一个搜索键，行为是打开一个新tab。当然你可以用shift来大写。

@@ -21,7 +21,7 @@ categories:
 
 4. 可以订阅某人的'like','comment'
 
-新版本的FF让一切都归于可订阅的feed这个概念. 包括某个用户的'like'.<img class="aligncenter size-full wp-image-2056" title="picture-2" src="http://ztpala.com/wp-content/uploads/2009/04/picture-2.png" alt="picture-2" width="489" height="73" />
+新版本的FF让一切都归于可订阅的feed这个概念. 包括某个用户的'like'.<img class="aligncenter size-full wp-image-2056" title="picture-2" src="http://pic.ztpala.com/wp-content/uploads/2009/04/picture-2.png" alt="picture-2" width="489" height="73" />
 
 现在我可以订阅和我兴趣相近或者自己比较关注的用户的like, 统一将他们放入一个List, 这样便可以很方便的看到自己关注的朋友们最近都在喜欢什么.
 

@@ -14,7 +14,7 @@ categories:
 
 海拔变化：+-570m
 
-<a href="http://picasaweb.google.co.uk/lh/photo/2TjXC9BUj-yiwIySFewydw?feat=directlink"><img class="aligncenter size-full wp-image-4023" title="Boalsburg Linden Hall" src="http://ztpala.com/wp-content/uploads/2010/10/Boalsburg-Linden-Hall.jpg" alt="" width="400" height="220" /></a>
-<a href="http://picasaweb.google.com/lh/photo/HSW3Wfhir0SwRTzpa5EDpU74Yf1KZ4SsFT3YPceQGZs?feat=directlink"><img class="aligncenter size-full wp-image-4025" title="IMG_0242" src="http://ztpala.com/wp-content/uploads/2010/10/IMG_0242.jpg" alt="" width="400" height="294" /></a>
-<a href="http://picasaweb.google.com/lh/photo/oBilbLvxVoAqVk8pUubXFE74Yf1KZ4SsFT3YPceQGZs?feat=directlink"><img class="aligncenter size-full wp-image-4024" title="IMG_0239" src="http://ztpala.com/wp-content/uploads/2010/10/IMG_0239.jpg" alt="" width="400" height="294" /></a>
+<a href="http://picasaweb.google.co.uk/lh/photo/2TjXC9BUj-yiwIySFewydw?feat=directlink"><img class="aligncenter size-full wp-image-4023" title="Boalsburg Linden Hall" src="http://pic.ztpala.com/wp-content/uploads/2010/10/Boalsburg-Linden-Hall.jpg" alt="" width="400" height="220" /></a>
+<a href="http://picasaweb.google.com/lh/photo/HSW3Wfhir0SwRTzpa5EDpU74Yf1KZ4SsFT3YPceQGZs?feat=directlink"><img class="aligncenter size-full wp-image-4025" title="IMG_0242" src="http://pic.ztpala.com/wp-content/uploads/2010/10/IMG_0242.jpg" alt="" width="400" height="294" /></a>
+<a href="http://picasaweb.google.com/lh/photo/oBilbLvxVoAqVk8pUubXFE74Yf1KZ4SsFT3YPceQGZs?feat=directlink"><img class="aligncenter size-full wp-image-4024" title="IMG_0239" src="http://pic.ztpala.com/wp-content/uploads/2010/10/IMG_0239.jpg" alt="" width="400" height="294" /></a>
 <p style="text-align:center;">（上面的图片用Picasa中内置的Picnik来编辑，挺好玩）</p>

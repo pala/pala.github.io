@@ -16,15 +16,15 @@ categories:
 
 <!--more-->
 
-<img class="aligncenter size-full wp-image-1192" title="blogroll" src="http://ztpala.com/wp-content/uploads/2008/11/blogroll.png" alt="blogroll" width="402" height="171" />
+<img class="aligncenter size-full wp-image-1192" title="blogroll" src="http://pic.ztpala.com/wp-content/uploads/2008/11/blogroll.png" alt="blogroll" width="402" height="171" />
 
 3.点击"向网站添加博客链接列表"
 
-<img class="aligncenter size-full wp-image-1193" title="add" src="http://ztpala.com/wp-content/uploads/2008/11/add.png" alt="add" width="270" height="35" />
+<img class="aligncenter size-full wp-image-1193" title="add" src="http://pic.ztpala.com/wp-content/uploads/2008/11/add.png" alt="add" width="270" height="35" />
 
 4.然后在下面的弹出网页中定制你的友情链接
 
-<img class="aligncenter size-full wp-image-1194" title="readerpop" src="http://ztpala.com/wp-content/uploads/2008/11/readerpop.png" alt="readerpop" width="418" height="391" />
+<img class="aligncenter size-full wp-image-1194" title="readerpop" src="http://pic.ztpala.com/wp-content/uploads/2008/11/readerpop.png" alt="readerpop" width="418" height="391" />
 
 如果想添加链接,只要在你的google reader中订阅新的blog并添加相关tag就可以了,相反删除链接的话只要移除那个tag.所有操作均无需修改blog
 

@@ -35,7 +35,7 @@ Hotmail: 2M免费容量, 升级到100M的话每年49.95刀.
 <h3>历史剪影</h3>
 <h3>[gallery link="file"]</h3>
 <h3>未来</h3>
-当Gmail还在摇篮里的时候, 就连Google那些天才程序员们也看不到它耀眼的未来. 每一个Gmail的用户都应该感谢Paul Buchheit当初的坚持与自信. 虽然他现在已经开始了新的职业生涯, 创造了另一个热门的web2.0网站FriendFeed, 但幸运的是Gmail仍在给用户带来一个又一个惊喜. 当然, 这里面也离不开很多挑剔用户的热心反馈, 如果你也对Gmail有更多建议的话, 欢迎参考<a href="http://ztpala.com/wp-content/uploads/2009/01/gmail21.jpg2009/01/suggest-a-feature-for-gmail/">这篇文章</a>.
+当Gmail还在摇篮里的时候, 就连Google那些天才程序员们也看不到它耀眼的未来. 每一个Gmail的用户都应该感谢Paul Buchheit当初的坚持与自信. 虽然他现在已经开始了新的职业生涯, 创造了另一个热门的web2.0网站FriendFeed, 但幸运的是Gmail仍在给用户带来一个又一个惊喜. 当然, 这里面也离不开很多挑剔用户的热心反馈, 如果你也对Gmail有更多建议的话, 欢迎参考<a href="http://pic.ztpala.com/wp-content/uploads/2009/01/gmail21.jpg2009/01/suggest-a-feature-for-gmail/">这篇文章</a>.
 
 声明:
 

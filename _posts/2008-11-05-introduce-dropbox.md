@@ -10,7 +10,7 @@ categories:
 (注，上述地址为我的推介地址，可以为你的帐号和我的帐号各增加250M空间)
 
 <!--more-->
-<a href="https://www.getdropbox.com" target="_blank"><img class="alignleft size-full wp-image-980" title="dropbox" src="http://ztpala.com/wp-content/uploads/2008/11/dropbox.gif" alt="dropbox" width="167" height="50" /></a>
+<a href="https://www.getdropbox.com" target="_blank"><img class="alignleft size-full wp-image-980" title="dropbox" src="http://pic.ztpala.com/wp-content/uploads/2008/11/dropbox.gif" alt="dropbox" width="167" height="50" /></a>
 
 如果你没有2G大的U盘或者很厌烦在各个电脑之间拷贝文件,那么Dropbox正适合你.
 

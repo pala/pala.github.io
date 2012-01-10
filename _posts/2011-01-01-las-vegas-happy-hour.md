@@ -14,7 +14,7 @@ categories:
 
 我们住的赌场是New York New York，据说是唯一没有buffet的赌场。其最吸引人的项目则是环绕赌场外面的过山车。如下图所示，外部还可以看到自由女神像，纽约的著名建筑如帝国大厦等，另外还有布鲁克林桥。
 
-<a href="http://ztpala.com/wp-content/uploads/2011/01/IMG_1117.jpg"><img class="aligncenter size-medium wp-image-4551" title="IMG_1117" src="http://ztpala.com/wp-content/uploads/2011/01/IMG_1117-400x300.jpg" alt="" width="400" height="300" /></a>
+<a href="http://pic.ztpala.com/wp-content/uploads/2011/01/IMG_1117.jpg"><img class="aligncenter size-medium wp-image-4551" title="IMG_1117" src="http://ztpala.com/wp-content/uploads/2011/01/IMG_1117-400x300.jpg" alt="" width="400" height="300" /></a>
 
 和azalea说下次再去拉斯维加斯的话，要选择Bellagio，它最吸引人的地方则是门口的超大喷泉及林荫道，另外还有传说中Vegas最好的buffet。这个喷泉从下午开始，定时表演。配以不同的音乐，非常美妙。个人最喜欢下面这首：
 
@@ -24,23 +24,23 @@ categories:
 
 去拉斯维加斯之前在电视上见到过的最多的赌场非Paris莫属，门口逼真的埃菲尔铁塔和凯旋门让你有恍惚到了巴黎的感觉：
 
-<a href="http://ztpala.com/wp-content/uploads/2011/01/IMG_1104.jpg"><img class="aligncenter size-medium wp-image-4553" title="IMG_1104" src="http://ztpala.com/wp-content/uploads/2011/01/IMG_1104-300x400.jpg" alt="" width="300" height="400" /></a>
+<a href="http://pic.ztpala.com/wp-content/uploads/2011/01/IMG_1104.jpg"><img class="aligncenter size-medium wp-image-4553" title="IMG_1104" src="http://ztpala.com/wp-content/uploads/2011/01/IMG_1104-300x400.jpg" alt="" width="300" height="400" /></a>
 
 2.吃
 
 吃的主题当然是buffet，虽然我们第一天在找Bellagio的时候误入了另外一家buffet，但这家意外的成了我认为的品质最高的buffet，食物种类很多，每种都做的很精良（推荐牛排及烤羊腿，如图：），服务也是相当的赞。强烈推荐一下，它就是位于The Cosmopolitan的<a href="http://foursquare.com/venue/8258907" target="_blank">Wicked Spoon Buffet</a>。
 
-<a href="http://ztpala.com/wp-content/uploads/2011/01/IMG_0830.jpg"><img class="aligncenter size-medium wp-image-4556" title="IMG_0830" src="http://ztpala.com/wp-content/uploads/2011/01/IMG_0830-300x400.jpg" alt="" width="300" height="400" /></a>
+<a href="http://pic.ztpala.com/wp-content/uploads/2011/01/IMG_0830.jpg"><img class="aligncenter size-medium wp-image-4556" title="IMG_0830" src="http://ztpala.com/wp-content/uploads/2011/01/IMG_0830-300x400.jpg" alt="" width="300" height="400" /></a>
 
 第二推荐的则是一家日本菜buffet，位于Planet Hollywood，叫做<a href="http://foursquare.com/venue/553932" target="_blank">Todai</a>。特点总结出来就是，看着好吃的东西绝对好吃，看着不好吃的东西也不难吃。不像有些buffet里有看着很古怪的东西，吃起来则难以下咽。
 
-<a href="http://ztpala.com/wp-content/uploads/2011/01/IMG_1315.jpg"><img class="aligncenter size-medium wp-image-4557" title="IMG_1315" src="http://ztpala.com/wp-content/uploads/2011/01/IMG_1315-300x400.jpg" alt="" width="300" height="400" /></a>
+<a href="http://pic.ztpala.com/wp-content/uploads/2011/01/IMG_1315.jpg"><img class="aligncenter size-medium wp-image-4557" title="IMG_1315" src="http://ztpala.com/wp-content/uploads/2011/01/IMG_1315-300x400.jpg" alt="" width="300" height="400" /></a>
 
 除了buffet，则推荐ChinaTown里的过桥米线馆，服务算是恶劣，但东西绝对一顶一的好吃，尤其是只要4.5一盘的自选小菜，很美味。
 
 至于小吃呢，第一推荐New York New York里的Pretzel，如下图所示，尤其是其中的jalapeno味，非常赞。
 
-<a href="http://ztpala.com/wp-content/uploads/2011/01/IMG_1205.jpg"><img class="aligncenter size-medium wp-image-4554" title="IMG_1205" src="http://ztpala.com/wp-content/uploads/2011/01/IMG_1205-300x400.jpg" alt="" width="300" height="400" /></a>
+<a href="http://pic.ztpala.com/wp-content/uploads/2011/01/IMG_1205.jpg"><img class="aligncenter size-medium wp-image-4554" title="IMG_1205" src="http://ztpala.com/wp-content/uploads/2011/01/IMG_1205-300x400.jpg" alt="" width="300" height="400" /></a>
 
 另外一个小吃则是Planet Hollywood外的Pink's Hotdog。
 
@@ -64,7 +64,7 @@ categories:
 
 拉斯维加斯实在太多好玩的了，过山车，蜡像馆，动物园，海豚表演，甚至参观赌场，比如威尼斯人里的室内威尼斯，完全在室内打造了一个神似的“室外水城”：
 
-<a href="http://ztpala.com/wp-content/uploads/2011/01/IMG_1360.jpg"><img class="aligncenter size-medium wp-image-4555" title="IMG_1360" src="http://ztpala.com/wp-content/uploads/2011/01/IMG_1360-300x400.jpg" alt="" width="300" height="400" /></a>
+<a href="http://pic.ztpala.com/wp-content/uploads/2011/01/IMG_1360.jpg"><img class="aligncenter size-medium wp-image-4555" title="IMG_1360" src="http://ztpala.com/wp-content/uploads/2011/01/IMG_1360-300x400.jpg" alt="" width="300" height="400" /></a>
 
 如果有空余时间，还可以坐直升机去附近的大峡谷。另外还有胡福水坝，还有传说中的好莱坞。
 

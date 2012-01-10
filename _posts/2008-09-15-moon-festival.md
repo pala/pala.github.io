@@ -7,7 +7,7 @@ tags:
 categories:
     - 网志
 ---
-能想起来具体怎么过的只能追述到06年. 那年中秋,是我们<a href="http://ztpala.com/wp-content/uploads/2008/09/moon.jpg2006/11/zhenan/">浙南之行</a>的最后一天. 那天晚上我和azalea, 小胖, yixin在缙云的一间火锅店里吃了顿非常爽的火锅自助,结束了波澜起伏的六天骑行.晚上乘火车返回了上海.
+能想起来具体怎么过的只能追述到06年. 那年中秋,是我们<a href="http://pic.ztpala.com/wp-content/uploads/2008/09/moon.jpg2006/11/zhenan/">浙南之行</a>的最后一天. 那天晚上我和azalea, 小胖, yixin在缙云的一间火锅店里吃了顿非常爽的火锅自助,结束了波澜起伏的六天骑行.晚上乘火车返回了上海.
 
 去年中秋那天正好上海有事,一早我从家里坐车去上海,又没能在家过成中秋.
 

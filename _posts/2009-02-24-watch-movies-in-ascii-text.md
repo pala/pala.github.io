@@ -21,4 +21,4 @@ categories:
 
 从下面这幅图你能看出来我在看哪部片吗?
 
-<img class="aligncenter size-full wp-image-1866" title="movie" src="http://ztpala.com/wp-content/uploads/2009/02/movie.jpg" alt="movie" width="500" height="346" />(<a href="http://www.howtogeek.com/howto/linux/stupid-geek-tricks-watch-movies-in-your-linux-terminal-window/" target="_blank">via</a>)
+<img class="aligncenter size-full wp-image-1866" title="movie" src="http://pic.ztpala.com/wp-content/uploads/2009/02/movie.jpg" alt="movie" width="500" height="346" />(<a href="http://www.howtogeek.com/howto/linux/stupid-geek-tricks-watch-movies-in-your-linux-terminal-window/" target="_blank">via</a>)

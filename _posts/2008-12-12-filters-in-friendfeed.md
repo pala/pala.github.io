@@ -13,7 +13,7 @@ categories:
 
 首先. 你在订阅朋友A时, FF会让你选择把A放入哪个列表, 可以多选. 默认是订阅源首页, 但用户可以选择不放入首页. 这点是和Google Reader一个很大的不同, <strong>FF没有一个页面可以查看所有的订阅</strong>(除非用户把每个好友都放入到首页, 这个习惯非常不好), 当然, 它也不会显示未读条目数. 如此一来, 只要你能根据自己习惯, 建立一些特定的列表并把好友进行归纳, 你可以很容易的完成第一步的信息过滤. 因为你不必像在Reader里那样强迫症似的看着All Iterms里的未读条目无奈的标记已读. FF里的信息你是看不完的, 所以这一步就是先把你的好友分个ABC类(比如下图), 并且把你最关心的人放入到首页. 在'朋友'页面里可以很方便的进行此操作:
 
-<img class="aligncenter size-full wp-image-1547" title="picture-11" src="http://ztpala.com/wp-content/uploads/2008/12/picture-11.png" alt="picture-11" width="336" height="136" />
+<img class="aligncenter size-full wp-image-1547" title="picture-11" src="http://pic.ztpala.com/wp-content/uploads/2008/12/picture-11.png" alt="picture-11" width="336" height="136" />
 
 第二种工具:隐藏, 基于服务的过滤
 
@@ -21,7 +21,7 @@ categories:
 
 比如, 我一点都不关心别人在Wakoopa(关于某人使用了什么软件)的更新, 我可以点击Wakoopa条目下的隐藏, 并且点击隐藏类似条目, 出现如下对话框:
 
-<img class="aligncenter size-full wp-image-1549" title="picture-21" src="http://ztpala.com/wp-content/uploads/2008/12/picture-21.png" alt="picture-21" width="282" height="173" />
+<img class="aligncenter size-full wp-image-1549" title="picture-21" src="http://pic.ztpala.com/wp-content/uploads/2008/12/picture-21.png" alt="picture-21" width="282" height="173" />
 
 这些选择非常人性化, 因为它可以不隐藏有人喜欢或评论的项. 这样你就不会错过可能的有价值信息.
 
@@ -29,7 +29,7 @@ categories:
 
 FriendFeed还会默认显示你好友的好友的更新(如果你好友对这条更新有评论或者喜欢的话). 隐藏此类条目和上面有不同的对话框:
 
-<img class="aligncenter size-full wp-image-1550" title="picture-3" src="http://ztpala.com/wp-content/uploads/2008/12/picture-3.png" alt="picture-3" width="282" height="132" />
+<img class="aligncenter size-full wp-image-1550" title="picture-3" src="http://pic.ztpala.com/wp-content/uploads/2008/12/picture-3.png" alt="picture-3" width="282" height="132" />
 
 cch是我的好友, najia是他好友. 默认情况下所有cch喜欢或者评论过的najia的条目也会出现在我的列表里. 这里FF提供了上述5种隐藏方式, 用户可以根据个人喜好进行选择.
 

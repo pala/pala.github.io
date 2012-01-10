@@ -10,7 +10,7 @@ categories:
 ---
 <!--more-->
 
-<a href="http://ztpala.com/wp-content/uploads/2008/11/snow.jpg"><img class="aligncenter size-full wp-image-1468" title="snow" src="http://ztpala.com/wp-content/uploads/2008/11/snow.jpg" alt="snow" width="640" height="480" /></a>
+<a href="http://pic.ztpala.com/wp-content/uploads/2008/11/snow.jpg"><img class="aligncenter size-full wp-image-1468" title="snow" src="http://ztpala.com/wp-content/uploads/2008/11/snow.jpg" alt="snow" width="640" height="480" /></a>
 
 五点钟开车去图书馆,一路小心翼翼,到Park Ave转Allen的时候,刹车稍重,车开始失去控制侧滑,猛打方向盘,在一阵优美的舞蹈之后,滑到了路边,车头对着Allen迎面车道等红灯的车停了下来.然后倒车,缓缓的开回自己的道.估计等红灯的司机都吓死了.
 

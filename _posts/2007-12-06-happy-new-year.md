@@ -21,6 +21,6 @@ PS:
 
 视频分享网站YouTube推出<a href="http://www.youtube.com/greeting_browser" target="_blank">视频贺卡</a>
 
-<img src="http://www.ztpala.com/wp-content/uploads/2007/12/youtubecard.jpg" alt="" />
+<img src="http://www.pic.ztpala.com/wp-content/uploads/2007/12/youtubecard.jpg" alt="" />
 
 自己上传或者选择任意YouTube上的视频，再搭配网站提供的贺卡模板，然后在写上自己祝福的话，一份特别的贺卡就制作完成了。足够彪悍的话可以对着摄像头自己录首MTV群发给自己的朋友。
