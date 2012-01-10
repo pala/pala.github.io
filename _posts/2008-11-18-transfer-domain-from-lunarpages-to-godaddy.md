@@ -1,11 +1,12 @@
---- 
-categories: WordPressBackup
-date: 2008-11-18 16:48:58 -05:00
-layout: post
-title: 将域名从Lunarpages转移到GoDaddy
 ---
-在lunarpages买的域名,无论是买空间送的还是单买的,管理起来都不是很方便.比如,如果你想给域名添加一个CNAME项,还必须给客服写邮件让他们帮你修改,相当麻烦.所以昨天我将此网站的域名从Lunarpages转移到了GoDaddy.这里写一下转移的过程.
-
+date: 2008-11-18 16:48:58
+title: 将域名从Lunarpages转移到GoDaddy
+layout: post
+tags:
+    - blog
+categories:
+    - 电脑
+---
 <!--more-->
 
 1.费用

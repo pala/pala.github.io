@@ -1,11 +1,13 @@
---- 
-categories: WordPressBackup
-date: 2009-02-26 04:49:57 -05:00
-layout: post
-title: "Internet Addiction"
 ---
-不烧不专业 -某杀手
-
+date: 2009-02-26 04:49:57
+title: Internet Addiction
+layout: post
+tags:
+    - Google
+    - 趣事
+categories:
+    - 电脑
+---
 <!--more-->
 
 看书时想找某一段文字就会在心里画一搜索框出来

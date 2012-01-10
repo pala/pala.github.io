@@ -1,11 +1,14 @@
---- 
-categories: WordPressBackup
-date: 2008-01-24 03:01:00 -05:00
-layout: post
-title: 十年mozilla
 ---
-<a href="http://www.mozilla.com/en-US/" target="_blank">Mozilla</a>刚刚走过了它的<a href="http://mozillalinks.org/wp/2008/01/ten-years-of-mozilla/" target="_blank">十年历程</a>。Firefox的下载量也达到了<a href="http://www.spreadfirefox.com/" target="_blank">483621661</a>。虽然它的市场份额与IE相比还有一定的差距，不过它却已经成为很多人的浏览器首选，包括我。
-
+date: 2008-01-24 03:01:00
+title: 十年mozilla
+layout: post
+tags:
+    - blog
+    - iPhone
+    - WordPress
+categories:
+    - 电脑
+---
 想想自己接触网络到现在也有七年时间了（可能比很多人都要短）：
 
 2001年春节，第一次接触到了互联网，和很多人一样，通过QQ有了对网络的第一印象，至今还记得当时那种兴奋劲。当然，地点是火爆的网吧。第一个 号码还记得：53988**，不过密码丢失了，现在似乎还没人使用。网址都是从同学那里抄到一个小本子上。第一次面对这些”奇怪”的地址时，还向同学询问 怎么用，被告知去点一个“e”….另外还申请了第一个电子邮箱。那时的互联网（或者说电脑）对我来说就是两个软件：QQ，IE。

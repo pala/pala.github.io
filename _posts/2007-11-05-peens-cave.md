@@ -1,11 +1,13 @@
---- 
-categories: WordPressBackup
-date: 2007-11-05 10:13:45 -05:00
-layout: post
-title: "Penns Cave之行"
 ---
-今天和azalea骑车去了Penns Cave,总路程68km.
-
+date: 2007-11-05 10:13:45
+title: Penns Cave之行
+layout: post
+tags:
+    - 山洞
+categories:
+    - 相册
+    - 自行车
+---
 <img alt="" src="https://lh6.googleusercontent.com/-pPJVVRXeV1I/Ry5z_Abn9HI/AAAAAAABbCg/R6E9ONeK00k/s640/IMG_0971.JPG" title="PennsCave" class="aligncenter" width="640" height="480" />
 
 闹钟定在8:50, 结果今天夏令时结束, 原本的9:50变成了8:50, 结果莫名其妙的多睡了一个钟头.早上起来发现手表时间比手机快了一个小时,当时还纳闷,最后才明白过来,这样出发时间也比预计的晚了一个小时.

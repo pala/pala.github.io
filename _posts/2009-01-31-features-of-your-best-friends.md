@@ -1,11 +1,12 @@
---- 
-categories: WordPressBackup
-date: 2009-01-31 18:20:39 -05:00
-layout: post
-title: 最好的朋友
 ---
-仅针对<strong>最好</strong>的朋友, 他/她和你符合下面的哪些:
-
+date: 2009-01-31 18:20:39
+title: 最好的朋友
+layout: post
+tags:
+    - 朋友
+categories:
+    - 网志
+---
 <!--more-->
 
 1. 有很多共同爱好和共同语言

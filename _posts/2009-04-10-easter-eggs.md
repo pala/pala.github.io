@@ -1,11 +1,12 @@
---- 
-categories: WordPressBackup
-date: 2009-04-10 14:48:01 -04:00
-layout: post
-title: 复活节彩蛋
 ---
-后天就复活节了，在这里分享几个彩蛋
-<!--more-->
+date: 2009-04-10 14:48:01
+title: 复活节彩蛋
+layout: post
+tags:
+    - 趣事
+categories:
+    - 网志
+---
 <h3>星际大战</h3>
 1. 打开OpenOffice里的spreadsheet程序
 2. 在任意单元格里输入: =game()

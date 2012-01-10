@@ -1,11 +1,12 @@
---- 
-categories: WordPressBackup
-date: 2009-09-05 22:44:57 -04:00
-layout: post
-title: 小事情
 ---
-<div style="line-height:17px;">本来发到其他地方的，听某人建议转到这里来了-,-</div>
-<div style="line-height:17px;">这次尼亚加拉大瀑布之行有一件小事还是让我注意了一下。<br style="line-height:17px;" /><br style="line-height:17px;" />事先不知道，公园的通票里包含了两件雨衣和一双挺好的防滑凉鞋。而公园在一些地方放着回收凉鞋的箱子。当然，凉鞋的成本是已经包含在了门票里，所以你可以把它带回家。可能再也不会穿，可能随手就扔了。而这个回收上写着，这些凉鞋将会捐给那些贫穷的可能没有钱去买一双凉鞋的人们。<br style="line-height:17px;" /><br style="line-height:17px;" />自然，我们无法验证这些鞋到底最后流向了哪里，不过我相信这种宣传的导向还是好的，尤其是被很多孩子看到。<br style="line-height:17px;" /><br style="line-height:17px;" />一个健康的社会，能在最不起眼处给予最需要帮助的人以关注。比方说足够的残疾人停车位，专用走道，专用洗手间；开车时主动避让行人等等。</div>
+date: 2009-09-05 22:44:57
+title: 小事情
+layout: post
+tags:
+    - 日子
+categories:
+    - 网志
+---
 <div style="line-height:17px;"></div>
 <div style="line-height:17px;">＃＃＃＃加点今天见闻＃＃＃＃</div>
 <div style="line-height:17px;"></div>

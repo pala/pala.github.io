@@ -1,11 +1,13 @@
---- 
-categories: WordPressBackup
-date: 2008-12-22 02:05:36 -05:00
-layout: post
-title: 2008年十大开源故事
 ---
-2008年对很多人甚至很多国家来说都是不平凡的一年, 在开源世界里, 这一年也发生了很多值得记住的故事.
-
+date: 2008-12-22 02:05:36
+title: 2008年十大开源故事
+layout: post
+tags:
+    - Google
+    - WordPress
+categories:
+    - 电脑
+---
 <!--more-->
 
 1. Netbook的兴起.
@@ -19,7 +21,7 @@ Ubuntu 和 Fedora在中国都有许多忠实的粉丝, 所以网上可以找到�
 
 4. Google Chrome 的发布
 
-虽然当时我更关注Google同时发布的<a href="http://ztnote.com/2008/09/focus-people-picasa/" target="_blank">Picasa人脸识别功能</a>, 但Chrome吸引的注意力绝不亚于任何08年诞生的IT产品.
+虽然当时我更关注Google同时发布的<a href="http://ztpala.com/2008/09/focus-people-picasa/" target="_blank">Picasa人脸识别功能</a>, 但Chrome吸引的注意力绝不亚于任何08年诞生的IT产品.
 
 5. Google Android 的发布
 

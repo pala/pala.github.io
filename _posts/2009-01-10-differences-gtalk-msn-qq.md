@@ -1,11 +1,13 @@
---- 
-categories: WordPressBackup
-date: 2009-01-10 12:33:10 -05:00
-layout: post
-title: "Gtalk, MSN 和 QQ 的区别"
 ---
-昨天在找一同学的手机号码, 想起他是用MSN发给我的, 不过忘记当时聊的时候用的哪台电脑. 只好到处翻聊天记录, 费了k牛m虎之力, 还是没找到. 唉, 被Gtalk惯坏了, 不注意保存重要记录.
-
+date: 2009-01-10 12:33:10
+title: Gtalk, MSN 和 QQ 的区别
+layout: post
+tags:
+    - Google
+    - 趣事
+categories:
+    - 电脑
+---
 <!--more-->刚刚在Twitter上<a href="https://twitter.com/ztpala/status/1109189478" target="_blank">抱怨</a>此事, 发现了Gtalk, MSN 和 QQ 的区别:
 
 Gtalk, Google家的. Google是做网站的, 所以, 只要你没离开互联网, 在哪都一样. 什么Windows啊, Linux啊, OS X啊, iPhone啊. 条条大路通你的帐号和记录. 但如果你丢了帐号, 纵有万条路, 你也去不了罗马.

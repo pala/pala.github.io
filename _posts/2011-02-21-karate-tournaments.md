@@ -1,11 +1,12 @@
---- 
-categories: WordPressBackup
-date: 2011-02-21 03:42:41 -05:00
-layout: post
-title: 两次空手道比赛小节
 ---
-流水记录，慎入
-<!--more-->
+date: 2011-02-21 03:42:41
+title: 两次空手道比赛小节
+layout: post
+tags:
+    - Tournament
+categories:
+    - 空手道
+---
 1月30号 West Chester
 第一次参加tournament，还是有些紧张。早上7点多爬起来集合，然后一行11人挤在一辆租来的面包车里向4个小时外的目的地出发。
 
@@ -32,6 +33,7 @@ title: 两次空手道比赛小节
 到了kumite阶段，男女分开比。第一个对手遇到了第一次考试中kata里第一个遇到的绿带，很轻松的4：0淘汰了他。此人似乎记得我，分组结束时就问我现在什么等级的（因为紫带分4，5两级）。
 
 第二个对手又遇到了个人kata里那个首轮轮空的男生（分组时说今天是他的lucky day），此人还是相当猛的。第一轮结束比分2：2，我不小心打到了他的脸和鼻子各一次，还被裁判警告。其实这只能怪那个手套太厚，按平时的距离判断，是绝对碰不到他的。原地加赛一场，脑子一片空白，最后赢了，不知道比分。刚从场地上下来就听到叫我名字马上开始决赛。对手是第一次比赛时的第二名，一个黑人绿带。虽说是绿带，但此人身体超好，尤其是腿踢的特快。第一轮又是2：2，重赛一场，非常的艰苦，我和他似乎都躲避失误一次，最后宣布比分时完全没自信，不过还是险胜。后来听Matt同学说我每次重赛都像换了一个人，特别凶狠。看来当时是特郁闷想早点结束。最后比了五场，经历了三十个拳打脚踢终于又搞到了一个第一名，不容易啊。后来过了很长时间才发现下图所示，看来当时太投入了。怪不得打架的人从来感觉不到疼。
-<p style="text-align: center;"><a href="http://ztnote.com/wp-content/uploads/2011/02/arm.jpg"><img class="size-medium wp-image-4612 aligncenter" title="arm" src="http://ztnote.com/wp-content/uploads/2011/02/arm-300x225.jpg" alt="" width="300" height="225" /></a></p>
+
+<img class="alignnone" title="karate" src="https://lh6.googleusercontent.com/-6e5VBXhuGuY/TvuKIT-lUgI/AAAAAAABifM/kXnkkXDoECw/s800/arm.jpeg" alt="" width="640" height="480" />
 
 最后从White出来后天都黑了。不过还是相当好玩的。现在就希望早点到棕带，就能去场上和黑带较量了。

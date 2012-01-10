@@ -1,11 +1,10 @@
---- 
-categories: WordPressBackup
-date: 2008-12-29 05:07:48 -05:00
-layout: post
-title: 论装逼
 ---
-一些东西我不知道怎么用英文说, 但为了装逼, 我就去查词典然后翻译出来告诉别人. 到后来, 我真的认识那些词了.
-
+date: 2008-12-29 05:07:48
+title: 论装逼
+layout: post
+categories:
+    - 网志
+---
 <!--more-->
 
 装逼者可以分为两种:

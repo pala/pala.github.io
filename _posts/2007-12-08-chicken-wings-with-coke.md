@@ -1,11 +1,12 @@
---- 
-categories: WordPressBackup
-date: 2007-12-08 21:35:32 -05:00
-layout: post
-title: 可乐鸡翅
 ---
-美国的猪肉太难吃，羊肉太贵，牛肉不喜欢吃，所以味道比较正常的鸡肉便成了最常吃的肉类。这里介绍一下可乐鸡翅的做法。这边可乐和鸡翅都是非常的便宜，不过做成的可乐鸡翅确是美味。
-
+date: 2007-12-08 21:35:32
+title: 可乐鸡翅
+layout: post
+tags:
+    - 下厨
+categories:
+    - 网志
+---
 原料：鸡翅若干，可乐一罐（比例大概十根鸡翅一罐可乐）
 
 做法：
@@ -14,6 +15,3 @@ title: 可乐鸡翅
 
 ps：最好用可口可乐，据说百事可乐糖有点多。
 
-(点击放大)
-
-<a href="http://www.ztnote.com/wp-content/uploads/2007/12/00014.jpg"><img src="http://www.ztnote.com/wp-content/uploads/2007/12/00014.jpg" border="0" alt="" width="396" height="299" /></a>

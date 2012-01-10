@@ -1,12 +1,13 @@
---- 
-categories: WordPressBackup
-date: 2008-09-15 00:33:43 -04:00
-layout: post
-title: 又是一年月圆时
 ---
-<a href="http://ztnote.files.wordpress.com/2008/09/moon.jpg"><img class="size-medium wp-image-471 alignleft" title="moon" src="http://ztnote.files.wordpress.com/2008/09/moon.jpg?w=300" alt="" width="300" height="213" /></a>又到中秋,话说已经想不起来这是连续第几个没有在家过的中秋节了.
-
-能想起来具体怎么过的只能追述到06年. 那年中秋,是我们<a href="http://ztnote.files.wordpress.com/2008/09/moon.jpg2006/11/zhenan/">浙南之行</a>的最后一天. 那天晚上我和azalea, 小胖, yixin在缙云的一间火锅店里吃了顿非常爽的火锅自助,结束了波澜起伏的六天骑行.晚上乘火车返回了上海.
+date: 2008-09-15 00:33:43
+title: 又是一年月圆时
+layout: post
+tags:
+    - 节日
+categories:
+    - 网志
+---
+能想起来具体怎么过的只能追述到06年. 那年中秋,是我们<a href="http://ztpala.com/wp-content/uploads/2008/09/moon.jpg2006/11/zhenan/">浙南之行</a>的最后一天. 那天晚上我和azalea, 小胖, yixin在缙云的一间火锅店里吃了顿非常爽的火锅自助,结束了波澜起伏的六天骑行.晚上乘火车返回了上海.
 
 去年中秋那天正好上海有事,一早我从家里坐车去上海,又没能在家过成中秋.
 

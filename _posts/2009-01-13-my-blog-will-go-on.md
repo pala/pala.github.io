@@ -1,11 +1,12 @@
---- 
-categories: WordPressBackup
-date: 2009-01-13 15:15:34 -05:00
-layout: post
-title: 独立博客不独立
 ---
-No problem should ever have to be solved twice. -<a href="http://www.catb.org/~esr/faqs/hacker-howto.html" target="_blank">Eric Steven Raymond</a>
-
+date: 2009-01-13 15:15:34
+title: 独立博客不独立
+layout: post
+tags:
+    - blog
+categories:
+    - 电脑
+---
 <a href="http://www.catb.org/~esr/faqs/hacker-howto.html" target="_blank"></a><!--more-->
 
 名博们经常指教菜博们要写独一无二的东西, 但对于一个人来说什么是独一无二的?

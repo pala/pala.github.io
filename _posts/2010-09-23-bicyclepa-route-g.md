@@ -1,11 +1,12 @@
---- 
-categories: WordPressBackup
-date: 2010-09-23 01:46:15 -04:00
-layout: post
-title: 骑车纵穿宾州路线
 ---
-<p style="text-align: center;"><a href="http://goo.gl/maps/KejN"><img class="aligncenter size-full wp-image-3979" title="staticmap" src="http://ztnote.com/wp-content/uploads/2010/09/staticmap.png" alt="" width="300" height="300" /></a></p>
-根据<a href="http://www.bikepa.com/routes/g.htm" target="_blank">BicyclePA</a>的路线在Google Maps上改编而来，全长约237miles（约380公里）。具体路线可以去Google Maps上去看 <a href="http://goo.gl/maps/KejN" target="_blank">链接</a>
+date: 2010-09-23 01:46:15
+title: 骑车纵穿宾州路线
+layout: post
+tags:
+    - 骑车计划
+categories:
+    - 自行车
+---
 
 另外在Google Docs上放了个详细文字路线的pdf版 <a href="https://docs.google.com/fileview?id=0B66S8QvtODIYMTYxY2MzYjQtM2ZjNS00NmYyLWExNGMtNGI5OGNlY2M1ZTFi&amp;hl=en" target="_blank">链接</a>
 

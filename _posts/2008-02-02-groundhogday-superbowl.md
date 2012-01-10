@@ -1,13 +1,13 @@
---- 
-categories: WordPressBackup
-date: 2008-02-02 02:57:17 -05:00
-layout: post
-title: 土拨鼠日和超级杯
 ---
-今天是2月2号，在宾州号称土拨鼠日，即<a href="http://en.wikipedia.org/wiki/Groundhog_day" target="_blank">Groundhog Day</a>。
-在这天有个习俗，大家一大早聚在一起观察一只土拨鼠。它从洞里出来，如果可以看到自己的影子，那么它会回到洞里面继续过冬，预示着冬天还会持续六个礼拜才结束，反之，春天的脚步已经临近咯。不管怎样，大家都会继续庆祝。
-
-很有意思的一个节日。明天看一下新闻，就知道这个冬天还有多远^^
+date: 2008-02-02 02:57:17
+title: 土拨鼠日和超级杯
+layout: post
+tags:
+    - 电影
+    - 美剧
+categories:
+    - 网志
+---
 
 3号，<a href="http://www.azsuperbowl.com/" target="_blank">Super Bowl总决赛</a>。
 

@@ -1,10 +1,13 @@
 markdown: rdiscount
 permalink: /:year/:month/:day/:title/
-title: ztnote.com
-url: http://ztnote.com
+title: pala的网络日志
+url: http://ztpala.com
 subscribe: http://feeds.feedburner.com/pala
 exclude: [ README.md ]
-domain: ztnote.com
+domain: ztpala.com
 author: Tao Zhang
 email: ztpala@gmail.com
 pygments: true
+auto: true
+ftp_host: ftp.azaleasays.com
+ftp_dir: /public_html/ztpala

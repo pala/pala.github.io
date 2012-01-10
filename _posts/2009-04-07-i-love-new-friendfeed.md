@@ -1,11 +1,10 @@
---- 
-categories: WordPressBackup
-date: 2009-04-07 21:53:16 -04:00
-layout: post
-title: 我最喜欢的Beta版FF的几个功能
 ---
-新版本的FF充满争议, 这里列一下我最喜欢的几个改变:
-
+date: 2009-04-07 21:53:16
+title: 我最喜欢的Beta版FF的几个功能
+layout: post
+categories:
+    - 网志
+---
 <!--more-->
 
 1. 改进版的realtime体验
@@ -22,7 +21,7 @@ title: 我最喜欢的Beta版FF的几个功能
 
 4. 可以订阅某人的'like','comment'
 
-新版本的FF让一切都归于可订阅的feed这个概念. 包括某个用户的'like'.<img class="aligncenter size-full wp-image-2056" title="picture-2" src="http://ztnote.files.wordpress.com/2009/04/picture-2.png" alt="picture-2" width="489" height="73" />
+新版本的FF让一切都归于可订阅的feed这个概念. 包括某个用户的'like'.<img class="aligncenter size-full wp-image-2056" title="picture-2" src="http://ztpala.com/wp-content/uploads/2009/04/picture-2.png" alt="picture-2" width="489" height="73" />
 
 现在我可以订阅和我兴趣相近或者自己比较关注的用户的like, 统一将他们放入一个List, 这样便可以很方便的看到自己关注的朋友们最近都在喜欢什么.
 

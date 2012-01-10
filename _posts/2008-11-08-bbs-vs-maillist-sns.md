@@ -1,11 +1,12 @@
---- 
-categories: WordPressBackup
-date: 2008-11-08 10:07:59 -05:00
-layout: post
-title: "BBS vs Maillist vs SNS"
 ---
-前几天和aza讨论很多次关于BBS的问题.她很奇怪为什么美国(缩小一点,State College)这边很少人习惯用BBS这种东西,因为如果在国内的大学缺少了BBS,生活的方便和多彩程度会大打折扣.说'多彩'是因为BBS带来的不一定都是精彩的东西,有时会让人很开心,有时会有相反作用.
-
+date: 2008-11-08 10:07:59
+title: BBS vs Maillist vs SNS
+layout: post
+tags:
+    - blog
+categories:
+    - 电脑
+---
 以光华为例,它里面包括了生活学习各个方面的板块.你可以在里面和相同社区(校园)的人谈论各种话题,或者进行一些实质性的活动,比如征友,买卖东西等.不过,目前来看BBS似乎有更多的缺点而不是优点.最近还经常有人谈所谓'个人blog的没落',我感觉,要最先没落的是这些BBS系统.
 
 <!--more-->

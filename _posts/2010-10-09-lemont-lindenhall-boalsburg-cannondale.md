@@ -1,11 +1,13 @@
---- 
-categories: WordPressBackup
-date: 2010-10-09 18:18:41 -04:00
-layout: post
-title: "Lemont LindenHall Boalsburg 公路车绕圈"
 ---
-先上数据(刨去之前之后未记速的5，6公里)：
-
+date: 2010-10-09 18:18:41
+title: Lemont LindenHall Boalsburg 公路车绕圈
+layout: post
+tags:
+    - 绕圈
+    - 骑行数据
+categories:
+    - 自行车
+---
 Distance:28.6km
 
 Avg Speed: 31.1km/h

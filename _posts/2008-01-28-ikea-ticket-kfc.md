@@ -1,11 +1,12 @@
---- 
-categories: WordPressBackup
-date: 2008-01-28 23:43:38 -05:00
-layout: post
-title: 宜家，罚单及KFC
 ---
-<img src="http://www.ztnote.com/wp-content/uploads/2008/01/ikea.gif" alt="ikea.gif" align="left" />
-
+date: 2008-01-28 23:43:38
+title: 宜家，罚单及KFC
+layout: post
+tags:
+    - 开车
+categories:
+    - 网志
+---
 在上海的时候，宜家是我和azalea非常喜欢的一个地方，里面有很多很多充满创意的家居用品。来到美国之后，发现最近的宜家在匹兹堡，145迈(约230km)。第一次去匹兹堡的行程安排太紧，而且天气不好，所以没能去成。这次为庆祝拿到驾照，决定自己开车过去。
 
 昨天九点从家里出发，虽然在飘雪，不过在GPS的指引下，一路很顺利的到达。在里面逛了几个小时，吃了顿饭买了几个木板和书架后，已经六点钟。吃饭时候一个有意思的发现是餐厅里专供手推车的停车位，很是可爱

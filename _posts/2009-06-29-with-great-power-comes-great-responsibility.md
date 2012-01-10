@@ -1,11 +1,12 @@
---- 
-categories: WordPressBackup
-date: 2009-06-29 17:04:40 -04:00
-layout: post
-title: "With Great Power Comes Great Responsibility"
 ---
-蜘蛛侠教导我们，能力越大，责任越大。
-
+date: 2009-06-29 17:04:40
+title: With Great Power Comes Great Responsibility
+layout: post
+tags:
+    - 八卦
+categories:
+    - 网志
+---
 今天<a href="https://friendfeed.com/fivestone" target="_blank">fivestone</a>在FriendFeed上<a href="https://friendfeed.com/fivestone/29b8ad09/mj-cnn-twitter-5000-tweets-google-facebook-aol" target="_blank">说到了</a>MJ去世的消息对几大网站流量的影响。其中有一条很有意思，就是这个消息公布时Twitter新产生推的速度。fivestone说是5000推/秒，我觉得似乎过于夸张，于是Google了一下"<a href="http://www.google.com/search?q=mj+tweets+5000+per&amp;hl=en&amp;rlz=1B5_____enUS323US323&amp;newwindow=1&amp;start=10&amp;sa=N" target="_blank">mj tweets 5000 per</a>"。结果也非常有意思。第一条结果是<a href="http://www.google.com/search?hl=en&amp;rlz=1B5_____enUS323US323&amp;newwindow=1&amp;q=mj+tweets+5000+per&amp;btnG=Search&amp;aq=f&amp;oq=&amp;aqi=" target="_blank">洛杉矶时报</a>的消息，部分原文如下：
 <blockquote>On Twitter, the volume of Jackson-related messages – up to 5,000 per minute at peak – put such a demand on the site that it slowed considerably. “We saw an instant doubling of tweets per second the moment the story broke,” Twitter co-founder Biz Stone wrote in an e-mail response to our inquiry.</blockquote>
 核心意思是相关推是5000个/<span style="color:#ff0000;"><strong>分钟</strong></span>，Twitter的创始人Biz Stone的邮件说到这消息瞬间使得推/<span style="color:#ff0000;"><strong>秒</strong></span>的速度翻倍。紧接着的几个结果都描述了相同的数据。不过到了第六个结果，即某人在Tiwtter上发布的消息却变成了：

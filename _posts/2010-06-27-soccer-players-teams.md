@@ -1,11 +1,12 @@
---- 
-categories: WordPressBackup
-date: 2010-06-27 14:29:38 -04:00
-layout: post
-title: 看球简史及喜欢的球队及球员
 ---
-<!--more-->
-
+date: 2010-06-27 14:29:38
+title: 看球简史及喜欢的球队及球员
+layout: post
+tags:
+    - 足球
+categories:
+    - 网志
+---
 <strong>球队</strong>
 
 1. 巴西

@@ -1,11 +1,12 @@
---- 
-categories: WordPressBackup
-date: 2009-03-24 02:57:33 -04:00
-layout: post
-title: Dropbox的使用技巧
 ---
-<a href="https://www.getdropbox.com/referrals/NTE1MDExNTk" target="_blank">Dropbox</a>是一个免费的2G网络硬盘，它最大的特点是可以将这2G的网络空间映射到你(数个)电脑上的文件夹。你在任意一台绑定了帐号的电脑上将文件添加到映射的文件夹，那么你的网络硬盘和其他绑定了帐号的电脑上的文件夹将自动同步。这种同步方式的最大好处是，你根本无须打开任何上传工具或者网页，只要在自己电脑上的文件夹里添加删除文件就行了，方便好用。
-
+date: 2009-03-24 02:57:33
+title: Dropbox的使用技巧
+layout: post
+tags:
+    - 贴士
+categories:
+    - 电脑
+---
 利用多个电脑自动同步的特点，可以实现很多方便功能：
 <h3>1. 自动BT下载</h3>
 如果你家里有一台一直开机用来BT下载的电脑，那么你可以在Dropbox文件夹里建立一个专门存放torrent文件的文件夹，然后设置bt下载工具自动添加此文件夹里的torrent文件。这样你就可以在任何地方用其他绑定了的电脑添加或者在Dropbox网页上上传torrent文件，那么家里用来下载的电脑则会立即同步这些文件并开始下载。

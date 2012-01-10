@@ -1,11 +1,14 @@
---- 
-categories: WordPressBackup
-date: 2010-10-09 01:05:37 -04:00
-layout: post
-title: 目前所有骑行小结
 ---
-昨天在twitter<a href="http://twitter.com/#!/ztpala/status/26727336320" target="_blank">说</a>：
-<blockquote>希望在2010剩下的两个多月里将这辆公路车骑满1000公里</blockquote>
+date: 2010-10-09 01:05:37
+title: 目前所有骑行小结
+layout: post
+tags:
+    - 复旦车协
+    - 骑行数据
+categories:
+    - 自行车
+---
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 今天计算了一下从开始骑车(非代步的那种，但不包括纯粹绕圈之类的)到现在的总里程数，这里稍微总结一下：
 
 <!--more-->

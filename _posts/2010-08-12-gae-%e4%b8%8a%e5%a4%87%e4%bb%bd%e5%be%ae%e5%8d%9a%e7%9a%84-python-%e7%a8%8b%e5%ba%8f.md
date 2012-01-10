@@ -1,15 +1,17 @@
---- 
-categories: WordPressBackup
-date: 2010-08-12 15:38:00 -04:00
-layout: post
-title: "GAE 上备份微博的 Python 程序"
 ---
-注：普通验证方法，twitter8月16号就只能用Oauth了
-
+date: 2010-08-12 15:38:00
+title: GAE 上备份微博的 Python 程序
+layout: post
+tags:
+    - blog
+    - Python
+categories:
+    - 电脑
+---
 程序目的：每天定时将当天发布的微博整理下来发送到邮箱
 
 主程序：
-<pre lang="python">
+<pre>
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 import urllib2
@@ -48,7 +50,7 @@ def _fetchTweets():
 
     #中间parse返回结果的代码就不写了，总之就是处理字符串
 
-    if len(html)>0:
+    if len(html)&gt;0:
         mail.send_mail(sender="发送方email",
                 to="接收方email",
                 subject="标题",
@@ -66,7 +68,7 @@ cron:
   timezone: America/New_York
 
 如果你想发送到wordpress或其他支持xmlrpc的blog，则可以参考以下代码（未经验证）：
-<pre lang="python">
+<pre>
 import xmlrpclib
 username = "admin"
 password = "password"

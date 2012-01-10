@@ -1,11 +1,12 @@
---- 
-categories: WordPressBackup
-date: 2009-01-30 22:03:46 -05:00
-layout: post
-title: "不完全 Gmail 功能列表"
 ---
-这到底还是邮箱吗?
-<!--more-->
+date: 2009-01-30 22:03:46
+title: 不完全 Gmail 功能列表
+layout: post
+tags:
+    - Gmail
+categories:
+    - 网志
+---
 <h3>1. 离线功能</h3>
 最新推出的一项重磅功能. 允许用户在没有网络链接的时候访问Gmail信件. 并可以像在线的时候一样操作邮箱, 比如写新邮件, 等到连接网络之后自动发送并同步信件.
 <h3>2. 观看视频</h3>
@@ -25,7 +26,7 @@ title: "不完全 Gmail 功能列表"
 <h3>9. 日历与文档</h3>
 在Gmail里直接管理网络日历及在线文档
 <h3>10. 可爱表情</h3>
-<img class="alignleft size-full wp-image-1762" title="35d" src="http://ztnote.files.wordpress.com/2009/01/35d.gif" alt="35d" width="38" height="12" />
+<img class="alignleft size-full wp-image-1762" title="35d" src="http://ztpala.com/wp-content/uploads/2009/01/35d.gif" alt="35d" width="38" height="12" />
 你可以试试在Gmail里打出 :)会有什么变化
 <h3>11. 移动设备版</h3>
 快速方便的通过各种移动设备访问Gmail.
@@ -44,6 +45,6 @@ Google的老本行, 你不需要整理邮件, 搜索!
 <h3>18. 多帐户管理</h3>
 你可以用一个帐户收取多个邮箱的信件或者以其他邮箱的帐户发送邮件. 这个"其他帐户"不局限于Gmail. 所以, hotmail的用户, 搬家吧.
 <h3>19. 一个帐户, 多个地址</h3>
-详情请看<a href="http://ztnote.files.wordpress.com/2009/01/35d.gif2008/05/hidden-address-gmail/" target="_self">这里</a>
-<h3>20. <a href="http://ztnote.files.wordpress.com/2009/01/35d.gif2009/01/suggest-a-feature-for-gmail/" target="_self">洗衣服</a></h3>
+详情请看<a href="http://ztpala.com/wp-content/uploads/2009/01/35d.gif2008/05/hidden-address-gmail/" target="_self">这里</a>
+<h3>20. <a href="http://ztpala.com/wp-content/uploads/2009/01/35d.gif2009/01/suggest-a-feature-for-gmail/" target="_self">洗衣服</a></h3>
 更多牛x功能一直在不断的被添加. 上面都不是Gmail最强大的地方, 它最强的是把上面所有的功能集中到一个邮箱里, 而并不会让你感到繁杂与难用.

@@ -1,17 +1,16 @@
---- 
-categories: WordPressBackup
-date: 2008-11-05 01:45:00 -05:00
-layout: post
-title: 介绍一下Dropbox
 ---
-还需要两个人通过下面地址注册 XD
-
+date: 2008-11-05 01:45:00
+title: 介绍一下Dropbox
+layout: post
+categories:
+    - 网志
+---
 <a href="https://www.getdropbox.com/referrals/NTE1MDExNTk" target="_blank">https://www.getdropbox.com/referrals/NTE1MDExNTk</a>
 
 (注，上述地址为我的推介地址，可以为你的帐号和我的帐号各增加250M空间)
 
 <!--more-->
-<a href="https://www.getdropbox.com" target="_blank"><img class="alignleft size-full wp-image-980" title="dropbox" src="http://ztnote.files.wordpress.com/2008/11/dropbox.gif" alt="dropbox" width="167" height="50" /></a>
+<a href="https://www.getdropbox.com" target="_blank"><img class="alignleft size-full wp-image-980" title="dropbox" src="http://ztpala.com/wp-content/uploads/2008/11/dropbox.gif" alt="dropbox" width="167" height="50" /></a>
 
 如果你没有2G大的U盘或者很厌烦在各个电脑之间拷贝文件,那么Dropbox正适合你.
 

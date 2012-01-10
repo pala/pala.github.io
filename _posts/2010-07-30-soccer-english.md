@@ -1,11 +1,12 @@
---- 
-categories: WordPressBackup
-date: 2010-07-30 15:14:59 -04:00
-layout: post
-title: 踢球英语
 ---
-最近一段时间一直跟各国友人一起踢球，其中多数是米国小本。了解了一下踢球时大家都用英语怎么简单有效的交流。
-
+date: 2010-07-30 15:14:59
+title: 踢球英语
+layout: post
+tags:
+    - 足球
+categories:
+    - 网志
+---
 1. We'll be skin.
 临时的小比赛总有一方是光膀子。
 

@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: 2
+date: 2012-01-09
+published: true
+comments: true
+categories:
+  - 空手道
+tags:
+  - Kyu Exam 
+---
+![Kyu Exam Certificate](http://ztpala.com/wp-content/uploads/2012/01/IMG_3493-585x390.jpg)

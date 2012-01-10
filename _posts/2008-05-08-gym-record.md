@@ -1,11 +1,13 @@
---- 
-categories: WordPressBackup
-date: 2008-05-08 15:07:30 -04:00
-layout: post
-title: 健身记录
 ---
-今天在校内看到空哥的留言，说每天坚持做俯卧撑和两头翘，而且次数吓死人(1说等坚持一个月了才告诉我具体数目-,-)。看来大家都在积极健身啊。再过一个礼拜这半年的健身卡就到期了，趁机记录一下现在的锻炼情况。
-
+date: 2008-05-08 15:07:30
+title: 健身记录
+layout: post
+tags:
+    - 健身
+    - 趣事
+categories:
+    - 网志
+---
 频率：
 
 每周三次，每次一个半小时左右。
@@ -21,10 +23,6 @@ title: 健身记录
 4.双杠曲臂撑体 重量=体重=162磅 次数：12+12+14
 
 5.夹子，就是锻炼握力的东西，不知道怎么翻译 重量：145磅 次数：20+20+20+22
-
-就是下面这玩意：
-
-<img class="alignnone size-full wp-image-284" title="gripper" src="http://ztnote.files.wordpress.com/2008/05/gripper.jpg" alt="" width="400" height="300" />
 
 6.偶尔会再加两组扩胸。重量11.5(不知道每个对应多少) 次数：10+12
 

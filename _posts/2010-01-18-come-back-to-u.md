@@ -1,11 +1,15 @@
---- 
-categories: WordPressBackup
-date: 2010-01-18 20:55:09 -05:00
-layout: post
-title: 回美国记
 ---
-留恋在徐州街头
-
+date: 2010-01-18 20:55:09
+title: 回美国记
+layout: post
+tags:
+    - 上海
+    - 徐州
+    - 日本
+    - 纽约
+categories:
+    - 旅行
+---
 信步在上海街头
 
 迷失在东京街头

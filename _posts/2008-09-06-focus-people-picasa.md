@@ -1,11 +1,12 @@
---- 
-categories: WordPressBackup
-date: 2008-09-06 04:08:00 -04:00
-layout: post
-title: Picasa相册的人脸识别游戏
 ---
-话说Google最近出了推出了新的浏览器<a href="http://www.google.com/chrome" target="_blank">Chrome</a>,此消息的火爆彻底的把Picasa在同一天推出的人脸识别功能给盖住了.
-
+date: 2008-09-06 04:08:00
+title: Picasa相册的人脸识别游戏
+layout: post
+tags:
+    - Google
+categories:
+    - 电脑
+---
 简单来说,这个功能就是把你相册里的所有人脸给识别出来然后用大头贴的形式显示给你,然后它把它认为是同一个人的归在一起让你给标个名字.
 
 准确度我觉得是相当的高,甚至脸背景里非常模糊的过路人都能识别出来.

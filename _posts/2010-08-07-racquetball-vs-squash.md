@@ -1,18 +1,21 @@
---- 
-categories: WordPressBackup
-date: 2010-08-07 15:27:42 -04:00
-layout: post
-title: 美式壁球和英式壁球
 ---
-历史：
-英式壁球历史比较久，也很有趣，详情请参阅<a href="http://zh.wikipedia.org/zh-tw/%E5%A3%81%E7%90%83">wikipedia</a>
+date: 2010-08-07 15:27:42
+title: 美式壁球和英式壁球
+layout: post
+tags:
+    - 壁球
+    - 百科
+categories:
+    - 网志
+---
 美式则像美国佬一贯作风，自己搞出一套规则来，49年发明（从网球和英式衍生），是70年代末80年代初美国发展最快的运动之一。
 球场：
 美式要大一些，而且没有上面的Out Line，也就是说可以将球打到屋顶，所以英式得分要更难一些。
 
-<a href="https://lh4.googleusercontent.com/_JkjZvHYNoXw/TYL34r-_J_I/AAAAAAABM9M/w-60SH0wwCk/s800/racquetballcourtdimensions.png"><img class="aligncenter size-medium wp-image-3706" title="Racquetballcourtdimensions" src="https://lh4.googleusercontent.com/_JkjZvHYNoXw/TYL34r-_J_I/AAAAAAABM9M/w-60SH0wwCk/s800/racquetballcourtdimensions.png" alt="" width="269" height="500" /></a>
-<p style="text-align:center;">via <a href="http://en.wikipedia.org/wiki/Racquetball">Wikipedia</a></p>
-<p style="text-align:center;"><a href="https://lh3.googleusercontent.com/_JkjZvHYNoXw/TYL34sS2aCI/AAAAAAABM9Q/wBcBpVh-FQ4/s800/1000px-squash_court-svg.png"><img class="aligncenter size-medium wp-image-3707" title="1000px-Squash_Court.svg" src="https://lh3.googleusercontent.com/_JkjZvHYNoXw/TYL34sS2aCI/AAAAAAABM9Q/wBcBpVh-FQ4/s800/1000px-squash_court-svg.png" alt="" width="500" height="337" /></a>via <a href="http://en.wikipedia.org/wiki/Squash_(sport)">Wikipedia</a></p>
+<img class="aligncenter" title="Racquetball" src="https://lh4.googleusercontent.com/-lsfdjzPmGts/TYL34r-_J_I/AAAAAAABifI/FB2M47oq8Js/s800/racquetballcourtdimensions.png" alt="" width="269" height="499" />
+<p style="text-align: center;">via <a href="http://en.wikipedia.org/wiki/Racquetball">Wikipedia</a></p>
+<p style="text-align: center;"><a href="https://lh3.googleusercontent.com/_JkjZvHYNoXw/TYL34sS2aCI/AAAAAAABM9Q/wBcBpVh-FQ4/s800/1000px-squash_court-svg.png"><img class="alignnone" title="Squash" src="https://lh3.googleusercontent.com/-B2y4TWhRpk4/TYL34sS2aCI/AAAAAAABifI/DWwR6DLPrEE/s800/1000px-squash_court-svg.png" alt="" width="500" height="337" /></a></p>
+<p style="text-align: center;">via <a href="http://en.wikipedia.org/wiki/Squash_(sport)">Wikipedia</a></p>
 球拍：
 Racquetball最多22英寸长，Squash最多27英寸长
 

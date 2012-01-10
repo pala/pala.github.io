@@ -1,11 +1,13 @@
---- 
-categories: WordPressBackup
-date: 2008-01-06 13:10:04 -05:00
-layout: post
-title: 西点，纽约行
 ---
-到了纽约才明白State College是个多么舒适的小镇。
-
+date: 2008-01-06 13:10:04
+title: 西点，纽约行
+layout: post
+tags:
+    - 纽约
+    - 节日
+categories:
+    - 旅行
+---
 下面是azalea的记录：
 
 很早饼就叫嚣除夕夜去时代广场看一个心愿球掉下来，于是2007年12月30号一早，我和pala，饼，宁，Pu Na, Liu Yanping挤在一辆小破车里出发了。
@@ -26,4 +28,4 @@ title: 西点，纽约行
 
 转天睡到12点，准备去看大都会艺术博物馆，结果关门，拍照N多后，我和pala去看了同样关门的联合国总部，洛克菲勒大学（impressive sign “Scientists Crossing”），吃了subway，喝了麦当劳的美味的beaf vegetable soup。在书店看到friends里joey在emma生日读的一本书。夜幕中回到了正在暴风雪的State College。
 
-<a href="http://p.ztnote.com/main.php?g2_itemId=6775" target="_blank">这里</a>是照片
+<a href="http://p.ztpala.com/main.php?g2_itemId=6775" target="_blank">这里</a>是照片

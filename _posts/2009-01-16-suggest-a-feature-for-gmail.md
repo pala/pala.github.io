@@ -1,11 +1,13 @@
---- 
-categories: WordPressBackup
-date: 2009-01-16 19:41:24 -05:00
-layout: post
-title: 你还想让Gmail添加什么功能
 ---
-If nobody spoke unless he had something to say, the human race would very soon lose the use of speech. -- W. Somerset Maugham
-
+date: 2009-01-16 19:41:24
+title: 你还想让Gmail添加什么功能
+layout: post
+tags:
+    - Gmail
+    - Google
+categories:
+    - 电脑
+---
 <!--more-->
 
 Gmail的帮助页面里有一个<a href="http://mail.google.com/support/bin/static.py?page=suggestions.cs" target="_blank">调查问卷</a>, 让用户提交自己希望Gmail添加的功能.

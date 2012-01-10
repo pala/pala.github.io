@@ -1,11 +1,12 @@
---- 
-categories: WordPressBackup
-date: 2008-12-22 16:35:14 -05:00
-layout: post
-title: 怎样寻求Linux方面的帮助
 ---
-有人介绍了自己在遇到Linux方面问题时寻求帮助的<a href="http://bash.org/?152037" target="_blank">方法</a>，觉得挺耐人寻味的，在这里介绍一下。
-
+date: 2008-12-22 16:35:14
+title: 怎样寻求Linux方面的帮助
+layout: post
+tags:
+    - 趣事
+categories:
+    - 网志
+---
 <!--more-->
 
 这个方法概括起来就是俩字：挑衅。

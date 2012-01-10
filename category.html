@@ -1,20 +1,18 @@
 ---
 layout: default
-title: Category
+title: 文章分类
 permalink: /category/
 ---
-<p id="breadcrumbs">
-<a href="/">主页</a>
-&rsaquo; 分类
-</p>
-<ul>
+<ul class="unstyled">
 {% for category in site.categories %}
-  <li><a name="{{ category | first }}">{{ category | first }}</a>
+  <li><a name="{{ category | first }}"><h3>{{ category | first }}</h3></a>
+  <br>
     <ul>
     {% for post in category.last %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
     </ul>
   </li>
+  <hr>
 {% endfor %}
 </ul>

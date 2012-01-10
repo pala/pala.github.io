@@ -1,11 +1,10 @@
---- 
-categories: WordPressBackup
-date: 2009-01-15 01:33:10 -05:00
-layout: post
-title: Twitter的
 ---
-让上帝的归上帝, 恺撒的归恺撒 - 圣经
-
+date: 2009-01-15 01:33:10
+title: Twitter的
+layout: post
+categories:
+    - 网志
+---
 <!--more-->blog : <a href="http://blog.twitter.com/" target="_blank">http://blog.twitter.com/</a>  --- blogger
 
 status : <a href="http://status.twitter.com/" target="_blank">http://status.twitter.com/</a>  --- Tumblr

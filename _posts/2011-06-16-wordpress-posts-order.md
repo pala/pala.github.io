@@ -1,11 +1,12 @@
---- 
-categories: WordPressBackup
-date: 2011-06-16 02:02:33 -04:00
-layout: post
-title: 自定义WordPress的文章浏览顺序
 ---
-将WordPress升级到3.2-RC1，发现在后台可以按照评论数排列文章了。顺便介绍一下怎么在浏览WordPress站点时按照特定的顺序来阅读，做法很简单：在blog链接后面加上若干参数，比如
-<ul>
+date: 2011-06-16 02:02:33
+title: 自定义WordPress的文章浏览顺序
+layout: post
+tags:
+    - WordPress
+categories:
+    - 电脑
+---
 	<li>域名+?order=asc 升序排列，即从最老的日志开始浏览。</li>
 	<li>域名+?orderby=comment_count 按照评论数量降序排列，即评论数最多的在最前面。</li>
 	<li>域名+?orderby=title&amp;order=asc 则按照标题排列并遵循字符顺序，排在最前面的一般都是以数字或标点开头的文章。</li>

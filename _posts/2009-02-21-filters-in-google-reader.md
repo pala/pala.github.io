@@ -1,11 +1,12 @@
---- 
-categories: WordPressBackup
-date: 2009-02-21 16:45:26 -05:00
-layout: post
-title: "整理 Google Reader"
 ---
-基于 Google Reader 的两个特点:
-
+date: 2009-02-21 16:45:26
+title: 整理 Google Reader
+layout: post
+tags:
+    - Google
+categories:
+    - 电脑
+---
 1. 所有Feed都可以放入到多个文件夹, 利用快捷键(用?调出列表)方便的加上tag和note
 
 2. 获取的文章永不删除(未经官方证实)
@@ -24,13 +25,13 @@ title: "整理 Google Reader"
 
 2. 隐藏未读条目数:
 
-<img class="aligncenter size-full wp-image-1828" title="picture-11" src="http://ztnote.files.wordpress.com/2009/02/picture-11.png" alt="picture-11" width="261" height="193" />3. 全屏浏览(快捷键u)
+<img class="aligncenter size-full wp-image-1828" title="picture-11" src="http://ztpala.com/wp-content/uploads/2009/02/picture-11.png" alt="picture-11" width="261" height="193" />3. 全屏浏览(快捷键u)
 
 4. 订阅自己的twitter和FriendFeed放入到同一个文件夹
 
 因为Twitter的中文搜索实在太差, FriendFeed又翻不到很老条目, 放在Reader里算是备份, 容易查找.
 
-5. <a href="http://ztnote.files.wordpress.com/2009/02/picture-11.png2008/11/google-reader-manage-blogroll/" target="_blank">订做友情链接</a>
+5. <a href="http://ztpala.com/wp-content/uploads/2009/02/picture-11.png2008/11/google-reader-manage-blogroll/" target="_blank">订做友情链接</a>
 
 6. 退订了所有纯IT话题的中文blog, 取而代之的是订阅了个别Reader分享页面
 
@@ -38,4 +39,4 @@ title: "整理 Google Reader"
 
 <span style="text-decoration:line-through;">看不到</span>不关心有多少篇文章未看, 头等舱里的文章不会被淹没, 快捷键真是超级好用的东西.
 
-<a href="https://friendfeed.com/pala" target="_blank">FriendFeed</a>的相关过滤问题可以参考<a href="http://ztnote.files.wordpress.com/2009/02/picture-11.png2008/12/filters-in-friendfeed/">这篇文章</a>.
+<a href="https://friendfeed.com/pala" target="_blank">FriendFeed</a>的相关过滤问题可以参考<a href="http://ztpala.com/wp-content/uploads/2009/02/picture-11.png2008/12/filters-in-friendfeed/">这篇文章</a>.

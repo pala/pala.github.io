@@ -1,11 +1,12 @@
---- 
-categories: WordPressBackup
-date: 2010-08-31 22:01:00 -04:00
-layout: post
-title: "空手道记录 5"
 ---
-今天开始学平安四段， Heian Yondan，也就是绿带升紫带要考的部分内容，感觉很有意思的一段kata。
-
+date: 2010-08-31 22:01:00
+title: 空手道记录 5
+layout: post
+tags:
+    - Dojo
+categories:
+    - 空手道
+---
 <!--more-->
 
 新来的人好多都是见过一两次就看不到人了，有一个台湾兄弟还是很积极，每次都来。

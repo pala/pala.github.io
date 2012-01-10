@@ -1,11 +1,12 @@
---- 
-categories: WordPressBackup
-date: 2007-12-06 10:31:27 -05:00
-layout: post
-title: 新年到
 ---
-快到新年了，也到了该送贺卡收贺卡的时间了。
-
+date: 2007-12-06 10:31:27
+title: 新年到
+layout: post
+tags:
+    - 节日
+categories:
+    - 网志
+---
 小学时候，总是提前很久计算好今年要送的人，然后跑到某个批发贺卡的小摊点买上整好数目的一张硬纸板一样的简陋贺卡，写上一堆四字成语的祝福，偷偷的塞到同学的位洞里。当然，每天上学也总是会很期待自己的桌里能多几张别人送的卡。
 
 初中的时候我们学校突然流行起了送画，就是那种一块钱一张的明星画。用一张写着成句祝福语的纸将画卷起来，送的形式仍然是塞位洞，上学的心情仍然是期待。
@@ -20,6 +21,6 @@ PS:
 
 视频分享网站YouTube推出<a href="http://www.youtube.com/greeting_browser" target="_blank">视频贺卡</a>
 
-<img src="http://www.ztnote.com/wp-content/uploads/2007/12/youtubecard.jpg" alt="" />
+<img src="http://www.ztpala.com/wp-content/uploads/2007/12/youtubecard.jpg" alt="" />
 
 自己上传或者选择任意YouTube上的视频，再搭配网站提供的贺卡模板，然后在写上自己祝福的话，一份特别的贺卡就制作完成了。足够彪悍的话可以对着摄像头自己录首MTV群发给自己的朋友。

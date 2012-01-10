@@ -1,11 +1,12 @@
---- 
-categories: WordPressBackup
-date: 2010-08-06 15:26:40 -04:00
-layout: post
-title: "空手道记录 3"
 ---
-将blog搬到这里，但并没有将feedburner的地址一起搬过来，就是因为我打算在这里随意而且频繁的更新一些只有我才愿意看的东西。
-
+date: 2010-08-06 15:26:40
+title: 空手道记录 3
+layout: post
+tags:
+    - Dojo
+categories:
+    - 空手道
+---
 今天是经历的第二次50 kata day。所谓kata，就是对应武术里的套路，空手道升级考试内容之一。50 kata day就是在那天两小时的训练里，老师会带着大家将各自的kata打上50遍。不过变化很多，比如：
 
 75%的速度

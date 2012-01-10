@@ -1,12 +1,13 @@
---- 
-categories: WordPressBackup
-date: 2010-09-22 01:42:02 -04:00
-layout: post
-title: 怎样在公路上骑车
 ---
-本文针对美国的常见交通状况：<del datetime="2011-07-17T18:08:30+00:00">无专用自行车道</del>，在允许的情况下使用机动车道。
-
-<strong>2011-7-17 update</strong>:去了一次圣地亚哥，才发现那里对自行车运动的支持是多么好。具体可以看<a href="http://ztnote.com/2011/07/14/san-diego/" title="橘色的加州阳光（80 pics）">相关游记</a>。真是呆在一个地方久了就会变地井底之蛙。
+date: 2010-09-22 01:42:02
+title: 怎样在公路上骑车
+layout: post
+tags:
+    - 贴士
+categories:
+    - 自行车
+---
+<strong>2011-7-17 update</strong>:去了一次圣地亚哥，才发现那里对自行车运动的支持是多么好。具体可以看<a href="http://ztpala.com/2011/07/14/san-diego/" title="橘色的加州阳光（80 pics）">相关游记</a>。真是呆在一个地方久了就会变地井底之蛙。
 
 <!--more-->
 
@@ -22,21 +23,21 @@ title: 怎样在公路上骑车
 
 如果你骑的车道路边有停车，比如downtown的车道，则要注意与停车保持距离。如下面两幅图所示：
 
-<a href="http://ztnote.com/wp-content/uploads/2010/09/road2.gif"><img class="aligncenter size-full wp-image-3965" title="road2" src="http://ztnote.com/wp-content/uploads/2010/09/road2.gif" alt="" width="510" height="198" /></a>
+<a href="http://ztpala.com/wp-content/uploads/2010/09/road2.gif"><img class="aligncenter size-full wp-image-3965" title="road2" src="http://ztpala.com/wp-content/uploads/2010/09/road2.gif" alt="" width="510" height="198" /></a>
 
-<a href="http://ztnote.com/wp-content/uploads/2010/09/road3.gif"><img class="aligncenter size-full wp-image-3966" title="road3" src="http://ztnote.com/wp-content/uploads/2010/09/road3.gif" alt="" width="510" height="204" /></a>
+<a href="http://ztpala.com/wp-content/uploads/2010/09/road3.gif"><img class="aligncenter size-full wp-image-3966" title="road3" src="http://ztpala.com/wp-content/uploads/2010/09/road3.gif" alt="" width="510" height="204" /></a>
 
 考过驾照的都知道盲点，平时换道的时候要往后看一下确定盲点没车，光靠后视镜是不行的。自行车的目标更小，则有更大的盲点，要注意这点。
 
 另外要注意的则是不要随便变线，如下图所示，保持直线骑行，让后面的车始终能很容易的看到你，不要突然从路边冒出来，你永远不知道开车的人是否在发短信，打电话或其他。
 
-<a href="http://ztnote.com/wp-content/uploads/2010/09/road4.gif"><img class="aligncenter size-full wp-image-3971" title="road4" src="http://ztnote.com/wp-content/uploads/2010/09/road4.gif" alt="" width="510" height="120" /></a>
+<a href="http://ztpala.com/wp-content/uploads/2010/09/road4.gif"><img class="aligncenter size-full wp-image-3971" title="road4" src="http://ztpala.com/wp-content/uploads/2010/09/road4.gif" alt="" width="510" height="120" /></a>
 
 3. 突然变宽的路
 
-<a href="http://ztnote.com/wp-content/uploads/2010/09/road5.gif"><img class="aligncenter size-full wp-image-3967" title="road5" src="http://ztnote.com/wp-content/uploads/2010/09/road5.gif" alt="" width="245" height="275" /></a>
+<a href="http://ztpala.com/wp-content/uploads/2010/09/road5.gif"><img class="aligncenter size-full wp-image-3967" title="road5" src="http://ztpala.com/wp-content/uploads/2010/09/road5.gif" alt="" width="245" height="275" /></a>
 
-<a href="http://ztnote.com/wp-content/uploads/2010/09/road6.gif"><img class="aligncenter size-full wp-image-3968" title="road6" src="http://ztnote.com/wp-content/uploads/2010/09/road6.gif" alt="" width="245" height="275" /></a>
+<a href="http://ztpala.com/wp-content/uploads/2010/09/road6.gif"><img class="aligncenter size-full wp-image-3968" title="road6" src="http://ztpala.com/wp-content/uploads/2010/09/road6.gif" alt="" width="245" height="275" /></a>
 
 如上图所示，规则很简单，保持直线骑行。
 
@@ -46,7 +47,7 @@ title: 怎样在公路上骑车
 
 如果一个方向有两个车道但是都很窄，则最好在右侧车道的<strong>中间骑行</strong>。如果你很靠右边，则很容易被挤到马路外面去。如下图所示：
 
-<a href="http://ztnote.com/wp-content/uploads/2010/09/road9.gif"><img class="aligncenter size-full wp-image-3970" title="road9" src="http://ztnote.com/wp-content/uploads/2010/09/road9.gif" alt="" width="510" height="293" /></a>
+<a href="http://ztpala.com/wp-content/uploads/2010/09/road9.gif"><img class="aligncenter size-full wp-image-3970" title="road9" src="http://ztpala.com/wp-content/uploads/2010/09/road9.gif" alt="" width="510" height="293" /></a>
 
 交通法规是保护你的。它赋予你和机动车一样使用道路的权利，同时也给了你偶尔拖慢交通的权利。因为你无法往后看，所以机动车如果不能确保安全超车则必须减速。
 

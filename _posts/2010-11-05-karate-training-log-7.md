@@ -1,11 +1,13 @@
---- 
-categories: WordPressBackup
-date: 2010-11-05 16:26:31 -04:00
-layout: post
-title: "空手道记录 7"
 ---
-几个活跃份子本周要去South Dakota参加ISKF全国比赛。本以为会没什么人，结果还是来了十来个人。
-
+date: 2010-11-05 16:26:31
+title: 空手道记录 7
+layout: post
+tags:
+    - Dojo
+    - Kyu Exam
+categories:
+    - 空手道
+---
 练的内容挺有意思，所有人站成两排，如下
 <pre>
 @  @  @  @  @  @

@@ -1,11 +1,10 @@
---- 
-categories: WordPressBackup
-date: 2008-12-22 15:26:40 -05:00
-layout: post
-title: 酒罢问君三语
 ---
-《天龙八部》第四十六回，酒罢问君三语，对几个主角的个性心理进行了一番间接而有趣的勾画。尤其是慕容复：
-
+date: 2008-12-22 15:26:40
+title: 酒罢问君三语
+layout: post
+categories:
+    - 网志
+---
 <!--more-->
 
 “公子生平在什么地方最是快乐逍遥？”

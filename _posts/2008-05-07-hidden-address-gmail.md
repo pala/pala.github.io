@@ -1,11 +1,13 @@
---- 
-categories: WordPressBackup
-date: 2008-05-07 01:04:00 -04:00
-layout: post
-title: Gmail的两种隐藏地址
 ---
-<div class="level1">
-
+date: 2008-05-07 01:04:00
+title: Gmail的两种隐藏地址
+layout: post
+tags:
+    - Gmail
+    - Google
+categories:
+    - 电脑
+---
 每个Gmail邮箱地址都包含了两种隐藏地址，通过使用这两种地址，你可以很好的管理自己的收件箱。这里假如你的邮箱地址是”username@gmail.com”，那两种隐藏地址分别是：
 
 1.username+任意字母数字组合@gmail.com

@@ -1,12 +1,14 @@
---- 
-categories: WordPressBackup
-date: 2009-09-28 01:40:02 -04:00
-layout: post
-title: "I Love the World"
 ---
-来自Discovery Channel的一段视频, 只有短短一分钟长, 今天看了N遍, 每次都很感动.
-
-<iframe class="youtube-player" type="text/html" width="500" height="400" src="http://www.youtube.com/embed/V5BxymuiAxQ" frameborder="0"></iframe>
+date: 2009-09-28 01:40:02
+title: I Love the World
+layout: post
+tags:
+    - 感动
+    - 视频
+categories:
+    - 网志
+---
+[youtube http://www.youtube.com/watch?v=V5BxymuiAxQ&w=500&h=400]
 
 The World is Just Awesome.
 

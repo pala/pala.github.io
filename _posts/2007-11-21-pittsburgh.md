@@ -1,11 +1,13 @@
---- 
-categories: WordPressBackup
-date: 2007-11-21 00:08:32 -05:00
-layout: post
-title: 匹兹堡之行
 ---
-人物：azalea，pala
-
+date: 2007-11-21 00:08:32
+title: 匹兹堡之行
+layout: post
+tags:
+    - iPhone
+    - 宾夕法尼亚
+categories:
+    - 旅行
+---
 时间：11.17 - 11.18
 
 感谢：iPhone

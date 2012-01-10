@@ -1,11 +1,13 @@
---- 
-categories: WordPressBackup
-date: 2009-01-18 13:43:02 -05:00
-layout: post
-title: blog评论与Email洁癖
 ---
-还是先提一个问题: 假如你在某个blog上留言并得到博主或是其他网友的回复, 那么你是否希望此blog将你的留言和对你的回复Email给你?
-
+date: 2009-01-18 13:43:02
+title: blog评论与Email洁癖
+layout: post
+tags:
+    - Gmail
+    - WordPress
+categories:
+    - 电脑
+---
 <!--more-->
 
 对于我来说, 答案是肯定的. 首先不是直接回复我的评论是不会发邮件给我. 如果有人直接回复了我的评论, 无非是: 回答了我的问题, 或不同意我的观点, 或同意我的观点但说出我没看到的地方, 或仅仅是顶, 同意等'垃圾贴'.
@@ -24,7 +26,7 @@ WordPress(2.7)用户想要添加评论的邮件通知功能的话, 可以选择�
 
 那么以Gmail为例, 怎么保持邮箱的2.0版本的整洁呢. 答案是过滤器, 管理多个帐户的功能以及快速链接.
 
-通过有效利用Gmail的两个<a href="http://ztnote.com/2008/05/hidden-address-gmail/">隐藏地址</a>, 你可以很容易的将'人'发来的信和类似评论回复这种自动发送的信区分开来. 比如:
+通过有效利用Gmail的两个<a href="http://ztpala.com/2008/05/hidden-address-gmail/">隐藏地址</a>, 你可以很容易的将'人'发来的信和类似评论回复这种自动发送的信区分开来. 比如:
 
 我每次评论都使用myemail+comment@gmail.com 这个地址. 那么在Gmail的过滤器里, 我可以设置将发送到此地址的邮件标记为'评论'然后设置成自动存档. 这样你平时在收件箱里是看不到这些邮件的, 如果想看看最近有什么评论回复, 只要点击相关标记就可以了. 我自己订阅的某些时效性较强的邮件组甚至设置成了自动删除, 由于被删除邮件会保留30天, 这样即不影响看到这些邮件, 也不必操心删除一些过期的新闻.
 
@@ -36,4 +38,4 @@ WordPress(2.7)用户想要添加评论的邮件通知功能的话, 可以选择�
 
 另外如果你正在使用国产邮箱, 请注意可能有人正在<a href="http://robertmao.com/2009/01/12/big-brother-is-watching-gfw/" target="_blank">监视你的邮件</a>.
 
-如果你对Gmail还有其他功能上的要求, 请参阅<a href="http://ztnote.com/2009/01/suggest-a-feature-for-gmail/" target="_blank">此文章</a>.
+如果你对Gmail还有其他功能上的要求, 请参阅<a href="http://ztpala.com/2009/01/suggest-a-feature-for-gmail/" target="_blank">此文章</a>.

@@ -1,11 +1,10 @@
---- 
-categories: WordPressBackup
-date: 2008-05-30 01:02:06 -04:00
-layout: post
-title: 一段话
 ---
-原来特立独行的人，
-现在在人堆里。
+date: 2008-05-30 01:02:06
+title: 一段话
+layout: post
+categories:
+    - 网志
+---
 原来只爱嬉游的人，
 现在在厨房里。
 原来说永远的人，

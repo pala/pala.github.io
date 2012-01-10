@@ -1,11 +1,13 @@
---- 
-categories: WordPressBackup
-date: 2010-10-04 18:06:13 -04:00
-layout: post
-title: "在Google Earth中显示路线的海拔变化"
 ---
-不少人问，干脆在这写一下。
-<ol>
+date: 2010-10-04 18:06:13
+title: 在Google Earth中显示路线的海拔变化
+layout: post
+tags:
+    - Google Earth
+    - 贴士
+categories:
+    - 自行车
+---
 	<li>用"Add Path"画好路线</li>
 	<li>右击此路线然后选择"Show Elevation Profile"</li>
 	<li>File - Save - Save Image 或 File - Email - Email Image (保存截图)</li>

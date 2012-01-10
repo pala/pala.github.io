@@ -1,11 +1,13 @@
---- 
-categories: WordPressBackup
-date: 2011-05-22 15:59:45 -04:00
-layout: post
-title: 一波三折回国记
 ---
-<p style="text-align: center;"><a href="https://lh3.googleusercontent.com/-VIMRMWMLmOQ/TdcJGMHz13I/AAAAAAABTiU/FJcdX1rPOK4/s800/IMG_1609.JPG"><img class="aligncenter" title="HongKong" src="https://lh3.googleusercontent.com/-VIMRMWMLmOQ/TdcJGMHz13I/AAAAAAABTiU/FJcdX1rPOK4/s400/IMG_1609.JPG" alt="" width="400" height="300" /></a></p>
-1. 误机
+date: 2011-05-22 15:59:45
+title: 一波三折回国记
+layout: post
+tags:
+    - 澳门
+    - 香港
+categories:
+    - 旅行
+---
 
 以前每次回国都是现在美国转机然后飞往国内，这次是直飞香港。因为这个原因，我们没有做好提前三个小时到机场checkin的准备（国际航班）。另外从State College到纽约的bus又迟到了半小时，接着我们在Penn Station买去Newark机场的火车票又耽误了一会，等到我们准备checkin行李的时候，被告知飞机已经处于准备起飞的阶段了。而且到香港的飞机每天只有一班，如果要搭乘第二天的航班必须重新买票，两个人就是3000+美刀。这点我不明白的就是为何误了第一班飞机会同时让回程机票也无效。
 

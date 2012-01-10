@@ -1,26 +1,27 @@
---- 
-categories: WordPressBackup
-date: 2009-07-17 04:17:04 -04:00
-layout: post
-title: "入手iPhone 3GS"
 ---
-途径深圳，香港，阿拉斯加，印第安纳，宾州，FedEx还是在今早准时将3GS送到，先赞一下。另外应<a href="http://berit.azpala.com/" target="_blank">Berit</a>同学要求，在这里写一下使用报告。
-
+date: 2009-07-17 04:17:04
+title: 入手iPhone 3GS
+layout: post
+tags:
+    - iPhone
+categories:
+    - 电脑
+---
 <!--more-->
 
 包装比一代小了大概1/3。不过原来的dock没了。只剩一个很丑的电源插头。
 
-<a style="text-decoration:none;" href="http://ztnote.files.wordpress.com/2009/07/img_0141.jpg"><img class="aligncenter size-medium wp-image-2095" title="IMG_0141" src="http://ztnote.files.wordpress.com/2009/07/img_0141.jpg?w=400" alt="IMG_0141" width="400" height="300" /></a>
+<img class="alignnone" src="https://lh4.googleusercontent.com/-UHR9hqyzF5s/Sv_5a5NZLlI/AAAAAAAAmsM/HI6e7AI_p3k/s640/IMG_0141.JPG" alt="" width="640" height="480" />
 
-<a href="http://ztnote.files.wordpress.com/2009/07/img_0143.jpg"><img class="aligncenter size-medium wp-image-2096" title="IMG_0143" src="http://ztnote.files.wordpress.com/2009/07/img_0143.jpg?w=400" alt="IMG_0143" width="400" height="300" /></a>
+<img class="alignnone" src="https://lh3.googleusercontent.com/-arivRQcBc8U/Sv_5bGsjz_I/AAAAAAAAmso/w0DcbjGbeX8/s640/IMG_0143.JPG" alt="" width="640" height="480" />
 
 整个包装的确是很难再压缩了。
 
-<a href="http://ztnote.files.wordpress.com/2009/07/img_0145.jpg"><img class="aligncenter size-medium wp-image-2097" title="IMG_0145" src="http://ztnote.files.wordpress.com/2009/07/img_0145.jpg?w=400" alt="IMG_0145" width="400" height="300" /></a>
+<img class="alignnone" src="https://lh5.googleusercontent.com/-CaKBCRVNaAc/Sv_5bsm3gKI/AAAAAAAAms8/b2eVO5i1RM4/s640/IMG_0145.JPG" alt="" width="640" height="480" />
 
 下图可以看到右下角那个插头，不像一代里还能"变形"。
 
-<a href="http://ztnote.files.wordpress.com/2009/07/img_0146.jpg"><img class="aligncenter size-medium wp-image-2098" title="IMG_0146" src="http://ztnote.files.wordpress.com/2009/07/img_0146.jpg?w=400" alt="IMG_0146" width="400" height="300" /></a>
+<img class="alignnone" src="https://lh3.googleusercontent.com/-JupJe3Urjc0/Sv_5bk2x47I/AAAAAAAAmtM/a2evReLhWt8/s640/IMG_0146.JPG" alt="" width="640" height="480" />
 
 我和azalea都认为一代的手感是无敌的，金属外壳，不象3G后都变的黏黏的感觉。重量也重了一些。
 
@@ -44,4 +45,4 @@ title: "入手iPhone 3GS"
 7-20 update:
 视频效果:
 
-<p><a href="http://vimeo.com/5667499">大西洋城-街头艺术表演</a> from <a href="http://vimeo.com/tzh">Tao Zhang</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<a href="http://vimeo.com/5667499">大西洋城-街头艺术表演</a> from <a href="http://vimeo.com/tzh">Tao Zhang</a> on <a href="http://vimeo.com">Vimeo</a>.

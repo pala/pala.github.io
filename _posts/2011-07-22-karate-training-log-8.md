@@ -1,11 +1,12 @@
---- 
-categories: WordPressBackup
-date: 2011-07-22 02:55:49 -04:00
-layout: post
-title: "空手道记录 8"
 ---
-上次写空手道记录还是去年11月份绿带的时候，眼瞅着下个月就要考棕带了，时间过的真快。
-
+date: 2011-07-22 02:55:49
+title: 空手道记录 8
+layout: post
+tags:
+    - Dojo
+categories:
+    - 空手道
+---
 <!--more-->
 
 先记录一下Club的近况。
