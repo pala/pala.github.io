@@ -17,7 +17,7 @@ task :ping do
   begin
     require 'xmlrpc/client'
     puts '* Pinging ping-o-matic'
-    XMLRPC::Client.new('rpc.pingomatic.com', '/').call('weblogUpdates.extendedPing', 'ztnote' , 'http://ztnote.com', 'http://ztnote.com/atom.xml')
+    XMLRPC::Client.new('rpc.pingomatic.com', '/').call('weblogUpdates.extendedPing', 'ztpala' , 'http://ztpala.com', 'http://ztpala.com/atom.xml')
   rescue LoadError
     puts '! Could not ping ping-o-matic, because XMLRPC::Client could not be found.'
   end

@@ -7,7 +7,7 @@ permalink: /
   {% include single_page.html %}
 {% endfor %}
 
-<div class="span10">
+<div class="span11">
 	<div class="pagination">
 	<ul>
 		{% if paginator.previous_page %}
@@ -20,14 +20,14 @@ permalink: /
 		<li class="prev disabled"><a href="#">&larr; Previous</a></li>
 		{% endif %}
 		
-		{% if paginator.page < 11 %}
+		{% if paginator.page < 12 %}
 			{% if paginator.page == 1 %}
 				<li class="active"><a href="#">1</a></li>
 			{% else %}
 				<li><a href="/">1</a></li>
 			{% endif %}
 			
-			{% for count in (2..11) %}
+			{% for count in (2..12) %}
 				{% if count == paginator.page %}
 					<li class="active"><a href="#">{{count}}</a></li>
 				{% else %}
