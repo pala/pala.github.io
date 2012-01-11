@@ -8,33 +8,52 @@ tags:
 categories:
     - 电脑
 ---
+首先说一下申请地址，如果在网络上搜会得到以下地址：
+
 http://www.google.com/chromeos/pilot-program-cr48.html
+
 不过当时发布会快结束时，视频里出现了一个申请用二维码，然后赶紧用iPhone的Google程序扫描，得到下面这个申请地址：
+
 https://services.google.com/fb/forms/cr48basic/?referrer=qr
+
 和第一个申请表单不同的是，下面这个只有联系信息（上面一个包括很多调查选项），由于不是很确定到底是哪个，我两者都填了，其中一个用了azalea的名字，但当时就想，估计是二维码那个获得的机会更大，结果也是如此，今天一早就收到了，速度相当惊人。
 
 由于完全没预期，莫名其妙地拆箱时突然看到这幅图还吓了一跳，心想不会是包裹炸弹吧
 
-<a href="http://pic.ztpala.com/wp-content/uploads/2010/12/IMG_0781.jpg"><img class="aligncenter size-medium wp-image-4525" title="IMG_0781" src="http://pic.ztpala.com/wp-content/uploads/2010/12/IMG_0781-400x300.jpg" alt="" width="400" height="300" /></a>
-<p style="text-align:center;">然后看到正面的这个图案才明白怎么回事。</p>
-<a href="http://pic.ztpala.com/wp-content/uploads/2010/12/IMG_0029.jpg"><img class="aligncenter size-medium wp-image-4519" title="IMG_0029" src="http://pic.ztpala.com/wp-content/uploads/2010/12/IMG_0029-400x300.jpg" alt="" width="400" height="300" /></a>
-<p style="text-align:center;">两边固定的东东真像鸡蛋盒子</p>
-<a href="http://pic.ztpala.com/wp-content/uploads/2010/12/IMG_0031.jpg"><img class="aligncenter size-medium wp-image-4520" title="IMG_0031" src="http://pic.ztpala.com/wp-content/uploads/2010/12/IMG_0031-400x300.jpg" alt="" width="400" height="300" /></a>
-<p style="text-align:center;">Google是鼓励用户hacking和改装的，顺便做广告</p>
-<img class="aligncenter size-medium wp-image-4521" title="IMG_0032" src="http://pic.ztpala.com/wp-content/uploads/2010/12/IMG_0032-400x300.jpg" alt="" width="400" height="300" />
-<p style="text-align:center;">右侧那个是一张硬纸片，上面写着些环保及安全性相关的条目，有趣的是最开始的声明：</p>
+![](http://pic.ztpala.com/wp-content/uploads/2010/12/IMG_0781-400x300.jpg)
 
-<blockquote style="text-align:center;">Don't Panic.
-Read this paper. Then recycle it. Or make it into a paper airplane that you can give to your nephew.</blockquote>
-<p style="text-align:center;">中间的东西是电池，相当薄，似乎也很强劲，Google说可以用8小时。
+然后看到正面的这个图案才明白怎么回事。
+
+![](http://pic.ztpala.com/wp-content/uploads/2010/12/IMG_0029-400x300.jpg)
+
+两边固定的东东真像鸡蛋盒子
+
+![](http://pic.ztpala.com/wp-content/uploads/2010/12/IMG_0031-400x300.jpg)
+
+![](http://pic.ztpala.com/wp-content/uploads/2010/12/IMG_0032-400x300.jpg)
+
+右侧那个是一张硬纸片，上面写着些环保及安全性相关的条目，有趣的是最开始的声明：
+
+>Don't Panic.
+>Read this paper. Then recycle it.
+>Or make it into a paper airplane that you can give to your nephew.
+
+中间的东西是电池，相当薄，似乎也很强劲，Google说可以用8小时。
+
 囧的是我把它装到电脑上时竟然自动开机了，说自己开机快也不能把按开机键都省了吧。
-<img class="aligncenter size-medium wp-image-4522" title="IMG_0033" src="http://pic.ztpala.com/wp-content/uploads/2010/12/IMG_0033-400x300.jpg" alt="" width="400" height="300" /></p>
-<p style="text-align:center;">整体看，拍的颜色很差，不过实际比这好很多，尤其是外壳手感，非常好非常好。</p>
-<p style="text-align:center;"><img class="aligncenter size-medium wp-image-4523" title="IMG_0035" src="http://pic.ztpala.com/wp-content/uploads/2010/12/IMG_0035-300x400.jpg" alt="" width="300" height="400" /></p>
-<p style="text-align:center;">登陆时用Gmail帐号</p>
-<img class="aligncenter size-medium wp-image-4524" title="IMG_0780" src="http://pic.ztpala.com/wp-content/uploads/2010/12/IMG_0780-400x300.jpg" alt="" width="400" height="300" />
+
+![](http://pic.ztpala.com/wp-content/uploads/2010/12/IMG_0033-400x300.jpg)
+
+整体看，拍的颜色很差，不过实际比这好很多，尤其是外壳手感，非常好非常好。
+
+![](http://pic.ztpala.com/wp-content/uploads/2010/12/IMG_0035-300x400.jpg)
+
+登陆时用Gmail帐号
+
+![](http://pic.ztpala.com/wp-content/uploads/2010/12/IMG_0780-400x300.jpg)
 
 使用感受：
+
 1. 没有caps lock键，取而代之的是一个搜索键，行为是打开一个新tab。当然你可以用shift来大写。
 2. f键什么的都没有，上面一排是亮度，声音调节，以及前进后退切换tab等。
 3. 触摸板手感一般，不过也像macbook一样整个触摸板为一个键，可以双手指拖动网页及右击。

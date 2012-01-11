@@ -8,6 +8,9 @@ tags:
 categories:
     - 网志
 ---
+有位数学老师做了一个小小研究:
+
+快速通道往往不是最快的选择, 因为虽然每个人的东西很少, 但总是排了很多人. 这位老师计算了一下, 每添加一个人到队伍里, 不考虑这个人买了多少东西, 付账时间平均增加了48秒钟(刷卡, 签名, 找钱…). 而每一件要付款的东西仅仅占用了约2.8秒钟. 这样说了, 一个”顾客”占用的时间约等于17件商品.
 
 上文总结自<a href="http://lifehacker.com/5369876/how-to-choose-the-fastest-line-at-the-market" target="_blank">LifeHacker</a>
 

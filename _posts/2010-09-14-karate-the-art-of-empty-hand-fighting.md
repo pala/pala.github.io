@@ -7,8 +7,6 @@ tags:
 categories:
     - 空手道
 ---
-<!--more-->
-
 <img class="alignnone size-full wp-image-3925" title="Karate the Art of &quot;Empty-Hand&quot; Fighting" src="http://pic.ztpala.com/wp-content/uploads/2010/09/Screen-shot-2010-09-14-at-8.52.21-PM.png" alt="" width="412" height="557" />
 
 在网上买的二手书, 图文并茂, 解说详细, 非常好看. 作者之一是<a href="http://en.wikipedia.org/wiki/Hidetaka_Nishiyama" target="_blank">Hidetaka Nishiyama</a> - 十段黑带, 松涛馆流空手道创始人船越 義珍的徒弟.

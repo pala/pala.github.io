@@ -9,11 +9,11 @@ categories:
 ---
 在Instruments - Core Animation里有个选项叫做<code>Color Misaligned Images</code>，如果勾选此项，iOS设备上未精准对齐像素的元素都会被标记出来：
 
-<img class="alignnone" title="iPhone" src="https://lh4.googleusercontent.com/-8gSUG67EmdU/TXfjkehfeLI/AAAAAAABifI/DuucDYURCfg/s800/IMG_1536.PNG" alt="" width="320" height="480" />
+![iPhone](https://lh4.googleusercontent.com/-8gSUG67EmdU/TXfjkehfeLI/AAAAAAABifI/DuucDYURCfg/s800/IMG_1536.PNG)
 
 比如，你在计算<code>UITableViewCell</code>高度时返回了类似54.321这样的值，然后再用<code>drawAtPoint</code>显示文字时，系统就会进行一些类似反锯齿的操作，一来影响性能，二来看起来会让文字有些糊，如下图：
 
-<img src="https://lh3.googleusercontent.com/-U3NtBbfJS_o/TXfgq5rEpBI/AAAAAAABifI/-0Rjfs0Mvzw/s800/Screen%252520shot%2525202011-03-09%252520at%2525203.08.24%252520PM.png" alt="" /><img src="https://lh5.googleusercontent.com/-Va0Ra6ErHR4/TXfgqzBm3MI/AAAAAAABifI/dNMsQVjXPiE/s800/Screen%252520shot%2525202011-03-09%252520at%2525203.08.09%252520PM.png" alt="" />
+<img src="https://lh3.googleusercontent.com/-U3NtBbfJS_o/TXfgq5rEpBI/AAAAAAABifI/-0Rjfs0Mvzw/s800/Screen%252520shot%2525202011-03-09%252520at%2525203.08.24%252520PM.png" alt="" />![](https://lh5.googleusercontent.com/-Va0Ra6ErHR4/TXfgqzBm3MI/AAAAAAABifI/dNMsQVjXPiE/s800/Screen%252520shot%2525202011-03-09%252520at%2525203.08.09%252520PM.png)
 
 用DigitalColor Meter放大看一下会更清楚
 

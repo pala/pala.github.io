@@ -8,6 +8,8 @@ tags:
 categories:
     - 自行车
 ---
+![](http://lh6.ggpht.com/_JkjZvHYNoXw/TKtSJ4hHI0I/AAAAAAABIHM/0lnAdx79Jyc/s400/biking%20.jpg)
+
 路线的kmz文件可以<a href="http://goo.gl/6918">在此下载</a>。
 
 里程：43.5+6.5×2=56.5km

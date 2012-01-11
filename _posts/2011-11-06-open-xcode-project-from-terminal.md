@@ -7,10 +7,10 @@ tags:
 categories:
     - 电脑
 ---
-open YourProject.xcodeproj
+`open YourProject.xcodeproj`
 
 如果想要更方便一些可以用以下方法保存成一个命令：
 
-<code>echo 'alias xcode="open *xcodeproj"' &gt;&gt; ~/.profile</code>
+`echo 'alias xcode="open *xcodeproj"' >> ~/.profile`
 
 <a href="http://www.codeography.com/2009/10/28/open-xcode-project-from-the-command-line.html">via</a>

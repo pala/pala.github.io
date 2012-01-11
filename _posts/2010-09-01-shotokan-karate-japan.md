@@ -7,6 +7,6 @@ tags:
 categories:
     - 空手道
 ---
-<!--more-->
+很帅的松涛馆流空手道视频一枚，配乐剪辑及里面的镜头都很合我胃口
 
-[youtube http://www.youtube.com/watch?v=-4KSLUzv3sQ&fs=1&hl=en_US&rel=0] 
+<iframe width="640" height="480" src="http://www.youtube.com/embed/-4KSLUzv3sQ?rel=0" frameborder="0" allowfullscreen></iframe>

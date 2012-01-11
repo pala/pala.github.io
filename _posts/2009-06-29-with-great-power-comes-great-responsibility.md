@@ -21,4 +21,4 @@ categories:
 
 下一个是Twitter吗？还是FriendFeed？
 
-With Great Tweet Comes Great Responsibility.
+>With Great Tweet Comes Great Responsibility.

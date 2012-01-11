@@ -8,7 +8,7 @@ tags:
 categories:
     - 自行车
 ---
-Max Speed:43.46
-Avg Speed:22:00
-Trip Dist:212.56
-Trip Time:9:38:00
+* Max Speed:43.46
+* Avg Speed:22:00
+* Trip Dist:212.56
+* Trip Time:9:38:00

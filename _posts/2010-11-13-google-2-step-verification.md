@@ -4,6 +4,7 @@ title: Google帐户的两步验证
 layout: post
 tags:
     - Google
+    - 网络安全
 categories:
     - 电脑
 ---
@@ -13,7 +14,9 @@ categories:
 
 对于iChat客户端或iPhone上的邮箱这种第三方软件，你需要输入一个访问码（注，不是上面说的验证码），这个访问码可以在Google帐户里的信任网页列表里生成。
 
-<a href="http://pic.ztpala.com/wp-content/uploads/2010/11/Screen-shot-2010-11-13-at-1.15.00-PM.png"><img class="aligncenter size-full wp-image-4503" title="Screen shot 2010-11-13 at 1.15.00 PM" src="http://pic.ztpala.com/wp-content/uploads/2010/11/Screen-shot-2010-11-13-at-1.15.00-PM.png" alt="" width="460" height="104" /></a>针对每个软件生成不同的访问码，这样可以随时拒绝某个软件的访问。而且这个访问码只有在生成的时候显示一次，保证了安全性。至于web程序，尤其是那种让你直接填gmail密码的网站，不要用访问码，当然更不要透露Google密码，安全的网站会跳转到Google网页验证，得到相关的权限。
+![](http://pic.ztpala.com/wp-content/uploads/2010/11/Screen-shot-2010-11-13-at-1.15.00-PM.png)
+
+针对每个软件生成不同的访问码，这样可以随时拒绝某个软件的访问。而且这个访问码只有在生成的时候显示一次，保证了安全性。至于web程序，尤其是那种让你直接填gmail密码的网站，不要用访问码，当然更不要透露Google密码，安全的网站会跳转到Google网页验证，得到相关的权限。
 
 这种验证比原来的仅密码验证安全了不少，如果想在你的电脑之外的设备上登录，比如知道你的密码，并且拿到你用来取回密码的手机或者消耗一个备用验证码。
 

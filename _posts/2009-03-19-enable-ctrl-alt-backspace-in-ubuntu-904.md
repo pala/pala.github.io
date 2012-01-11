@@ -7,11 +7,12 @@ categories:
 ---
 1. Edit /etc/X11/xorg.conf
 
-Section "ServerFlags"
+    <pre class="prettyprint">Section "ServerFlags"
 Option	"DontZap"	"<strong>False</strong>"
 EndSection
-
+</pre>
 2. via command
-dontzap --disable
+
+    `dontzap --disable`
 
 <a href="http://www.ubuntu.com/testing/jaunty/alpha6#Known%20issues" target="_blank">via</a>

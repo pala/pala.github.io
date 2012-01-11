@@ -8,17 +8,17 @@ tags:
 categories:
     - 自行车
 ---
-发信站: 日月光华 (2007年05月10日12:39:33 星期四), 站内信件
+>发信站: 日月光华 (2007年05月10日12:39:33 星期四), 站内信件
 
-azalea
-TRIP DIST:21.82
-AVG SPEED:28.42
-MAX SPEED:41.82
+###azalea
+* TRIP DIST:21.82
+* AVG SPEED:28.42
+* MAX SPEED:41.82
 
-pala
-TRIP DIST:28.81
-AVG SPEED:31.02
-MAX SPEED:42.07
+###pala
+* TRIP DIST:28.81
+* AVG SPEED:31.02
+* MAX SPEED:42.07
 
 原来的那个大圈好象走不通了，绕的小圈，感觉风还是有点大，所以骑到出发点对角的
 那个弯时会听到风声瞬间没了，很爽 呵呵。半圈痛苦半圈爽....

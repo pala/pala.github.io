@@ -9,3 +9,5 @@ categories:
     - 网志
 ---
 被这位小朋友感动了一把。
+
+![](http://lh4.ggpht.com/_JkjZvHYNoXw/TJ47WSMQeKI/AAAAAAABGEw/u8dX-31z12o/s800/smilekid.jpg)

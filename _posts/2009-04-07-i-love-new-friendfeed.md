@@ -9,25 +9,25 @@ categories:
 
 1. 改进版的realtime体验
 
-我最喜欢的FriendFeed的发明第一个是'like', 第二个就是realtime. 极大的改善浏览体验. 很难说好在哪里, 就像第一次用iPhone的感觉一样.
+    我最喜欢的FriendFeed的发明第一个是'like', 第二个就是realtime. 极大的改善浏览体验. 很难说好在哪里, 就像第一次用iPhone的感觉一样.
 
 2. 可以保存的Filter和搜索
 
-轻而易举的找到自己关心的热点或者让很多人喜欢的条目. 比如新建一个过滤器, 寻找所有超过30或更多人喜欢的条目.在这里往往能看到自己并未订阅但很有意思的东西. 或者搜索一些关键字, 然后直接保存这个搜索(twitter目前也支持这个功能).
+    轻而易举的找到自己关心的热点或者让很多人喜欢的条目. 比如新建一个过滤器, 寻找所有超过30或更多人喜欢的条目.在这里往往能看到自己并未订阅但很有意思的东西. 或者搜索一些关键字, 然后直接保存这个搜索(twitter目前也支持这个功能).
 
 3. Room, Imaginary Friend统一归为可订阅的Feed
 
-有人说这个改变很让人迷惑,不过我觉得这个改变使得FriendFeed更容易使用. 比如地址栏里不再有'/room'. 这个改变也和下面一个新特色有关:
+    有人说这个改变很让人迷惑,不过我觉得这个改变使得FriendFeed更容易使用. 比如地址栏里不再有'/room'. 这个改变也和下面一个新特色有关:
 
 4. 可以订阅某人的'like','comment'
 
-新版本的FF让一切都归于可订阅的feed这个概念. 包括某个用户的'like'.<img class="aligncenter size-full wp-image-2056" title="picture-2" src="http://pic.ztpala.com/wp-content/uploads/2009/04/picture-2.png" alt="picture-2" width="489" height="73" />
+    新版本的FF让一切都归于可订阅的feed这个概念. 包括某个用户的'like'.<img class="aligncenter size-full wp-image-2056" title="picture-2" src="http://pic.ztpala.com/wp-content/uploads/2009/04/picture-2.png" alt="picture-2" width="489" height="73" />
 
-现在我可以订阅和我兴趣相近或者自己比较关注的用户的like, 统一将他们放入一个List, 这样便可以很方便的看到自己关注的朋友们最近都在喜欢什么.
+    现在我可以订阅和我兴趣相近或者自己比较关注的用户的like, 统一将他们放入一个List, 这样便可以很方便的看到自己关注的朋友们最近都在喜欢什么.
 
 5. 快捷键
 
-虽然目前功能不是很强大, 但代表着一个好的开始.
+    虽然目前功能不是很强大, 但代表着一个好的开始.
 
 6. 其他细节上的改变, 比如DM时可以选择多个目标, 自动补全功能, 默认放置了'my discussions' 链接等等
 

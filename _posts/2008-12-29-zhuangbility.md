@@ -15,12 +15,17 @@ categories:
 
 在 <a href="http://www.catb.org/~esr/faqs/hacker-howto.html" target="_blank">How To Become A Hacker</a> 里这么几句非常著名的话:
 
-To follow the path:
-look to the master,
-follow the master,
-walk with the master,
-see through the master,
-become the master.
+>To follow the path:
+
+>look to the master,
+
+>follow the master,
+
+>walk with the master,
+
+>see through the master,
+
+>become the master.
 
 这 follow the master 的过程, 可能就是一个充斥着装逼的过程. 要达到 walk with the master 的境界, 装作自己也是一个master未尝不是一个很好的方法. 但前提是你要 look to the master, 看清了什么是牛逼.
 
