@@ -7,6 +7,14 @@ keywords:
   - archive
 ---
 <div id="span10">
+<h3>关键词</h3>
+{% assign tags_list = site.tags %}
+{% include helpers/tags_list.html %}
+<hr>
+<h3>分类</h3>
+{% assign categories_list = site.categories %}
+{% include helpers/categories_list.html %}
+<hr>
 {% capture post_year1 %}{{ 'now' | date: '%Y' }}{% endcapture %}
 <h3>{{ post_year1 }}</h3>
 <ul>

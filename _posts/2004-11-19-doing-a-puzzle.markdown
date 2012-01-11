@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: 在做一个智力游戏
-date: 2004-11-49 20:33:28
+date: 2004-11-18 20:33:28
 categories:
     - 网志
 tags:

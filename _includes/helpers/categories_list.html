@@ -19,15 +19,11 @@ Usage:
 
 {% if categories_list.first[0] == null %}
   {% for category in categories_list %} 
-  	<li><a href="/category/#{{ category }}"><span class="label">
-  		{{ category | join: "/" }}</span> <span class="label notice">{{ site.categories[category].size }}</span>
-  	</a></li>
+<a href="/category/#{{ category }}"><span class="label notice">{{ category | join: "/" }} {{ site.categories[category].size }}</span></a>
   {% endfor %}
 {% else %}
   {% for category in categories_list %} 
-  	<li><a href="/category/#{{ category[0] }}"><span class="label">
-  		{{ category[0] | join: "/" }} {{ category[1].size }}</span>
-  	</a></li>
+<a href="/category/#{{ category[0] }}"><span class="label notice">{{ category[0] | join: "/" }} {{ category[1].size }}</span></a>
   {% endfor %}
 {% endif %}
 
