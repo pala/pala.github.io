@@ -3,9 +3,9 @@ date: 2005-09-19 15:46:00
 title: 一些感想
 layout: post
 tags:
-    - Kyu Exam
+    - 复旦车协
 categories:
-    - 空手道
+    - 自行车
 ---
 先说一件小事
 就是回来飙的很high的那段路,休息后一个转弯的地方
