@@ -71,10 +71,8 @@ categories:
 ###总结
 
 拉斯维加斯真是很神奇的一个地方，适合短时间的醉生梦死。就像当时在那开演唱会的孙燕姿<a href="http://twitter.com/#!/Stefsunyanzi/status/19697881485156352" target="_blank">所推的那样</a>：
-<blockquote class="twitter-tweet">Vegas 真的很夸张耶。他能让你忘记你以往的作习。充满诱惑，充满光鲜亮丽。好特别。这里不是人间天堂，他不是正常人居住的地方，但是依然让人叹为观止。
+>Vegas 真的很夸张耶。他能让你忘记你以往的作习。充满诱惑，充满光鲜亮丽。好特别。这里不是人间天堂，他不是正常人居住的地方，但是依然让人叹为观止。<small>Stef Sun</small>
 
-<blockquote class="twitter-tweet"><p>Vegas 真的很夸张耶。他能让你忘记你以往的作习。充满诱惑，充满光鲜亮丽。好特别。这里不是人间天堂，他不是正常人居住的地方，但是依然让人叹为观止。</p>&mdash; Stef Sun(@Stefsunyanzi) <a href="https://twitter.com/Stefsunyanzi/status/19697881485156352" data-datetime="2010-12-28T10:15:15+00:00">December 28, 2010</a></blockquote>
-<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 注：这次出去没带相机，所有照片和视频均由iPhone 3gs拍的，效果不是很理想，不过对于记录也应该够了。
 
