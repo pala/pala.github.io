@@ -18,7 +18,7 @@ categories:
 
 和azalea说下次再去拉斯维加斯的话，要选择Bellagio，它最吸引人的地方则是门口的超大喷泉及林荫道，另外还有传说中Vegas最好的buffet。这个喷泉从下午开始，定时表演。配以不同的音乐，非常美妙。个人最喜欢下面这首：
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/Cq8wcurr0p4?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="580" height="423" src="http://www.youtube.com/embed/Cq8wcurr0p4?rel=0" frameborder="0" allowfullscreen></iframe>
 
 优酷版在<a href="http://v.youku.com/v_show/id_XMjMzNzM2ODYw.html" target="_blank">这里</a>
 
@@ -50,7 +50,7 @@ categories:
 
 终于可以大模大样的拿着酒瓶在街上边走边喝了。赌场里也是各种酒吧。如果直接向到处溜达的比基尼美女服务员要酒，开好瓶的冰啤酒只要1刀，无小费。呆在拉斯维加斯的日子里，你可以整天醉醺醺的。这里推荐一下New York New York里的酒吧The Bar at Time Square。晚上8点到凌晨2点，会有两个人的钢琴表演，你写什么歌，加点小费，他们就为你弹唱。最热闹的是1点后，大家开始掏钱竞标两个人中自己中意的一个唱last song，此时需要下大价钱才能竞标到。两个歌手也是相当卖力。钞票，酒精，音乐，加起来在拉斯维加斯产生的效果真是不可想象，最神奇的是演出歌手似乎什么歌都会弹会唱。
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/pn20YRsbEik?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="580" height="423" src="https://www.youtube.com/embed/pn20YRsbEik?rel=0" frameborder="0" allowfullscreen></iframe>
 
 优酷版在<a href="http://v.youku.com/v_show/id_XMjMzNzM4ODI4.html" target="_blank">这里</a>
 
@@ -75,4 +75,4 @@ categories:
 
 — Stef Sun(@Stefsunyanzi) <a href="https://twitter.com/Stefsunyanzi/status/19697881485156352" data-datetime="2010-12-28T10:15:15+00:00">December 28, 2010</a></blockquote>
 <script charset="utf-8" type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
-注：这次出去没带相机，所有照片和视频均由iPhone 3gs拍的，效果不是很理想，不过对于记录也应该够了。具体攻略可以看下面的Pingback，azalea同学写的详细攻略。☟
+注：这次出去没带相机，所有照片和视频均由iPhone 3gs拍的，效果不是很理想，不过对于记录也应该够了。具体攻略可以看azalea同学写的[详细攻略](http://azaleasays.com/2011/01/03/las-vegas-tips/)。
