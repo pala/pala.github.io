@@ -9,5 +9,4 @@ author: Tao Zhang
 email: ztpala@gmail.com
 pygments: true
 auto: true
-ftp_host: ftp.azaleasays.com
-ftp_dir: /public_html/ztpala
+paginate: 3

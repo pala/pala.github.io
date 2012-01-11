@@ -15,7 +15,7 @@ categories:
 
 中间特定拿Heian Yondan(我下次要考的kata)作为例子详解, 步法及相关用途都写的一清二楚.
 
-<a href="http://pic.ztpala.com/wp-content/uploads/2010/09/Screen-shot-2010-09-14-at-8.57.21-PM.png"><img class="alignnone size-medium wp-image-3926" title="Heian Yondan" src="http://ztpala.com/wp-content/uploads/2010/09/Screen-shot-2010-09-14-at-8.57.21-PM-500x392.png" alt="" width="500" height="392" /></a>
+<a href="http://pic.ztpala.com/wp-content/uploads/2010/09/Screen-shot-2010-09-14-at-8.57.21-PM.png"><img class="alignnone size-medium wp-image-3926" title="Heian Yondan" src="http://pic.ztpala.com/wp-content/uploads/2010/09/Screen-shot-2010-09-14-at-8.57.21-PM-500x392.png" alt="" width="500" height="392" /></a>
 
 就像我在豆瓣里评价的一样:
 <blockquote>有点理解为啥武侠小说里抢武功秘籍抢夺那么high, 原来此种书看起来这么爽.</blockquote>

@@ -12,7 +12,7 @@ categories:
 
 
 
-<a href="http://pic.ztpala.com/wp-content/uploads/2009/01/beer.jpg"><img class="aligncenter size-medium wp-image-1682" title="beer" src="http://ztpala.com/wp-content/uploads/2009/01/beer.jpg?w=300" alt="beer" width="300" height="400" /></a>
+<a href="http://pic.ztpala.com/wp-content/uploads/2009/01/beer.jpg"><img class="aligncenter size-medium wp-image-1682" title="beer" src="http://pic.ztpala.com/wp-content/uploads/2009/01/beer.jpg?w=300" alt="beer" width="300" height="400" /></a>
 
 另外所谓男女有别, 老友记里的演绎算是经典
 

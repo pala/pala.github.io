@@ -12,7 +12,7 @@ categories:
 到了植物园开始观察周围的牛车,唉,多数都是万元以上的好车阿,口水.接着就慌慌张张的领号码布,计时器什么的,急急忙忙的进园比赛.这次的比赛是分为精 英组和业余组的.本以为那些万元的车都是精英组的,谁知道快比赛时发现都和自己一个组, 我哭,名次是不想了,只要别摔了就ok.
 发令枪响,比赛开始,第一个转弯我就被前面一人给别了一下,后面的车直接撞到我后轮,都差点摔了.继续上路.那个赛道就在植物园里,一个2公里的圈,要绕 十圈,路还不好&gt;&lt;接下来我都处在一个前面后面都看不到人的地方,把我给累的阿,毕竟很久没有这么大运动量的活动了.果然,赛程过半,我就被 套圈了&gt;&lt;中间还有一段冲出赛道,差点摔倒,还在一个很陡的弯看到一个人摔的脸上出血了.自己也是小心谨慎的骑.最后到第九圈就被告知比赛结 束.最后成绩:没成绩,因为被套圈&gt;&lt;自己数了一下,52个人排名第29,惨阿!!!!!!
 
-<a href="http://pic.ztpala.com/wp-content/uploads/2006/11/9587113.jpg"><img class="aligncenter size-full wp-image-2444" title="9587113" src="http://ztpala.com/wp-content/uploads/2006/11/9587113.jpg" alt="9587113" width="600" height="450" /></a>
+<a href="http://pic.ztpala.com/wp-content/uploads/2006/11/9587113.jpg"><img class="aligncenter size-full wp-image-2444" title="9587113" src="http://pic.ztpala.com/wp-content/uploads/2006/11/9587113.jpg" alt="9587113" width="600" height="450" /></a>
 
 比赛结束,下面就开始纯正的玩了,hoho
 接下来是女子的比赛.azalea所在的A组也马上开始,我千叮咛万嘱咐让她小心,最后平平安安的拿了个第八名,不错阿.

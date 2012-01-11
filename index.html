@@ -3,18 +3,67 @@ layout: default
 title: pala的网络日志
 permalink: /
 ---	
-{% for post in site.posts limit:3 %}
-<div class="span10">
-<a href="{{post.url}}"><h2>{{ post.title }}</h2></a>
-</div>
-<div class="date">
-{{ post.date | date:"%Y-%m-%d" }}
-</div>
-{{ post.content }}
+{% for page in paginator.posts %}
+  {% include single_page.html %}
+{% endfor %}
 
-{% for tag in post.tags %}
-<a href="/tags#{{ tag }}"><span class="label">{{ tag }}</span></a> 
-{% endfor %}
-<hr>
-{% endfor %}
-<p><a class="btn"  href="/archive/">查看所有{{ site.posts | size }}篇文章 &raquo;</a></p>
+<div class="span10">
+	<div class="pagination">
+	<ul>
+		{% if paginator.previous_page %}
+			{% if paginator.previous_page == 1 %}
+			<li class="prev"><a href="/">&larr; Previous</a></li>
+			{% else %}
+			<li class="prev"><a href="/page{{paginator.previous_page}}">&larr; Previous</a></li>
+			{% endif %}
+		{% else %}
+		<li class="prev disabled"><a href="#">&larr; Previous</a></li>
+		{% endif %}
+		
+		{% if paginator.page < 11 %}
+			{% if paginator.page == 1 %}
+				<li class="active"><a href="#">1</a></li>
+			{% else %}
+				<li><a href="/">1</a></li>
+			{% endif %}
+			
+			{% for count in (2..11) %}
+				{% if count == paginator.page %}
+					<li class="active"><a href="#">{{count}}</a></li>
+				{% else %}
+					<li><a href="/page{{count}}">{{count}}</a></li>
+				{% endif %}
+			{% endfor %}
+		
+		
+		{% else %}
+			{% for count in (0..paginator.total_pages) offset:paginator.page limit:9%}
+				{% if paginator.page == count%}
+					<li class="active"><a href="#">{{ paginator.page }}</a></li>
+				{% else %}
+					<li><a href="/page{{count}}">{{count}}</a></li>
+				{% endif %}
+			{% endfor %}
+		
+			
+		{% else %}
+			{% for count in (0..5) %}
+				{% if count == paginator.page %}
+					<li class="active"><a href="#">{{count}}</a></li>
+				{% else %}
+					<li><a href="/page{{count}}">ccc</a></li>
+				{% endif %}
+			{% endfor %}
+		{% endif %}	
+			
+		{% if paginator.next_page %}
+			<li class="next"><a href="/page{{paginator.next_page}}">Next &rarr;</a></li>
+		{% else %}
+			<li class="next disabled"><a href="#">Next &rarr;</a></li>
+		{% endif %}
+			
+	</ul>
+	</div>
+</div>
+	
+<p align="center"><a class="btn"  href="/archive/">查看所有{{ site.posts | size }}篇文章 &raquo;</a></p>

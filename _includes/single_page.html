@@ -1,14 +1,12 @@
-<h2 class="title"><a href="{{ page.url }}">{{ page.title }}</a></h2> 
-  <div class="post post-{{ page.id }}">
+<div class="span10">
+<a href="{{ page.url }}"><h2>{{ page.title }}</h2></a>
+</div>
+<div class="date">
+{{ page.date | date:"%Y-%m-%d" }}
+</div>
+{{ page.content }}
 
-    <p class="author">
-	{{ page.date | date: '%b %d %Y' }}
-    | {% for category in page.categories %}
-       <a href="/{{category | downcase}}.html">{{category}}</a>
-      {% endfor %}
-    </p>
-    
-    <div class="entrybody">
-      {{ page.content }}
-    </div>
-  </div>
+{% for tag in page.tags %}
+<a href="/tags#{{ tag }}"><span class="label">{{ tag }}</span></a> 
+{% endfor %}
+<hr>

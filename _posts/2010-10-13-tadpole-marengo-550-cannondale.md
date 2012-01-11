@@ -18,13 +18,13 @@ categories:
 kmz文件: <a href="http://goo.gl/2W4O" target="_blank">http://goo.gl/2W4O</a>
 
 这条路线算的上周围地势比较平坦的了，路况也是相当赞。休闲竞速都可以。上几张图片：
-<p style="text-align:center;"><!--more--><a href="http://pic.ztpala.com/wp-content/uploads/2010/10/IMG_0361.jpg"><img class="size-medium wp-image-4429  aligncenter" title="IMG_0361" src="http://ztpala.com/wp-content/uploads/2010/10/IMG_0361-400x300.jpg" alt="" width="400" height="300" /></a></p>
+<p style="text-align:center;"><!--more--><a href="http://pic.ztpala.com/wp-content/uploads/2010/10/IMG_0361.jpg"><img class="size-medium wp-image-4429  aligncenter" title="IMG_0361" src="http://pic.ztpala.com/wp-content/uploads/2010/10/IMG_0361-400x300.jpg" alt="" width="400" height="300" /></a></p>
 <p style="text-align:center;">树叶的色彩很丰富</p>
-<a href="http://pic.ztpala.com/wp-content/uploads/2010/10/IMG_0366.jpg"><img class="aligncenter size-medium wp-image-4431" title="IMG_0366" src="http://ztpala.com/wp-content/uploads/2010/10/IMG_0366-400x300.jpg" alt="" width="400" height="300" /></a>
+<a href="http://pic.ztpala.com/wp-content/uploads/2010/10/IMG_0366.jpg"><img class="aligncenter size-medium wp-image-4431" title="IMG_0366" src="http://pic.ztpala.com/wp-content/uploads/2010/10/IMG_0366-400x300.jpg" alt="" width="400" height="300" /></a>
 <p style="text-align:center;">传说中的AccuWeather总部</p>
-<a href="http://pic.ztpala.com/wp-content/uploads/2010/10/IMG_0366.jpg"></a><a href="http://ztpala.com/wp-content/uploads/2010/10/IMG_0373.jpg"><img class="aligncenter size-medium wp-image-4432" title="IMG_0373" src="http://ztpala.com/wp-content/uploads/2010/10/IMG_0373-400x300.jpg" alt="" width="400" height="300" /></a>
+<a href="http://pic.ztpala.com/wp-content/uploads/2010/10/IMG_0366.jpg"></a><a href="http://pic.ztpala.com/wp-content/uploads/2010/10/IMG_0373.jpg"><img class="aligncenter size-medium wp-image-4432" title="IMG_0373" src="http://ztpala.com/wp-content/uploads/2010/10/IMG_0373-400x300.jpg" alt="" width="400" height="300" /></a>
 <p style="text-align:center;">天蓝地阔</p>
-<a href="http://pic.ztpala.com/wp-content/uploads/2010/10/IMG_0381.jpg"><img class="aligncenter size-medium wp-image-4433" title="IMG_0381" src="http://ztpala.com/wp-content/uploads/2010/10/IMG_0381-400x300.jpg" alt="" width="400" height="300" /></a>
+<a href="http://pic.ztpala.com/wp-content/uploads/2010/10/IMG_0381.jpg"><img class="aligncenter size-medium wp-image-4433" title="IMG_0381" src="http://pic.ztpala.com/wp-content/uploads/2010/10/IMG_0381-400x300.jpg" alt="" width="400" height="300" /></a>
 <p style="text-align:center;">刚想写本篇blog，发现窗外飘来一个巨大的热气球</p>
-<a href="http://pic.ztpala.com/wp-content/uploads/2010/10/IMG_0384.jpg"><img class="aligncenter size-medium wp-image-4434" title="IMG_0384" src="http://ztpala.com/wp-content/uploads/2010/10/IMG_0384-300x400.jpg" alt="" width="300" height="400" /></a>
+<a href="http://pic.ztpala.com/wp-content/uploads/2010/10/IMG_0384.jpg"><img class="aligncenter size-medium wp-image-4434" title="IMG_0384" src="http://pic.ztpala.com/wp-content/uploads/2010/10/IMG_0384-300x400.jpg" alt="" width="300" height="400" /></a>
 <p style="text-align:center;">降落到旁边的停车场，大伙纷纷出来围观</p>

@@ -3,7 +3,7 @@ layout: nil
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xml:lang="en-US" xmlns:media="http://search.yahoo.com/mrss/"  xmlns="http://www.w3.org/2005/Atom">
-  <title>ZTNOTE</title>
+  <title>pala的网络日志</title>
   <link type="text/html" href="http://{{ site.domain }}" rel="alternate"/>
   <link type="application/atom+xml" href="http://{{ site.domain }}/atom.xml" rel="self"/>
   <updated>{{site.time | date_to_xmlschema }}</updated>
