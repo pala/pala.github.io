@@ -21,7 +21,7 @@ categories:
 
 丢了这辆后自己开始对fd的丢车情况有了十分清醒的认识，接着就花了20块从室友那里买来一辆后来经常被嘲笑的破旧永久。曾经有一次对着要拐弯的奥迪按铃铛，接着悠哉悠哉的骑过去，被传为笑谈-，-这辆车最后的结果是在实在不能骑后放在室外，一直没有再动它。
 
-下面的一辆车算是一个骑车生涯的转折点。当时是花了380块巨资买的一辆喜得胜牌公路车。图装非常的PP。接着开始寻思着用它来骑个长途，再接着开始认识了自行车协会，然后有了自己的<a href="http://ztpala.com/2005/10/first_cycling/" target="_blank">第一次长途骑行</a>，大概250km，现在想想，真是无知者无畏啊。
+下面的一辆车算是一个骑车生涯的转折点。当时是花了380块巨资买的一辆喜得胜牌公路车。图装非常的PP。接着开始寻思着用它来骑个长途，再接着开始认识了自行车协会，然后有了自己的第一次长途骑行，大概250km，现在想想，真是无知者无畏啊。
 
 后来这辆车在一次小事故中被撞裂了前轮，然后怎么也找不到能配的地方，一直停在室外，没过几天竟然丢了，不知道那小偷是怎么弄走的。
 
@@ -30,6 +30,6 @@ categories:
 
 ![](https://lh3.googleusercontent.com/-o3ZOjf4gXxQ/SwAcJnAkJRI/AAAAAAAA-L4/KkoJ6Gn2BOg/s640/PIC_0046.JPG)
 
-2005年夏天，在车版潜水一段时间后决定买辆好一点的，结果计划的speed-x最后一路飚升到Windmark-1，从这辆车开始，我算真正变成了车协的一员。刚开始自己骑了湖州，杭州，后来第一次参加了车协活动<a href="http://ztpala.com/2005/09/cycling-xitang-fca/" target="_self">西塘</a>，一个月后自己不经意间组织了一次十一长途骑行：<a href="http://ztpala.com/2005/10/moganshan1/">莫干山安吉之行</a>。从那时开始慢慢变成了车协里的比较活跃的会员。 06年五一十一和6x一起组织的两次活动：<a href="http://azaleasays.com/blog/item/639d9a515ab4ab8e8c5430b7.html">浙西大峡谷</a>，<a href="http://ztpala.com/2006/11/zhenan/">浙南行</a>，在这两次活动中，认识了许许多多的好朋友还有我lp，与他们一起出行的日子，留下了太多美好的回忆。期间还参加了南汇，崇明，西塘等比较短的骑行。
+2005年夏天，在车版潜水一段时间后决定买辆好一点的，结果计划的speed-x最后一路飚升到Windmark-1，从这辆车开始，我算真正变成了车协的一员。刚开始自己骑了湖州，杭州，后来第一次参加了车协活动[西塘](http://ztpala.com/2005/09/19/cycling-xitang-fca/)，一个月后自己不经意间组织了一次十一长途骑行：<a href="http://ztpala.com/2005/10/05/moganshan1/">莫干山安吉之行</a>。从那时开始慢慢变成了车协里的比较活跃的会员。 06年五一十一和6x一起组织的两次活动：<a href="http://azaleasays.com/blog/item/639d9a515ab4ab8e8c5430b7.html">浙西大峡谷</a>，<a href="http://ztpala.com/2006/11/05/zhenanxing/">浙南行</a>，在这两次活动中，认识了许许多多的好朋友还有我lp，与他们一起出行的日子，留下了太多美好的回忆。期间还参加了南汇，崇明，西塘等比较短的骑行。
 
-07年开始到现在参加的活动都不是很多，五一十一都没有参加和组织长途骑行，只有几次小活动：<a href="http://azaleasays.com/blog/item/27667f9005813a8ca977a488.html" target="_blank">崇明</a>，<a href="http://ztpala.com/2007/05/data-about-hangzhou/" target="_self">杭州</a>，<a href="http://ztpala.com/2007/05/luchaogang/" target="_blank">芦潮港</a>，<a href="http://ztpala.com/2007/07/longwangshan_pala/" target="_blank">龙王山</a>。四月份我们有了第二辆车，challenger。 现在，lp和她那辆小红已经远在大洋彼岸。希望这两辆车能早日再见吧：）
+07年开始到现在参加的活动都不是很多，五一十一都没有参加和组织长途骑行，只有几次小活动：<a href="http://azaleasays.com/blog/item/27667f9005813a8ca977a488.html">崇明</a>，<a href="http://ztpala.com/2007/05/02/data-about-hangzhou/">杭州</a>，<a href="http://ztpala.com/2007/05/14/luchaogang/">芦潮港</a>，<a href="http://ztpala.com/2007/07/05/longwangshan_pala/">龙王山</a>。四月份我们有了第二辆车，challenger。 现在，lp和她那辆小红已经远在大洋彼岸。希望这两辆车能早日再见吧：）
