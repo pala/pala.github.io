@@ -7,7 +7,11 @@ tags:
 categories:
     - 电脑
 ---
-<img class="aligncenter size-full wp-image-3695" title="IMG_0002" src="https://lh6.googleusercontent.com/-GHcGXJ2VHV8/TvwGA07OLdI/AAAAAAABigo/SJqv-zHfuvU/s800/img_0002.jpeg" alt="" width="400" height="300" />
+![](https://lh5.googleusercontent.com/-fQpLUou3h78/TvwGA5ANT5I/AAAAAAABigs/pvJ-86LZm7g/s800/img_0013.jpeg)
+
+和键盘形状一样，虽然触摸板玻璃的最上端看着一条接口，实际和铝制部分是平的。
+
+![](https://lh6.googleusercontent.com/-GHcGXJ2VHV8/TvwGA07OLdI/AAAAAAABigo/SJqv-zHfuvU/s800/img_0002.jpeg)
 
 和Macbook Pro的trackpad一样，整个触摸板为一个按键。但真正的按键不是玻璃，而是Magic Trackpad除去底部的塑料部分。也就是说反过来后的底部塑料是可以按动的，magic的地方就是塑料上那两个支撑点！感觉苹果的工业设计真是有才。
 

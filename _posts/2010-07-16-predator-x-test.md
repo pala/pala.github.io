@@ -8,6 +8,8 @@ tags:
 categories:
     - 网志
 ---
+今天刚收到，兴冲冲的去测试。感觉非常之爽，尤其是任意球。
+
 <iframe src="http://player.vimeo.com/video/13408563?title=0&amp;byline=0&amp;portrait=0" width="580" height="384" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 上面随便拍的连续几脚，左右脚踢的都很舒服，可惜之前最漂亮的几个（尤其是左脚打横梁的）球没想起来拍-,-

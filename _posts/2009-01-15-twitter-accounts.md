@@ -5,7 +5,9 @@ layout: post
 categories:
     - 网志
 ---
-<!--more-->blog : <a href="http://blog.twitter.com/" target="_blank">http://blog.twitter.com/</a>  --- blogger
+>让上帝的归上帝, 恺撒的归恺撒 <small>圣经</small>
+
+blog : <a href="http://blog.twitter.com/" target="_blank">http://blog.twitter.com/</a>  --- blogger
 
 status : <a href="http://status.twitter.com/" target="_blank">http://status.twitter.com/</a>  --- Tumblr
 

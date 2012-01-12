@@ -7,6 +7,8 @@ tags:
 categories:
     - 电脑
 ---
+前两天一直在网上搜索公路车锁鞋的信息，前天用Google Checkout买了一双喜玛诺的鞋。结果发现Google Reader里那些在最后嵌入Google Ad的文章出现了喜玛诺锁鞋的打折信息。
+
 <img class="aligncenter" title="googleAD" src="http://lh3.ggpht.com/_JkjZvHYNoXw/TJzU67VT2CI/AAAAAAABGD0/PgdV95W698Q/s800/Screen%20shot%202010-09-24%20at%2012.40.52%20PM.png" alt="" width="321" height="271" />
 
 也是前天，在Crocs里买了两双拖鞋，这次没有用Checkout，仅仅用Gmail接收订单信息，今天在Reader里则看到了下面的广告：

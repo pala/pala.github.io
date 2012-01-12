@@ -16,7 +16,9 @@ categories:
 
 下雪的时候, 到处都铺满厚厚的白雪:
 
-<img class="aligncenter size-full wp-image-1935" title="treesnow" src="http://pic.ztpala.com/wp-content/uploads/2009/03/treesnow.png" alt="treesnow" width="409" height="133" />下雨的时候则水花四溅:
+<img class="aligncenter size-full wp-image-1935" title="treesnow" src="http://pic.ztpala.com/wp-content/uploads/2009/03/treesnow.png" alt="treesnow" width="409" height="133" />
+
+下雨的时候则水花四溅:
 
 <img class="aligncenter size-full wp-image-1936" title="treerainy" src="http://pic.ztpala.com/wp-content/uploads/2009/03/treerainy.png" alt="treerainy" width="494" height="81" />
 
@@ -26,7 +28,9 @@ categories:
 
 而现在雷雨过后, 他们:
 
-<img class="aligncenter size-full wp-image-1939" title="busstop" src="http://pic.ztpala.com/wp-content/uploads/2009/03/busstop.png" alt="busstop" width="481" height="454" />Tree主题里那颗孤单的树也变了样子:
+<img class="aligncenter size-full wp-image-1939" title="busstop" src="http://pic.ztpala.com/wp-content/uploads/2009/03/busstop.png" alt="busstop" width="481" height="454" />
+
+Tree主题里那颗孤单的树也变了样子:
 
 <img class="aligncenter size-full wp-image-1940" title="tree" src="http://pic.ztpala.com/wp-content/uploads/2009/03/tree.png" alt="tree" width="271" height="160" />
 

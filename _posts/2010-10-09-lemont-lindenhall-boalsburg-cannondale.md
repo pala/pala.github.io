@@ -8,11 +8,11 @@ tags:
 categories:
     - 自行车
 ---
-Distance:28.6km
+先上数据(刨去之前之后未记速的5，6公里)：
 
-Avg Speed: 31.1km/h
-
-Elev Gain/Loss: 446m, -469m
+* Distance:28.6km
+* Avg Speed: 31.1km/h
+* Elev Gain/Loss: 446m, -469m
 
 第一次戴心律表骑车，心想戴bra估计也就是这感觉。
 

@@ -7,6 +7,8 @@ tags:
 categories:
     - 自行车
 ---
+从西宁到上海
+
 <img src="http://photo8.yupoo.com/20070801/194203_1120981506.jpg" />
 
 <img src="http://photo6.yupoo.com/20070801/193736_451613805.jpg" height="375" width="500" />

@@ -7,7 +7,7 @@ tags:
 categories:
     - 电脑
 ---
-<a href="http://www.catb.org/~esr/faqs/hacker-howto.html" target="_blank"></a><!--more-->
+>No problem should ever have to be solved twice. <small>Eric Steven Raymond</small>
 
 名博们经常指教菜博们要写独一无二的东西, 但对于一个人来说什么是独一无二的?
 

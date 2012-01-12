@@ -24,7 +24,7 @@ categories:
 
 去拉斯维加斯之前在电视上见到过的最多的赌场非Paris莫属，门口逼真的埃菲尔铁塔和凯旋门让你有恍惚到了巴黎的感觉：
 
-![](ttp://pic.ztpala.com/wp-content/uploads/2011/01/IMG_1104-300x400.jpg)
+![](http://pic.ztpala.com/wp-content/uploads/2011/01/IMG_1104-300x400.jpg)
 
 ###吃
 

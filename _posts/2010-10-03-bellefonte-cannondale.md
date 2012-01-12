@@ -10,6 +10,10 @@ categories:
 ---
 ![](http://lh6.ggpht.com/_JkjZvHYNoXw/TKtSJ4hHI0I/AAAAAAABIHM/0lnAdx79Jyc/s400/biking%20.jpg)
 
+上次骑到Bellefonte还是07年10月。这次由于同行中有菜车，基本算是打酱油式骑法，飙一段停一段。中间为了回去修车还跑了13公里重复路。
+
+今天的一个下坡又刷新了最高速。感觉这条线比550那条线更适合飚车。路线更长，而且没有那么多Stop要停。另外就是中间风景也很不错。
+
 路线的kmz文件可以<a href="http://goo.gl/6918">在此下载</a>。
 
 里程：43.5+6.5×2=56.5km

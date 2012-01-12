@@ -7,6 +7,8 @@ tags:
 categories:
     - 网志
 ---
+pala 唱：你是饭桶，你是饭桶，azalea是饭桶
+
 azalea愤愤的说：唱那么难听就不要**吃**！！
 
 pala：@#$%

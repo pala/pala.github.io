@@ -8,7 +8,7 @@ tags:
 categories:
     - 相册
 ---
-<!--more-->
+[开车过去](http://g.co/maps/e6sux)大概一个多小时，不过我们在中途路过的沃尔玛停了一下，吃了午饭，为了一下午的步行，这个还是很有必要的。另外出发时车的”Service Engine Soon”又亮了，搞的一路都有些紧张。
 
 此公园由几条比较短的Trail组成，走上一圈大概8迈多。具体地图<a href="http://www.dcnr.state.pa.us/ucmprd2/groups/public/documents/document/dcnr_003034.pdf">在此</a>。
 

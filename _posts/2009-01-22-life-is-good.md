@@ -7,8 +7,10 @@ tags:
 categories:
     - 网志
 ---
-<!--more-->
+>这个世界不需要我们每个人都做出一番惊天动地的大事来. 只要坚持自己的理想, 哪怕只是在街头卖T恤, 我们也会发现生活始终是美好的.
+
 <img class="size-full wp-image-1744 alignright" title="original-jake" src="https://lh3.googleusercontent.com/-3bdNXPiLkKg/TYL3PzWRxdI/AAAAAAABifI/0I_aJ6B6jvE/s800/original-jake.jpeg" alt="original-jake" width="225" height="224" />
+
 1989年, Jacobs 家的 Bert 和 John兄弟俩设计了他们的第一件T恤. 当时他们对做生意一无所知.
 
 接下来的五年, 这兄弟俩在波士顿街头, 在整个东海岸, 在大学宿舍里挨个敲门的兜售他们的T恤, 估计当时很多MIT和哈佛的学生都见过这俩人.

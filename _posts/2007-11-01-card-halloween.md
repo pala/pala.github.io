@@ -7,4 +7,6 @@ tags:
 categories:
     - 网志
 ---
-<a href="http://pic.ztpala.com/wp-content/uploads/2007/11/00005.jpg"><img class="alignnone size-medium wp-image-1126" title="00005" src="http://pic.ztpala.com/wp-content/uploads/2007/11/00005.jpg?w=300" alt="00005" width="300" height="225" /></a>
+昨天万圣节,吃饭时拿到别人派送的一小袋糖. 糖是很好吃,关键是里面的一张小卡片也很有意思:
+
+![](https://lh6.googleusercontent.com/-34vPkwWRMwY/Sv_M8mbEuBI/AAAAAAABbBU/DTzZ1Nhbq9E/s640/00005.jpg)

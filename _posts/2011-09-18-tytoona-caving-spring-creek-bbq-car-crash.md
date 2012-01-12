@@ -10,6 +10,10 @@ tags:
 categories:
     - 网志
 ---
+两个来自纽约的朋友特地来State College爬山洞。本来想推荐[J4](http://ztpala.com/2011/06/25/j4-cave-2)，不过因为需要太长时间而下午又想一起去BBQ，所以决定先去爬一爬[Tytoona](http://ztpala.com/2011/07/16/tytoona-cave)。
+
+7个人两辆车，到了洞口就听见水声远比上次来时大好多，果然经过前几日的洪水，山洞里水量增加好多，不过相比前几天已经退去不少，等到我们走到最里面时，发现天花板上到处沾的草，地上也好多淤泥，可见前几天这里是全灌满水的。
+
 由于这次不要探路，所以大概1个多小时就出来了，接着去购物BBQ。
 
 <a href="http://ztpala.com/2011/09/18/tytoona-caving-spring-creek-bbq-car-crash/img_2459/" rel="attachment wp-att-5148"><img class="alignnone size-full wp-image-5148" title="淌水" src="http://pic.ztpala.com/wp-content/uploads/2011/09/IMG_2459.jpeg" alt="" width="640" height="427" /></a>

@@ -8,6 +8,10 @@ categories:
     - 自行车
 ---
 
+<a href="http://goo.gl/maps/KejN">![](http://pic.ztpala.com/wp-content/uploads/2010/09/staticmap.png)</a>
+
+根据[BicyclePA](http://www.bikepa.com/routes/g.htm)的路线在Google Maps上改编而来，全长约237miles（约380公里）。具体路线可以去Google Maps上去看 [链接](http://goo.gl/maps/KejN)
+
 另外在Google Docs上放了个详细文字路线的pdf版 <a href="https://docs.google.com/fileview?id=0B66S8QvtODIYMTYxY2MzYjQtM2ZjNS00NmYyLWExNGMtNGI5OGNlY2M1ZTFi&amp;hl=en" target="_blank">链接</a>
 
 此路线最北侧开始于一条著名的自行车路线：Pine Creek Rail Trail。全长65miles，风景优美。Wikipedia上有它专门的<a href="http://en.wikipedia.org/wiki/Pine_Creek_Rail_Trail" target="_blank">词条</a>。

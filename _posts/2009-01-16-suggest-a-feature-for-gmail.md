@@ -8,7 +8,7 @@ tags:
 categories:
     - 电脑
 ---
-<!--more-->
+>If nobody spoke unless he had something to say, the human race would very soon lose the use of speech. <small>W. Somerset Maugham</small>
 
 Gmail的帮助页面里有一个<a href="http://mail.google.com/support/bin/static.py?page=suggestions.cs" target="_blank">调查问卷</a>, 让用户提交自己希望Gmail添加的功能.
 

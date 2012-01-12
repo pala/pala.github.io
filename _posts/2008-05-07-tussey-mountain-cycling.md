@@ -7,6 +7,8 @@ tags:
 categories:
     - 自行车
 ---
+昨天看到cycling又开始召集崇明了。在这边没有以前那么精彩的骑行活动，不过两个人偶尔出去兜一圈还是不错的。
+
 今天天气很好，温度适宜，不过风有点大。下午吃完饭决定骑到17公里外的Tussey Mountain。
 
 <img class="alignnone" src="https://lh4.googleusercontent.com/-74pEDw6rsmg/Sv_e4yLJ3JI/AAAAAAABbDg/adTZlXK4ILQ/s640/DSCN0940.JPG" alt="" width="640" height="480" />

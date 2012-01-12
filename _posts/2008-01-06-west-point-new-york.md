@@ -8,6 +8,8 @@ tags:
 categories:
     - 旅行
 ---
+到了纽约才明白State College是个多么舒适的小镇。
+
 下面是azalea的记录：
 
 很早饼就叫嚣除夕夜去时代广场看一个心愿球掉下来，于是2007年12月30号一早，我和pala，饼，宁，Pu Na, Liu Yanping挤在一辆小破车里出发了。

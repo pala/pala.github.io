@@ -8,6 +8,8 @@ tags:
 categories:
     - 电脑
 ---
+从本月16号twitter就只能用OAuth来进行帐号验证，XAuth是给例如iOS之类不方便用OAuth的平台提供的一个特殊验证方法。用此方法添加帐号时，用户仍需要输入用户名密码，接着程序就用此信息去twitter换取access_token，然后用户名密码就不再需要了，以后的工作和OAuth无异。
+
 注：要使用XAuth，需要发右键给api@twitter.com索取一个Consumer key
 
 至于如何不保存用户名密码使用第三方图床服务，如twitpic，则有些麻烦。twitter搞出了一个名为<a href="http://dev.twitter.com/pages/oauth_echo">OAuth Echo</a>的东西，这里简单介绍一下：

@@ -7,6 +7,8 @@ tags:
 categories:
     - 电脑
 ---
+![](https://lh5.googleusercontent.com/-KFUZ5hcibBU/TvwKrUkbU7I/AAAAAAABig4/4_cQWuynR98/s640/itunes.png)
+
 update: 已经爬到了24名。
 
 如前几天所说，收到了苹果员工的邮件，说在苹果内部，他们很喜欢Twii，可能会做一些市场推广。今天发现Twii被放到了New and Noteworthy(最新值得下载的程序)。此目录的程序列表无论是在iTunes还是iPhone的软件商店里都占据了醒目位置。另外很走运的是今天是苹果新品发布会的日子，发布了最新的iTunes 9，很重要的一个升级，其中软件商店也进行了大改版，所以目前在榜上的程序都占了点便宜吧。

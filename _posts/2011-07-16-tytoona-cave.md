@@ -7,6 +7,7 @@ tags:
 categories:
     - 网志
 ---
+洋名[Tytoona Cave](http://en.wikipedia.org/wiki/Tytoona_Cave)，此洞得名是因为它位置在Tyrone和Altoona两镇之间。听说这个洞是因为第一次去攀岩，偶遇某一工作人员恰好是洞穴爱好者，从他口中得知这个有水的山洞。
 
 Tytoona Cave离State College大概30多迈，开车需要40多分钟，位置比较难找。我们也是在走错路后遇到一堆在路边开party的人才得知具体位置。到地方之后发现几辆车停在附近，还有人拿着毛巾在擦脚。
 

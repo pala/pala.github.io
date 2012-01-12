@@ -8,6 +8,8 @@ tags:
 categories:
     - 自行车
 ---
+* 出发:4/30 12:00
+* 到达:5/1 13:00
 * Max Speed:43.46
 * Avg Speed:22:00
 * Trip Dist:212.56

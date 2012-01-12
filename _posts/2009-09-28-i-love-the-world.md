@@ -8,6 +8,8 @@ tags:
 categories:
     - 网志
 ---
+来自Discovery Channel的一段视频, 只有短短一分钟长, 今天看了N遍, 每次都很感动.
+
 <iframe width="640" height="480" src="http://www.youtube.com/embed/yR3-CKTZetM?rel=0" frameborder="0" allowfullscreen></iframe>
 
 The World is Just Awesome.
