@@ -92,5 +92,22 @@
   })();
 
    </script>
+   <script type="text/javascript" src="http://lib.sinaapp.com/js/jquery/1.7/jquery.min.js" charset="utf-8"></script>
+     <script>
+    $(function(){
+      var $codeContainer = $("#2__install_jekyllbootstrapcore").next("pre");
+      var code = $codeContainer.text();
+      var $repoName = $("#repo_name");
+      var $blogLink = $("#blog_link");
+      $("form").submit(function(e){
+        var username = $("#github_username").val();
+        $codeContainer.text(code.replace(/USERNAME/g, username));
+        $repoName.text( username + ".github.com");
+        $blogLink.text("http://" + username + ".github.com").attr("href", "http://" + username + ".github.com");
+        e.preventDefault();
+        return false;
+      })
+    })
+  </script>
 </body>
 </html>
