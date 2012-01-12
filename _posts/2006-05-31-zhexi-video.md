@@ -5,6 +5,7 @@ layout: post
 tags:
     - 复旦车协
     - 浙江
+    - 视频
 categories:
     - 自行车
 ---
@@ -17,6 +18,7 @@ categories:
 经过无数次死机重做之后，最终还是在观片会前完成了，虽然最后生成的视频有点瑕疵，不过自己还算满意
 
 <iframe src="http://player.vimeo.com/video/6876599?title=0&amp;byline=0&amp;portrait=0" width="580" height="319" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
 
 可是晚上在观片会上放的时候，那音响效果实在太令人遗憾了。。。。
 

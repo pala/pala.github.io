@@ -31,13 +31,12 @@ categories:
 
 可这和函数里的参数传递有什么关系?我们来继续深入一下,看下面这个例子:
 
-<pre class="prettyprint">
+<pre class="prettyprint-dark linenums">
 >>> myList=[1,2,3]
 >>> def change1(n):
 …         n=[]
 >>> def change2(n):
-…         n[0]=’new’
->>> change1(myList)
+>>> change1(myList):
 >>> myList
 [1, 2, 3]
 >>> change2(myList)
@@ -53,7 +52,7 @@ myList的类型是list,属于mutable.但不是很多地方说mutable是引用传
 
 这两个函数的相同点是都没有改变函数外的namespace中的myList.而函数二改变了myList所指向的object.
 
-<pre class="prettyprint">
+<pre class="prettyprint-dark linenums">
 >> def change3(n):
 …     n=['a','b','c']
 …     n[0]=’new’
@@ -68,7 +67,7 @@ myList的类型是list,属于mutable.但不是很多地方说mutable是引用传
 
 再多看一个例子:
 
-<pre class="prettyprint">
+<pre class="prettyprint-dark linenums">
 >>> myList
 [1, 2, 3]
 >>> def change4(n):
