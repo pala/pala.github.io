@@ -4,9 +4,16 @@
 <div class="date">
 {{ page.date | date:"%Y-%m-%d" }}
 </div>
-{{ page.content }}
 
+{% if page.excerpt %}
+<p>{{page.excerpt}}</p>
+<p><a align="center" class="btn small" href="{{ page.url }}">阅读全文 >> </a></p>
+{% else %}
+{{ page.content }}
+<p>
 {% for tag in page.tags %}
 <a class="label" href="/tag/#{{ tag }}">{{ tag }}</a> 
 {% endfor %}
+</p>
+{% endif %}
 <hr>
