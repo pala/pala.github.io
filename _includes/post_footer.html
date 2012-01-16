@@ -1,0 +1,35 @@
+<script type="text/javascript" src="http://lib.sinaapp.com/js/jquery/1.7/jquery.min.js" charset="utf-8"></script>
+<script>
+$(function(){
+	$(document).keydown(function(e) {
+		var url = false;
+	      if (e.which == 37) {  // Left arrow key code
+	          {% if page.previous %}
+				url = '{{page.previous.url}}';
+				{% endif %}
+	      }
+	      else if (e.which == 39) {  // Right arrow key code
+	          {% if page.next %}
+				url = '{{page.next.url}}';
+				{% endif %}
+	      }
+	      if (url) {
+	          window.location = url;
+	      }
+	});
+})
+</script>
+<script src="/assets/js/google-code-prettify/prettify.js"></script>
+   	<script type="text/javascript">
+ 	var _gaq = _gaq || [];
+  	_gaq.push(['_setAccount', 'UA-5531632-1']);
+  	_gaq.push(['_trackPageview']);
+  	(function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+   </script>
+</body>
+</html>

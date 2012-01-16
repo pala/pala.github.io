@@ -13,6 +13,8 @@ tags:
 
 几个月前就注册了苹果的iOS 5 Tech Talk World Tour纽约站。地点很好，财大气粗的苹果包下了时代广场一家酒店的大概5层，三层用来讲座，一层Lab，一层吃喝。
 
+Checkin的时候，某工作人员说正在等着一个Z开头的人来，"You Win!"。
+
 很多东西都是WWDC '11里讲过的，不过还是值得一听。虽然前一天晚上两点就从State College坐车过来，一夜晕车没睡，但是听了一天基本上没睡着，除了在个别话题上打了一会盹。遇到几个学生模样的开发者，记笔记非常认真，几乎是把幻灯片上所有的字都给记下来。
 
 晚上的Reception有各种酒和Cheese提供，还发了一件主题Tee，虽然最后只剩下Large的了。
@@ -33,7 +35,7 @@ tags:
 
 ![](http://pic.ztpala.com/wp-content/uploads/2012/01/IMG_3517-640x426.jpg)
 
->老友记粉丝应该都会知道一个叫做humus的东西，这个就是。([S03E02](http://www.friendscafe.org/scripts/s3/302.php))
+>老友记粉丝应该都会知道一个叫做hummus的东西，这个就是。([S03E02](http://www.friendscafe.org/scripts/s3/302.php))
 
 下午去参观了一下开在Grand Central Station的苹果店。好久木有去过苹果店看过，第一次看到现在的商品资料都用iPad来显示了，所以就有了一堆用iPad介绍的iPad。
 

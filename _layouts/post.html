@@ -1,23 +1,32 @@
----
-layout: default
----
+{% include header.html %}
+<div class="container">
+<div class="content">
+<div class="row">
 <div class="span11">
 <a href="{{ site.url }}{{ page.url }}"><h2 class="post-title">{{ page.title }}</h2></a>
 <div class="date">
 {{ page.date | date:"%Y-%m-%d" }}
 </div>
 {{ content }}
-
-<div class="row">
-<div class="span7">
+<div class="span11">
 {% for tag in page.tags %}
 <a class="label" href="/tag/#{{ tag }}">{{ tag }}</a> 
 {% endfor %}
 </div>
-
-<div class="spam3 offset7" align="right">
-<a href="https://twitter.com/share?url={{site.url}}{{page.url}}&amp;via=ztpala&amp;text={{page.title}}" target="_blank"><img src="/resource/twitter.png"></a>
- <a href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://v.t.sina.com.cn/share/share.php?appkey=3823167979',u=z||d.location,p=['&url=',e(u),'&title=',e(t||d.title),'&source=',e(r),'&sourceUrl=',e(l),'&content=',c||'gb2312','&pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','','{{page.title}} 
-via @pala','{{site.url}}{{page.url}}','utf-8'));"><img src="/resource/weibo.png"></a> </div>
+<hr>
+<div class="span11">
+    {% if page.previous %}
+    <a href="{{ page.previous.url }}">&larr; {{ page.previous.title }}</a>
+    {% endif %}
+    {% if page.next %} 
+    <a href="{{ page.next.url }}" class="pull-right">{{ page.next.title }} &rarr;</a>
+    {% endif %}    
 </div>
 </div>
+</div>
+</div>
+<footer>
+<p id="followme">Follow me: <a href="https://twitter.com/#!/ztpala">Twitter</a> <a href="https://www.facebook.com/taozhang">Facebook</a> <a href="http://feeds.feedburner.com/pala">RSS</a> | Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> and <a href="http://twitter.github.com/bootstrap/">Bootstrap</a></p>
+</footer>
+</div> <!-- /contrainer -->
+{% include post_footer.html %}
