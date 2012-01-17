@@ -51,7 +51,7 @@ tags:
 
 3. iOS will kill your app <span class="label important">Important</span>
 
-<table class="zebra-striped bordered-table">
+<table class="table-striped table-bordered">
 <thead>
     <tr>
     <th></th>

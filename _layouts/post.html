@@ -2,19 +2,16 @@
 <div class="container">
 <div class="content">
 <div class="row">
-<div class="span11">
+<div class="span9">
 <a href="{{ site.url }}{{ page.url }}"><h2 class="post-title">{{ page.title }}</h2></a>
 <div class="date">
 {{ page.date | date:"%Y-%m-%d" }}
 </div>
 {{ content }}
-<div class="span11">
 {% for tag in page.tags %}
-<a class="label" href="/tag/#{{ tag }}">{{ tag }}</a> 
+<a href="/tag/"{{ tag }}">#{{ tag }}</a> 
 {% endfor %}
-</div>
 <hr>
-<div class="span11">
     {% if page.previous %}
     <a href="{{ page.previous.url }}">&larr; {{ page.previous.title }}</a>
     {% endif %}
@@ -24,9 +21,8 @@
 </div>
 </div>
 </div>
-</div>
 <footer>
-<p id="followme">Follow me: <a href="https://twitter.com/#!/ztpala">Twitter</a> <a href="https://www.facebook.com/taozhang">Facebook</a> <a href="http://feeds.feedburner.com/pala">RSS</a> | Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> and <a href="http://twitter.github.com/bootstrap/">Bootstrap</a></p>
+<p id="followme">Follow me: <a href="https://twitter.com/"!/ztpala">Twitter</a> <a href="https://www.facebook.com/taozhang">Facebook</a> <a href="http://feeds.feedburner.com/pala">RSS</a> | Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> and <a href="http://twitter.github.com/bootstrap/">Bootstrap</a></p>
 </footer>
 </div> <!-- /contrainer -->
-{% include post_footer.html %}
+{% include footer.html %}

@@ -1,10 +1,7 @@
-<div class="span11">
-<a href="{{ page.url }}"><h2>{{ page.title }}</h2></a>
-</div>
+<a href="{{ page.url }}"><h2>{{ page.title }} </h2></a>
 <div class="date">
-{{ page.date | date:"%Y-%m-%d" }}
+    {{ page.date | date:"%Y-%m-%d" }}
 </div>
-
 {% if page.excerpt %}
 <p>{{page.excerpt}}</p>
 <p><a align="center" class="btn small" href="{{ page.url }}">阅读全文 &raquo; </a></p>
@@ -12,7 +9,7 @@
 {{ page.content }}
 <p>
 {% for tag in page.tags %}
-<a class="label" href="/tag/#{{ tag }}">{{ tag }}</a> 
+<a href="/tag/#{{ tag }}">#{{ tag }}</a> 
 {% endfor %}
 </p>
 {% endif %}
