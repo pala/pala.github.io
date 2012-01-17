@@ -7,8 +7,7 @@ permalink: /
   {% include single_page.html %}
 {% endfor %}
 
-<div class="span9">
-	<div class="pagination">
+	<div class="pagination" align="center">
 	<ul>
 		{% if paginator.previous_page %}
 			{% if paginator.previous_page == 1 %}
@@ -20,14 +19,14 @@ permalink: /
 		<li class="prev disabled"><a href="#">&larr; Previous</a></li>
 		{% endif %}
 		
-		{% if paginator.page < 12 %}
+		{% if paginator.page < 10 %}
 			{% if paginator.page == 1 %}
 				<li class="active"><a href="#">1</a></li>
 			{% else %}
 				<li><a href="/">1</a></li>
 			{% endif %}
 			
-			{% for count in (2..12) %}
+			{% for count in (2..10) %}
 				{% if count == paginator.page %}
 					<li class="active"><a href="#">{{count}}</a></li>
 				{% else %}
@@ -64,6 +63,5 @@ permalink: /
 			
 	</ul>
 	</div>
-</div>
 	
 <p align="center"><a class="btn"  href="/archive/">查看所有{{ site.posts | size }}篇文章 &raquo;</a></p>

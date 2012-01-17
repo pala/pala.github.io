@@ -2,7 +2,7 @@
 <div class="container">
 <div class="content">
 <div class="row">
-<div class="span9">
+<div class="span11">
 <a href="{{ site.url }}{{ page.url }}"><h2 class="post-title">{{ page.title }}</h2></a>
 <div class="date">
 {{ page.date | date:"%Y-%m-%d" }}
@@ -12,12 +12,18 @@
 <a href="/tag/"{{ tag }}">#{{ tag }}</a> 
 {% endfor %}
 <hr>
+<ul class="pager">
     {% if page.previous %}
+    <li class="previous">
     <a href="{{ page.previous.url }}">&larr; {{ page.previous.title }}</a>
+    </li>
     {% endif %}
     {% if page.next %} 
+    <li class="next">
     <a href="{{ page.next.url }}" class="pull-right">{{ page.next.title }} &rarr;</a>
-    {% endif %}    
+    </li>
+    {% endif %}   
+</ul> 
 </div>
 </div>
 </div>

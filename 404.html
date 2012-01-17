@@ -2,11 +2,9 @@
 layout: default
 title: 404
 ---
-<div class="alert-message warning">
-  <p><strong>小黑屋！</strong>您可以看看下面的文章列表</p>
+<div class="alert">
+<strong>小黑屋！</strong>您可以看看下面的文章列表
 </div>
-
-<div id="span11">
 {% capture post_year1 %}{{ 'now' | date: '%Y' }}{% endcapture %}
 <h3>{{ post_year1 }}</h3>
 <ul>
@@ -21,4 +19,3 @@ title: 404
 <li><time>{{ post.date | date: '%m-%d' }}</time> <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
-</div>
