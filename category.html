@@ -5,14 +5,14 @@ permalink: /category/
 ---
 <ul class="unstyled">
 {% for category in site.categories %}
-  <li><a name="{{ category | first }}"><h3>{{ category | first }}</h3></a>
-  <br>
+  <li><a data-toggle="collapse" href="#{{ category | first }}" name="{{ category | first }}"><h3>{{ category | first }}</h3></a>
+  <div id="{{ category | first }}" class="collapse">
     <ul>
     {% for post in category.last %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
     </ul>
+   </div>
   </li>
-  <hr>
 {% endfor %}
 </ul>

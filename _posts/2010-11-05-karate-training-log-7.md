@@ -4,7 +4,7 @@ title: 空手道记录 7
 layout: post
 tags:
     - Dojo
-    - Kyu Exam
+    - KyuExam
 categories:
     - 空手道
 ---

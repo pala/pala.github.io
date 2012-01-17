@@ -3,7 +3,7 @@ date: 2010-08-14 22:14:00
 title: 第二次空手道考试
 layout: post
 tags:
-    - Kyu Exam
+    - KyuExam
 categories:
     - 空手道
 ---

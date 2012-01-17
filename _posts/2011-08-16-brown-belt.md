@@ -3,7 +3,7 @@ date: 2011-08-16 00:41:23
 title: 茶带
 layout: post
 tags:
-    - Kyu Exam
+    - KyuExam
 categories:
     - 相册
     - 空手道

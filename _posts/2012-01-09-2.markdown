@@ -7,6 +7,6 @@ comments: true
 categories:
   - 空手道
 tags:
-  - Kyu Exam 
+  - KyuExam 
 ---
 ![Kyu Exam Certificate](http://pic.ztpala.com/wp-content/uploads/2012/01/IMG_3493-585x390.jpg)

@@ -3,7 +3,7 @@ date: 2011-06-15 17:06:04
 title: Karate Essay 1
 layout: post
 tags:
-    - Kyu Exam
+    - KyuExam
 categories:
     - 空手道
 ---

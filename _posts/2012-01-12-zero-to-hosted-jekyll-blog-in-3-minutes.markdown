@@ -21,7 +21,7 @@ excerpt: 如何快速建立一个托管在github的blog。
 名字为<strong id='repo_name'>USERNAME.github.com</storng>
 
 <h3 id="2__install_jekyllbootstrapcore">二. 安装Jekyll-Bootstrap-Core</h3>
-<pre class="prettyprint-dark">
+<pre class="prettyprint">
 $ git clone https://github.com/plusjade/jekyll-bootstrap.git USERNAME.github.com
 $ cd USERNAME.github.com
 $ git remote set-url origin git@github.com:USERNAME/USERNAME.github.com.git
@@ -30,7 +30,7 @@ $ git push origin master
 ###三. 额，没有三了
 
 等一会去访问一下<a href='http://USERNAME.github.com' id='blog_link'>http://USERNAME.github.com</a>，github已经为你生成了一个站点。
-<script type="text/javascript" src="http://lib.sinaapp.com/js/jquery/1.7/jquery.min.js" charset="utf-8"></script>
+<script src="/assets/js/jquery.min.js" charset="utf-8"></script>
 <!-- code from http://jekyllbootstrap.com/ -->
 <script>
 $(function(){
