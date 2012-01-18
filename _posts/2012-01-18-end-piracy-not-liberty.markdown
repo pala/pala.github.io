@@ -8,7 +8,13 @@ tags:
     - Google
     - Wikipedia
 ---
-Google和Wikipedia在今天都用“黑主页”的方式来反对[SOPA](http://en.wikipedia.org/wiki/Stop_Online_Piracy_Act)及网络审查。Google的口号是**End Piracy, Not Liberty**。Wikipedia则用了更加能触动人心的一句：**Imagine a World Without Free Knowledge**。
+Google和Wikipedia在今天都用“黑主页”的方式来反对[SOPA](http://en.wikipedia.org/wiki/Stop_Online_Piracy_Act)及网络审查。Google的口号是：
+
+>End Piracy, Not Liberty
+
+Wikipedia则用了更加能触动人心的一句：
+
+>Imagine a World Without Free Knowledge
 
 ![](https://lh4.googleusercontent.com/-V6kO2iaGYoY/TxZaY4kKdwI/AAAAAAABixA/jkbyOWqEY2w/s800/Screen%252520Shot%2525202012-01-18%252520at%25252012.34.42%252520AM.jpg)
 
