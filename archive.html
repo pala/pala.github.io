@@ -8,7 +8,7 @@ keywords:
 ---
 <ul class="unstyled">
 {% for category in site.categories %}
-  <li><a data-toggle="collapse" href="#{{ category | first }}" name="{{ category | first }}"><h3>{{ category | first }} {{ category | last | size }}</h3></a>
+  <li><a data-toggle="collapse" href="#{{ category | first }}" name="{{ category | first }}"><h1>{{ category | first }} {{ category | last | size }}</h1></a>
   <div id="{{ category | first }}" class="collapse">
     <ul>
     {% for post in category.last %}
@@ -21,7 +21,7 @@ keywords:
 </ul>
 <hr>
 {% capture post_year1 %}{{ 'now' | date: '%Y' }}{% endcapture %}
-<a data-toggle="collapse" href="#{{ post_year1 }}"><h3>{{ post_year1 }}</h3></a>
+<a data-toggle="collapse" href="#{{ post_year1 }}"><h1>{{ post_year1 }}</h1></a>
 <div id="{{ post_year1 }}" class="collapse">
 <ul>
 {% for post in site.posts %}
@@ -30,7 +30,7 @@ keywords:
 {% assign post_year1 = post_year2 %}
 </ul>
 </div>
-<a data-toggle="collapse" href="#{{ post_year1 }}"><h3>{{ post_year1 }}</h3></a>
+<a data-toggle="collapse" href="#{{ post_year1 }}"><h1>{{ post_year1 }}</h1></a>
 <div id="{{ post_year1 }}" class="collapse">
 <ul>
 {% endif %}
