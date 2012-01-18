@@ -8,7 +8,7 @@ tags:
 categories:
     - 电脑
 ---
-####简介
+##简介
 
 现在这个blog托管在github上，由[Jekyll](https://github.com/mojombo/jekyll)生成。Jekyll最大的好处是快，无需数据库，所有页面均为静态。工作流程如下：
 
@@ -16,7 +16,11 @@ categories:
 
 2. 在[GitHub Pages](http://pages.github.com)上创建自己的页面，然后将步骤1里创建的站点上传到这个页面对应的仓库。那么每次你在本地修改了blog的源文件，包括写了新文章，或者修改了某个页面，只要用<code>git push</code>到github，那么你的blog会跟着自动更新。非常方便。也就是说，完全可以只用终端来操作这个blog。当然，如果你不喜欢*.github.com这样的域名的话，也可以绑定自己的。只需要在你的blog文件夹添加一个写着你的域名的名为CNAME的文件，然后再修改域名的DNS设置就可以了。
 
-####特点
+##尝试
+
+如果你已经有了github账号，可以[3分钟建立一个Jekyll Blog](http://ztpala.com/2012/01/12/zero-to-hosted-jekyll-blog-in-3-minutes/)。
+
+##特点
 
 因为生成的blog全为静态页面，所以和WordPress等blog系统相比有以下几点不同：
 
@@ -30,15 +34,15 @@ categories:
 
 5. 可以用git来管理整个blog的进化历程。
 
-####搬家
+##搬家
 
 Jekyll的[Wiki](https://github.com/mojombo/jekyll/wiki/blog-migrations)上给了从WordPress，Drupal，Blogger，Posterous，Tumblr等网站的搬家方法，另外在github上也有很多网友自己写的搬家工具。
 
-####参考
+##参考
 Jekyll完全是开源的，托管到GitHub Pages上的站点也完全是开源的，[这里](https://github.com/mojombo/jekyll/wiki/Sites)有个不完全站点列表，基本上都可以看到源代码。
 
 [octopress](https://github.com/imathis/octopress)是Jekyll的改进版，加入了很多更加高级的功能及更漂亮的模版文件。你可以去它的[官网](http://octopress.org/docs/)看看效果。
 
-####历史
+##历史
 
 至于Jekyll是怎么发展起来的，可以参考它的作者Tom Preston-Werner（同时也是github的Cofounder）的文章：[Blogging Like a Hacker](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html)
