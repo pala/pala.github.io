@@ -8,6 +8,7 @@ tags:
     - Blog
     - Jekyll
     - git
+    - GitHub
 excerpt: 如何快速建立一个托管在github的blog。
 ---
 
