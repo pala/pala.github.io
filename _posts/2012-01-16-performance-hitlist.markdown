@@ -9,9 +9,9 @@ tags:
 ---
 在整个iOS 5 Tech Talk里基本没有记笔记，最后一节Performance Hitlist里记了一些关于性能方面的Tips & Tricks，在这里大概总结下。
 
-###Measuring Performance
+##Measuring Performance
 
-####What to measure
+###What to measure
 
 1. Processing Time
 
@@ -23,7 +23,7 @@ tags:
 
 5. Battery Life
 
-####Techniques
+###Techniques
 
 1. Don't Guess
 
@@ -37,7 +37,7 @@ tags:
 
 3. It has to feel right
 
-###Avoid blocking work
+##Avoid blocking work
 
 <h4>Launching Quickly <small>Your user's first impression</small></h4>
 
@@ -82,7 +82,7 @@ tags:
 </tbody>
 </table>
 
-###Rules to live by
+##Rules to live by
 
 1. Is it essential for loading the most basic main UI? if not, defer it
 

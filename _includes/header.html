@@ -12,11 +12,9 @@
    <style type="text/css">
       /* Override some defaults */
       html, body {
-        background-color: #eee;
+        background-color: #F8F8F6;
       }
-      body {
-        padding-top: 40px; /* 40px to make the container go all the way to the bottom of the topbar */
-      }
+
 
       .container > footer p {
         margin-top: 20px;
@@ -24,20 +22,14 @@
       }
 
       .container {
-        width: 640px; 
+        width: 780px; 
       }
 
       /* The white background content wrapper */
       .container > .content {
-        background-color: #fff;
-        padding: 20px;
+        background-color: #F8F8F6;
         margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
-        -webkit-border-radius: 0 0 6px 6px;
-           -moz-border-radius: 0 0 6px 6px;
-                border-radius: 0 0 6px 6px;
-        -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
-           -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
-                box-shadow: 0 1px 2px rgba(0,0,0,.15);
+
       }
       body > .navbar-fixed .brand {
   padding-right: 0;
@@ -70,21 +62,27 @@ body > .navbar-fixed .brand:hover {
 }
 
 .date {
+  text-align: center;
 height: 30px;
 color:#bfbfbf;
+margin-bottom: 10px;
 }
 .postmeta .nav {
   margin-bottom: 0px;
   margin-top: -10px;
 }
+.sitename {
+  font-size: 40px;
+  font-weight: bold;
+}
     </style>
 </head>
 <body onload="prettyPrint()">
-    <div class="navbar navbar-fixed">
-      <div class="navbar-inner">
         <div class="container">
-          <a class="brand" href="/">Tao Zhang</a>
-          <ul class="nav">
+          <div class="content">
+          <h1 class="sitename">pala</h1>
+        <div class="page-header">
+          <ul class="nav pills">
             <li {% if page.permalink == "/" %} class="active" {% endif %}><a href="/">主页</a></li>
             <li {% if page.permalink == "/archive/" %} class="active" {% endif %}><a href="/archive/">存档</a></li>
             <li {% if page.permalink == "/search/" %} class="active" {% endif %}><a href="/search/">搜索</a></li>
@@ -101,5 +99,3 @@ color:#bfbfbf;
             </li>
           </ul>
         </div>
-      </div>
-    </div>
