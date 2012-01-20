@@ -6,7 +6,7 @@ categories:
     - 电脑 
 tags:
     - GitHub
-    - git
+    - Git
 ---
 [GitHub Pages](http://pages.github.com/)除了支持[建立个人页面](http://ztpala.com/2011/09/12/jekyll-and-github-pages/)外，还可以建立项目页面。
 
