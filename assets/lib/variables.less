@@ -3,62 +3,53 @@
 // -----------------------------------------------------
 
 
+// LINK COLORS
+// -----------
 
 @linkColor:         darken(@red, 10);
 @linkColorHover:    darken(@linkColor, 15);
-// GLOBAL VALUES
-// --------------------------------------------------
 
-// Links
-@linkColor:             #08c;
-@linkColorHover:        darken(@linkColor, 15);
 
-// Grays
-@black:                 #000;
-@grayDark:              #333;
-@gray:                  #555;
-@grayLight:             #999;
-@grayLighter:           #eee;
-@white:                 #fff;
+// GRAYS
+// -----
 
-// Accent colors
-@blue:                  #049CDB;
-@blueDark:              #0064CD;
-@green:                 #46a546;
-@red:                   #9d261d;
-@yellow:                #ffc40d;
-@orange:                #f89406;
-@pink:                  #c3325f;
-@purple:                #7a43b6;
+@black:             #000;
+@grayDark:          #333;
+@gray:              #555;
+@grayLight:         #999;
+@grayLighter:       #eee;
+@white:             #fff;
 
-// Grid system
-// Modify the grid styles in mixins.less
-@gridColumns:           12;
-@gridColumnWidth:       60px;
-@gridGutterWidth:       20px;
-@siteWidth:             (@gridColumns * @gridColumnWidth) + (@gridGutterWidth * (@gridColumns - 1));
-// Fluid width sidebar
-@fluidSidebarWidth:     220px;
 
-// Typography
-@baseFontSize:          13px;
-@baseFontFamily:        "Helvetica Neue", Helvetica, Arial, sans-serif;
-@baseLineHeight:        18px;
+// ACCENT COLORS
+// -------------
 
+@blue:              #049CDB;
+@blueDark:          #0064CD;
+@green:             #46a546;
 @red:               #dc322f;
-// Buttons
-@primaryButtonColor:    @blue;
+@yellow:            #ffc40d;
+@orange:            #f89406;
+@pink:              #c3325f;
+@purple:            #7a43b6;
 
 
+// GRID
+// ----
 
-// COMPONENT VARIABLES
-// --------------------------------------------------
+// Modify the grid styles in mixins.less
+@gridColumns:       12;
+@gridColumnWidth:   60px;
+@gridGutterWidth:   20px;
+@siteWidth:         (@gridColumns * @gridColumnWidth) + (@gridGutterWidth * (@gridColumns - 1));
 
-// Input placeholder text color
-@placeHolderText:       @grayLight;
+// Fluid width sidebar
+@fluidSidebarWidth: 220px;
 
-// Z-index master list
-// Used for a bird's eye view of components dependent on the z-axis
+
+// Z-INDEX
+// -------
+
 @zindexDropdown:        1000;
 @zindexPopover:         1010;
 @zindexTooltip:         1020;
@@ -66,11 +57,14 @@
 @zindexModalBackdrop:   1040;
 @zindexModal:           1050;
 
-// Navbar
-@navBarHeight:                    40px;
-@navbarBackground:                #222;
-@navbarBackgroundHighlight:       #333;
 
+// THEME VARIABLES
+// ---------------
 
+// Typography
 @baseFontSize:          15px;
+@baseFontFamily:        "Helvetica Neue", Helvetica, Arial, sans-serif;
 @baseLineHeight:        30px;
+
+// Visuals
+@primaryButtonColor:    @blue;

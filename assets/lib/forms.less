@@ -336,7 +336,12 @@ select:invalid {
 }
 
 // Placeholder text gets special styles; can't be bundled together though for some reason
-.placeholder(@grayLight);
+input:-moz-placeholder {
+  color: @grayLight;
+}
+input::-webkit-input-placeholder {
+  color: @grayLight;
+}
 
 
 
