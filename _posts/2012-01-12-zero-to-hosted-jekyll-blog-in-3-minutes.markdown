@@ -16,7 +16,7 @@ excerpt: 如何快速建立一个托管在github的blog。
 
 ##一. 建立一个新的github repository
 
-名字为**USERNAME.github.com**
+名字为*USERNAME*.github.com, *USERNAME*为你的github用户名
 
 ##二. 安装Jekyll-Bootstrap-Core
 
