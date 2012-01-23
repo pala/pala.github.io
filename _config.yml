@@ -1,9 +1,9 @@
-markdown: rdiscount
-permalink: /:year/:month/:day/:title/
+markdown: rdiscount 
+permalink: /:year/:month/:day/:title 
 title: pala的网络日志
 url: http://ztpala.com
 subscribe: http://feeds.feedburner.com/pala
-exclude: [ README.md, bootstrap ]
+exclude: [ README.md ]
 domain: ztpala.com
 author: Tao Zhang
 email: ztpala@gmail.com
