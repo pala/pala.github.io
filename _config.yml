@@ -3,10 +3,8 @@ permalink: /:year/:month/:day/:title
 title: pala的网络日志
 url: http://ztpala.com
 subscribe: http://feeds.feedburner.com/pala
-exclude: [ README.md ]
+exclude: [ README.md, newpost.rb ]
 domain: ztpala.com
 author: Tao Zhang
 email: ztpala@gmail.com
-pygments: true
-paginate: 3
 auto: true
