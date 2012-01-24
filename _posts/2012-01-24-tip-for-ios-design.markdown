@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: iOS程序图标设计贴士一则
-date: 2012-01-23
+date: 2012-01-24
 categories:
     - 电脑
 tags:
