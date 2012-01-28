@@ -10,7 +10,7 @@ tags:
     - Bootstrap
     - 设计
 ---
-[Bootstrap](http://twitter.github.com/bootstrap/)是[Twitter](https://twitter.com)设计并开源的用于开发网页与网络程序的工具套件。用它可以(**难以想象的**)方便快捷地设计各种很漂亮的网页元素，比如字体，表单，按钮导航等。
+[Bootstrap](http://twitter.github.com/bootstrap/)是[Twitter](https://twitter.com)设计并开源的用于开发网页与网络程序的工具套件。用它可以方便快捷地设计各种很漂亮的网页元素，比如字体，表单，按钮导航等。
 
 因为多数[Jekyll](https://github.com/mojombo/jekyll)用户都是先fork别人的一套主题，然后根据自己需要再修改。但如果不懂CSS的话，比如我，这个工作是相当头疼和漫长的。这时，强大的Bootstrap就成了Jekyll在界面设计上非常完美的补充。
 
