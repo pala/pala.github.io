@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: 龙年快乐
+title: 龍年快樂
 date: 2012-01-23
 categories:
     - 相册
@@ -10,6 +10,8 @@ tags:
     - 朋友
 excerpt: 11张照片
 ---
+>龍比龙好看多了。<small>pala (@ztpala) [January 26, 2012](https://twitter.com/ztpala/status/162397911697723392)</small>
+
 两天去了两个Party，吃了无数饺子。
 
 ![](http://pic.ztpala.com/wp-content/uploads/2012/01/IMG_3552-780x520.jpg)
