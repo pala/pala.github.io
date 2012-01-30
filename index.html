@@ -16,7 +16,9 @@ if a post has excerpt, then only excerpt will be shown
 		<p><a class="btn small" href="{{ post.url }}">阅读全文 &raquo; </a></p>
 	{% else %}
 		{{ post.content }}
-		{% for tag in post.tags %}<a href="/tag/#{{ tag }}">#{{ tag }} </a>{% endfor %}
+		{% for tag in post.tags %}
+    		<a class="label" href="/tag/#{{ tag }}">{{ tag }}</a>
+		{% endfor %}
 	{% endif %}
 <hr>
 {% endfor %}

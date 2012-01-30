@@ -28,6 +28,7 @@ body{margin:0;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:
 .sidebar-right .fluid-sidebar{float:right;margin-right:-240px;}
 .fluid-content{float:left;width:100%;}
 a{color:#b9221f;text-decoration:none;}a:hover{color:#771614;text-decoration:none;}
+a.label:hover{color:#ffffff;background-color:#b9221f;}
 p a{border-bottom:1px dotted #999999;}
 .row{margin-left:-20px;*zoom:1;}.row:before,.row:after{display:table;content:"";}
 .row:after{clear:both;}
