@@ -6,5 +6,7 @@ subscribe: http://feeds.feedburner.com/pala
 exclude: [ README.md, newpost.rb ]
 domain: ztpala.com
 author: Tao Zhang
-email: ztpala@gmail.com
+email: ztpala+blog@gmail.com
 auto: true
+twitterID: ztpala
+googleAnalyticsID: UA-5531632-1

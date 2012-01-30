@@ -3,7 +3,7 @@
 # *********************************************
 # Jekyll Post Generator Awesomeness
 # by Cody Krieger (http://codykrieger.com)
-# edited by Tao Zhang
+# edited by Tao Zhang (http://ztpala.com)
 # *********************************************
 
 # Usage:
