@@ -24,7 +24,7 @@ Bootstrap用起来超级简单，只需要在你的网页里包含如下一句�
 
 然后在HTML元素里加上合适的class名字就可以了，比如下面各种标签：
 
-<span class="label">Default</span> <span class="label success">Success</span> <span class="label warning">Warning</span> <span class="label important">Important</span> <span class="label notice">Notice</span>
+<span class="label">Default</span> <span class="label label-success">Success</span> <span class="label label-warning">Warning</span> <span class="label label-important">Important</span> <span class="label label-info">Info</span>
 
 另外Bootstrap支持[LESS](http://lesscss.org/)，一种CSS预处理工具，可以把上面已经很简单的工作再简化。
 

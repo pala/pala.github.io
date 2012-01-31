@@ -7,7 +7,7 @@ categories:
 tags:
     - iOS
 ---
-<pre class="prettyprint-dark">
+<pre class="prettyprint">
 NSString *path = [[NSBundle mainBundle] bundlePath];
 NSURL *url = [NSURL fileURLWithPath:path];
 [webView loadHTMLString:htmlString baseURL:url];
@@ -17,7 +17,7 @@ NSURL *url = [NSURL fileURLWithPath:path];
 
 CSS也一样 上文说到UIWebView不是继承自UIScrollView，所以不能使用scrollEnable=NO来禁用滚屏。目前我找到最简单的方法是在htmlString里包含如下代码：
 
-<pre class="prettyprint-dark">
+<pre class="prettyprint">
 document.ontouchmove = function(event) {
 if (document.body.scrollHeight == document.body.clientHeight) event.preventDefault();
 }

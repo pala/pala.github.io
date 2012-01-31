@@ -9,7 +9,7 @@ tags:
 ---
 如果你用IB创建了一个UITableViewCell，按照一般从nib文件里load view的思路，需要以下代码：
 
-<pre class="prettyprint-dark">
+<pre class="prettyprint">
 UITableViewCell *cell = (UITableViewCell *)[tableView dequeueReusableCellWithIdentifier:CellIdentifier];
 
 if (cell == nil) {
@@ -22,7 +22,7 @@ return cell;
 
 [苹果文档](http://developer.apple.com/iphone/library/documentation/UserExperience/Conceptual/TableView_iPhone/TableViewCells/TableViewCells.html#//apple_ref/doc/uid/TP40007451-CH7-SW20)里则给了如下的巧妙方法：
 
-<pre class="prettyprint-dark">
+<pre class="prettyprint">
 static NSString *MyIdentifier = @"MyIdentifier";
 
 UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:MyIdentifier];
