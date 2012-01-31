@@ -22,7 +22,9 @@ if a post has excerpt, then only excerpt will be shown
 	{% endif %}
 <hr>
 {% endfor %}
-
+{% comment %}
+<!-- show 5 postTitles -->
+{% endcomment %}
 <ul class="unstyled">
 		{% for post in site.posts limit: 5 offset:3 %}
 		<li>» <a href="{{ post.url }}">{{ post.title }}</a></li>
