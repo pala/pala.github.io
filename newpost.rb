@@ -65,7 +65,7 @@ filepath = File.join(POSTS_DIR, filename)
 # Load in the template and set the title
 post_text = File.read(TEMPLATE)
 post_text.gsub!('%%TITLE%%', title)
-post_text.gsub!('%%DATE%%', "#{t.strftime('%Y-%m-%d')}")
+post_text.gsub!('%%DATE%%', "#{t.strftime('%Y-%m-%d %H:%M:%S')}")
 
 # Write out the post
 post_file = File.open(filepath, 'w')
