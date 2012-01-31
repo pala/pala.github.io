@@ -16,7 +16,7 @@ tags:
 
 接着查看git的状态：
 
-<pre class="prettyprint">
+<pre class="prettyprint linenums">
 $ git status
 # On branch master
 # Changes to be committed:
@@ -30,7 +30,7 @@ $ git status
 
 `.gitmodules` 文件里存储这所有submodule的信息：
 
-<pre class="prettyprint">
+<pre class="prettyprint linenums">
 $ cat .gitmodules 
 [submodule "subpala"]
       path = subpala
