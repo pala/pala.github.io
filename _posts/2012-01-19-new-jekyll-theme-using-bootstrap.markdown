@@ -49,4 +49,4 @@ Jekyll和Bootstrap给了用户很大的自由去定义自己的内容，不喜�
 
 除了HTML样式上的定制，Bootstrap还提供了十几种jQuery插件，比如下拉菜单，见本文右下角的分享，比如合拢与展开列表，见本站的存档，等等等等。
 
-<span class="label notice">Notice</span> 目前Bootstrap的开发已经到了2.0版，但它的master branch和主页里仍旧是1.4.0版，如果你想试用2.0版，请看它的[2.0-wip](https://github.com/twitter/bootstrap/tree/2.0-wip)这个分支。
+<span class="label label-info">Notice</span> 目前Bootstrap的开发已经到了2.0版，但它的master branch和主页里仍旧是1.4.0版，如果你想试用2.0版，请看它的[2.0-wip](https://github.com/twitter/bootstrap/tree/2.0-wip)这个分支。
