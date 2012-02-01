@@ -69,7 +69,7 @@ var quaid  = 'quaid';
 
 `git clone https://github.com/buymeasoda/soda-theme/ "Theme - Soda"`
 
-要激活此主题则要打开首选项文件：`Sublime Text 2 -> Preferences -> Global Settings - User`，添加一下内容：
+要激活此主题则要打开首选项文件：`Sublime Text 2 -> Preferences -> Global Settings - User`，添加以下内容：
 
 <pre class="prettyprint linenums">
 {

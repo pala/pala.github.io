@@ -72,4 +72,4 @@ post_file = File.open(filepath, 'w')
 post_file.puts post_text
 post_file.close
 
-system("sub1 #{filepath}")
+system("subl #{filepath}")

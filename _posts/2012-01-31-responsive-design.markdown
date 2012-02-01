@@ -14,7 +14,7 @@ Responsive design就是让网页根据浏览器分辨率的不同而有不同的
 [Bootstrap](https://github.com/twitter/bootstrap)里给了很好的示例，最简单的例子如下，只要根据不同的宽度设置不同的CSS就可以了。
 
 <pre class="prettyprint linenums">
-// http://twitter.github.com/bootstrap/
+// http://twitter.github.com/bootstrap/scaffolding.html#responsive
 // Landscape phones and down
 @media (max-width: 480px) { ... }
 
