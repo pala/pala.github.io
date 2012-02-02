@@ -7,7 +7,6 @@
 {% for tag in page.tags %}
     <a class="label" href="/tag/#{{ tag }}">{{ tag }}</a>
 {% endfor %}
-
 <hr>
 <ul class="pager">
     {% if page.previous %}
@@ -21,3 +20,13 @@
     </li>
     {% endif %}   
 </ul>
+<hr>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = '{{site.disqusShortname}}';
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
