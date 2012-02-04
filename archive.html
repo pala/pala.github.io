@@ -6,35 +6,35 @@ keywords:
   - blog
   - archive
 ---
-<ul class="unstyled">
-{% for category in site.categories %}
-  <li><a data-toggle="collapse" href="#{{ category | first }}" name="{{ category | first }}"><h1>{{ category | first }} {{ category | last | size }}</h1></a>
-  <div id="{{ category | first }}" class="collapse">
-    <ul>
-    {% for post in category.last %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-    </ul>
-   </div>
-  </li>
-{% endfor %}
-</ul>
-<hr>
-{% capture post_year1 %}{{ 'now' | date: '%Y' }}{% endcapture %}
-<a data-toggle="collapse" href="#{{ post_year1 }}"><h1>{{ post_year1 }}</h1></a>
-<div id="{{ post_year1 }}" class="collapse">
-<ul>
-{% for post in site.posts %}
-{% capture post_year2 %}{{ post.date | date: '%Y' }}{% endcapture %}
-{% if post_year1 != post_year2 %}
-{% assign post_year1 = post_year2 %}
-</ul>
-</div>
-<a data-toggle="collapse" href="#{{ post_year1 }}"><h1>{{ post_year1 }}</h1></a>
-<div id="{{ post_year1 }}" class="collapse">
-<ul>
-{% endif %}
-<li><time>{{ post.date | date: '%m-%d' }}</time> <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
+<style type="text/css">
+.posts ul{
+  margin: 0;
+  padding: 0;
+}
+.posts li{
+  font-size: 14px;
+  list-style: none;
+  padding: 5px 3px;
+  margin: 0;
+  color: #777;
+  border-bottom: 1px solid #eee;
+}
+.posts li span{
+  float: right;
+}
+.posts a{
+  text-decoration: none;
+}
+.posts a:hover{
+  text-decoration: underline;
+}
+</style>
+<div class="posts">
+  <ul>
+  {% for post in site.posts %}
+    <li>
+      <span>{{ post.date | date: "%b %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+  </ul>
 </div>
