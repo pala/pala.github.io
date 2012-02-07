@@ -12,7 +12,7 @@ tags:
 ---
 [Gollum](http://github.com/github/gollum)是一个简单的基于Git的wiki系统，GitHub的Wiki即是由它生成。
 
-它和[Jekyll](mojombo.github.com/jekyll)一样，支持用markdown编写。
+它和[Jekyll](http://mojombo.github.com/jekyll)一样，支持用markdown编写。
 
 它同时带有一个本地的前端，你可以在浏览器里编写保存页面，系统会在背后自动commit。因为它是一个Git repo，所以你也可以把它push到GitHub。只要在你的已有repository的地址后加上 `.wiki`，那么你push过去之后它便成为你那个repository的wiki。这是你在这个前端里的保存也会被Gollum自动push到GitHub。
 

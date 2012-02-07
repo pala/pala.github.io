@@ -41,3 +41,29 @@ scrollView.contentSize = CGSizeMake(width*(photoCount-(photosPerpage-1)), height
 </pre>
 
 如果再复杂一点，可以设计成twitter for iPad那样，所有照片“堆积”在最左侧，只要计算的清楚。当然，作者也可能是搞了个自己的UIScroollView出来，就像当初tweetie的[自定义UITabBarController](http://stackoverflow.com/questions/576764/tab-bar-controller-inside-a-navigation-controller-or-sharing-a-navigation-root-v)一样，有更好的想法欢迎留言。
+
+###2012-2-6 03:08 update
+另外有個超簡方法，就是把 `scrollView` 的寬度設置成想要的page寬度，然後設置 `clipsToBounds = NO`。接著再定義 `scrollView` 所在的 `UIView` 的 `hitTest`：
+
+<pre class="prettyprint linenums">
+- (UIView *)hitTest:(CGPoint)point withEvent:(UIEvent *)event {
+    if ([self pointInside:point withEvent:event]) {
+        return _scrollView;
+    }
+    return nil;
+}
+</pre>
+
+如果 `scrollView` 所在的View有其他subView的話，可以用以下代碼：
+<pre class="prettyprint linenums">
+- (UIView *)hitTest:(CGPoint)point withEvent:(UIEvent *)event {
+    UIView *child = [super hitTest:point withEvent:event];
+    
+    if (child == self) {
+        return self.scrollView;
+    } 
+    
+    return child; 
+}
+</pre>
+[via](http://blog.proculo.de/archives/180-Paging-enabled-UIScrollView-With-Previews.html)
