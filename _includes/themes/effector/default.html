@@ -5,21 +5,11 @@
   <title>{{ page.title }}</title>
   <meta name="author" content="{{ site.author }}"/>
   <meta name="viewport" content="width=device-width; initial-scale=1.0">
-  <link rel="stylesheet" type="text/css" href="/assets/css/pala.css">
+  <link rel="stylesheet" type="text/css" href="/assets/css/effector.css">
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/atom.xml" />
   <style type="text/css">
   html, body {
-    background-color: #F8F8F8;
-  }
-  .container > footer p , .postheader > a{
-    text-align: center;
-  }
-
-  .date {
-    text-align: center;
-    height: 30px;
-    color:#bfbfbf;
-    margin-bottom: 10px;
+    background-color: #E6EBEA;
   }
   /* Specify class=linenums on a pre to get line numbering */
   ol.linenums {
@@ -34,17 +24,19 @@
   </style>
 </head>
 <body onload="prettyPrint()">
+
   <div class="container">
-  <h1 class="sitename">pala</h1>
-  <ul class="nav pills">
-  <li {% if page.permalink == "/" %} class="active" {% endif %}><a href="/">主頁</a></li>
-  <li {% if page.permalink == "/archive/" %} class="active" {% endif %}><a href="/archive/">存檔</a></li>
-  <li {% if page.permalink == "/search/" %} class="active" {% endif %}><a href="/search/">搜索</a></li>
-  <li {% if page.permalink == "/about/" %} class="active" {% endif %}><a href="/about/">關於</a></li>
-</ul>
+      <h1 class="sitename">Tao</h1>
+      <div class="nav">
+<a href="/">主頁</a>
+<a href="/archive/">存檔</a>
+<a href="/search/">搜索</a>
+<a href="/about/">關於</a>
+</div>
 {{ content }}
 <footer>
-  <p><small>Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a>, <a href="http://twitter.github.com/bootstrap/">Bootstrap</a> and <a href="http://pages.github.com/">GitHub</a> | <a href="https://github.com/pala/pala.github.com">pala Theme</a> by <a href="http://ztpala.com">Tao Zhang</a> | <span class="label label-info">{{site.time | date:"%Y-%m-%d %H:%M:%S"}}</span></small></p>
+  <p><small>Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a>, <a href="http://twitter.github.com/bootstrap/">Bootstrap</a> and <a href="http://pages.github.com/">GitHub</a> | <a href="https://github.com/pala/pala.github.com">Effector Theme</a> by <a href="http://ztpala.com">Tao Zhang</a> | <span class="label label-info">{{site.time | date:"%Y-%m-%d %H:%M:%S"}}</span></small></p>
+  <!-- inspired by http://effectortheme.tumblr.com/ -->
 </footer>
 </div>
 <script src="/assets/js/jquery.min.js"></script>

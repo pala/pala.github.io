@@ -1,6 +1,6 @@
 markdown: rdiscount 
 permalink: /:year/:month/:day/:title 
-title: pala的网络日志
+title: Tao的網絡日誌
 url: http://ztpala.com
 subscribe: http://feeds.feedburner.com/pala
 exclude: [ README.md, newpost.rb ]
@@ -10,4 +10,3 @@ email: ztpala+blog@gmail.com
 auto: true
 twitterID: ztpala
 googleAnalyticsID: UA-5531632-1
-disqusShortname: ztpala
