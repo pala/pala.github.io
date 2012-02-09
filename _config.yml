@@ -1,6 +1,6 @@
 markdown: rdiscount 
 permalink: /:year/:month/:day/:title 
-title: Tao的網絡日誌
+title: Tao的網誌
 url: http://ztpala.com
 subscribe: http://feeds.feedburner.com/pala
 exclude: [ README.md, newpost.rb ]

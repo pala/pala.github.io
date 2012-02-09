@@ -379,3 +379,8 @@ pre {
     font-weight: bold;
     text-align: center;
 }
+
+.wrapper  {
+    background-color:  #fff;
+    margin:  10px 0px 20px 0px;
+}
