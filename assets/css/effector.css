@@ -31,7 +31,7 @@ p img {
 body {
     margin: 0;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 14px;
+    font-size: 15px;
     line-height: 30px;
     color: #555;
     background-color: #fff;
@@ -59,7 +59,7 @@ p a {
 p {
     margin: 0 0 14px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 14px;
+    font-size: 15px;
     line-height: 30px;
     color: #555;
 }
@@ -102,14 +102,14 @@ h2 small {
     font-size: 18px;
 }
 h3 {
-    line-height: 32px;
+    line-height: 18px;
     font-size: 18px;
 }
 h3 small {
     font-size: 14px;
 }
 h4, h5, h6 {
-    line-height: 30px;
+    line-height: 15px;
 }
 h4 {
     font-size: 14px;
