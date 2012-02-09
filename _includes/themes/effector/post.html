@@ -1,5 +1,5 @@
 <div class="wrapper">
-<div class="postheader"><h1><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a> <small class="pull-right">{{ page.date | date:"%Y-%m-%d" }}</small></h1></div>
+<div class="postheader"><h1><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a> <small class="pull-right">{{ page.date | date:"%b %e, %Y" }}</small></h1></div>
 {{ content }}
 {% for tag in page.tags %}
     <a class="label" href="/tag/#{{ tag }}">{{ tag }}</a>
