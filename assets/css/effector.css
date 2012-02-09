@@ -1,3 +1,6 @@
+html, body {
+    background-color: #E6EBEA;
+}
 footer, header, nav {
     display: block;
 }
@@ -7,7 +10,8 @@ footer, header, nav {
 html {
     font-size: 100%;
     -webkit-text-size-adjust: 100%;
-    -ms-text-size-adjust: 100%}
+    -ms-text-size-adjust: 100%
+}
 a:focus {
     outline: thin dotted;
     outline: 5px auto -webkit-focus-ring-color;
@@ -34,7 +38,6 @@ body {
     font-size: 15px;
     line-height: 30px;
     color: #555;
-    background-color: #fff;
 }
 a {
     color: #F95B1F;
@@ -249,7 +252,16 @@ pre {
     -moz-box-shadow: inset 40px 0 0 #fbfbfc, inset 41px 0 0 #ececf0;
     box-shadow: inset 40px 0 0 #fbfbfc, inset 41px 0 0 #ececf0;
 }
-
+/* Specify class=linenums on a pre to get line numbering */
+ol.linenums {
+margin: 0 0 0 33px; /* IE indents via margin-left */
+} 
+ol.linenums li {
+padding-left: 12px;
+color: #bebec5;
+line-height: 18px;
+text-shadow: 0 1px 0 #fff;
+}
 .com {
     color: #93a1a1;
 }
@@ -359,14 +371,29 @@ pre {
 
 .wrapper  {
     background-color:  #fff;
-    margin:  10px 0px 50px 0px;
-    padding:  20px;
+    margin:  10px 0px;
+    padding:  10px 20px;
     moz-border-radius:  5px;
     webkit-moz-border-radius:  5px;
      border-radius:  5px;
     -webkit-box-shadow:  0px 1px 3px #A8ABAB;
     -moz-box-shadow:  0px 1px 3px #A8ABAB;
     box-shadow:  0px 1px 3px #A8ABAB;
+}
+
+.postsList {
+    margin: 0px 0px 10px 0px;
+}
+
+.postsList li{
+  list-style: none;
+  padding: 5px 3px;
+  margin: 0;
+  color: #aaa;
+  border-bottom: 1px solid #eee;
+}
+.postsList li span{
+  float: right;
 }
 
 @media only screen and (max-width:768px) {

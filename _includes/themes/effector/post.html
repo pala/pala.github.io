@@ -1,5 +1,5 @@
 <div class="wrapper">
-<div class="postheader"><h1><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a> <small class="pull-right">{{ page.date | date:"%b %e, %Y" }}</small></h1></div>
+<h1><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a> <small class="pull-right">{{ page.date | date:"%b %e, %Y" }}</small></h1>
 {{ content }}
 {% for tag in page.tags %}
     <a class="label" href="/tag/#{{ tag }}">{{ tag }}</a>
@@ -19,6 +19,7 @@
 </ul>
 <hr>
 <div id="disqus_thread"></div>
+</div>
 <script type="text/javascript">
     var disqus_shortname = '{{site.disqusShortname}}';
     (function() {
@@ -27,4 +28,3 @@
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
 </script>
-</div>

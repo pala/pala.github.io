@@ -7,21 +7,6 @@
   <meta name="viewport" content="width=device-width; initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="/assets/css/effector.css">
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/atom.xml" />
-  <style type="text/css">
-  html, body {
-    background-color: #E6EBEA;
-  }
-  /* Specify class=linenums on a pre to get line numbering */
-  ol.linenums {
-    margin: 0 0 0 33px; /* IE indents via margin-left */
-  } 
-  ol.linenums li {
-    padding-left: 12px;
-    color: #bebec5;
-    line-height: 18px;
-    text-shadow: 0 1px 0 #fff;
-  }
-  </style>
 </head>
 <body onload="prettyPrint()">
 
@@ -34,15 +19,34 @@
 </div>
 {{ content }}
 <footer>
-  <p><small>Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a>, <a href="http://twitter.github.com/bootstrap/">Bootstrap</a> and <a href="http://pages.github.com/">GitHub</a> | <a href="https://github.com/pala/pala.github.com">Effector Theme</a> by <a href="http://ztpala.com">Tao Zhang</a> | <span class="label label-info">{{site.time | date:"%Y-%m-%d %H:%M:%S"}}</span></small></p>
+  <p><small>Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a>, <a href="http://twitter.github.com/bootstrap/">Bootstrap</a> and <a href="http://pages.github.com/">GitHub</a> | <a href="https://github.com/pala/pala.github.com">Effector Theme</a> by <a href="http://ztpala.com">Tao Zhang</a> | Latest Commit <span class="label label-success">{{site.time | date:"%Y-%m-%d %H:%M:%S"}}</span></small></p>
   <!-- inspired by http://effectortheme.tumblr.com/ -->
 </footer>
 </div>
+{% if page.url != "/" %}
 <script src="/assets/js/jquery.min.js"></script>
-{% if page.permalink == "/archive/" %}
-<script src="/assets/js/bootstrap-collapse.js"></script>
-{% endif %}
 <script src="/assets/js/google-code-prettify/prettify.js"></script>
+<script>
+$(function(){
+  $(document).keydown(function(e) {
+    var url = false;
+        if (e.which == 37 || e.which == 74) {  // Left arrow key code
+            {% if page.previous %}
+        url = '{{page.previous.url}}';
+        {% endif %}
+        }
+        else if (e.which == 39 || e.which == 75) {  // Right arrow key code
+            {% if page.next %}
+        url = '{{page.next.url}}';
+        {% endif %}
+        }
+        if (url) {
+            window.location = url;
+        }
+  });
+})
+</script>
+{% endif %}
 <script type="text/javascript">
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', '{{site:googleAnalyticsID}}']);
