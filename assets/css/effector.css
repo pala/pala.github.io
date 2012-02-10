@@ -21,7 +21,7 @@ a:hover, a:active {
     outline: 0;
 }
 img {
-    max-width: 680px;
+    max-width: 640px;
     height: auto;
     border: 0;
     -ms-interpolation-mode: bicubic;
@@ -31,6 +31,9 @@ p img {
     display: block;
     margin-left: -20px;
     margin-right: -20px;
+}
+iframe {
+    margin: 0px -20px;
 }
 body {
     margin: 0;
@@ -361,7 +364,7 @@ text-shadow: 0 1px 0 #fff;
     visibility: hidden;
 }
 .container {
-    width: 680px;
+    width: 640px;
 }
 .sitename {
     font-size: 40px;
