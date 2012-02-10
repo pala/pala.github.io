@@ -8,7 +8,7 @@ categories:
     - 相册
     - 自行车
 ---
-<iframe width="853" height="480" src="http://www.youtube.com/embed/MOQVadavObQ?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/MOQVadavObQ?rel=0" frameborder="0" allowfullscreen></iframe>
 
 (看不到的请看<a href="http://v.youku.com/v_show/id_XMTkyNjc1MTA4.html">优酷版</a>)
 

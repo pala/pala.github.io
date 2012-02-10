@@ -1,9 +1,10 @@
 <div class="wrapper">
 <h1><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a> <small class="pull-right">{{ page.date | date:"%b %d, %Y" }}</small></h1>
 {{ content }}
+<div>
 {% for tag in page.tags %}
     <a class="label" href="/tag/#{{ tag }}">{{ tag }}</a>
-{% endfor %}
+{% endfor %}</div>
 <hr>
 <ul class="pager">
     {% if page.previous %}

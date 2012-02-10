@@ -26,15 +26,16 @@ img {
     border: 0;
     -ms-interpolation-mode: bicubic;
 }
-p img {
+.wrapper p img {
     clear: both;
     display: block;
     margin-left: -20px;
     margin-right: -20px;
 }
-iframe {
+.wrapper iframe {
     margin: 0px -20px;
 }
+
 body {
     margin: 0;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -166,7 +167,7 @@ dd {
 hr {
     margin: 30px 0;
     border: 0;
-    border-top: 1px solid #CFD3D3;
+    border-top: 1px solid #eee;
 }
 strong {
     font-weight: bold;

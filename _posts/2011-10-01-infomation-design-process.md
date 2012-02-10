@@ -39,6 +39,6 @@ Nicholas Felton是一位Information designer。他擅长将复杂的统计数据
 
 接下来，工程师设计师及上面两位<strong><em>艺术家</em></strong>一起创造了现在的timeline，允许用户将任意关于自己的信息，现在的或者过去的，上传到Facebook，从出生那一天到今天。所有这些数据，全部展现在一页上。就像Felton的年度报告。你可以将这些信息，分享给特定的朋友，家人等。像以前把家里的相册给来访的朋友看一样。
 
-[youtube http://www.youtube.com/watch?v=hzPEPfJHfKU]
+<iframe width="640" height="360" src="http://www.youtube.com/embed/hzPEPfJHfKU?rel=0" frameborder="0" allowfullscreen></iframe>
 
 这就是第三个故事，关于个人的生活的数据的故事。
