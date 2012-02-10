@@ -252,9 +252,11 @@ pre {
     white-space: pre;
     white-space: pre-wrap;
     word-break: break-all;
-    -webkit-box-shadow: inset 40px 0 0 #fbfbfc, inset 41px 0 0 #ececf0;
-    -moz-box-shadow: inset 40px 0 0 #fbfbfc, inset 41px 0 0 #ececf0;
-    box-shadow: inset 40px 0 0 #fbfbfc, inset 41px 0 0 #ececf0;
+}
+.prettyprint.linenums{
+    -webkit-box-shadow:inset 40px 0 0 #fbfbfc,inset 41px 0 0 #ececf0;
+    -moz-box-shadow:inset 40px 0 0 #fbfbfc,inset 41px 0 0 #ececf0;
+    box-shadow:inset 40px 0 0 #fbfbfc,inset 41px 0 0 #ececf0
 }
 /* Specify class=linenums on a pre to get line numbering */
 ol.linenums {
