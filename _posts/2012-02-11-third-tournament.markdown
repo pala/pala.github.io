@@ -3,9 +3,9 @@ layout: post
 title: 第三次空手道比賽 
 date: 2012-02-11 22:16:41 
 categories:
-    - Tournament 
-tags:
     - 空手道
+tags:
+    - Tournament
 ---
 第一次作為棕帶去比，和[以前](http://ztpala.com/2011/02/21/karate-tournaments)不同的是棕帶會和黑帶分在一起，要比 `Free Sparring`（散打）。不過這次只有一個黑帶參加比賽，外加六個棕帶。
 
