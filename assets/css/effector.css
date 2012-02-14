@@ -41,7 +41,7 @@ img {
 
 body {
     margin: 0;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Hiragino Sans GB', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 15px;
     line-height: 30px;
     color: #555;
@@ -69,7 +69,7 @@ p a {
 }
 p {
     margin: 0 0 14px;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Hiragino Sans GB', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 15px;
     line-height: 30px;
     color: #555;
@@ -333,7 +333,7 @@ text-shadow: 0 1px 0 #fff;
     float: left;
 }
 .label {
-    padding: 1px 3px 2px;
+    padding: 3px 3px 2px;
     font-size: 11.25px;
     font-weight: bold;
     color: #fff;
