@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: THON 2012
+date: 2012-02-17 23:56:51
+categories:
+    - 网志
+tags:
+    - StateCollege
+---
+<a href="http://www.flickr.com/photos/ztpala/6894874915/" title="IMG_3672 by ztpala, on Flickr"><img src="http://farm8.staticflickr.com/7036/6894874915_0a16848286_z.jpg" width="640" height="427" alt="IMG_3672"></a>
+
+<a href="/2008/02/24/thon-2008/">什么是THON？</a>
