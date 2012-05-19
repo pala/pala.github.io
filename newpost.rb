@@ -59,7 +59,7 @@ POSTS_DIR = "_posts"
 t = Time.now
 t.convert_zone("US/Eastern")
 title = ARGV.join(" ")
-filename = "#{t.strftime('%Y-%m-%d')}-#{title.parameterize}.markdown" 
+filename = "#{t.strftime('%Y-%m-%d')}-#{title.parameterize}.md" 
 filepath = File.join(POSTS_DIR, filename)
 
 # Load in the template and set the title
