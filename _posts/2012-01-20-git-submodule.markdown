@@ -37,9 +37,11 @@ $ cat .gitmodules
       url = git://github.com/pala/subpala.git
 </pre>
 
-虽然subpala是pala的子目录，但pala的git并不会去追踪subpala里具体文件的情况而只会记录subpala这个项目的commit。如果你去pala的github页面看，subpala作为一个超链接链接到自己的github页面。效果如下：
+虽然subpala是pala的子目录，但pala的git并不会去追踪subpala里具体文件的情况而只会记录subpala这个项目的commit。如果你去pala的github页面看，subpala作为一个超链接链接到自己的github页面。
 
-[<img src="https://a248.e.akamai.net/assets.github.com/img/13ee04215a8b18495cdf48255522e81363d331c9/687474703a2f2f696d672e736b697463682e636f6d2f32303038303930342d6d6b346736677169397031757471777038796b70706a3864646d2e706e67">](https://github.com/blog/154-submodule-display)
+如果要submodule使用特定的branch，需要到submodule的目录运行：
+
+`git checkout -b aBranch origin/aBranch`
 
 这样，你就可以在subpala里用git单独管理，虽然它是另一个git项目的子目录。
 

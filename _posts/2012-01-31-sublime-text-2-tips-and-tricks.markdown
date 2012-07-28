@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Sublime Text 2 配置与技巧 (更新中)
+title: Sublime Text 2 配置与技巧
 date: 2012-01-31 12:29:59
 categories:
     - 电脑
