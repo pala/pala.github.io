@@ -5,7 +5,7 @@ layout: post
 categories:
     - 电脑
 ---
-<a href="https://www.getdropbox.com/referrals/NTE1MDExNTk" target="_blank">https://www.getdropbox.com/referrals/NTE1MDExNTk</a>
+<a href="http://db.tt/H7ei7k2" target="_blank">http://db.tt/H7ei7k2</a>
 
 (注，上述地址为我的推介地址，可以为你的帐号和我的帐号各增加250M空间)
 
