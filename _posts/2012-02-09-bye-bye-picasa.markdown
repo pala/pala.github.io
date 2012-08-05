@@ -3,7 +3,7 @@ layout: post
 title: Bye Bye Picasa
 date: 2012-02-09 00:15:01
 categories:
-    - 日誌
+    - 网志
 tags:
     - Google
 ---

@@ -13,7 +13,7 @@ categories:
 
 我们早上六点从State College乘大巴出发，经过严重堵车后于中午12点多到达。还没下车，停车场所属的赌场工作人员就上来发优惠券，每个21岁以上的乘客都得到了30美元的赌资兑换券一张。虽然不能兑换现金，但拿它堵赢来的钱可以立即兑换成现金。据我们所知有些人由于发现不能直接将30美元兑换而放弃了去赌场，浪费阿。
 
-<img class="alignnone" src="https://lh4.googleusercontent.com/-KXnfpjtkkiE/SmN5dC9cAII/AAAAAAABbCw/26bTW3XHxLY/s640/IMG_0008.JPG" alt="" width="640" height="480" />
+<a href="http://www.flickr.com/photos/ztpala/7144076363/" title="IMG_0008 by ztpala, on Flickr"><img src="http://farm8.staticflickr.com/7224/7144076363_63b3f115e4_z.jpg" width="640" height="480" alt="IMG_0008"></a>
 
 我是第一次去赌场，对于它们的豪华程度和规模程度还是有些吃惊的。我们仅去了最底层的大厅，里面是四面都望不到边的各种赌博机，还有一些玩扑克的桌子，不过似乎最低50刀才能上桌。和电影里看到的一样，天花板上到处都是摄像头，各个角落里都有ATM。有些赌场还有专为华人开的麻雀牌九的赌厅，看来经常有不少大款光顾。
 

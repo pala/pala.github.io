@@ -9,8 +9,8 @@ tags:
 categories:
     - 相册
 ---
-![](https://lh6.googleusercontent.com/-Wijr8JVLd8Q/TqW7SKfUcFI/AAAAAAABhfk/kfxnRT2jeTs/s640/IMG_3079.jpg)
+<a href="http://www.flickr.com/photos/ztpala/7143012367/" title="IMG_3079 by ztpala, on Flickr"><img src="http://farm8.staticflickr.com/7054/7143012367_6920b9cef1_z.jpg" width="640" height="360" alt="IMG_3079"></a>
 
 上礼拜五去<a href="http://www.nps.gov/shen/index.htm">Shenandoah National Park</a>露营了三天两夜。风景超美，到处是层层叠叠的山，五彩缤纷的树和憨态可掬的鹿和黑熊。
 
-<embed type="application/x-shockwave-flash" src="https://picasaweb.google.com/s/c/bin/slideshow.swf" width="600" height="400" flashvars="host=picasaweb.google.com&captions=1&noautoplay=1&hl=en_US&feat=flashalbum&RGB=0x000000&feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fztpala%2Falbumid%2F5667141623601187825%3Falt%3Drss%26kind%3Dphoto%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
+<object width="600" height="450"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Fztpala%2Fsets%2F72157629081692652%2Fshow%2F&page_show_back_url=%2Fphotos%2Fztpala%2Fsets%2F72157629081692652%2F&set_id=72157629081692652&jump_to="></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=109615"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=109615" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Fztpala%2Fsets%2F72157629081692652%2Fshow%2F&page_show_back_url=%2Fphotos%2Fztpala%2Fsets%2F72157629081692652%2F&set_id=72157629081692652&jump_to=" width="600" height="450"></embed></object>
