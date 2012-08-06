@@ -8,6 +8,9 @@ tags:
 categories:
     - 电脑
 ---
+
+##注：此功能已经被Google杀死
+
 具体做法是:
 
 1.在你的Reader里将你想加入友情链接的blog都添加一个tag,比如叫blogroll.
