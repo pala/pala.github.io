@@ -7,7 +7,7 @@ tags:
 categories:
     - 网志
 ---
-[Threadless](http://www.threadless.com/UNICEF)最近上架了几件“世界上最贵的Tee”。这一系列的Tee最大的特点是每件的价格=它所印的物品的实际价格。比如下面这一件：
+[Threadless](http://www.threadless.com/UNICEF)最近上架了几件「世界上最贵的Tee」。这一系列的Tee最大的特点是每件的价格=它所印的物品的实际价格。比如下面这一件：
 
 ![](https://lh4.googleusercontent.com/-vjb79mACElo/TvwsW7QkWWI/AAAAAAABioc/wTKenTVECF0/s800/636x460shirt_guys_01.jpeg)
 

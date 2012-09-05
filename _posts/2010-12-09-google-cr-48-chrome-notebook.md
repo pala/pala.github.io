@@ -69,7 +69,7 @@ https://services.google.com/fb/forms/cr48basic/?referrer=qr
 
 12/11 update:
 
-1. 本来提交了一个bug说“用2-step verification保护的账户似乎无法sync的设置，输入访问码后还是要求登录。”不过后来证明并不是无法sync，只是需要重启一下，问题是系统没有提醒要重启。
+1. 本来提交了一个bug说「用2-step verification保护的账户似乎无法sync的设置，输入访问码后还是要求登录。」不过后来证明并不是无法sync，只是需要重启一下，问题是系统没有提醒要重启。
 
 2. 鼠标操作有些问题，经常单击变成拖动。而且双指的右键有时候不识别。
 

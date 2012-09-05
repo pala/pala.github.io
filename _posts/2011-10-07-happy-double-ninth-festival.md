@@ -11,7 +11,7 @@ categories:
 ---
 [又](http://youtu.be/MOQVadavObQ)到一年重阳，找个地方登高。下午四点多出发。由于事先找的[路线](http://g.co/maps/arrbb)非常短及简单，所以没有带头灯吃的，拿上两瓶水就出发了。
 
-目的地四周都是高树及AT&amp;T的信号塔，找了半天发现下图中的一个“观光塔”，不过入口被拦住而且最底下十几层台阶已经被拆掉。不管那么多，战战兢兢爬上去发现景色还是不错的。
+目的地四周都是高树及AT&amp;T的信号塔，找了半天发现下图中的一个「观光塔」，不过入口被拦住而且最底下十几层台阶已经被拆掉。不管那么多，战战兢兢爬上去发现景色还是不错的。
 
 <img src="https://lh4.googleusercontent.com/-IIGtmkIp5lY/Toz636ls0HI/AAAAAAABf9w/w1fpRTqHbx0/s640/IMG_2557.jpg" alt="" />
 

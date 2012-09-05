@@ -13,15 +13,15 @@ categories:
 
 名字并不是object的一种属性.一个object可以有很多个名字,或者没有名字,它本身不关心这个.名字存在于namespace中.namespace可以看作是字典,其元素是(名字:object 引用).而赋值改变的只是namespace,而非对象.如:
 
-`name = “firstname”`
+`name = 「firstname」`
 
-这条语句表示你将”name”这个名字引入local namespace,然后将它指向一个值为”firstname”的string对象.
+这条语句表示你将」name」这个名字引入local namespace,然后将它指向一个值为」firstname」的string对象.
 
-`name = “firstname”`
+`name = 「firstname」`
 
-`name = “secondname”`
+`name = 「secondname」`
 
-这两条语句表示什么呢?第一句和上面一样,而第二句则重新向local namespace引入名字替换第一句的”name”,再将它指向”secondname”. 改变的是namespace,而作为object的”firstname”丝毫不受其影响.再看第三个例子:
+这两条语句表示什么呢?第一句和上面一样,而第二句则重新向local namespace引入名字替换第一句的」name」,再将它指向「secondname」. 改变的是namespace,而作为object的「firstname」丝毫不受其影响.再看第三个例子:
 
 `name = ['first']`
 
@@ -86,6 +86,6 @@ myList的类型是list,属于mutable.但不是很多地方说mutable是引用传
 
 和change1类似,change4里的语句n=n+[4]改变的只是这个函数内部的值(即已经指向一个含有[4]的新list),并未影响到函数外部的myList.而change5里的语句: n+=[4], 则相当于n.append(4).此时回想一下最初的介绍.这样一个语句调用的是object的一个方法,改变的也是object,也就是函数内外的变量所指向的同一个list.所以在Python里 i = i + 1和 i +=1并不能完全等同.而n += [4]不是一个很好的编程习惯,应该避免,选择更易读的append函数.
 
-总的来说,Python函数里的参数传递还是值传递,不过在传递list等可变的object的会”表现为”引用传递.下面是Python文档的原话:
+总的来说,Python函数里的参数传递还是值传递,不过在传递list等可变的object的会「表现为」引用传递.下面是Python文档的原话:
 
 >The actual parameters (arguments) to a function call are introduced in the local symbol table of the called function when it is called; thus, arguments are passed using call by value (where the value is always an object reference, not the value of the object). When a function calls another function, a new local symbol table is created for that call.

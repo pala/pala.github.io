@@ -13,7 +13,7 @@ categories:
 
 (image via: [WebUrbanist](http://weburbanist.com/2010/06/03/hoboglyphs-secret-transient-symbols-modern-nomad-codes/))
 
-流浪工人(Hobos)在美国历史里有着重要的位置，虽然经常被忽略。他们从20世纪初一直到大萧条结束，流浪于整个国家，找各种能做的工作，但从不在一个地方长久地停留。在大量的“旅行”中，他们学会了给彼此留下一些标记文字，用来指示哪里可以露营，找到吃的，或者附近哪里有危险。这种code被搭乘货运列车流浪的人所熟知，并被用来保证整个流浪工人圈子的安全，找到吃的和工作。
+流浪工人(Hobos)在美国历史里有着重要的位置，虽然经常被忽略。他们从20世纪初一直到大萧条结束，流浪于整个国家，找各种能做的工作，但从不在一个地方长久地停留。在大量的「旅行」中，他们学会了给彼此留下一些标记文字，用来指示哪里可以露营，找到吃的，或者附近哪里有危险。这种code被搭乘货运列车流浪的人所熟知，并被用来保证整个流浪工人圈子的安全，找到吃的和工作。
 
 ![](https://lh5.googleusercontent.com/_JkjZvHYNoXw/TFHvslOR9rI/AAAAAAABDes/WTLXaGnPYgo/s800/hobos.jpeg)
 

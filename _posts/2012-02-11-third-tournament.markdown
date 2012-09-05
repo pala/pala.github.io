@@ -17,7 +17,7 @@ Kata（組手）第一輪，抽到 `平安三段` ，第二輪抽到 `平安四�
 
 ![](http://pic.ztpala.com/wp-content/uploads/2012/02/FreeSparring.jpg)
 
-第二輪一直到結束都是平局，最後“金球制勝”打到對方下巴得分順利過關。
+第二輪一直到結束都是平局，最後「金球制勝」打到對方下巴得分順利過關。
 
 ![](http://pic.ztpala.com/wp-content/uploads/2012/02/FreeSparring2.jpg)
 

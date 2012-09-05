@@ -8,7 +8,7 @@ tags:
     - Google
     - Wikipedia
 ---
-Google和Wikipedia在今天都用“黑主页”的方式来反对[SOPA](http://en.wikipedia.org/wiki/Stop_Online_Piracy_Act)及网络审查。Google的口号是：
+Google和Wikipedia在今天都用「黑主页」的方式来反对[SOPA](http://en.wikipedia.org/wiki/Stop_Online_Piracy_Act)及网络审查。Google的口号是：
 
 >End Piracy, Not Liberty
 

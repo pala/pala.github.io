@@ -26,8 +26,8 @@ categories:
 
 傍晚时分到了central park，pala开始回味friends的场景，然后电话大部队，发现时代广场已经开始封了，警察正在疏散人群。经过2个小时的跋涉，大家终于团聚了。瞻仰了一下帝国大厦，然后去时代广场附近看人。看到一个乐队演出，以及很久没见的人山人海。
 
-9点多，大家相聚在法拉盛，然后驱车回旅馆。麻将到3点多，发现了饼的英文名 Cookie，Yanping的nick 二条，以及前无古人后无来者的煎饼式“碰碰糊”。
+9点多，大家相聚在法拉盛，然后驱车回旅馆。麻将到3点多，发现了饼的英文名 Cookie，Yanping的nick 二条，以及前无古人后无来者的煎饼式「碰碰糊」。
 
-转天睡到12点，准备去看大都会艺术博物馆，结果关门，拍照N多后，我和pala去看了同样关门的联合国总部，洛克菲勒大学（impressive sign “Scientists Crossing”），吃了subway，喝了麦当劳的美味的beaf vegetable soup。在书店看到friends里joey在emma生日读的一本书。夜幕中回到了正在暴风雪的State College。
+转天睡到12点，准备去看大都会艺术博物馆，结果关门，拍照N多后，我和pala去看了同样关门的联合国总部，洛克菲勒大学（impressive sign 「Scientists Crossing」），吃了subway，喝了麦当劳的美味的beaf vegetable soup。在书店看到friends里joey在emma生日读的一本书。夜幕中回到了正在暴风雪的State College。
 
 <a href="http://p.ztpala.com/main.php?g2_itemId=6775" target="_blank">这里</a>是照片
