@@ -4,12 +4,7 @@ layout: nil
 <rss version="2.0">
 <channel>
   <title>{{ site.title }}</title>
-  <link href="http://{{ site.domain }}" />
-  <updated>{{site.time | date_to_xmlschema }}</updated>
-  <author>
-    <name>{{ site.author }}</name>
-    <email>{{ site.email }}</email>
-  </author>
+  <link>http://{{ site.domain }}</link>
   {% for post in site.posts limit:10 %}
   <item>
     <title>{{ post.title }}</title>
