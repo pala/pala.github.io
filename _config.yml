@@ -2,7 +2,7 @@ markdown: rdiscount
 permalink: /:year/:month/:day/:title 
 title: Tao
 url: http://ztpala.com
-subscribe: http://feeds.feedburner.com/pala
+subscribe: http://ztpala.com/feed.xml
 exclude: [ README.md, newpost.rb ]
 domain: ztpala.com
 author: Tao Zhang

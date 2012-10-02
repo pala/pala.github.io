@@ -1,14 +1,12 @@
 /*!
- * effector 1.0
- *
+ * effector-wide 1.0
  *
  * Designed by Tao Zhang
  * http://ztpala.com
- * inspired by http://effectortheme.tumblr.com/
+ * effecotr-wide is the 99% same as effector, only it's better for displaying photos.
  */
-
 html, body {
-    background-color: #E6EBEA;
+    background-color: #FFFFFF;
 }
 footer, header, nav {
     display: block;
@@ -33,7 +31,7 @@ a:hover, a:active {
     outline: 0;
 }
 img {
-    max-width: 640px;
+    max-width: 800px;
     height: auto;
     border: 0;
     -ms-interpolation-mode: bicubic;
@@ -41,8 +39,9 @@ img {
 .wrapper p img {
     clear: both;
     display: block;
-    margin-left: -20px;
-    margin-right: -20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
 }
 
 body {
@@ -68,7 +67,7 @@ p a {
     border-bottom: 1px dashed #CED1D1;
 }
 .container {
-    width: 640px;
+    width: 800px;
     margin-left: auto;
     margin-right: auto;
     *zoom: 1;
@@ -110,9 +109,9 @@ h1 small {
 h2 {
     color:  #777;
     background-color: #F2F8F7;
-    margin:  20px -20px;
+    margin:  20px 0px;
     font-size:  20px;
-    padding:  0px 20px;
+    text-align: center;
     line-height:  35px;
 }
 h2 small {
@@ -384,13 +383,7 @@ text-shadow: 0 1px 0 #fff;
 .wrapper  {
     background-color:  #fff;
     margin:  10px 0px 50px 0px;
-    padding:  10px 20px;
-    moz-border-radius:  5px;
-    webkit-moz-border-radius:  5px;
-     border-radius:  5px;
-    -webkit-box-shadow:  0px 1px 3px #A8ABAB;
-    -moz-box-shadow:  0px 1px 3px #A8ABAB;
-    box-shadow:  0px 1px 3px #A8ABAB;
+    padding:  10px 0px;
 }
 
 .postsList {
