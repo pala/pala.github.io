@@ -45,4 +45,12 @@ $ cat .gitmodules
 
 这样，你就可以在subpala里用git单独管理，虽然它是另一个git项目的子目录。
 
+##删除submodule
+1. Delete the relevant section from the .gitmodules file.
+2. Delete the relevant section from .git/config.
+3. Run git rm --cached path_to_submodule (no trailing slash).
+4. Commit and delete the now untracked submodule files. 
+
+[via](http://stackoverflow.com/a/1260982/100031)
+
 [Pro Git的详细教程](http://progit.org/book/ch6-6.html)
