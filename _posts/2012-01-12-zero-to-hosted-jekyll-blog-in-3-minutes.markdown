@@ -18,10 +18,21 @@ excerpt: 如何快速建立一个托管在github的blog。
 
 名字为*USERNAME*.github.com, *USERNAME*为你的github用户名
 
-##二. 安装Jekyll-Bootstrap-Core
+##二. 克隆一个站点
+
+* 选择一，使用本站： 
+	
+	`$ git clone https://github.com/pala/pala.github.com.git USERNAME.github.com`
+	
+	<span class="label label-info">注</span> 请将`_posts`文件夹里的文章清空
+
+* 选择二，使用Jekyll-Bootstrap： 
+
+	`$ git clone https://github.com/plusjade/jekyll-bootstrap.git USERNAME.github.com`
+
+接着push到github
 
 <pre class="prettyprint">
-$ git clone https://github.com/plusjade/jekyll-bootstrap.git USERNAME.github.com
 $ cd USERNAME.github.com
 $ git remote set-url origin git@github.com:USERNAME/USERNAME.github.com.git
 $ git push origin master
