@@ -7,4 +7,4 @@ categories:
 tags:
     - Shodan
 ---
-<a href="http://www.flickr.com/photos/ztpala/8200552652/" title="黑带 by ztpala, on Flickr"><img src="http://farm9.staticflickr.com/8202/8200552652_0180ed1c21_c.jpg" width="800" height="534" alt="黑带"></a>
+<a href="http://www.flickr.com/photos/ztpala/8200552652/" title="黑带 by ztpala, on Flickr"><img src="http://farm9.staticflickr.com/8202/8200552652_5a02a6b2cd_c.jpg" width="800" height="534" alt="黑带"></a>
