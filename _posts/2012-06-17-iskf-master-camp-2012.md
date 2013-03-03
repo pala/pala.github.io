@@ -41,22 +41,22 @@ tags:
 ##营地
 整个营地的条件还是相当好的，各种体育设施应有尽有，虽然乒乓球拍子太差劲，不过总比没有好。还有一个湖可供划船：
 
-<a href="http://www.flickr.com/photos/ztpala/7376013880/" title="IMG_3762 by ztpala, on Flickr"><img src="http://farm6.staticflickr.com/5455/7376013880_9e5f988956_z.jpg" width="640" height="427" alt="IMG_3762"></a>
+<a href="http://www.flickr.com/photos/ztpala/7376013880/" title="IMG_3762 by ztpala, on Flickr"><img src="http://farm6.staticflickr.com/5455/7376013880_52c678a9b6_c.jpg" width="800" height="534" alt="IMG_3762"></a>
 
 饭堂的伙食也不错，规则是进入后要站在座位旁边，等老师们入座后大家再坐下吃饭。服务员是所有的人轮流做。内容就和饭馆服务员一样，要等到所有人离去了，然后把饭堂打扫干净摆好下次用的餐具才能开始吃饭。
 
-<a href="http://www.flickr.com/photos/ztpala/7376004678/" title="IMG_3769 by ztpala, on Flickr"><img src="http://farm8.staticflickr.com/7084/7376004678_763f0ff76a_z.jpg" width="640" height="427" alt="IMG_3769"></a>
+<a href="http://www.flickr.com/photos/ztpala/7376004678/" title="IMG_3769 by ztpala, on Flickr"><img src="http://farm8.staticflickr.com/7084/7376004678_9fe890bb52_z.jpg" width="640" height="427" alt="IMG_3769"></a>
 
 ##比赛
 有训练的最后一天在早训后就开始了比赛。分为 White Belt, Color Belt, Brown Belt, Black Belt 四个级别。每个级别分别有 Kata, Team Kata, Kumite, Team Kumite 。当然没有组队的话Team类的就不能参加了。
 
 我参加了 Brown Belt 组的 Kata 和 Kumite 的比赛，拿到了两枚金牌。算是有了个圆满的结束。
 
-<a href="http://www.flickr.com/photos/ztpala/7375990446/" title="两枚金牌，虽然外观上看起来不太像 by ztpala, on Flickr"><img src="http://farm8.staticflickr.com/7218/7375990446_775f29ed31_z.jpg" width="640" height="427" alt="两枚金牌，虽然外观上看起来不太像"></a>
+<a href="http://www.flickr.com/photos/ztpala/7375990446/" title="两枚金牌，虽然外观上看起来不太像 by ztpala, on Flickr"><img src="http://farm8.staticflickr.com/7218/7375990446_7c67fc44f6_c.jpg" width="800" height="534" alt="两枚金牌，虽然外观上看起来不太像"></a>
 
 黑带比赛简直叫一个惨烈。两个人鼻骨被打骨折。四个人因为出手过重被罚下场。场上不断被洒上鲜血。不过似乎这种情况在以往的比赛中并不常见。
 
 ##收获
 太多了，一言难尽。来年再见。
 
-[所有照片](http://www.flickr.com/photos/ztpala/sets/72157630136670546/)
+[所有照片](http://flic.kr/s/aHsjzYYW6Y)

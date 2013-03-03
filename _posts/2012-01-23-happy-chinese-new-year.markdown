@@ -34,16 +34,6 @@ excerpt: 11张照片
 
 很漂亮的台灯
 
-下面几张照片来自Yinfei Li同学
-
-<a href="http://www.flickr.com/photos/ztpala/6901032117/" title="_MG_2480 by ztpala, on Flickr"><img src="http://farm8.staticflickr.com/7058/6901032117_9be6b69092_z.jpg" width="640" height="427" alt="_MG_2480"></a>
-
-<a href="http://www.flickr.com/photos/ztpala/6901032181/" title="_MG_2488 by ztpala, on Flickr"><img src="http://farm8.staticflickr.com/7178/6901032181_4947714e66_z.jpg" width="640" height="427" alt="_MG_2488"></a>
-
-<a href="http://www.flickr.com/photos/ztpala/6901032233/" title="_MG_2490 by ztpala, on Flickr"><img src="http://farm8.staticflickr.com/7181/6901032233_d79a2f8668_z.jpg" width="640" height="427" alt="_MG_2490"></a>
-
-<a href="http://www.flickr.com/photos/ztpala/6901032307/" title="_MG_2513 by ztpala, on Flickr"><img src="http://farm8.staticflickr.com/7199/6901032307_72f07c8393_z.jpg" width="640" height="427" alt="_MG_2513"></a>
-
 ##第二天在Wan&Qin家里
 
 ![](http://pic.ztpala.com/wp-content/uploads/2012/01/IMG_3563-426x640.jpg)
