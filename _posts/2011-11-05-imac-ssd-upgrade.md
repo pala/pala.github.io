@@ -19,9 +19,9 @@ categories:
 
 <img src="https://lh3.googleusercontent.com/-CpauMmuF09Y/TrTuEOOKmYI/AAAAAAABh4E/Ow0gdHMOzNY/s640/IMG_3314.jpg" alt="" />
 
-1.2.5英寸<a href="http://amzn.com/B004W2JKWG">SSD一块</a>
+1.2.5英寸<a href="http://www.amazon.com/gp/product/B004W2JL2A/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004W2JL2A&linkCode=as2&tag=palaapp-20">SSD一块</a>
 
-2.5转3.5<a href="http://amzn.com/B002Z2QDNE">硬盘盒一个</a> 可选，你可以用超强的胶布把这个硬盘粘在上面。
+2.5转3.5<a href="http://www.amazon.com/gp/product/B002Z2QDNE/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002Z2QDNE&linkCode=as2&tag=palaapp-20">硬盘盒一个</a> 可选，你可以用超强的胶布把这个硬盘粘在上面。
 
 3.<a href="http://www.walmart.com/ip/Bondo-Double-Handle-Locking-Suction-Cup-Dent-Puller/17130354">吸盘一个</a> 因为iMac没有所谓的可拆机箱，要换硬盘，只能先把屏幕拿掉，这个吸盘这是用来拿掉最上面的玻璃面板。本来最担心这一步，怕一不小心用力过度把那么大一块玻璃弄碎了，谁知拿下时非常容易，玻璃后面四周有一圈金属圈，用来吸附到iMac里的磁铁上。这个吸盘貌似还可以吸汽车撞痕。
 

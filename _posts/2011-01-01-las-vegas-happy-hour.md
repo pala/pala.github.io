@@ -75,3 +75,5 @@ categories:
 注：这次出去没带相机，所有照片和视频均由iPhone 3gs拍的，效果不是很理想，不过对于记录也应该够了。
 
 具体攻略可以看azalea同学写的[详细攻略](http://azaleasays.com/2011/01/03/las-vegas-tips/)。
+
+<a target="_blank" href="http://www.amazon.com/b?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur2&node=13900861&site-redirect=&tag=palaapp-20">支持博主，通过此连接在Amazon购买相机，配件，SD卡等</a>
