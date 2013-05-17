@@ -23,4 +23,4 @@ File.open(post, 'w') do |f|
   f << header
 end
 
-system("mate", "-a", post)
+system("open", post)
