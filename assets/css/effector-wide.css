@@ -31,7 +31,7 @@ a:hover, a:active {
     outline: 0;
 }
 img {
-    max-width: 800px;
+    max-width: 100%;
     height: auto;
     border: 0;
     -ms-interpolation-mode: bicubic;
@@ -41,7 +41,6 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 10px;
 }
 
 body {
@@ -50,6 +49,9 @@ body {
     font-size: 15px;
     line-height: 30px;
     color: #555;
+}
+.header {
+	margin: 20px 0 10px 0;
 }
 a {
     color: #F95B1F;
@@ -67,7 +69,7 @@ p a {
     border-bottom: 1px dashed #CED1D1;
 }
 .container {
-    width: 800px;
+    width: 650px;
     margin-left: auto;
     margin-right: auto;
     *zoom: 1;
@@ -364,14 +366,15 @@ text-shadow: 0 1px 0 #fff;
     visibility: hidden;
 }
 .sitename {
-    font-size: 40px;
-    font-weight: bold;
-    color:  #333;
+    font-size: 30px;
+    font-weight: normal;
+    color:  #444;
+	margin: 0 0 10px 0;
 }
 .wrapper  {
     background-color:  #fff;
-    margin:  10px 0px 50px 0px;
-    padding:  10px 0px;
+    margin:  00px 0px 50px 0px;
+    padding:  0px 0px;
 }
 
 .postsList {
@@ -396,12 +399,25 @@ text-shadow: 0 1px 0 #fff;
     padding: 20px;
 }
 .sitename {
-    font-size: 24px;
-    font-weight: bold;
+    font-size: 20px;
+    font-weight: normal;
     text-align: center;
+}
+
+.header {
+	margin: 10px 0 10px 0;
+}
+
+.nav {
+	font-size: 14px;
+}
+
+.nav>a {
+     margin:  0px 10px 0px 0px;
 }
 
 .wrapper  {
     background-color:  #fff;
     margin:  10px 0px 20px 0px;
+}
 }

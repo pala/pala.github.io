@@ -13,7 +13,7 @@
     <li class="previous">
     <a href="{{ page.previous.url }}">&larr; {{ page.previous.title }}</a>
     </li>
-    {% endif %} <small>按 j 或 k 翻页</small>
+    {% endif %} <small>j k 翻页</small>
     {% if page.next %} 
     <li class="next">
     <a href="{{ page.next.url }}" class="pull-right">{{ page.next.title }} &rarr;</a>
@@ -21,13 +21,16 @@
     {% endif %}   
 </ul>
 <hr>
-<div id="disqus_thread"></div>
+<div class="ds-thread"></div>
 </div>
 <script type="text/javascript">
-    var disqus_shortname = '{{site.disqusShortname}}';
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
+var duoshuoQuery = {short_name:"pala"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = 'http://static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] 
+		|| document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
 </script>
