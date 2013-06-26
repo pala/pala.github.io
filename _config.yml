@@ -1,6 +1,6 @@
 markdown: rdiscount 
 permalink: /:year/:month/:day/:title 
-title: Tao
+title: TAOZHANG
 url: http://ztpala.com
 subscribe: http://ztpala.com/feed.xml
 exclude: [ README.md, newpost.rb ]
@@ -10,4 +10,4 @@ email: ztpala+blog@gmail.com
 twitterID: ztpala
 googleAnalyticsID: UA-5531632-1
 disqusShortname: ztpala
-timezone: Asia/Shanghai
+timezone: America/New_York
