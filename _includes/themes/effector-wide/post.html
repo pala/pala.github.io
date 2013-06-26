@@ -21,16 +21,13 @@
     {% endif %}   
 </ul>
 <hr>
-<div class="ds-thread"></div>
+<div id="disqus_thread"></div>
 </div>
 <script type="text/javascript">
-var duoshuoQuery = {short_name:"pala"};
-	(function() {
-		var ds = document.createElement('script');
-		ds.type = 'text/javascript';ds.async = true;
-		ds.src = 'http://static.duoshuo.com/embed.js';
-		ds.charset = 'UTF-8';
-		(document.getElementsByTagName('head')[0] 
-		|| document.getElementsByTagName('body')[0]).appendChild(ds);
-	})();
+    var disqus_shortname = '{{site.disqusShortname}}';
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
 </script>
