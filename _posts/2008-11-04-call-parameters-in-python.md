@@ -31,7 +31,7 @@ categories:
 
 可这和函数里的参数传递有什么关系?我们来继续深入一下,看下面这个例子:
 
-<pre class="prettyprint linenums">
+```bash
 >>> myList=[1,2,3]
 >>> def change1(n):
 …         n=[]
@@ -42,7 +42,7 @@ categories:
 >>> change2(myList)
 >>> myList
 ['new', 2, 3]
-</pre>
+```
 
 myList的类型是list,属于mutable.但不是很多地方说mutable是引用传递,从而可以在函数里修改值的.但为什么change1没有改变myList?
 
@@ -52,7 +52,7 @@ myList的类型是list,属于mutable.但不是很多地方说mutable是引用传
 
 这两个函数的相同点是都没有改变函数外的namespace中的myList.而函数二改变了myList所指向的object.
 
-<pre class="prettyprint linenums">
+```bash
 >> def change3(n):
 …     n=['a','b','c']
 …     n[0]=’new’
@@ -61,13 +61,13 @@ myList的类型是list,属于mutable.但不是很多地方说mutable是引用传
 >>> change3(myList)
 >>> myList
 [1, 2, 3]
-</pre>
+```
 
 从change3就可以看出,当myList传递到函数里的值被改为指向一个新的list,然后再修改这个新list本身,那么函数外面的name 和 object都不会发生改变.
 
 再多看一个例子:
 
-<pre class="prettyprint linenums">
+```bash
 >>> myList
 [1, 2, 3]
 >>> def change4(n):
@@ -82,7 +82,7 @@ myList的类型是list,属于mutable.但不是很多地方说mutable是引用传
 >>> change5(myList)
 >>> myList
 [1, 2, 3, 4]
-</pre>
+```
 
 和change1类似,change4里的语句n=n+[4]改变的只是这个函数内部的值(即已经指向一个含有[4]的新list),并未影响到函数外部的myList.而change5里的语句: n+=[4], 则相当于n.append(4).此时回想一下最初的介绍.这样一个语句调用的是object的一个方法,改变的也是object,也就是函数内外的变量所指向的同一个list.所以在Python里 i = i + 1和 i +=1并不能完全等同.而n += [4]不是一个很好的编程习惯,应该避免,选择更易读的append函数.
 

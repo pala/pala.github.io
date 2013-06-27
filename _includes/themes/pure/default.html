@@ -6,28 +6,46 @@
   <meta name="author" content="{{ site.author }}"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="apple-itunes-app" content="app-id=577675173">
-  <link rel="stylesheet" type="text/css" href="/assets/css/effector-wide.css">
-  <link rel="stylesheet" type="text/css" href="/assets/css/syntax.css">
+  <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.2.0/pure-min.css">
+  <link rel="stylesheet" href="http://purecss.io/combo/1.3.7?/css/layouts/blog.css">
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS for {{ site.title }}" href="/feed.xml">
 </head>
-<body>
+<body onload="prettyPrint()">
+<div class="pure-g-r" id="layout">
+<div class="sidebar pure-u">
+        <header class="header pure-u-1">
+            <hgroup>
+                <h1 class="brand-title">TAOZHANG</h1>
+                <h2 class="brand-tagline">Creating a blog layout using Pure</h2>
+            </hgroup>
 
-  <div class="container">
-	  <div class="header">
-      <section class="sitename">TAO<b>ZHANG</b></section>
-      <div class="nav">
-<a href="/">HOME</a>
-<a href="https://twitter.com/ztpala">TWITTER</a>
-</div>
-</div>
+            <nav class="nav">
+                <ul class="nav-list">
+                    <li class="nav-item">
+                        <a class="pure-button" href="http://purecss.io">Pure</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="pure-button" href="http://yuilibrary.com">YUI Library</a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+    </div>
+    <div class="content pure-u-1">
+        <!-- A wrapper for all the blog posts -->
+        <div class="posts pure-g">
 {{ content }}
+</div>
+</div>
 <footer>
   <p><small><a href="https://github.com/pala/pala.github.com">Designed</a> by <a href="http://ztpala.com">Tao Zhang</a> | <a href="https://github.com/mojombo/jekyll">Jekyll</a> <a href="http://twitter.github.com/bootstrap/">Bootstrap</a> <a href="http://pages.github.com/">GitHub Pages</a> | 版权声明：<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/">CC BY-NC-SA 3.0</a> | <span class="label label-success">{{site.time | date:"%Y-%m-%d"}}</span></small></p>
+  <p><small><a target="_blank" href="http://www.amazon.com/b?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur2&node=172282&site-redirect=&tag=palaapp-20">Shop at Amazon.com and support this blog!</a></small></p>
   <!-- inspired by http://effectortheme.tumblr.com/ -->
 </footer>
 </div>
 <script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/js/google-code-prettify/prettify.js"></script>
 {% if page.url != "/" %}
 <script>
 $(function(){
@@ -59,6 +77,6 @@ _gaq.push(['_trackPageview']);
   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-  </script>
+</script>
 </body>
 </html>

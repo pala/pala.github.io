@@ -176,7 +176,7 @@ dd {
     margin-left: 14px;
 }
 hr {
-    margin: 30px 0;
+    margin: 20px 0;
     border: 0;
     border-top: 1px solid #eee;
 }
@@ -241,13 +241,11 @@ code, pre {
     font-family: Monaco, Menlo, "Courier New", monospace;
     font-size: 12px;
 }
-code {
-    padding: 3px 4px;
-    color: #d14;
-    background-color: #f7f7f9;
-    border: 1px solid #e1e1e8;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
+p code {
+    margin: 0 2px;
+    padding: 2px 5px;
+    border: 1px solid #ddd;
+    background-color: #f8f8f8;
     border-radius: 3px;
 }
 pre {

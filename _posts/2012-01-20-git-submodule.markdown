@@ -16,7 +16,7 @@ tags:
 
 接着查看git的状态：
 
-<pre class="prettyprint linenums">
+```bash
 $ git status
 # On branch master
 # Changes to be committed:
@@ -24,18 +24,18 @@ $ git status
 #
 #      new file:   .gitmodules
 #      new file:   subpala
-</pre>
+```
 
 这时subpala已经被clone到pala的目录下。目录名为subpala。
 
 `.gitmodules` 文件里存储这所有submodule的信息：
 
-<pre class="prettyprint linenums">
+```bash
 $ cat .gitmodules 
 [submodule "subpala"]
       path = subpala
       url = git://github.com/pala/subpala.git
-</pre>
+```
 
 虽然subpala是pala的子目录，但pala的git并不会去追踪subpala里具体文件的情况而只会记录subpala这个项目的commit。如果你去pala的github页面看，subpala作为一个超链接链接到自己的github页面。
 

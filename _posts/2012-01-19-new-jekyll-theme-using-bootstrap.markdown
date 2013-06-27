@@ -18,9 +18,9 @@ Jekyll本身的理念是快速方便的用自己喜欢的编辑器发布内容�
 
 Bootstrap用起来超级简单，只需要在你的网页里包含如下一句：
 
-<pre class="prettyprint">
-&lt;link rel="stylesheet" href="http://twitter.github.com/bootstrap/assets/css/bootstrap.min.css"&gt;
-</pre>
+```html
+<link rel="stylesheet" href="http://twitter.github.com/bootstrap/assets/css/bootstrap.min.css">
+```
 
 然后在HTML元素里加上合适的class名字就可以了，比如下面各种标签：
 
@@ -30,14 +30,14 @@ Bootstrap用起来超级简单，只需要在你的网页里包含如下一句�
 
 比如在less文件里有如下定义：
 
-<pre class="prettyprint">
+```css
 @blue:              #049CDB;
 @green:             #46a546;
 @red:               #dc322f;
 @yellow:            #ffc40d;
 @linkColor:         @blue
 @linkColorHover:    darken(@linkColor, 15);
-</pre>
+```
 
 我想就算完全不懂CSS也能很容易的理解和修改。(个人理解LESS就像是CSS的CSS，不知道对不对)
 

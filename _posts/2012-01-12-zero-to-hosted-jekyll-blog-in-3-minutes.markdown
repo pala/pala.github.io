@@ -32,12 +32,12 @@ excerpt: 如何快速建立一个托管在github的blog。
 
 接着push到github
 
-<pre class="prettyprint">
+```bash
 $ cd USERNAME.github.io
 $ git remote set-url origin git@github.com:USERNAME/USERNAME.github.io.git
 $ git push origin master
-</pre>
+```
 
 ##三. 额，没有三了
 
-等一会去访问一下http://USERNAME.github.io，github已经为你生成了一个站点。
+等一会去访问一下 http://USERNAME.github.io ，github已经为你生成了一个站点。

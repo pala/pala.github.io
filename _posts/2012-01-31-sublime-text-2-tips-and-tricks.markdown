@@ -30,16 +30,16 @@ Sublime Text 2是一款非常强大的多平台支持编辑器。虽然是收费
 ##包管理
 利用[Sublime Package Control](http://wbond.net/sublime_packages/package_control)可以方便的安装下载管理Sublime Text 2的软件包。它支持自动升级，GitHub，BitBucket。安装很简单，先用 <code>Ctrl + `</code> 打开console，然后粘贴以下命令：
 
-<pre class="prettyprint">
+```
 import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'
-</pre>
+```
 
 或者你也可以去它的网站看[手动安装方法](http://wbond.net/sublime_packages/package_control/installation)。
 
 ##对齐插件
 效果如下
 
-<pre class="prettyprint linenums">
+``` javascript
 // Before
 var joe = 'joe';
 var johnny = 'johnny';
@@ -49,7 +49,7 @@ var quaid = 'quaid';
 var joe    = 'joe';
 var johnny = 'johnny';
 var quaid  = 'quaid';
-</pre>
+```
 
 安装：
 
@@ -71,12 +71,12 @@ var quaid  = 'quaid';
 
 要激活此主题则要打开首选项文件：`Sublime Text 2 -> Preferences -> Global Settings - User`，添加以下内容：
 
-<pre class="prettyprint linenums">
+```
 {
 	"theme": "Soda Light.sublime-theme"
 	//或者"theme": "Soda Dark.sublime-theme"
 }
-</pre>
+```
 
 ##利用Nettuts+Fetch获取远端文件
 比如下载最新的jQuery等，直接一个命令即可。

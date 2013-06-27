@@ -12,7 +12,7 @@ tags:
 <span class="label label-info">注</span> 个别注意事项只针对免面谈的递签。
 
 ##交签证费
-交签证费时必须拿到一个**CGI REFERENCE NUMBER**，这个东西可以在 [http://www.ustraveldocs.com/][travel docs] 上面找到。
+交签证费时必须拿到一个**CGI REFERENCE NUMBER**，这个东西可以在 http://www.ustraveldocs.com/ 上面找到。
 
 <span class="label label-important">新龟腚</span> **没有这个不能交费!**
 
@@ -42,11 +42,11 @@ tags:
 
 这里只写免面谈的递签。
 
-<span class="label label-important">注意</span> **现在递签也要预约**。因为你要带着在[http://www.ustraveldocs.com/][travel docs]预约时打印的确认信。
+<span class="label label-important">注意</span> **现在递签也要预约**。因为你要带着在 http://www.ustraveldocs.com/ 预约时打印的确认信。
 
 所有递签在填写DS160时必须先选择广州作为签证地点。打印出来的DS160提交确认页面一定要先检查好是否选择了广州，并且照片是否打印出来了。交材料时一个女的打印出来地点是上海，而且头像的地方只有一个x，只好回家等礼拜一再来。走的时候还把U盘忘记拿了，如果是外地过来的还挺惨的。
 
-<span class="label label-important">注意</span> 在[http://www.ustraveldocs.com/][travel docs]预约时，会先问你DS160是否选了广州，但选择预约地点时会多了一个免面谈递签，此时不要再选择广州而选择排在最后的这个选项。
+<span class="label label-important">注意</span> 在 http://www.ustraveldocs.com/ 预约时，会先问你DS160是否选了广州，但选择预约地点时会多了一个免面谈递签，此时不要再选择广州而选择排在最后的这个选项。
 
 以前交签证费和交材料可以一次完成，现在网上预约完成，生成一封预约确认信，打印出来，然后再拿着这个确认信才能去交材料。
 
@@ -65,7 +65,7 @@ tags:
 * 递签预约确认信
 * 代领人的身份证
 
-在银行记录上述列表的时候还丢失[Lamy Safari](http://www.amazon.com/gp/product/B0002T401Y/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0002T401Y&linkCode=as2&tag=palaapp-20)钢笔一支，亏大了。想支援我一下的可以通过点击[这个链接](http://www.amazon.com/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=palaapp-20)在Amazon购物-,-
+在银行记录上述列表的时候还丢失[Lamy Safari](http://www.amazon.com/gp/product/B0002T401Y/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0002T401Y&linkCode=as2&tag=palaapp-20)钢笔一支，亏大了。所以觉得本文有用的同学可以通过点击底部的[捐赠链接](#donation)支援我一下：）
 
 ##总结：
 
@@ -78,5 +78,3 @@ tags:
 7. 总的流程：填写DS160 - 打印或者记下来CGI - 交签证费 - 网上预约并填写护照回寄地址（选择某个中信银行，不一定是你递签的银行） - 打印预约确认信 - 到中信银行交所需材料以及确认信 - 约3个礼拜后再去中信银行取护照
 
 总得来说，免面谈的递签在新政策下比以前麻烦很多倍。另外回家这段时间发现，只要是和银行打交道的事情，没有顺顺利利的。
-
-[travel docs]: http://www.ustraveldocs.com/
