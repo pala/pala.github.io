@@ -10,7 +10,9 @@ categories:
 ---
 今天刚收到，兴冲冲的去测试。感觉非常之爽，尤其是任意球。
 
-<iframe src="http://player.vimeo.com/video/13408563?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="600" height="398" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/13408563">猎鹰</a> from <a href="http://vimeo.com/tzh">Tao Zhang</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<iframe src="http://player.vimeo.com/video/13408563?title=0&amp;byline=0&amp;portrait=0" width="580" height="384" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+上面随便拍的连续几脚，左右脚踢的都很舒服，可惜之前最漂亮的几个（尤其是左脚打横梁的）球没想起来拍-,-
 
 猎鹰(Predator)系列是阿迪达斯最经典的足球鞋系列，从94年第一代开始，成为很多中场球员的选择，包括齐达内及贝克汉姆。
 

@@ -10,6 +10,6 @@ categories:
     - 相册
 ---
 
-第二次去 w/ [@azaleasays](https://twitter.com/#!/azaleasays) [@Lobding](https://twitter.com/YiliangDing) [@package](https://twitter.com/packagezhx)，可能是因为国庆假，人潮堪比上次两倍。
+第二次去 w/ [@azaleasays](https://twitter.com/#!/azaleasays) YiliangDing zhangxuan，可能是因为国庆假，人潮堪比上次两倍。
 
-<object width="600" height="450"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Fztpala%2Fsets%2F72157629972241101%2Fshow%2F&page_show_back_url=%2Fphotos%2Fztpala%2Fsets%2F72157629972241101%2F&set_id=72157629972241101&jump_to="></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=109615"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=109615" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Fztpala%2Fsets%2F72157629972241101%2Fshow%2F&page_show_back_url=%2Fphotos%2Fztpala%2Fsets%2F72157629972241101%2F&set_id=72157629972241101&jump_to=" width="600" height="450"></embed></object>
+<embed type="application/x-shockwave-flash" src="https://picasaweb.google.com/s/c/bin/slideshow.swf" width="600" height="400" flashvars="host=picasaweb.google.com&captions=1&noautoplay=1&hl=en_US&feat=flashalbum&RGB=0x000000&feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fztpala%2Falbumid%2F5625194794446814737%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCPy7ppTwms7YKA%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>

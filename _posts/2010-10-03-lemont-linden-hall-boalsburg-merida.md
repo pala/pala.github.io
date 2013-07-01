@@ -1,5 +1,4 @@
 ---
-date: 2010-10-03 00:27:55
 title: Lemont LindenHall Boalsburg 山地骑行
 layout: post
 tags:

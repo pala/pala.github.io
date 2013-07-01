@@ -18,4 +18,4 @@ categories:
 
 话不多说, 把相关视频和照片合成一下视频. 为了不泄漏拍摄者难听的声音, 故用最近最喜欢听的一首歌覆盖-,-
 
-<iframe src="http://player.vimeo.com/video/7020139?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="600" height="450" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/7020139">cycling</a> from <a href="http://vimeo.com/tzh">Tao Zhang</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<iframe src="http://player.vimeo.com/video/7020139" width="640" height="480" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>

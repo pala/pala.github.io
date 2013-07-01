@@ -10,7 +10,7 @@ categories:
 ---
 今天和azalea骑车去了Penns Cave,总路程68km.
 
-<a href="http://www.flickr.com/photos/ztpala/6997434864/" title="IMG_0971 by ztpala, on Flickr"><img src="http://farm9.staticflickr.com/8150/6997434864_43c280c5f1_z.jpg" width="640" height="480" alt="IMG_0971"></a>
+![](http://farm9.staticflickr.com/8150/6997434864_4bbe7bca50_z.jpg)
 
 闹钟定在8:50, 结果今天夏令时结束, 原本的9:50变成了8:50, 结果莫名其妙的多睡了一个钟头.早上起来发现手表时间比手机快了一个小时,当时还纳闷,最后才明白过来,这样出发时间也比预计的晚了一个小时.
 
@@ -20,9 +20,9 @@ categories:
 
 回去的路是相当的自虐.一路的上坡下坡,最要命的是非常大的冷风迎面吹过来.再加上中午又没正式的吃饭,所以一路都很辛苦.不过路上还是偶尔停下来拍了许多照片.有pp的农场(引来两个人的不断惊叹声),还有精致的马车:
 
-<a href="http://www.flickr.com/photos/ztpala/7143521835/" title="IMG_0963 by ztpala, on Flickr"><img src="http://farm8.staticflickr.com/7280/7143521835_c84694aacb_z.jpg" width="640" height="480" alt="IMG_0963"></a>
+![](http://farm8.staticflickr.com/7280/7143521835_660aa9c729_z.jpg)
 
-<a href="http://www.flickr.com/photos/ztpala/7143521819/" title="IMG_0964 by ztpala, on Flickr"><img src="http://farm6.staticflickr.com/5446/7143521819_c66a7b86e3_z.jpg" width="640" height="480" alt="IMG_0964"></a>
+![](http://farm6.staticflickr.com/5446/7143521819_62d94d7c0a_z.jpg)
 
 最后在一个会让人想起头文字D的弯道口休息了一下.回到家基本上天黑了.两个人都累的饿的不行.洗了澡后直奔Kimchi吃泡菜去了.结果吃的巨撑回来,圆满实现了扶着墙进去,扶着墙出来.
 

@@ -13,8 +13,6 @@ tags:
 
 几个月前就注册了苹果的iOS 5 Tech Talk World Tour纽约站。地点很好，财大气粗的苹果包下了时代广场一家酒店的大概5层，三层用来讲座，一层Lab，一层吃喝。
 
-![](http://pic.ztpala.com/wp-content/uploads/2012/01/IMG_3499-900x600.jpg)
-
 整个活动都不允许拍照，只能在开始之前在门口拍张照片留念，虽然会场里一堆人拿着iPhone拍照。
 
 Checkin的时候，某工作人员说正在等着一个Z开头的人来，"You Win!"。

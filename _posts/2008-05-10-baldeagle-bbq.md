@@ -10,8 +10,8 @@ categories:
 ---
 在azalea的强烈要求下，下午第二次开车去了Bald Eagle State Park。上次去还是无证驾驶过去的。
 
-<img alt="" src="https://lh5.googleusercontent.com/-J9gboUBmP_0/Sv_b2ZWI-lI/AAAAAAABbDk/NwlMoJI4EsM/s640/IMG_0919.JPG" class="alignnone" width="640" height="480" />
+![](http://farm8.staticflickr.com/7255/6997833278_db3a9352f7_z.jpg)
 
 在那呆了没多久，换azalea开车回去，一路高速，技术娴熟很多啊。没有直接回家，而是开到沃尔玛，买了一个烧烤炉。回家收拾了一下后院(原来乱的是惨不忍睹，可惜忘记先拍张照片记录一下了)，累的半死-，-
 
-<img alt="" src="https://lh5.googleusercontent.com/-B0wVDwNnvtI/Sv_b4ggjfSI/AAAAAAABbDk/woTYb1WUN-4/s640/IMG_0927.JPG" class="alignnone" width="640" height="480" />
+![](http://farm8.staticflickr.com/7277/6997833180_85466e59eb_z.jpg)

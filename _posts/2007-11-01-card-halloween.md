@@ -9,4 +9,4 @@ categories:
 ---
 昨天万圣节,吃饭时拿到别人派送的一小袋糖. 糖是很好吃,关键是里面的一张小卡片也很有意思:
 
-![](https://lh6.googleusercontent.com/-34vPkwWRMwY/Sv_M8mbEuBI/AAAAAAABbBU/DTzZ1Nhbq9E/s640/00005.jpg)
+![](http://farm8.staticflickr.com/7051/6997422682_80fb1f9a25_z.jpg)

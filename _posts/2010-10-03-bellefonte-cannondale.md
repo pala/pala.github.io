@@ -8,7 +8,7 @@ tags:
 categories:
     - 自行车
 ---
-![](http://lh6.ggpht.com/_JkjZvHYNoXw/TKtSJ4hHI0I/AAAAAAABIHM/0lnAdx79Jyc/s400/biking%20.jpg)
+![](http://farm8.staticflickr.com/7182/7144179155_9860169a6a_z.jpg)
 
 上次骑到Bellefonte还是07年10月。这次由于同行中有菜车，基本算是打酱油式骑法，飙一段停一段。中间为了回去修车还跑了13公里重复路。
 

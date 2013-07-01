@@ -16,4 +16,4 @@ categories:
 
 另外所谓男女有别, 老友记里的演绎算是经典
 
-[youtube=http://www.youtube.com/watch?v=VK6bZj47LWs&amp;hl=en&amp;fs=1] 
+<iframe width="640" height="480" src="//www.youtube.com/embed/VK6bZj47LWs" frameborder="0" allowfullscreen></iframe>
