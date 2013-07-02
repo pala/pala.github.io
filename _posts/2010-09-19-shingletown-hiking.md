@@ -2,9 +2,8 @@
 date: 2010-09-19 19:06:02
 title: Shingletown Hiking
 layout: post
-tags:
-    - Shingletown
-    - 爬山
+tags: 爬山
+category: 网志
 ---
 <!--more-->
 

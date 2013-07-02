@@ -5,7 +5,6 @@ date: 2012-01-23
 categories:
     - 相册
 tags:
-    - 过年
     - 节日
     - 朋友
 excerpt: 11张照片

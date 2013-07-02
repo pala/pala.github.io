@@ -3,7 +3,6 @@ date: 2010-10-13 19:00:23
 title: Tadpole - Marengo - 550 公路车骑行
 layout: post
 tags:
-    - 550
     - 骑行数据
 categories:
     - 相册

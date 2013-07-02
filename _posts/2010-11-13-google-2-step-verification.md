@@ -4,7 +4,6 @@ title: Google帐户的两步验证
 layout: post
 tags:
     - Google
-    - 网络安全
 categories:
     - 电脑
 ---

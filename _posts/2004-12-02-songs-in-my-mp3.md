@@ -2,11 +2,6 @@
 title: 现在mp3里的歌
 layout: post
 date: 2004-12-02 14:14:33
-categories:
-    - 网志
-tags:
-    - 日子
-    - 音乐
 ---
 千年之恋-----信乐团&戴爱玲 
 

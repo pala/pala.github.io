@@ -3,7 +3,6 @@ date: 2011-09-18 00:59:58
 title: 二探Tytoona，Spring Creek Park BBQ，小撞车
 layout: post
 tags:
-    - BBQ
     - 山洞
     - 朋友
     - 聚会

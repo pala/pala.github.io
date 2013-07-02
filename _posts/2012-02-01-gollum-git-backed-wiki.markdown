@@ -5,10 +5,8 @@ date: 2012-02-01 16:57:14
 categories:
     - 电脑
 tags:
-    - Gollum
     - Git
     - GitHub
-    - Wiki
 ---
 [Gollum](http://github.com/github/gollum)是一个简单的基于Git的wiki系统，GitHub的Wiki即是由它生成。
 

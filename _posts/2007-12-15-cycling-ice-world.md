@@ -3,7 +3,7 @@ date: 2007-12-15 11:18:01
 title: 30公里冬季骑行
 layout: post
 tags:
-    - 550
+    - 骑行数据
 categories:
     - 自行车
 ---

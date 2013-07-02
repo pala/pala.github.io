@@ -5,7 +5,7 @@ date: 2012-05-06 18:39:18
 categories:
     - 相册
 tags:
-    - flickr
+    - 软件
 ---
 原来所有的照片都放在picasa，不过目前这个服务已经被G+排挤的快死了。前两天Google Drive一出，原来的5块钱每年的服务也没有了，目前是最便宜的是2.49每月，25G。现在picasa免费的1G空间已经被用掉了109%，而且还都是存储的压缩版图片。经过比较与试用，还是决定将所有照片迁移到[flickr](http://www.flickr.com/photos/ztpala)。
 

@@ -3,7 +3,6 @@ date: 2010-08-07 15:27:42
 title: 美式壁球和英式壁球
 layout: post
 tags:
-    - 壁球
     - 百科
 categories:
     - 网志

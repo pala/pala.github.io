@@ -4,7 +4,6 @@ title: 回美国记
 layout: post
 tags:
     - 上海
-    - 徐州
     - 日本
     - 纽约
 categories:
@@ -17,3 +16,5 @@ categories:
 飞奔在纽约街头
 
 我累累累累
+
+![](http://farm8.staticflickr.com/7114/7144150265_299a7d2ef6.jpg)
