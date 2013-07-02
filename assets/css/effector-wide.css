@@ -263,7 +263,7 @@ pre {
     -moz-border-radius: 4px;
     border-radius: 4px;
     white-space: pre;
-    white-space: pre-wrap;
+    overflow: scroll;
     word-break: break-all;
 }
 .prettyprint.linenums{
