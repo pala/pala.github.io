@@ -2,7 +2,7 @@ markdown: redcarpet
 redcarpet:
     extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]
 permalink: /:year/:month/:day/:title 
-title: TAOZHANG
+title: Tao Zhang
 url: http://ztpala.com
 subscribe: http://ztpala.com/feed.xml
 exclude: [ README.md, newpost.rb ]

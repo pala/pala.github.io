@@ -12,7 +12,7 @@ layout: nil
     <name>{{ site.author }}</name>
     <email>{{ site.email }}</email>
   </author>
-  {% for post in site.posts limit:10 %}
+  {% for post in site.posts%}
   <entry>
     <title>{{ post.title }}</title>
     <link href="http://{{ site.domain }}{{ post.url }}"/>

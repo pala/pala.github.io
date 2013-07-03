@@ -1,65 +1,64 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-<head>
-  <meta http-equiv="content-type" content="text/html;charset=utf-8">
-  <title>{{ page.title }}</title>
-  <meta name="author" content="{{ site.author }}"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="apple-itunes-app" content="app-id=577675173">
-  <link rel="stylesheet" type="text/css" href="/assets/css/effector-wide.css">
-  <link rel="stylesheet" type="text/css" href="/assets/css/syntax.css">
-  <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS for {{ site.title }}" href="/feed.xml">
-</head>
-<body>
-
-  <div class="container">
-	  <div class="header">
+  <!DOCTYPE html>
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-CN" lang="zh-CN">
+  <head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="author" content="{{ site.author }}"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="apple-itunes-app" content="app-id=577675173">
+    <link rel="stylesheet" type="text/css" href="/assets/css/effector-wide.css">
+    <link rel="stylesheet" type="text/css" href="/assets/css/syntax.css">
+    <!-- RSS -->
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/atom.xml">
+  </head>
+  <body>
+    <div class="container">
+     <div class="header">
       <section class="sitename">TAO<b>ZHANG</b></section>
       <div class="nav">
-<a href="/">HOME</a>
-<a href="https://twitter.com/ztpala">TWITTER</a>
-</div>
-</div>
-{{ content }}
-<!-- 使用本主题请保留作者链接及版权声明 -->
-<footer>
-  <p><small><a href="https://github.com/pala/pala.github.com">Designed</a> by <a href="http://ztpala.com">Tao Zhang</a> | <a href="https://github.com/mojombo/jekyll">Jekyll</a> <a href="http://twitter.github.com/bootstrap/">Bootstrap</a> <a href="http://pages.github.com/">GitHub Pages</a> | 版权声明：<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/">CC BY-NC-SA 3.0</a> | <span class="label label-success">{{site.time | date:"%Y-%m-%d"}}</span></small></p>
-</footer>
-<!-- END -->
-</div>
-<script src="/assets/js/jquery.min.js"></script>
-{% if page.url != "/" %}
-<script>
-$(function(){
-  $(document).keydown(function(e) {
-    var url = false;
-        if (e.which == 37 || e.which == 74) {  // Left arrow key code
+        <a href="/">HOME</a>
+        <a href="https://twitter.com/ztpala">TWITTER</a>
+      </div>
+    </div>
+    {{ content }}
+    <!-- 使用本主题请保留作者链接及版权声明 -->
+    <footer>
+      <p><small><a href="https://github.com/pala/pala.github.com">Designed</a> by <a href="http://ztpala.com">Tao Zhang</a> | <a href="https://github.com/mojombo/jekyll">Jekyll</a> <a href="http://twitter.github.com/bootstrap/">Bootstrap</a> <a href="http://pages.github.com/">GitHub Pages</a> | 版权声明：<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/">CC BY-NC-SA 3.0</a> | <span class="label label-success">{{site.time | date:"%Y-%m-%d"}}</span></small></p>
+    </footer>
+    <!-- END -->
+  </div>
+  <script src="/assets/js/jquery.min.js"></script>
+  {% if page.url != "/" %}
+  <script>
+    $(function(){
+      $(document).keydown(function(e) {
+        var url = false;
+          if (e.which == 37 || e.which == 74) {  // Left arrow key code
             {% if page.previous %}
-        url = '{{page.previous.url}}';
-        {% endif %}
-        }
-        else if (e.which == 39 || e.which == 75) {  // Right arrow key code
+            url = '{{page.previous.url}}';
+            {% endif %}
+          }
+          else if (e.which == 39 || e.which == 75) {  // Right arrow key code
             {% if page.next %}
-        url = '{{page.next.url}}';
-        {% endif %}
-        }
-        if (url) {
+            url = '{{page.next.url}}';
+            {% endif %}
+          }
+          if (url) {
             window.location = url;
-        }
-  });
-})
-</script>
-{% endif %}
-<script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', '{{site:googleAnalyticsID}}']);
-_gaq.push(['_trackPageview']);
-(function() {
-  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+          }
+        });
+    })
+  </script>
+  {% endif %}
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', '{{site:googleAnalyticsID}}']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
   </script>
 </body>
 </html>
