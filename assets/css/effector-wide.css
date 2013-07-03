@@ -228,6 +228,16 @@ blockquote.pull-right {
 blockquote.pull-right p, blockquote.pull-right small {
     text-align: right;
 }
+table {
+    border-collapse:collapse;
+}
+table ,th ,td {
+  border: 1px solid #dddddd;
+}
+table td, table th
+{
+    padding:5px;
+}
 q:before, q:after, blockquote:before, blockquote:after {
     content: ""}
 address {
@@ -387,12 +397,12 @@ text-shadow: 0 1px 0 #fff;
   list-style: none;
   padding: 5px 3px;
   margin: 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #F2F2F2;
 }
 .postsList li span{
     color: #bbb;
-  float: right;
-  font-size: 14px;
+    float: right;
+    font-size: 12px;
 }
 
 @media only screen and (max-width:768px) {

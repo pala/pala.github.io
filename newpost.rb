@@ -12,8 +12,8 @@ post = "./_posts/#{date_prefix}-#{postname}.md"
 header = <<-END
 ---
 layout: post
-title: "#{ARGV[0]}"
-categories: 
+title: #{ARGV[0]}
+categories: 日志
 tags:
 ---
 

@@ -13,7 +13,7 @@ permalink: /tag/
 <a name="{{ tag | first }}"><h2>{{ tag | first }}</h2></a>
     <ul  class="postsList">
     {% for post in tag.last %}
-      <li><span>{{ post.date | date: "%b %d, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% include posts-list.html %}
     {% endfor %}
     </ul>
 {% endfor %}
