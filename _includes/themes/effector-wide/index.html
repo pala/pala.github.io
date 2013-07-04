@@ -3,7 +3,7 @@
 {% for post in site.posts limit:5%}
 {% include posts-list.html %}
 {% endfor %}
-<li><a class="btn"  href="/archive/">存档 →</a></li>
+<li><span>{{ site.posts.size }} POSTS</span><a class="btn"  href="/archive/">存档 →</a></li>
 </ul>
 
 <div class="tag-cloud">
