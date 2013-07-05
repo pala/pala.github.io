@@ -8,8 +8,9 @@ layout: default
 </article>
 <div>
 {% for tag in page.tags %}
-    <a class="label" href="/tag/#{{ tag }}">{{ tag }}</a>
+    <a class="label" href="/tag/#{{ tag }}">{{ tag }} <sup>{{tag.size}}</sup></a>
 {% endfor %}
+<a href="https://twitter.com/share?url={{site.url}}{{page.url}}&amp;via=ztpala&amp;text={{page.title}}" target="_blank" class="label label-info">发推回复</a>
 </div>
 <hr>
 <ul class="pager">
@@ -17,21 +18,11 @@ layout: default
     <li class="previous">
     <a href="{{ page.previous.url }}">&larr; {{ page.previous.title }}</a>
     </li>
-    {% endif %} <small>j k 翻页</small>
+    {% endif %} <small>←j k→</small>
     {% if page.next %} 
     <li class="next">
     <a href="{{ page.next.url }}" class="pull-right">{{ page.next.title }} &rarr;</a>
     </li>
     {% endif %}   
 </ul>
-<hr>
-<div id="disqus_thread"></div>
 </div>
-<script type="text/javascript">
-    var disqus_shortname = '{{site.disqusShortname}}';
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>

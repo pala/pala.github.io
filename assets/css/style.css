@@ -306,9 +306,8 @@ text-shadow: 0 1px 0 #fff;
     float: left;
 }
 .label {
-    padding: 3px 3px 2px;
-    font-size: 11.25px;
-    font-weight: bold;
+    padding: 5px 5px 4px 5px;
+    font-size: 0.7em;
     color: #fff;
     text-transform: uppercase;
     background-color: #999;

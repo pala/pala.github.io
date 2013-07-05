@@ -20,11 +20,3 @@ tags:
 前两天帮 [@azaleasays](https://twitter.com/azaleasays) 把blog从WordPress往[GitHub](http://azaleasays.github.io)转，顺便翻了翻各自老的blog文章，发现还是记录了很多有趣的事。其中也有不少当年在BBS(另一个走向没落的东西)上发的帖子备份，比如[这个]({% post_url 2007-04-28-joke%})和[这个](http://azalea.github.io/2009/11/13/lets-play-game/)。
 
 没有Google Reader了，blog还要继续。
-
-##7-1 update
-
-三月份Google宣布将要关闭Google Reader，用户骂声四起，赶紧到处找备份工具和替代品，互联网上一时冒出十几种Reader产品。
-
-不知不觉Google Reader预死期到了，大家打开那个熟悉的网页后发现毫无变化，可以继续使用。
-
-Google突然跳出来大叫一声：「逗你玩！」
