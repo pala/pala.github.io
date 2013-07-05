@@ -10,15 +10,10 @@ keywords:
   {% capture post_year1 %}{{ 'now' | date: '%Y' }}{% endcapture %}
 <h2>{{ post_year1 }}</h2>
 <ul class="postsList">
-{% for post in site.posts %}
-{% capture post_year2 %}{{ post.date | date: '%Y' }}{% endcapture %}
-{% if post_year1 != post_year2 %}
-{% assign post_year1 = post_year2 %}
+{% for post in site.posts %}{% capture post_year2 %}{{ post.date | date: '%Y' }}{% endcapture %}{% if post_year1 != post_year2 %}{% assign post_year1 = post_year2 %}
 </ul>
 <h2>{{ post_year1 }}</h2>
 <ul class="postsList">
-{% endif %}
-{% include posts-list.html %}
-{% endfor %}
+{% endif %}{% include posts-list.html %}{% endfor %}
 </ul>
 </div>

@@ -8,18 +8,17 @@ layout: default
 </article>
 <div>
 {% for tag in page.tags %}
-    <a class="label" href="/tag/#{{ tag }}">{{ tag }} <sup>{{tag.size}}</sup></a>
+    <a class="label" href="/tag/#{{ tag }}">{{ tag }}<span>{{tag.size}}</span></a>
 {% endfor %}
 <a href="https://twitter.com/share?url={{site.url}}{{page.url}}&amp;via=ztpala&amp;text={{page.title}}" target="_blank" class="label label-info">发推回复</a>
 </div>
-<hr>
 <ul class="pager">
     {% if page.previous %}
     <li class="previous">
     <a href="{{ page.previous.url }}">&larr; {{ page.previous.title }}</a>
-    </li>
-    {% endif %} <small>←j k→</small>
-    {% if page.next %} 
+    </li><small>←j</small>
+    {% endif %}
+    {% if page.next %}<small>k→</small>
     <li class="next">
     <a href="{{ page.next.url }}" class="pull-right">{{ page.next.title }} &rarr;</a>
     </li>

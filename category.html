@@ -11,10 +11,8 @@ permalink: /category/
 </div>
 {% for category in site.categories %}
 <a name="{{ category | first }}"><h2>{{ category | first }}</h2></a>
-    <ul  class="postsList">
-    {% for post in category.last %}
-		{% include posts-list.html %}
-    {% endfor %}
-    </ul>
+<ul  class="postsList">
+{% for post in category.last %}{% include posts-list.html %}{% endfor %}
+ </ul>
 {% endfor %}
 </div>

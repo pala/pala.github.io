@@ -80,7 +80,10 @@ p small, ul small {
     font-weight: 200;
     line-height: 45px;
 }
-.tag-cloud span {
+.tag-cloud {
+    font-size: 0.9em;
+}
+.tag-cloud span , .label span{
     vertical-align: super;
     font-size: 0.8em;
 }
@@ -145,11 +148,7 @@ dt {
 dd {
     margin-left: 14px;
 }
-hr {
-    margin: 20px 0;
-    border: 0;
-    border-top: 1px solid #eee;
-}
+
 strong {
     font-weight: bold;
 }
@@ -283,8 +282,9 @@ text-shadow: 0 1px 0 #fff;
 }
 
 .pager {
-    margin-left: 0;
-    margin-bottom: 10px;
+    border-top: 1px solid #F4F4F4;
+    padding-top: 20px;
+    margin: 20px 0 0 0;
     list-style: none;
     text-align: center;
     *zoom: 1;
