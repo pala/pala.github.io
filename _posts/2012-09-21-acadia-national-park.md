@@ -35,7 +35,7 @@ Acadia 和我们去年去的 [Shenandoah](/2011/10/24/shenandoah-national-park/)
 
 <a href="http://www.flickr.com/photos/ztpala/8007152927/" title="龙虾卷 by ztpala, on Flickr"><img src="http://farm9.staticflickr.com/8170/8007152927_59852e779e_c.jpg" width="800" height="534" alt="龙虾卷"></a>
 
-在Bar Harbor旁边有一块好玩的地方，在每天退潮的时候，一块连接一个小岛Bar Island的陆地会从水底露出来，这是就可以上去捡捡东西或者跑到岛上hiking。
+在Bar Harbor北部有一块好玩的地方，在每天退潮的时候，一块连接一个小岛Bar Island的陆地会从海底露出来，这时就可以上去捡捡东西或者跑到岛上hiking。
 
 <a href="http://www.flickr.com/photos/ztpala/8007207162/" title="IMG_4175 by ztpala, on Flickr"><img src="http://farm9.staticflickr.com/8036/8007207162_a963bc6a42_c.jpg" width="800" height="534" alt="IMG_4175"></a>
 
