@@ -4,6 +4,7 @@ redcarpet:
 permalink: /:year/:month/:day/:title 
 title: Tao Zhang
 url: http://ztpala.com
+githubEditBaseURL: https://github.com/pala/pala.github.com/edit/master/
 subscribe: http://ztpala.com/atom.xml
 exclude: [ README.md, newpost.rb ]
 domain: ztpala.com
