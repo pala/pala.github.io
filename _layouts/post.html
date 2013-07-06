@@ -9,7 +9,7 @@ layout: default
 </article>
 <div>
 {% for tag in page.tags %}
-    <a class="label" href="/tag/#{{ tag }}">{{ tag }}<span>{{tag.size}}</span></a>
+    <a class="label" href="/tag/#{{ tag }}">{{ tag }}</a>
 {% endfor %}
 <a href="https://twitter.com/share?url={{site.url}}{{page.url}}&amp;via=ztpala&amp;text={{page.title}}" target="_blank" class="label label-info">发推回复</a>
 </div>
