@@ -8,7 +8,6 @@ html, body {
 footer, header, nav {
     display: block;
 }
-
 .nav>a {
     color: #2C3E50;
     font-size: 0.8em;
@@ -16,12 +15,9 @@ footer, header, nav {
 }
 html {
     font-size: 100%;
-    -webkit-text-size-adjust: 100%;
-    -ms-text-size-adjust: 100%
 }
 a:focus {
     outline: thin dotted;
-    outline: 5px auto -webkit-focus-ring-color;
     outline-offset: -2px;
 }
 a:hover, a:active {
@@ -31,7 +27,6 @@ img {
     max-width: 100%;
     height: auto;
     border: 0;
-    -ms-interpolation-mode: bicubic;
 }
 .wrapper p img {
     clear: both;
@@ -66,7 +61,6 @@ a.label:hover {
     width: 650px;
     margin-left: auto;
     margin-right: auto;
-    *zoom: 1;
 }
 
 p small, ul small {
@@ -83,7 +77,7 @@ p small, ul small {
 .tag-cloud {
     font-size: 0.9em;
 }
-.tag-cloud span , .label span{
+.tag-cloud span{
     vertical-align: super;
     font-size: 0.8em;
 }
@@ -91,7 +85,6 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: normal;
     color: #555;
     margin: 0;
-    text-rendering: optimizelegibility;
 }
 h1 {
     line-height: 60px;
@@ -180,16 +173,6 @@ blockquote small {
 }
 blockquote small:before {
     content: '\2014 \00A0'}
-blockquote.pull-right {
-    float: right;
-    padding-left: 0;
-    padding-right: 14px;
-    border-left: 0;
-    border-right: 5px solid #eee;
-}
-blockquote.pull-right p, blockquote.pull-right small {
-    text-align: right;
-}
 table {
     border-collapse:collapse;
 }
@@ -221,6 +204,7 @@ code {
     border: 1px solid #ddd;
     background-color: #f8f8f8;
     border-radius: 3px;
+    white-space: nowrap;
 }
 pre code {
     display: block;
@@ -282,7 +266,6 @@ text-shadow: 0 1px 0 #fff;
     margin: 20px 0 0 0;
     list-style: none;
     text-align: center;
-    *zoom: 1;
 }
 .pager:before, .pager:after {
     display: table;
@@ -396,7 +379,6 @@ text-shadow: 0 1px 0 #fff;
 .nav {
 	font-size: 14px;
 }
-
 .nav>a {
      margin:  0px 10px 0px 0px;
 }
