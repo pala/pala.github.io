@@ -10,8 +10,7 @@ layout: default
 <div>
 {% for tag in page.tags %}
     <a class="label" href="/tag/#{{ tag }}">{{ tag }}</a>
-{% endfor %}
- · <a href="https://twitter.com/share?url={{site.url}}{{page.url}}&amp;via=ztpala&amp;text={{page.title}}" target="_blank" class="label label-info">发推回复</a> <a href="{{site:githubEditBaseURL}}{{ page.path }}" class="label label-important">编辑本文</a>
+{% endfor %} · <a href="{{site:githubEditBaseURL}}{{ page.path }}" class="label label-inverse">编辑本文</a> <a href="https://twitter.com/share?url={{site.url}}{{page.url}}&amp;via=ztpala&amp;text={{page.title}}" target="_blank" class="label label-info">发推评论</a> 
 </div>
 <ul class="pager">
     {% if page.previous %}

@@ -65,4 +65,6 @@ GitHub和Jekyll的出现已经让传统的blog有了再进化的可能，比如f
 
 ##题外话
 
+![](https://dl.dropbox.com/s/499yp8dh89g9rin/Photo%20on%207-6-13%20at%207.30%20PM.jpg)
+
 最近在[Coursera](https://www.coursera.org/)上一门公开课：[Startup Engineering](https://www.coursera.org/course/startup)。这门课会教做Startup的各种相关知识，技术上的，思想上的。最后的大作业是自己搞一个网站出来，募集BitCoin。目前打算根据上述乱七八糟的想法做一个原型出来。
