@@ -12,32 +12,36 @@ tags:
 excerpt: 如何快速建立一个托管在github的blog。
 ---
 
-如果你正考虑用[Jekyll](https://github.com/mojombo/jekyll)作为Blog系统，那么可以参考一下[Jekyll-Bootstrap](http://jekyllbootstrap.com/)，上面有从入门到精通的教程。如果你想快速的建一个站看看，那么下面几步可以让你在三分钟里建立一个运行在github上的blog，前提是你已经有了[github](https://github.com/)账号和[配置好了git](http://help.github.com/mac-set-up-git/)。
+前提是你已经有了[GitHub](https://github.com/)账号和[配置好了git](http://help.github.com/mac-set-up-git/)。
 
-##一. 建立一个新的github repository
+## 建立一个新的repo
 
-名字为*USERNAME*.github.io, *USERNAME*为你的github用户名
+名字为`USERNAME.github.io`, **USERNAME** 为你的github用户名
 
-##二. 克隆一个站点
+## 克隆本站主题
 
-* 选择一，使用本站： 
-	
-	`$ git clone https://github.com/pala/pala.github.com.git USERNAME.github.io`
-	
-	<span class="label label-info">注</span> 请将`_posts`文件夹里的文章清空
-
-* 选择二，使用Jekyll-Bootstrap： 
-
-	`$ git clone https://github.com/plusjade/jekyll-bootstrap.git USERNAME.github.io`
-
-接着push到github
-
-```bash
+```sh
+# 请将下面操作中的USERNAME替换为你的GitHub用户名
+$ git clone git@github.com:pala/pala.github.com.git USERNAME.github.io
 $ cd USERNAME.github.io
+$ ./cleanup #will delete all my posts and pages
 $ git remote set-url origin git@github.com:USERNAME/USERNAME.github.io.git
+```
+
+接着请按需要编辑以下文件：
+
+1. _config.yml
+
+2. CNAME (如果不绑定域名请删除)
+
+3. _layouts/default.html (修改顶部导航超链接)
+
+最后push到github
+
+```sh
 $ git push origin master
 ```
 
-##三. 额，没有三了
+##完工
 
-等一会去访问一下 http://USERNAME.github.io ，github已经为你生成了一个站点。
+请访问 `USERNAME.github.io`
