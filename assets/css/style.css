@@ -374,7 +374,7 @@ a.label-inverse:hover {
 .postsList li span{
     color: #BDC3C7;
     float: right;
-    font-size: 12px;
+    font-size: 0.8em;
 }
 
 .footer {
