@@ -100,8 +100,10 @@ h2 small {
     font-size: 18px;
 }
 h3 {
-    line-height: 18px;
-    font-size: 1.4em;
+  text-transform:uppercase;
+  font-size: 1em;
+  line-height:  30px;
+  font-weight: bold;
 }
 h3 small {
     font-size: 0.8em;

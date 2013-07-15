@@ -12,7 +12,7 @@ tags:
 ##Jekyll
 也就是本blog所使用的系统，已经有多篇文章[介绍过](http://ztpala.com/tag/#Jekyll)
 
-[GitHub项目主页](https://github.com/mojombo/jekyll)
+[GitHub项目主页](http://jekyllrb.com/)
 
 ##homebrew
 OS X的package管理系统
