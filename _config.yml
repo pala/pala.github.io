@@ -1,4 +1,6 @@
 markdown: redcarpet
+redcarpet:
+  extensions: ["autolink", "tables", "strikethrough"]
 permalink: /:year/:month/:day/:title 
 title: Tao Zhang
 url: http://ztpala.com
