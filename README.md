@@ -1,6 +1,6 @@
-Source code of [http://ztpala.com](http://ztpala.com)，powered by [Jekyll](http://jekyllrb.com/)。
+Source code of [http://ztpala.com](http://ztpala.com), powered by [Jekyll](http://jekyllrb.com/).
 
-## How to use my theme
+## How to use
 ```sh
 # Replace USERNAME with your GitHub id
 $ git clone git@github.com:pala/pala.github.com.git USERNAME.github.io
@@ -17,7 +17,7 @@ You also need to edit these files:
 
 3. _layouts/default.html (edit site name and navigation menu)
 
-Finally, push to GitHub
+Push to GitHub
 
 ```
 $ git push origin master
@@ -26,4 +26,4 @@ $ git push origin master
 ## License
 Files in `_posts` are my own stuff, please don's use them without my permission. Everything else is MIT Licensed(check LICENSE file).
 
-`_posts`下所有文件版权所有，未经授权请勿使用，其他文件请看`LICENSE`。
+`_posts`下所有文件版权所有 未经授权请勿使用 其他文件请看`LICENSE`

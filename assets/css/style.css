@@ -40,7 +40,7 @@ img {
 
 body {
     margin: 0;
-    font-family: 'Hiragino Sans GB', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 1em;
     line-height: 30px;
     color: #2C3E50;
@@ -289,7 +289,7 @@ text-shadow: 0 1px 0 #fff;
     float: left;
 }
 .label {
-    padding: 4px 4px 3px 4px;
+    padding: 3px 4px;
     font-size: 0.8em;
     color: #fff;
     text-transform: uppercase;
