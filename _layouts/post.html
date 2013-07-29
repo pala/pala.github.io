@@ -7,10 +7,13 @@ layout: default
 <span class="post-date">{{ page.date | date_to_long_string | upcase }}</span>
 {{ content }}
 </article>
-<div>
+<div class="tags">
 {% for tag in page.tags %}
-    <a class="label" href="/tag/#{{ tag }}">{{ tag }}</a>
-{% endfor %} · <a href="{{site:githubEditBaseURL}}{{ page.path }}" class="label label-inverse">编辑本文</a> <a href="https://twitter.com/share?url={{site.url}}{{page.url}}&amp;via=ztpala&amp;text={{page.title}}" target="_blank" class="label label-info">发推评论</a> 
+<li><a href="/tag/#{{ tag }}">#{{ tag }}</a></li>
+{% endfor %}
+</div>
+<div class="meta">
+<a href="{{site:githubEditBaseURL}}{{ page.path }}">编辑本文</a> <a href="https://twitter.com/share?url={{site.url}}{{page.url}}&amp;via=ztpala&amp;text={{page.title}}" target="_blank">发推评论</a> 
 </div>
 <ul class="pager">
     {% if page.previous %}

@@ -57,7 +57,7 @@ a:hover {
     text-decoration: none;
 }
 .container {
-    width: 650px;
+    width: 500px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -288,6 +288,7 @@ text-shadow: 0 1px 0 #fff;
 .pager .previous a {
     float: left;
 }
+
 .label {
     padding: 3px 4px;
     font-size: 0.8em;
@@ -301,6 +302,18 @@ text-shadow: 0 1px 0 #fff;
     -moz-transition: 0.25s;
     -o-transition: 0.25s;
     transition: 0.25s;
+}
+.tags li {
+  margin: 0;
+  padding-right: 10px;
+  display: inline;
+}
+.tags a, .meta a {
+  color: #bdc3c7;
+  font-size: 0.8em;
+}
+.tags a:hover, .meta a:hover {
+  color: #cacfd2;
 }
 a.label {
     color: #fff;
@@ -384,7 +397,7 @@ a.label-inverse:hover {
     text-align: center;
 }
 
-@media only screen and (max-width:768px) {
+@media only screen and (max-width:540px) {
     .container {
     width:  auto;
     padding: 20px;
