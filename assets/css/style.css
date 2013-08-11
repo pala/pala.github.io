@@ -165,12 +165,10 @@ blockquote {
 blockquote p {
     margin-bottom: 0;
     font-size: 0.9em;
-    line-height: 34px;
     color:  #7F8C8D;
 }
 blockquote small {
     display: block;
-    line-height: 30px;
     color: #999;
 }
 blockquote small:before {
