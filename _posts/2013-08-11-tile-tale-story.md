@@ -49,7 +49,7 @@ tags:
 
 ## 其他
 
-有人问过我这个游戏是不是参考了很多[Letterpress](https://itunes.apple.com/us/app/letterpress-word-game/id526619424?mt=8)的设计，比如Puzzle的展示风格和Letterpress的主界面很像。其实Tile Tale在界面设计基本完成之后还Letterpress还没有发布，两者的相似真的完全是一个巧合。要说参考和模仿，那就是玩法本身从[Flow](https://itunes.apple.com/us/app/flow-free/id526641427?mt=8)而来。
+有人问过我这个游戏是不是参考了很多[Letterpress](https://itunes.apple.com/us/app/letterpress-word-game/id526619424?mt=8)的设计，比如Puzzle的展示风格和Letterpress的主界面很像。其实Tile Tale在界面设计基本完成之后Letterpress还没有发布，两者的相似真的完全是一个巧合。要说参考和模仿，那就是玩法本身从[Flow](https://itunes.apple.com/us/app/flow-free/id526641427?mt=8)而来。
 
 虽然此游戏最初的出发点是想做一个好玩的Turn Based Game，但由于是建立在Game Center的基础上，似乎多数人还是不怎么用它来玩游戏，所以绝大多数人都只玩单人游戏。我个人认为，自己设计Puzzle和玩别人发给我的Puzzle乐趣更多。
 
