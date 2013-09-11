@@ -6,6 +6,8 @@ tags:
   - iOS
   - 设计
 ---
+## tl;dr
+
 前几天[最美应用](http://zuimeia.com/)的编辑说想推荐一下[Tile Tale](https://itunes.apple.com/us/app/tile-tale/id577675173?ls=1&mt=8)，让我大概写一下开发中的故事，比如idea的产生，中间遇到的趣事和~~苦难~~困难等。
 
 昨天，最美应用已经发表了推荐文章：
@@ -14,11 +16,14 @@ tags:
 
 >Tile Tale 让小美一上手就欲罢不能，连续几天，公交车、蹲厕所、走路都在玩，终于通关。
 
->[阅读全文→](http://zuimeia.com/app/219/)
+[最美应用评测](http://zuimeia.com/app/219/)
 
-下面是我写的故事：
+[App Store下载链接](https://itunes.apple.com/us/app/tile-tale/id577675173?ls=1&mt=8)
+
+[豆瓣页面](http://www.douban.com/subject/20512589/)
 
 ## Idea的产生
+
 2012年上半年，Draw Something正火，自己和周围的朋友都很喜欢玩这个游戏，当时Game Center已经支持了Turn Based Game，于是自己也想写一个此类小游戏玩玩。正好当时自己也在玩一种Puzzle类小游戏 - [Nonogram](http://en.wikipedia.org/wiki/Nonogram)。所以初步想法就是写一个可以两个人玩的Nonogram。
 
 这个Nonogram游戏开发到可以玩的阶段后发现自己随意设计出来的Puzzle解决起来并不是很有乐趣，要不特别难，要不无解，所以开发进展缓慢。接着App Store上出现了一个很流行的游戏叫做[Flow](https://itunes.apple.com/us/app/flow-free/id526641427?mt=8)。玩了几次发现这个游戏的玩法太适合目前的项目了。然后我将这个未完成的游戏按Flow的玩法修改了一下，变成了后来的Tile Tale。玩法和Flow是一样的，只是卖点在界面不同和主力推荐Turn Based的玩法，也就是玩家可以设计自己的Puzzle。
@@ -54,10 +59,3 @@ tags:
 虽然此游戏最初的出发点是想做一个好玩的Turn Based Game，但由于是建立在Game Center的基础上，似乎多数人还是不怎么用它来玩游戏，所以绝大多数人都只玩单人游戏。我个人认为，自己设计Puzzle和玩别人发给我的Puzzle乐趣更多。
 
 由于此游戏是我一个人在做，所以还有很多不足，比如没有声音，Game Center有一堆bug，字体太不易读等等。这些不足都会在接下来的更新中慢慢改进。很感谢所有玩家的反馈。
-
-## tl;dr
-[最美应用评测](http://zuimeia.com/app/219/)
-
-[App Store下载链接](https://itunes.apple.com/us/app/tile-tale/id577675173?ls=1&mt=8)
-
-[豆瓣页面](http://www.douban.com/subject/20512589/)
