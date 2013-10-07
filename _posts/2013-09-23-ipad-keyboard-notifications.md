@@ -1,8 +1,8 @@
 ---
 layout: post
 title: iPad Split Keyboard Notifications
-categories: 日志
-tags:
+categories: 电脑
+tags: iOS
 ---
 最近發現iPad下一個關於**Split Keyboard Notifications**的詭異問題，在這裏記錄一下。
 
