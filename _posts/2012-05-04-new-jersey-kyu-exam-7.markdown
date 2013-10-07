@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: 新泽西之行+第七次空手道考试
-date: 2012-05-04 01:49:30
 categories:
     - 相册
     - 空手道

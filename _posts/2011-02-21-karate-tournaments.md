@@ -1,5 +1,4 @@
 ---
-date: 2011-02-21 03:42:41
 title: 两次空手道比赛小节
 layout: post
 tags:

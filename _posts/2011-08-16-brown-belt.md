@@ -1,5 +1,4 @@
 ---
-date: 2011-08-16 00:41:23
 title: 茶带
 layout: post
 tags:

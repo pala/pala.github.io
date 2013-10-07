@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: 黑带
-date: 2012-11-19 11:46:27
 categories:
     - 空手道
 tags:
