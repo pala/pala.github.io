@@ -13,7 +13,7 @@ header = <<-END
 ---
 layout: post
 title: #{ARGV[0]}
-categories: 日志
+categories: 电脑
 tags:
 ---
 
