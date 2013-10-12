@@ -44,8 +44,6 @@ categories:
 
 可以说上面两个小吃彻底改变了我对Pretzel和Hotdog的印象。
 
-<a target="_blank" href="http://www.amazon.com/b?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur2&node=13900861&site-redirect=&tag=palaapp-20">支持博主，点击此连接在亚马逊购物</a>
-
 ##喝
 
 终于可以大模大样的拿着酒瓶在街上边走边喝了。赌场里也是各种酒吧。如果直接向到处溜达的比基尼美女服务员要酒，开好瓶的冰啤酒只要1刀，无小费。呆在拉斯维加斯的日子里，你可以整天醉醺醺的。这里推荐一下New York New York里的酒吧The Bar at Time Square。晚上8点到凌晨2点，会有两个人的钢琴表演，你写什么歌，加点小费，他们就为你弹唱。最热闹的是1点后，大家开始掏钱竞标两个人中自己中意的一个唱last song，此时需要下大价钱才能竞标到。两个歌手也是相当卖力。钞票，酒精，音乐，加起来在拉斯维加斯产生的效果真是不可想象，最神奇的是演出歌手似乎什么歌都会弹会唱。
