@@ -65,7 +65,7 @@ tags:
 * 递签预约确认信
 * 代领人的身份证
 
-在银行记录上述列表的时候还丢失[Lamy Safari](http://www.amazon.com/gp/product/B0002T401Y/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0002T401Y&linkCode=as2&tag=palaapp-20)钢笔一支，亏大了。所以觉得本文有用的同学可以通过点击底部的[捐赠链接](#donation)支援我一下：）
+在银行记录上述列表的时候还丢失[Lamy Safari](http://www.amazon.com/gp/product/B0002T401Y/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0002T401Y&linkCode=as2&tag=palaapp-20)钢笔一支，亏大了。
 
 ##总结：
 
