@@ -1,15 +1,16 @@
 Source code of [http://ztpala.com](http://ztpala.com), powered by [Jekyll](http://jekyllrb.com/).
 
-## How to use
+## How to use 如何使用
 ```sh
 # Replace USERNAME with your GitHub id
+# 请将 USERNAME 替换为你的 GitHub id
 $ git clone git@github.com:pala/pala.github.com.git USERNAME.github.io
 $ cd USERNAME.github.io
 $ ./cleanup #will delete all my posts and pages
 $ git remote set-url origin git@github.com:USERNAME/USERNAME.github.io.git
 ```
 
-You also need to edit these files:
+### Configuration 根据需要配置
 
 1. _config.yml
 
