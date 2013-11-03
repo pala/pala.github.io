@@ -2,10 +2,7 @@
 date: 2008-11-04
 title: 值传递还是引用传递
 layout: post
-tags:
-    - Python
-categories:
-    - 电脑
+categories: 电脑
 ---
 今天花了半晚上来研究Python函数里的参数到底是值传递还是引用传递,把最终的想法写在这里.
 

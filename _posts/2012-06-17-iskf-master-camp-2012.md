@@ -5,9 +5,7 @@ date: 2012-06-17 09:51:26
 categories:
     - 空手道
     - 相册
-tags:
-    - Tournament
-    - Camp
+tags: Tournament
 ---
 ##时间
 2012-6-8 到 2012-6-15
