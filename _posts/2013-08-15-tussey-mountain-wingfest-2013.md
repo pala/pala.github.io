@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2013塔西山鸡翅节 
-categories: 日志
+categories: 网志
 tags:
   - StateCollege
   - 节日

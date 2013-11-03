@@ -2,7 +2,9 @@
 layout: post
 title: 发布Touch To-Do
 categories: 电脑
-tags: iOS
+tags: 
+  - iOS
+  - Dropbox
 ---
 前几天在整理dot files的时候，发现有人用一种很特别的方式管理[ToDo list](https://github.com/holman/dotfiles/blob/master/bin/todo)，也就是每次需要建立新项目，就用命令 `touch "task name"` 在桌面上新建一个文件，每次完成这个项目，只要删除这个文件即可。
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 开源与社会化的blog
-categories: 日志
+categories: 网志
 tags:
   - Jekyll
   - Blog

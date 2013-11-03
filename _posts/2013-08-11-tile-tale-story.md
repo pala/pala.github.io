@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tile Tale的故事
-categories: 日志
+categories: 网志
 tags:
   - iOS
   - 设计
