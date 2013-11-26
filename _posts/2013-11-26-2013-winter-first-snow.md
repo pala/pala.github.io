@@ -12,6 +12,8 @@ tags:
 
 <a href="http://www.flickr.com/photos/ztpala/11069796275"><img src="//farm6.staticflickr.com/5528/11069796275_625c8c6c90_c.jpg" width="800" height="600"></a>
 
+<a href="http://www.flickr.com/photos/ztpala/11074971475"><img src="http://farm6.staticflickr.com/5540/11074971475_59439baca3_c.jpg" width="800" height="450"></a>
+
 距离上次空手道训练已经过去了**55**天，从秋天到了冬天。
 
 <a href="http://www.flickr.com/photos/ztpala/10891009635" title="墙 by Tao, on Flickr"><img src="//farm3.staticflickr.com/2848/10891009635_3d2887a42f_c.jpg" width="800" height="450" alt="墙"></a>
