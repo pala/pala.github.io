@@ -21,3 +21,5 @@ tags:
 <a href="http://www.flickr.com/photos/ztpala/10891009496" title="落红满地 by Tao, on Flickr"><img src="//farm6.staticflickr.com/5505/10891009496_fdfa5d0f23_c.jpg" width="800" height="600" alt="落红满地"></a>
 
 <a href="http://www.flickr.com/photos/ztpala/10880765155" title="Halloween leftover by Tao, on Flickr"><img src="//farm3.staticflickr.com/2827/10880765155_5a8ebdd906.jpg" width="500" height="500" alt="Halloween leftover"></a>
+
+<a href="http://www.flickr.com/photos/ztpala/10300174236"><img src="http://farm6.staticflickr.com/5499/10300174236_2f9bab80c8.jpg" width="468" height="640"></a>
