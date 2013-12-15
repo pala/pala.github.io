@@ -6,7 +6,7 @@ tags:
     - 州立公园
     - 节日
 categories:
-    - 电脑
+    - 网志
 ---
 吃完午饭去了[Whipple Dam State Park](http://picasaweb.google.com/ztpala/WhippleDam), 天蓝雪白，原来的湖全部被冰雪覆盖：
 

@@ -3,7 +3,6 @@ date: 2010-10-04 18:06:13
 title: 在Google Earth中显示路线的海拔变化
 layout: post
 tags:
-    - Google
     - 贴士
 categories:
     - 自行车

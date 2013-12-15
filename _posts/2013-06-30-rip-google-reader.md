@@ -2,9 +2,6 @@
 layout: post
 title: RIP Google Reader
 categories: 网志
-tags:
-  - Google
-  - 趣事
 ---
 
 >Since February 7, 2007 you have read a total of 83,158 items.

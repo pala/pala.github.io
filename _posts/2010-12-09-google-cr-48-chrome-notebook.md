@@ -2,9 +2,6 @@
 date: 2010-12-09 16:11:46
 title: Google Cr-48 Chrome Notebook 试用
 layout: post
-tags:
-    - Chrome
-    - Google
 categories:
     - 电脑
 ---
