@@ -29,6 +29,7 @@
     <!-- END -->
   </div>
   {% if page.previous || page.next %}
+  <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.0.3.min.js"></script>
   <script type="text/javascript">
       var disqus_shortname = '{{site.disqusShortname}}';
       (function() {
@@ -37,7 +38,6 @@
           (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
       })();
   </script>
-  <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.0.2.min.js"></script>
   <script>
     $(function(){
       $(document).keydown(function(e) {
