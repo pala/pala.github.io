@@ -9,7 +9,6 @@ tags:
     - Jekyll
     - Git
     - GitHub
-excerpt: 如何快速建立一个托管在github的blog。
 ---
 
 前提是你已经有了[GitHub](https://github.com/)账号和[配置好了git](http://help.github.com/mac-set-up-git/)。

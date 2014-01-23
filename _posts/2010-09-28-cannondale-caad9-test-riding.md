@@ -11,7 +11,7 @@ categories:
 先介绍一下全新硬件：
 车：Cannondale CAAD9 6
 
-<p style="text-align:center;"><a href="http://pic.ztpala.com/wp-content/uploads/2010/09/IMG_0182.jpg"><img class="size-full wp-image-4003 aligncenter" title="IMG_0182" src="http://pic.ztpala.com/wp-content/uploads/2010/09/IMG_0182.jpg" alt="" width="360" height="480" /></a></p>
+![](http://farm8.staticflickr.com/7260/7145591181_890a9c0c00_z.jpg)
 
 6是CAAD9系列的最低端一款，其实5是性价比最高的一款，105套件。不过ebay上的6要便宜很多。我那辆是被卖家在停车场骑过一圈，所以只卖830刀，外加50运费。去淘宝上看了一下，基本都是卖车架（似乎这个架子号称铝架之王），售价4800左右。所以这个价格的整车已经很划算了。
 
