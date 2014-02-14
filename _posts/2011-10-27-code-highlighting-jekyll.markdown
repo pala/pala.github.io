@@ -16,17 +16,17 @@ Jekyll对在文章里高亮代码有着非常好的支持。
 
 Jekyll现在已经支持用[Redcarpet](https://github.com/vmg/redcarpet)来处理markdown，并且在1.1以后的版本中， `Jekyll new` 新建的站点也将默认采用Redcarpet。目前只要在`_config.yml`中进行类似如下相关设置：
 
-```yaml
+{% highlight yaml %}
 markdown: redcarpet
 redcarpet:
     extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]
-```
+{% endhighlight %}
 
 以后的的代码高亮均可以采用如下格式：
 
 {% highlight text %}
 {% raw %}
-``` ruby
+{% highlight ruby %}
 require 'rubygems'
 
 def foo
@@ -34,13 +34,13 @@ puts 'foo'
 end
 
 #comment
-```
+{% endhighlight %}
 {% endraw %}
 {% endhighlight %}
 
 显示效果如下：
 
-``` ruby
+{% highlight ruby %}
 require 'rubygems'
 
 def foo
@@ -48,7 +48,7 @@ def foo
 end
 
 #comment
-```
+{% endhighlight %}
 
 至于CSS的写法可以参考[这里](https://github.com/mojombo/tpw/blob/master/css/syntax.css)
 
@@ -60,7 +60,7 @@ end
 
 Jekyll通过[Pygments](http://pygments.org/)支持超过[百种语言](http://pygments.org/languages/)的代码高亮，标记非常简单，基本就是highlight+语言名称:
 
-```
+{% highlight text %}
 {% raw %}
 {% highlight ruby %}
 def foo
@@ -68,13 +68,13 @@ def foo
 end
 {% endhighlight %}
 {% endraw %}
-```
+{% endhighlight %}
 
 详情见[官方文档](http://jekyllrb.com/docs/templates/)。
 
 ##gist嵌入
 
-~~不用插件的话可以直接用官方gist嵌入方法~~ 现在可以直接插入gist，方法如下：
+<s>不用插件的话可以直接用官方gist嵌入方法</s> 现在可以直接插入gist，方法如下：
 
 {% highlight text %}
 {% raw %}

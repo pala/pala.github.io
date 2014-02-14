@@ -31,13 +31,13 @@ Jekyll可以将你用Markdown写成的文章快速的生成一个blog站点。�
 ##使用流程
 以下步骤让你几秒钟就能在本地搭起来一个Jekyll blog
 
-```sh
+{% highlight sh %}
 ~ $ gem install jekyll
 ~ $ jekyll new my-awesome-site
 ~ $ cd my-awesome-site
 ~/my-awesome-site $ jekyll serve
 # => Now browse to http://localhost:4000
-```
+{% endhighlight %}
 
 想托管到[GitHub Pages]试试？参考[这篇文章]({% post_url 2012-01-12-zero-to-hosted-jekyll-blog-in-3-minutes %})。
 
