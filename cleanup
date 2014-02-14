@@ -6,6 +6,8 @@ echo 'delete all personal posts and pages'
 
 rm _posts/*
 
+rm images/*
+
 rm apps.html favicon.ico google*.html links.html national-parks.html search.html
 
 echo 'done!'
