@@ -21,3 +21,5 @@ tags: StateCollege
 [更多照片](http://flic.kr/s/aHsjSsA3Pf)
 
 雪太大，工厂停工，学校停课，道场停训，大家各自宅家里喝酒吃肉。
+
+所有照片均为iPhone 5s拍摄，用[VSCO Cam](http://vsco.co/vscoca)拍摄。
