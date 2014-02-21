@@ -25,6 +25,6 @@ $ git push origin master
 ```
 
 ## License
-Files in `_posts` are my own stuff, please don's use them without my permission. Everything else is MIT Licensed(check LICENSE file).
+本作品采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议进行许可。
 
 `_posts`下所有文件版权所有 未经授权请勿使用 其他文件请看`LICENSE`
