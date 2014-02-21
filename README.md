@@ -25,6 +25,7 @@ $ git push origin master
 ```
 
 ## License
-本作品采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议进行许可。
 
-`_posts`下所有文件版权所有 未经授权请勿使用 其他文件请看`LICENSE`
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US).
+
+`_posts` `images` 下所有文件版权所有 未经授权请勿使用。
