@@ -8,9 +8,9 @@ title: Tao Zhang
   {% include apps-list.html %}
   <h2>Blog</h2>
 {% for post in site.posts limit:5 %}{% include posts-list.html %} {% endfor %}
-<li><span>{{ site.posts.size }} Posts</span><a href="/archive/">所有文章 ➡️</a></li>
+<li><span>{{ site.posts.size }} Posts</span><a href="/archive/">所有文章 👉</a></li>
 </ul>
 <h2>关键词</h2>
-<div class="tag-cloud">{% for tag in site.tags %}{% if tag[1].size > 3 %}<a href="/tag/#{{ tag | first }}">{{ tag | first }}<span>{{ tag[1].size }}</span></a> {% endif %}{% endfor %}<a href="/tag">所有Tag<span>{{ site.tags.size }}</span> ➡️</a>
+<div class="tag-cloud">{% for tag in site.tags %}{% if tag[1].size > 3 %}<a href="/tag/#{{ tag | first }}">{{ tag | first }}<span>{{ tag[1].size }}</span></a> {% endif %}{% endfor %}<a href="/tag">所有Tag<span>{{ site.tags.size }}</span> 👉</a>
 </div>
 </div>
