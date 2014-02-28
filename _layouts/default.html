@@ -1,72 +1,30 @@
-  <!DOCTYPE html>
-  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-CN" lang="zh-CN">
-  <head>
-    <meta http-equiv="content-type" content="text/html;charset=utf-8">
-    <title>{{ page.title }}</title>
-    <meta name="author" content="{{ site.author }}"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta name="apple-itunes-app" content="app-id=774474904">
-    <link rel="stylesheet" type="text/css" href="/assets/css/style.css">
-    <link rel="stylesheet" type="text/css" href="/assets/css/syntax.css">
-    <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{site:subscribe}}">
-  </head>
-  <body>
-    <div class="container">
-     <div class="header">
-      <section class="sitename"><a href="/">TAO <b>ZHANG</b></a></section>
-      <div class="nav">
-        <a href="https://twitter.com/ztpala">TWITTER</a>
-        <a href="/apps">APPS</a>
-        <a href="{{site:subscribe}}">RSS</a>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  {% include head.html %}
+
+  <body class="theme-base-0e">
+
+    {% include sidebar.html %}
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">{{ site.title }}</a>
+            <small>{{ site.tagline }}</small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        {{ content }}
       </div>
     </div>
-    {{ content }}
-    <!-- 使用本主题请保留链接：<a href="https://github.com/pala/pala.github.com">Designed</a> by <a href="http://ztpala.com">Tao Zhang</a> -->
-    <section class="footer">
-      <p><small><a href="https://github.com/pala/pala.github.com">Designed</a> by <a href="http://ztpala.com">Tao Zhang</a> · Powered by <a href="http://jekyllrb.com">Jekyll</a> and <a href="http://pages.github.com">GitHub Pages</a> · {{site.time | date_to_string }}</small></p>
-    </section>
-  </div>
-  {% if page.previous || page.next %}
-  <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.0.3.min.js"></script>
-  <script type="text/javascript">
-      var disqus_shortname = '{{site.disqusShortname}}';
-      (function() {
-          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-          dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-      })();
-  </script>
-  <script>
-    $(function(){
-      $(document).keydown(function(e) {
-        var url = false;
-          if (e.which == 37 || e.which == 74) {  // Left arrow key code
-            {% if page.previous %}
-            url = '{{page.previous.url}}';
-            {% endif %}
-          }
-          else if (e.which == 39 || e.which == 75) {  // Right arrow key code
-            {% if page.next %}
-            url = '{{page.next.url}}';
-            {% endif %}
-          }
-          if (url) {
-            window.location = url;
-          }
-        });
-    })
-  </script>
-  {% endif %}
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', '{{site:googleAnalyticsID}}']);
-    _gaq.push(['_trackPageview']);
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script> 
-  <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</body>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+  </body>
 </html>

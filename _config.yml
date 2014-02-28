@@ -1,16 +1,34 @@
+# Dependencies
 markdown: redcarpet
 redcarpet:
   extensions: ["autolink", "tables", "strikethrough"]
-permalink: /:year/:month/:day/:title 
+pygments:         true
+
+# Permalinks
+permalink: /:year/:month/:day/:title
+
+# Setup
 title: Tao Zhang
+tagline: iOS 空手道 自行车
+description: <a href="https://twitter.com/ztpala" target="_blank">@ztpala</a> 的blog，关注iOS开发，空手道以及自行车。
 url: http://ztpala.com
-githubEditBaseURL: https://github.com/pala/pala.github.com/edit/master/
-subscribe: http://ztpala.com/atom.xml
-exclude: [ README.md, newpost.rb ]
 domain: ztpala.com
-author: Tao Zhang
-email: ztpala+blog@gmail.com
 twitterID: ztpala
 googleAnalyticsID: UA-5531632-1
 disqusShortname: ztpala
 timezone: America/New_York
+subscribe: http://ztpala.com/atom.xml
+exclude: [ README.md, newpost.rb ]
+
+author:
+  name:           'Tao Zhang'
+  url:            https://twitter.com/ztpala
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/pala/pala.github.com
+  githubEditBaseURL: https://github.com/pala/pala.github.com/edit/master/

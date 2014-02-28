@@ -6,7 +6,7 @@ tags:
     - iOS
     - Cocoa
 ---
-I use the following code to animate a CAShapeLayer's path property.
+I use the following code to animate a `CAShapeLayer`'s path property.
 
 {% highlight objc %}
 CGPathRef oldPath = self.shapeLayer.path;

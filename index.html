@@ -1,16 +1,38 @@
 ---
 layout: default
-title: Tao Zhang
+title: Home
 ---
-<div class="wrapper">
-  <h2>Apps</h2>
-<ul class="postsList">
-  {% include apps-list.html %}
-  <h2>Blog</h2>
-{% for post in site.posts limit:5 %}{% include posts-list.html %} {% endfor %}
-<li><span>{{ site.posts.size }} Posts</span><a href="/archive/">所有文章 👉</a></li>
-</ul>
-<h2>关键词</h2>
-<div class="tag-cloud">{% for tag in site.tags %}{% if tag[1].size > 3 %}<a href="/tag/#{{ tag | first }}">{{ tag | first }}<span>{{ tag[1].size }}</span></a> {% endif %}{% endfor %}<a href="/tag">所有Tag<span>{{ site.tags.size }}</span> 👉</a>
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
 </div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="/">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
 </div>
+
