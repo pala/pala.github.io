@@ -192,6 +192,16 @@ blockquote {
 blockquote p:last-child {
   margin-bottom: 0;
 }
+
+blockquote small{
+  display:block;
+  color:#999;
+}
+
+blockquote small:before{
+  content:'\2014 \00A0';
+}
+
 @media (min-width: 30rem) {
   blockquote {
     padding-right: 5rem;

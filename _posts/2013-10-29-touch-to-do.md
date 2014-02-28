@@ -20,3 +20,4 @@ App Store链接 https://itunes.apple.com/us/app/touch-to-do-task-list-for/id7312
 
 https://itunes.apple.com/app/the-missing-word/id716259978?mt=8
 
+更多玩法请参阅azalea的[blog](http://azaleasays.com/2014/02/19/simple-to-do-list-using-shell)
