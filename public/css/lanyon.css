@@ -311,9 +311,7 @@ a.sidebar-nav-item:focus {
 .post-title {
   margin-top: 0;
 }
-.post img {
-  max-width: 100%;
-}
+
 /* Meta data line below post title */
 .post-date {
   display: block;
