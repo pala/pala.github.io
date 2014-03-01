@@ -9,8 +9,8 @@ permalink: /:year/:month/:day/:title
 
 # Setup
 title: Tao Zhang
-tagline: iOS Karate Cycling
-description: <a href="https://twitter.com/ztpala" target="_blank">@ztpala</a> 的blog，关注iOS开发，空手道以及自行车。
+tagline: 'iOS, Karate, Cycling'
+description: '<a href="https://twitter.com/ztpala" target="_blank">@ztpala</a>，关注<a href="/tag/#iOS">iOS开发</a>，<a href="/category/#空手道">空手道</a>以及<a href="/category/#自行车">自行车</a>。'
 url: http://ztpala.com
 domain: ztpala.com
 twitterID: ztpala
@@ -25,9 +25,6 @@ author:
   url:            https://twitter.com/ztpala
 
 paginate:         5
-
-# Custom vars
-version:          1.0.0
 
 github:
   repo:           https://github.com/pala/pala.github.com
