@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 发布Touch To-Do
-categories: 电脑
-tags: 
+tags:
   - iOS
   - Dropbox
 ---

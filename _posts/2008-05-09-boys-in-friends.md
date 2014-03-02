@@ -4,8 +4,6 @@ title: 老友记的男主角们
 layout: post
 tags:
     - 美剧
-categories:
-    - 网志
 ---
 小时候可能最想变成Ross，学识渊博，还可以自豪的说I’m doctor Ross Geller。
 

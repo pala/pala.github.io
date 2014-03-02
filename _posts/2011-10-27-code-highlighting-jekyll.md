@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: Jekyll的代码高亮
 date: 2011-10-27
@@ -7,8 +7,6 @@ comments: true
 tags:
     - Jekyll
     - Blog
-categories:
-    - 电脑
 ---
 Jekyll对在文章里高亮代码有着非常好的支持。
 

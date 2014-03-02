@@ -4,8 +4,6 @@ title: 「太土呐」山洞初探
 layout: post
 tags:
     - 山洞
-categories:
-    - 网志
 ---
 洋名[Tytoona Cave](http://en.wikipedia.org/wiki/Tytoona_Cave)，此洞得名是因为它位置在Tyrone和Altoona两镇之间。听说这个洞是因为第一次去攀岩，偶遇某一工作人员恰好是洞穴爱好者，从他口中得知这个有水的山洞。
 

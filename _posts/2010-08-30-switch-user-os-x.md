@@ -4,8 +4,6 @@ title: OS X 快速切换用户
 layout: post
 tags:
     - 贴士
-categories:
-    - 电脑
 ---
 OS X默认是一个用户登出才能登陆另外一个用户，可以用一下方式修改为快速切换：
 

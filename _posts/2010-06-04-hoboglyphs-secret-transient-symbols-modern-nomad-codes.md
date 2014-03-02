@@ -4,8 +4,6 @@ title: 流浪工人的象形文字 – Hoboglyphs
 layout: post
 tags:
     - 百科
-categories:
-    - 电脑
 ---
 第一次看到这个话题是在Criminal Minds里，感觉很神奇，今天看到[WebUrbanist](http://weburbanist.com/2010/06/03/hoboglyphs-secret-transient-symbols-modern-nomad-codes/)写了相关文章，在这里稍作介绍。
 

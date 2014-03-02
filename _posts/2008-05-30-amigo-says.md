@@ -2,8 +2,6 @@
 date: 2008-05-30 01:02:06
 title: 一段话
 layout: post
-categories:
-    - 网志
 ---
 原来只爱嬉游的人，
 

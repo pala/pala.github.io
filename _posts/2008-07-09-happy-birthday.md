@@ -2,8 +2,6 @@
 date: 2008-07-09 08:36:00
 title: 生日快乐
 layout: post
-categories:
-    - 网志
 ---
 分别来自父母和aza,我爱他们.
 

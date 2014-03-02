@@ -4,8 +4,6 @@ title: 美式壁球和英式壁球
 layout: post
 tags:
     - 百科
-categories:
-    - 网志
 ---
 ##历史
 英式壁球历史比较久，也很有趣，详情请参阅[wikipedia](http://zh.wikipedia.org/zh-tw/%E5%A3%81%E7%90%83)

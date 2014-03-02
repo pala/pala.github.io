@@ -1,9 +1,6 @@
---- 
+---
 layout: post
 title: Git Submodule
-date: 2012-01-20
-categories:
-    - 电脑
 tags:
     - Git
     - GitHub
@@ -31,7 +28,7 @@ $ git status
 `.gitmodules` 文件里存储这所有submodule的信息：
 
 ```bash
-$ cat .gitmodules 
+$ cat .gitmodules
 [submodule "subpala"]
       path = subpala
       url = git://github.com/pala/subpala.git
@@ -49,7 +46,7 @@ $ cat .gitmodules
 1. Delete the relevant section from the .gitmodules file.
 2. Delete the relevant section from .git/config.
 3. Run git rm --cached path_to_submodule (no trailing slash).
-4. Commit and delete the now untracked submodule files. 
+4. Commit and delete the now untracked submodule files.
 
 [via](http://stackoverflow.com/a/1260982/100031)
 

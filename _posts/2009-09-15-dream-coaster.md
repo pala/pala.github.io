@@ -4,8 +4,6 @@ title: 梦中的过山车
 layout: post
 tags:
     - 趣事
-categories:
-    - 网志
 ---
 前天做了一个关于过山车的梦.
 

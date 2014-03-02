@@ -5,8 +5,6 @@ layout: post
 tags:
     - 健身
     - 趣事
-categories:
-    - 网志
 ---
 五月最后一天，我们第二次去了Trash to Treasure(二手货物销售)，上次去还是今年一月份的事情。不过此次的规模要比上次大很多。
 

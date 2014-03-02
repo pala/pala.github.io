@@ -5,8 +5,6 @@ layout: post
 tags:
     - 开车
     - 贴士
-categories:
-    - 网志
 ---
 1. 经常清理后备箱，尽量少载"Bing"等大型物体。
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 2013冬的第一场雪
-categories: 网志
 tags: 
   - StateCollege
   - 雪

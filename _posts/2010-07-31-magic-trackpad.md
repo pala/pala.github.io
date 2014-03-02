@@ -4,8 +4,6 @@ title: Magic Trackpad
 layout: post
 tags:
     - 苹果
-categories:
-    - 电脑
 ---
 ![](https://lh5.googleusercontent.com/-fQpLUou3h78/TvwGA5ANT5I/AAAAAAABigs/pvJ-86LZm7g/s800/img_0013.jpeg)
 

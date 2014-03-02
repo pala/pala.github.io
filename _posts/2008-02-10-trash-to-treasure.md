@@ -4,8 +4,6 @@ title: Trash to Treasure
 layout: post
 tags:
     - 故事
-categories:
-    - 网志
 ---
 [Trash to Treasure](http://www.trashtotreasure.psu.edu/)，顾名思义，变废为宝。也就是很多学生毕业后把自己不需要的东西捐出来，由专门的志愿者们收集起来再以跳蚤市场的形式出售。每年通过此种方式可以募集大概5w刀的资金！
 

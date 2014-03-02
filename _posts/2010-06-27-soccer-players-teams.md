@@ -4,8 +4,6 @@ title: 看球简史及喜欢的球队及球员
 layout: post
 tags:
     - 足球
-categories:
-    - 网志
 ---
 <strong>球队</strong>
 

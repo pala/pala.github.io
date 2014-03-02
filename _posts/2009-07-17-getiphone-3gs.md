@@ -4,8 +4,6 @@ title: 入手iPhone 3GS
 layout: post
 tags:
     - iPhone
-categories:
-    - 电脑
 ---
 途径深圳，香港，阿拉斯加，印第安纳，宾州，FedEx还是在今早准时将3GS送到，先赞一下。另外应Berit同学要求，在这里写一下使用报告。
 

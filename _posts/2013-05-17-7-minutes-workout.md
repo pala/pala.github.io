@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 7分钟锻炼方法
-categories: 网志
 tags: 健身
 ---
 纽约时报最近分享了一种[7分钟锻炼方法][7-min workout]，所用器材为一面墙，一把椅子和自己的体重，非常方便。原标题为 **The Scientific 7-Minute Workout** 。

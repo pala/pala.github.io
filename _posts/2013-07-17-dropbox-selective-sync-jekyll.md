@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 用Dropbox选择性同步Jekyll
-categories: 电脑
 tags:
   - Jekyll
   - Dropbox

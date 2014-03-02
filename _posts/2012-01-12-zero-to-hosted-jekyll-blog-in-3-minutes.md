@@ -1,9 +1,6 @@
---- 
+---
 layout: post
 title: 3分钟建立一个Jekyll Blog
-date: 2012-01-12
-categories:
-    - 电脑
 tags:
     - Blog
     - Jekyll

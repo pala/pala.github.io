@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ATM界面设计一则
-categories: 电脑
 tags: 设计
 ---
 大家一眼看过去能不能瞬间分辨出下面两台机器的最大不同点？

@@ -5,8 +5,6 @@ layout: post
 tags:
     - 开车
     - 贴士
-categories:
-    - 网志
 ---
 今天开车时发现电子锁没反应，用钥匙打开门后发动不了，发现门灯亮着，整整两天，把蓄电池的电耗干净了。晚上去沃尔玛买了条jumper cable，然后把 [@wangyangphy](http://twitter.com/#!/wangyangphy) 同学的车接上充电，顺利启动。虽然在twitter上说过了，不过还是在这里记录一下接线顺序：
 

@@ -4,8 +4,6 @@ title: Twii进入App Store首页及同类Top100
 layout: post
 tags:
     - iOS
-categories:
-    - 电脑
 ---
 ![](https://lh5.googleusercontent.com/-KFUZ5hcibBU/TvwKrUkbU7I/AAAAAAABig4/4_cQWuynR98/s640/itunes.png)
 

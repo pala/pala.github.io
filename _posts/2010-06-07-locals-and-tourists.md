@@ -4,8 +4,6 @@ title: 游客和本地人
 layout: post
 tags:
     - 百科
-categories:
-    - 网志
 ---
 <a href="http://www.flickr.com/photos/walkingsf/4671589629/" title="Locals and Tourists #1 (GTWA #2): London by Eric Fischer, on Flickr"><img src="http://farm5.staticflickr.com/4065/4671589629_c4ec2cc42b_z.jpg" width="640" height="640" alt="Locals and Tourists #1 (GTWA #2): London"></a>
 

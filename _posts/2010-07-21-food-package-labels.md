@@ -4,8 +4,6 @@ title: 食品包装上的标语
 layout: post
 tags:
     - 八卦
-categories:
-    - 网志
 ---
 ##乐事 Sun Chips
 <img class="alignnone size-full wp-image-2892" title="sun chips" src="https://lh6.googleusercontent.com/-4eJJPpFlkUo/TYL2UOf7nKI/AAAAAAABifI/0CpEjSd_Ipg/s800/media_httpblogztnotec_dyDww.png.scaled500.png" alt="" width="500" height="229" />

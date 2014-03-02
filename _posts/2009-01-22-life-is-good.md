@@ -4,8 +4,6 @@ title: Life is Good
 layout: post
 tags:
     - 八卦
-categories:
-    - 网志
 ---
 >这个世界不需要我们每个人都做出一番惊天动地的大事来. 只要坚持自己的理想, 哪怕只是在街头卖T恤, 我们也会发现生活始终是美好的.
 

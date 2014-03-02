@@ -4,8 +4,6 @@ title: 健身计划
 layout: post
 tags:
     - 健身
-categories:
-    - 网志
 ---
 不想眼前的几年之后挺着大肚腩气喘吁吁的走在大街上，于是开始了健身计划
 

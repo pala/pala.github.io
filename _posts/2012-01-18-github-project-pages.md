@@ -1,9 +1,6 @@
---- 
+---
 layout: post
 title: GitHub Project Pages
-date: 2012-01-18
-categories:
-    - 电脑 
 tags:
     - GitHub
     - Git

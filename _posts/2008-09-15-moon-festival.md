@@ -4,8 +4,6 @@ title: 又是一年月圆时
 layout: post
 tags:
     - 节日
-categories:
-    - 网志
 ---
 又到中秋,话说已经想不起来这是连续第几个没有在家过的中秋节了.
 

@@ -6,8 +6,6 @@ tags:
     - 山洞
     - 朋友
     - 聚会
-categories:
-    - 网志
 ---
 两个来自纽约的朋友特地来State College爬山洞。本来想推荐[J4](http://ztpala.com/2011/06/25/j4-cave-2)，不过因为需要太长时间而下午又想一起去BBQ，所以决定先去爬一爬[Tytoona](http://ztpala.com/2011/07/16/tytoona-cave)。
 

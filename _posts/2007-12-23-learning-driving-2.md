@@ -4,8 +4,6 @@ title: 学车进行中 2
 layout: post
 tags:
     - 开车
-categories:
-    - 网志
 ---
 昨天是学车第四天。
 

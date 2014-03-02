@@ -5,8 +5,6 @@ layout: post
 tags:
     - 开车
     - 雪
-categories:
-    - 网志
 ---
 看天气预报,预告范围内都是有雪.果然,下午开始听见[噼里啪啦的声音](http://twitter.com/ztpala/status/1021437830).
 

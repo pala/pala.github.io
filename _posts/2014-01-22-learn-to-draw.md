@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 学画画
-categories: 网志
 tags: 
     - 设计
     - 画画

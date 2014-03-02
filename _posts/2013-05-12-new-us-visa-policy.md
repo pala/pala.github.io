@@ -1,8 +1,6 @@
 ---
 layout: post
 title: 美国非移民签证新政策递签记录
-categories:
-- 网志
 tags:
 - 签证
 ---

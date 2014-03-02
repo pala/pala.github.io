@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 早上好，冬天
-categories: 网志
 tags: StateCollege
 ---
 夏令结束，冬天开始

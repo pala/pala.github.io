@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Wander for iPhone 5s
-categories: 电脑
 tags: iOS
 ---
 [Wander](https://itunes.apple.com/us/app/wander-for-iphone-5s/id774474904?mt=8&uo=4)是一个目前只能在**iPhone 5s**上运行，用来分析**[M7 协处理器](http://www.apple.com/cn/iphone-5s/features/)**数据的程序。
@@ -21,5 +20,3 @@ tags: iOS
 最后你可能比较关心的是耗电问题。因为Wander是直接从M7里读取数据，所以你无需担心它会消耗你过多电量，甚至，你几天打开Wander一次，它仍能毫不遗漏的分析你的历史数据。
 
 <a href="https://itunes.apple.com/us/app/wander-for-iphone-5s/id774474904?mt=8&uo=4" target="itunes_store"style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.png) no-repeat;width:135px;height:40px;@media only screen{background-image:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.svg);}"></a>
-
-

@@ -3,7 +3,6 @@ date: 2011-12-31 04:02:40
 title: 59秒钟之动笔的魔力
 layout: post
 tags: 书
-categories: 网志
 ---
 [上文](http://ztpala.com/2011/12/28/59-seconds/)说到试着摒除负面情绪并不能让自己开心起来，本文继续说这个问题。
 

@@ -3,8 +3,6 @@ title: 在Mac上屏蔽某些网站
 layout: post
 tags:
     - Mac
-categories:
-    - 电脑
 ---
 `sudo vim /etc/hosts`
 

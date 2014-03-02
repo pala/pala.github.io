@@ -1,7 +1,6 @@
 ---
 layout: post
 title: UIBezierPath Animation
-categories: 电脑
 tags:
     - iOS
     - Cocoa

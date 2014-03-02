@@ -6,8 +6,6 @@ tags:
     - Blog
     - Jekyll
     - GitHub
-categories:
-    - 电脑
 ---
 现在这个blog托管在GitHub上，由[Jekyll]生成。
 

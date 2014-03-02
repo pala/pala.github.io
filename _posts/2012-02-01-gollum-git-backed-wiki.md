@@ -1,9 +1,7 @@
---- 
+---
 layout: post
 title: 用Gollum搭建基于Git的Wiki
 date: 2012-02-01 16:57:14
-categories:
-    - 电脑
 tags:
     - Git
     - GitHub

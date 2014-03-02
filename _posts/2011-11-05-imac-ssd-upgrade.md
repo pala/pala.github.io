@@ -4,8 +4,6 @@ title: 给iMac(late 2009)升级SSD
 layout: post
 tags:
     - Mac
-categories:
-    - 电脑
 ---
 前几天在twitter上[抱怨](https://twitter.com/#!/ztpala/status/130083508831002624)了一下iMac的硬盘开始一直「吱吱响个不停，卡的让人抓狂。动不动就假死」。前天终于提醒SMART Status: failing。似乎是好多坏扇区。不过查到很多人是升级到Lion以后才提醒这个错误的。有人给出建议是重新彻底装一下雪豹，如果没有错误则是Lion的误报。重装后发现错误依旧，并且无法再重装回Lion，因为它会先检测SMART Status，如果状态是failing则强迫你换硬盘再升级。无奈只好准备给iMac换硬盘。
 

@@ -5,8 +5,6 @@ layout: post
 tags:
     - 八卦
     - 苹果
-categories:
-    - 网志
 ---
 根据两个礼拜后将要出版的[乔布斯自传](http://amzn.com/1451648537)中的描写，乔布斯在演讲中穿的那种黑色高领衬衫背后还有个小故事（英文原版请看[这里](http://gawker.com/5848754/steve-jobs-on-why-he-wore-turtlenecks)，下面是简单地翻译叙述一下）：
 

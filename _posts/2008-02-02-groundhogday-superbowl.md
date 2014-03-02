@@ -5,8 +5,6 @@ layout: post
 tags:
     - 电影
     - 美剧
-categories:
-    - 网志
 ---
 今天是2月2号，在宾州号称土拨鼠日，即[Groundhog Day](http://en.wikipedia.org/wiki/Groundhog_day)。
 

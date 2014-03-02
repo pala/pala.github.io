@@ -1,19 +1,18 @@
 ---
 layout: post
 title: Missing Word
-categories: 电脑
 tags: iOS
 ---
 
 <a href="https://itunes.apple.com/us/app/the-missing-word/id716259978?mt=8&uo=4" target="itunes_store"style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.png) no-repeat;width:135px;height:40px;@media only screen{background-image:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.svg);}"></a>
 
-What is the best way to learn from the masters? 
+What is the best way to learn from the masters?
 
-Look to the master, follow the master, walk with the master, see ____ the master, become the master. - Eric Steven Raymond 
+Look to the master, follow the master, walk with the master, see ____ the master, become the master. - Eric Steven Raymond
 
-Missing Word contains more than 200 (and counting) hand-picked quotes. Every quote has a missing word. You need to think in the way as the master did, and figure out the missing word to complete the quote. Every time you finish a quote, not only have you read the quote, but also deeply understand it. 
+Missing Word contains more than 200 (and counting) hand-picked quotes. Every quote has a missing word. You need to think in the way as the master did, and figure out the missing word to complete the quote. Every time you finish a quote, not only have you read the quote, but also deeply understand it.
 
-Learn from the masters, one quote at a time. 
+Learn from the masters, one quote at a time.
 
 [Missing Word](https://itunes.apple.com/us/app/the-missing-word/id716259978?ls=1&mt=8) has 6 colorful built-in themes, you can also randomly shuffle themes when you play.
 

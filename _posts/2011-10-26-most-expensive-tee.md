@@ -4,8 +4,6 @@ title: 世界上最贵的Tee
 layout: post
 tags:
     - 趣事
-categories:
-    - 网志
 ---
 [Threadless](http://www.threadless.com/UNICEF)最近上架了几件「世界上最贵的Tee」。这一系列的Tee最大的特点是每件的价格=它所印的物品的实际价格。比如下面这一件：
 

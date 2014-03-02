@@ -1,9 +1,7 @@
---- 
+---
 layout: post
 title: 方向键导航
 date: 2012-01-16
-categories:
-    - 电脑
 tags:
     - Blog
     - Jekyll

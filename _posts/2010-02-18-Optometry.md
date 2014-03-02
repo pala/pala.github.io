@@ -4,8 +4,6 @@ title: 验光
 layout: post
 tags:
     - 日子
-categories:
-    - 网志
 ---
 上午第一次体验了在美国验光，把过程记录一下。
 

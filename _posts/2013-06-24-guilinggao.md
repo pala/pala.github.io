@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 归零膏
-categories: 网志
 tags: 趣事
 ---
 刚刚第一次吃龟苓膏，想起这个段子

@@ -1,8 +1,6 @@
---- 
+---
 layout: post
 title: Automagical post generation script for Jekyll
-categories:
-    - 电脑
 tags:
     - Jekyll
     - Gist

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Receptionist Pattern
-categories: 电脑
-tags: 
+tags:
     - iOS
     - Cocoa
 ---
@@ -15,9 +14,9 @@ Let's say we want to collect some data from the M7 processor, like the date of t
                                       }];
 {% endhighlight %}
 
-If we use KVO to observe the value of lastActivityDate from a view controller and update a label based on the changes of that value. Since the view controller won't know whether the notifications will be delivered to the main queue or not, we have to make sure all UI updates after receiving notifications will run on the main queue. 
+If we use KVO to observe the value of lastActivityDate from a view controller and update a label based on the changes of that value. Since the view controller won't know whether the notifications will be delivered to the main queue or not, we have to make sure all UI updates after receiving notifications will run on the main queue.
 
-One way to do this is to specifically call the main queue in the view controller: 
+One way to do this is to specifically call the main queue in the view controller:
 
 {% highlight objc %}
 - (void) observeValueForKeyPath:(NSString *)keyPath ofObject:(id)object

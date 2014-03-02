@@ -2,8 +2,6 @@
 date: 2009-11-07 22:42:39
 title: 两个梦
 layout: post
-categories:
-    - 网志
 tags:
     - 故事
 ---

@@ -2,8 +2,6 @@
 layout: post
 title: 汽车点火失败故障排除一则
 date: 2012-02-07 16:15:56
-categories:
-    - 网志
 tags:
     - 开车
 ---

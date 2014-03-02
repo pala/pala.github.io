@@ -4,8 +4,6 @@ title: 疯狂的周末
 layout: post
 tags:
     - 健身
-categories:
-    - 网志
 ---
 先说点轻松的小事.
 
