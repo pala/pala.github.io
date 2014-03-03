@@ -2,6 +2,7 @@
 layout: post
 title: Karateka的自我保护
 categories: 空手道
+excerpt: Karateka怎么翻译？
 ---
 >karateka: noun, a practitioner of karate.
 
