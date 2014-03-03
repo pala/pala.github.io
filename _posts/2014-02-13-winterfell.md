@@ -23,3 +23,6 @@ tags: StateCollege
 雪太大，工厂停工，学校停课，道场停训，大家各自宅家里喝酒吃肉。
 
 所有照片均为iPhone 5s拍摄，用[VSCO Cam](http://vsco.co/vscoca)编辑。
+
+<blockquote class="twitter-tweet" lang="en"><p>郭冬临这个名字突然高大上起来 <a href="https://twitter.com/search?q=%23%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F&amp;src=hash">#权力的游戏</a></p>&mdash; Tao (@ztpala) <a href="https://twitter.com/ztpala/statuses/431283349517500416">February 6, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
