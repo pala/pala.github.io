@@ -9,6 +9,6 @@ permalink: /archive/
 ##{{ post_year1 }}
 
 {% endif %}
-[{{ post.title }}]({{ post.url }}) <span style="float:right">{{ post.date | date_to_long_string }}</span>
+[{{ post.title }}]({{ post.url }}) <span class="pull-right">{{ post.date | date_to_long_string }}</span>
 
 {% endfor %}

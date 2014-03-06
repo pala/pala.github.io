@@ -8,7 +8,7 @@ permalink: /category/
 {% for category in site.categories %}
 <a name="{{ category | first }}"><h2>#{{ category | first }}</h2></a>
 
-{% for post in category.last %}[{{ post.title }}]({{ post.url }}) <span style="float:right">{{ post.date | date_to_long_string }}</span>
+{% for post in category.last %}[{{ post.title }}]({{ post.url }}) <span class="pull-right">{{ post.date | date_to_long_string }}</span>
 
 {% endfor %}
 
