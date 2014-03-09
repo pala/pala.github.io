@@ -16,7 +16,7 @@ domain: ztpala.com
 twitterID: ztpala
 timezone: America/New_York
 subscribe: http://ztpala.com/atom.xml
-exclude: [ README.md, newpost.rb ]
+exclude: [ README.md, newpost.rb, CNAME ]
 
 author:
   name:           'Tao Zhang'
