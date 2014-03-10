@@ -10,7 +10,7 @@ tags: Bellefonte
 
 天气转暖，去年只骑了[一次](/2013/07/13/biking-550/)车，再不出去，车[在那挂着](/2011/06/17/garage/)都要发霉了。
 
-[![](http://farm4.staticflickr.com/3503/13023827185_b6281aea12_c.jpg)](http://www.flickr.com/photos/ztpala/13023827185/)
+[![](http://farm4.staticflickr.com/3503/13023827185_b6281aea12_z.jpg)](http://www.flickr.com/photos/ztpala/13023827185/)
 
 [![](http://farm4.staticflickr.com/3114/13024212034_fc3751f34c_c.jpg)](http://www.flickr.com/photos/ztpala/13024212034)
 
