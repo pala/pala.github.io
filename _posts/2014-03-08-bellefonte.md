@@ -4,7 +4,7 @@ title: 2014第一骑： Bellefonte绕圈
 categories: 自行车
 tags: Bellefonte
 ---
-标题重用自 [2011第一骑：Bellefonte绕圈](2011/06/12/2011bellefonte/) 
+标题重用自 [2011第一骑：Bellefonte绕圈](/2011/06/12/2011bellefonte/) 
 
 看到六年半前[第一次去Bellefonte](/2007/10/29/bellefonte/)看到的那辆车牌为`GFW ****`的车仍旧安稳的停在路边，不觉感叹时间过的好快。
 
