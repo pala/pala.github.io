@@ -35,6 +35,14 @@ $ git push origin master
 
 请访问 `USERNAME.github.io`
 
-注：本站原主题现在放在 `pala` branch 下。预览：
+##原主题
+
+注：本站原主题现在放在 [pala](https://github.com/pala/pala.github.com/tree/pala) branch 下。如果想使用可以用以下方法：
+
+```sh
+git clone -b pala git@github.com:pala/pala.github.com.git USERNAME.github.io
+```
+
+###预览
 
 ![](https://dl.dropbox.com/s/ak4f8dpyx9qqngq/blog.png)
