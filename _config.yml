@@ -1,7 +1,7 @@
 # Dependencies
 markdown: redcarpet
 redcarpet:
-  extensions: ["autolink", "tables", "strikethrough"]
+  extensions: ["autolink", "tables", "strikethrough", "with_toc_data"]
 pygments:         true
 gems:
   - jemoji

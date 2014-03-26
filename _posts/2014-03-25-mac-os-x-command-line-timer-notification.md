@@ -24,15 +24,25 @@ osascript -e 'display notification "Lorem ipsum dolor sit amet" with title "Titl
 接着用 `sleep` 命令设置多久后运行，所以最终的命令如下：
 
 ```sh
-sleep 1200; osascript -e 'display notification "赶快走开" with title "休息时间"'
+sleep 1200; osascript -e 'display notification "赶快走开" with title "休息时间" sound name "Sosumi"'
 ```
 1200的单位是秒，即20分钟。
 
 <img src="/images/timeline-timer.png" width="350">
 
-接下来可以把这个命令写入[dotfiles](https://github.com/pala/dotfiles/blob/master/bin/zz)，方便的定制时间与显示文字。
+接下来可以把这个命令写入[dotfiles](https://github.com/pala/dotfiles/blob/master/bin/zz)，方便的定制时间，显示文字以及声音。
 
-当然，你也可以用声音代替系统通知：
+### 通知的显示
+
+和其他程序的通知一样，你也可以在系统设置里调整此通知的显示方式：
+
+System Preferences - Notifications - AppleScript Editor
+
+比如选择通知方式为**Alerts**，这样上面的通知框不会自动消失。
+
+##其他方式
+
+如果你不想用系统通知的方式，则可以用一个简单的 `say` 命令让电脑念一段文字：
 
 ```sh
 sleep 1200; say "nnnnnnnnnnn  nnnnnnnnnn  mmmmmmm m. gan, g ba, fa dong bu chi lai"
@@ -41,6 +51,7 @@ sleep 1200; say "nnnnnnnnnnn  nnnnnnnnnn  mmmmmmm m. gan, g ba, fa dong bu chi l
 只不过冷不丁的听到机器人似的声音挺吓人的。
 
 ## iOS的睡眠模式
+
 上面说到Timer到时总会响铃，想只要震动的话一个解决方法就是自己做一个没声音的铃声 :trollface:
 
 另外后知后觉发现iOS内置了一个睡眠模式，在Timer计时结束后停止播放音乐视频等，只要在选择铃声时选择 **Stop Playing** 即可：
