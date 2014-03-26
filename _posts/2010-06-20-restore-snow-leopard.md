@@ -4,7 +4,7 @@ title: 彻底重装Snow Leopard
 layout: post
 tags:
     - 苹果
-    - 贴士
+    - Tips
 ---
 小白变的越来越慢，于是今天打算重装一下系统。不过Snow Leopard没有提供彻底重装的选项，只能在当前系统上进行升级。这里简单介绍一下彻底重装的方法。
 

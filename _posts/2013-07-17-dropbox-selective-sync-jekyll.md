@@ -4,7 +4,7 @@ title: 用Dropbox选择性同步Jekyll
 tags:
   - Jekyll
   - Dropbox
-  - 贴士
+  - Tips
 ---
 如果你用[Dropbox](http://db.tt/H7ei7k2)存放和同步[Jekyll]({% post_url 2011-09-12-jekyll-and-github-pages %})的代码和文章，那么最好进行一些设置防止运行Jekyll时Dropbox大量更新而~~烧毁~~烧热你的电脑。
 

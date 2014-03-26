@@ -3,7 +3,7 @@ date: 2010-09-22 01:42:02
 title: 怎样在公路上骑车
 layout: post
 tags:
-    - 贴士
+    - Tips
 categories:
     - 自行车
 ---

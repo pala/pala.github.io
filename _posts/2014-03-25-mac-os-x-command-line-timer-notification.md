@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Mac下用「命令行＋系统通知」定时
-tags: Mac
+tags: 
+    - Mac
+    - iOS
+    - Tips
 ---
 >为革命，保护视力
 
@@ -27,7 +30,7 @@ sleep 1200; osascript -e 'display notification "赶快走开" with title "休息
 
 <img src="/images/timeline-timer.png" width="350">
 
-接下来可以把这个命令写入[dotfiles](https://github.com/pala/dotfiles)，方便的定制时间与显示文字。
+接下来可以把这个命令写入[dotfiles](https://github.com/pala/dotfiles/blob/master/bin/zz)，方便的定制时间与显示文字。
 
 当然，你也可以用声音代替系统通知：
 
@@ -36,3 +39,11 @@ sleep 1200; say "nnnnnnnnnnn  nnnnnnnnnn  mmmmmmm m. gan, g ba, fa dong bu chi l
 ```
 
 只不过冷不丁的听到机器人似的声音挺吓人的。
+
+## iOS的睡眠模式
+上面说到Timer到时总会响铃，想只要震动的话一个解决方法就是自己做一个没声音的铃声 :trollface:
+
+另外后知后觉发现iOS内置了一个睡眠模式，在Timer计时结束后停止播放音乐视频等，只要在选择铃声时选择 **Stop Playing** 即可：
+
+<img src="/images/iOSStopPlaying.png" width="320">
+

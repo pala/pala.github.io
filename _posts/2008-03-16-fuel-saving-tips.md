@@ -4,7 +4,7 @@ title: 开车省油小贴士
 layout: post
 tags:
     - 开车
-    - 贴士
+    - Tips
 ---
 1. 经常清理后备箱，尽量少载"Bing"等大型物体。
 
