@@ -56,7 +56,7 @@ html {
 
 @media (min-width: 38rem) {
   html {
-    font-size: 20px;
+    font-size: 16px;
   }
 }
 
@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 1.8rem;
 }
 h2 {
   margin-top: 1rem;
@@ -321,7 +321,7 @@ tbody tr:nth-child(odd) th {
 }
 @media (min-width: 56rem) {
   .container {
-    max-width: 38rem;
+    max-width: 40rem;
   }
 }
 
@@ -570,7 +570,7 @@ a.sidebar-nav-item:focus {
     width: 2.25rem;
   }
   .sidebar-toggle:before {
-    padding-bottom: .15rem;
+    padding-bottom: .2rem;
     border-top-width: .45rem;
     border-bottom-width: .15rem;
   }
