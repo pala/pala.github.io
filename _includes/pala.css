@@ -9,3 +9,29 @@ img {
   border-radius: 0;
   vertical-align: text-bottom;
 }
+
+.post h1, h2, h3 {
+  position: relative;
+  margin: 30px 0 20px;
+  text-rendering: optimizeLegibility;
+}
+
+.post h1:before, h2:before, h3:before {
+  display: inline;
+  position: absolute;
+  top: auto;
+  color: #ccc;
+}
+
+.post h1:before {
+  content: "#";
+  left: -1.25em;
+}
+.post h2:before {
+  content: "##";
+  left: -2em;
+}
+.post h3:before {
+  content: "###";
+  left: -2.5em;
+}
