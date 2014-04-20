@@ -50,6 +50,10 @@ sleep 1200; say "nnnnnnnnnnn  nnnnnnnnnn  mmmmmmm m. gan, g ba, fa dong bu chi l
 
 只不过冷不丁的听到机器人似的声音挺吓人的。
 
+## Google
+
+如果你Google一下 set timer for x minutes，它會自動為你在網頁上設置一個timer。
+
 ## f.lux
 
 底下有朋友留言提到了[f.lux](http://justgetflux.com)，它的作用是根据你的作息，在临睡前几小时会慢慢将你电脑屏幕中的蓝光去掉变为暖色，有助入睡。
