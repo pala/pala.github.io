@@ -5,6 +5,7 @@ kramdown:
 pygments:         true
 gems:
   - jemoji
+  - jekyll-sitemap
 
 # Permalinks
 permalink: /:year/:month/:day/:title
