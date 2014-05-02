@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Apps
-permalink: /Apps/
+permalink: /apps/
 ---
 * [Wander](https://itunes.apple.com/app/wander-for-iphone-5s/id774474904?&mt=8) 一个用来分析M7协处理器数据的程序。
 
