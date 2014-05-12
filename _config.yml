@@ -2,7 +2,7 @@
 markdown: kramdown
 kramdown:
   input: GFM
-pygments:         true
+highlighter: pygments
 gems:
   - jemoji
   - jekyll-sitemap
@@ -20,6 +20,7 @@ twitterID: ztpala
 timezone: America/New_York
 subscribe: http://ztpala.com/atom.xml
 exclude: [ README.md, newpost.rb, CNAME ]
+baseurl: "/"
 
 author:
   name:           'Tao Zhang'
