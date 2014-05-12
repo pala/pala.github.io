@@ -54,7 +54,7 @@ html {
   line-height: 1.5;
 }
 
-@media (min-width: 38rem) {
+@media (min-width: 38em) {
   html {
     font-size: 16px;
   }
@@ -228,7 +228,7 @@ blockquote footer:before{
   content:'\2014 \00A0';
 }
 
-@media (min-width: 30rem) {
+@media (min-width: 30em) {
   blockquote {
     padding-right: 5rem;
     padding-left: 1.25rem;
@@ -353,7 +353,7 @@ tbody tr:nth-child(odd) th {
   letter-spacing: 0;
 }
 
-@media (max-width: 48rem) {
+@media (max-width: 48em) {
   .masthead-title {
     text-align: center;
   }
@@ -431,7 +431,7 @@ a.pagination-item:hover {
   background-color: #f5f5f5;
 }
 
-@media (min-width: 30rem) {
+@media (min-width: 30em) {
   .pagination {
     margin: 3rem 0;
   }
@@ -481,7 +481,7 @@ a.pagination-item:hover {
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
-@media (min-width: 30rem) {
+@media (min-width: 30em) {
   .sidebar {
     font-size: .75rem; /* 14px */
   }
@@ -516,7 +516,7 @@ a.sidebar-nav-item:focus {
   border-color: transparent;
 }
 
-@media (min-width: 48rem) {
+@media (min-width: 48em) {
   .sidebar-item {
     padding: 1.5rem;
   }
