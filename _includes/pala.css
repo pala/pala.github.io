@@ -23,7 +23,8 @@ img {
   color: #ccc;
 }
 
-.post h1:before {
+@media (min-width: 30.1rem) {
+  .post h1:before {
   content: "#";
   left: -1.25em;
 }
@@ -34,4 +35,5 @@ img {
 .post h3:before {
   content: "###";
   left: -2.5em;
+}
 }

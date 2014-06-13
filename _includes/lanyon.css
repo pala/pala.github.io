@@ -538,7 +538,7 @@ a.sidebar-nav-item:focus {
   left: 1rem;
   display: block;
   width: 2.2rem;
-  padding: .5rem .65rem;
+  padding: .25rem .45rem;
   color: #505050;
   background-color: #fff;
   border-radius: 4px;
@@ -548,9 +548,6 @@ a.sidebar-nav-item:focus {
   display: block;
   content: "";
   width: 100%;
-  padding-bottom: .125rem;
-  border-top: .375rem double;
-  border-bottom: .125rem solid;
 
   /* Make the border inside the box */
   -webkit-box-sizing: border-box;
@@ -571,8 +568,6 @@ a.sidebar-nav-item:focus {
   }
   .sidebar-toggle:before {
     padding-bottom: .2rem;
-    border-top-width: .45rem;
-    border-bottom-width: .15rem;
   }
 }
 
