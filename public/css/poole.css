@@ -1,26 +1,27 @@
 /*
- *  ___
- * /\_ \
- * \//\ \      __      ___   __  __    ___     ___
- *   \ \ \   /'__`\  /' _ `\/\ \/\ \  / __`\ /' _ `\
- *    \_\ \_/\ \_\.\_/\ \/\ \ \ \_\ \/\ \_\ \/\ \/\ \
- *    /\____\ \__/.\_\ \_\ \_\/`____ \ \____/\ \_\ \_\
- *    \/____/\/__/\/_/\/_/\/_/`/___/> \/___/  \/_/\/_/
- *                               /\___/
- *                               \/__/
+ *                        ___
+ *                       /\_ \
+ *  _____     ___     ___\//\ \      __
+ * /\ '__`\  / __`\  / __`\\ \ \   /'__`\
+ * \ \ \_\ \/\ \_\ \/\ \_\ \\_\ \_/\  __/
+ *  \ \ ,__/\ \____/\ \____//\____\ \____\
+ *   \ \ \/  \/___/  \/___/ \/____/\/____/
+ *    \ \_\
+ *     \/_/
  *
  * Designed, built, and released under MIT license by @mdo. Learn more at
- * https://github.com/poole/lanyon.
+ * https://github.com/poole/poole.
  */
 
 
 /*
  * Contents
  *
- * Global resets
+ * Body resets
+ * Custom type
+ * Messages
+ * Container
  * Masthead
- * Sidebar
- * Slide effect
  * Posts and pages
  * Pagination
  * Reverse layout
@@ -29,7 +30,7 @@
 
 
 /*
- * Global resets
+ * Body resets
  *
  * Update the foundational and global aspects of the page.
  */
@@ -40,23 +41,20 @@
           box-sizing: border-box;
 }
 
-/* Prevent scroll on narrow devices */
 html,
 body {
   margin: 0;
   padding: 0;
-  overflow-x: hidden;
 }
 
 html {
-  font-family: "Hiragino Sans GB", "Avenir Next", Helvetica, Georgia, "Times New Roman", serif;
+  font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
-
 @media (min-width: 38em) {
   html {
-    font-size: 16px;
+    font-size: 20px;
   }
 }
 
@@ -72,23 +70,25 @@ a {
   color: #268bd2;
   text-decoration: none;
 }
+a strong {
+  color: inherit;
+}
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
   text-decoration: underline;
 }
 
+/* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 400;
-  color: #313131;
-  letter-spacing: -.025rem;
   margin-bottom: .5rem;
+  font-weight: bold;
   line-height: 1.25;
+  color: #313131;
   text-rendering: optimizeLegibility;
 }
-
 h1 {
-  font-size: 1.8rem;
+  font-size: 2rem;
 }
 h2 {
   margin-top: 1rem;
@@ -160,17 +160,14 @@ code {
   border-radius: 3px;
 }
 pre {
-  display: block;
+  display: inline-block;
   margin-top: 0;
   margin-bottom: 1rem;
   padding: 1rem;
   font-size: .8rem;
   line-height: 1.4;
   white-space: pre;
-  word-break: break-all;
-  overflow:scroll;
   background-color: #f9f9f9;
-  box-shadow: inset 0 0 10px rgba(0,0,0,.05);
 }
 pre code {
   padding: 0;
@@ -183,6 +180,8 @@ pre code {
 .highlight {
   margin-bottom: 1rem;
   border-radius: 4px;
+  width: 100%;
+  overflow: auto;
 }
 .highlight pre {
   margin-bottom: 0;
@@ -220,14 +219,6 @@ blockquote {
 blockquote p:last-child {
   margin-bottom: 0;
 }
-blockquote footer{
-  display:block;
-  color:#999;
-}
-blockquote footer:before{
-  content:'\2014 \00A0';
-}
-
 @media (min-width: 30em) {
   blockquote {
     padding-right: 5rem;
@@ -240,7 +231,6 @@ img {
   max-width: 100%;
   margin: 0 0 1rem;
   border-radius: 5px;
-  height: auto;
 }
 
 /* Tables */
@@ -287,19 +277,6 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
-/*
- * Wrapper
- *
- * The wrapper is used to position site content when the sidebar is toggled. We
- * use an outter wrap to position the sidebar without interferring with the
- * regular page content.
- */
-
-.wrap {
-  position: relative;
-  width: 100%;
-}
-
 
 /*
  * Container
@@ -308,21 +285,11 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-  max-width: 28rem;
+  max-width: 38rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
   margin-right: auto;
-}
-@media (min-width: 38rem) {
-  .container {
-    max-width: 32rem;
-  }
-}
-@media (min-width: 56rem) {
-  .container {
-    max-width: 40rem;
-  }
 }
 
 
@@ -336,7 +303,6 @@ tbody tr:nth-child(odd) th {
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
-  border-bottom: 1px solid #eee;
 }
 .masthead-title {
   margin-top: 0;
@@ -353,14 +319,6 @@ tbody tr:nth-child(odd) th {
   letter-spacing: 0;
 }
 
-@media (max-width: 48em) {
-  .masthead-title {
-    text-align: center;
-  }
-  .masthead-title small {
-    display: none;
-  }
-}
 
 /*
  * Posts and pages
@@ -393,13 +351,31 @@ tbody tr:nth-child(odd) th {
   color: #9a9a9a;
 }
 
-.post-excerpt {
-  color: #aaa;
+/* Related posts */
+.related {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  border-top: 1px solid #eee;
+}
+.related-posts {
+  padding-left: 0;
+  list-style: none;
+}
+.related-posts h3 {
+  margin-top: 0;
+}
+.related-posts li small {
+  font-size: 75%;
+  color: #999;
+}
+.related-posts li a:hover {
+  color: #268bd2;
+  text-decoration: none;
+}
+.related-posts li a:hover small {
+  color: inherit;
 }
 
-.pull-right {
-  float: right !important;
-}
 
 /*
  * Pagination
@@ -412,6 +388,7 @@ tbody tr:nth-child(odd) th {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
 }
@@ -449,162 +426,4 @@ a.pagination-item:hover {
     border-top-right-radius:    4px;
     border-bottom-right-radius: 4px;
   }
-}
-
-/*
- * Sidebar
- *
- * The sidebar is the drawer, the item we are toggling with our handy hamburger
- * button in the corner of the page.
- *
- * This particular sidebar implementation was inspired by Chris Coyier's
- * "Offcanvas Menu with CSS Target" article, and the checkbox variation from the
- * comments by a reader. It modifies both implementations to continue using the
- * checkbox (no change in URL means no polluted browser history), but this uses
- * `position` for the menu to avoid some potential content reflow issues.
- *
- * Source: http://css-tricks.com/off-canvas-menu-with-css-target/#comment-207504
- */
-
-/* Style and "hide" the sidebar */
-.sidebar {
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  left: -14rem;
-  width: 14rem;
-  visibility: hidden;
-  overflow-y: auto;
-  font-size: .875rem; /* 15px */
-  color: rgba(255,255,255,.6);
-  background-color: #202020;
-  -webkit-transition: all .3s ease-in-out;
-          transition: all .3s ease-in-out;
-}
-@media (min-width: 30em) {
-  .sidebar {
-    font-size: .75rem; /* 14px */
-  }
-}
-
-/* Sidebar content */
-.sidebar a {
-  font-weight: normal;
-  color: #fff;
-}
-.sidebar-item {
-  padding: 1rem;
-}
-.sidebar-item p:last-child {
-  margin-bottom: 0;
-}
-
-/* Sidebar nav */
-.sidebar-nav {
-  border-bottom: 1px solid rgba(255,255,255,.1);
-}
-.sidebar-nav-item {
-  display: block;
-  padding: .5rem 1rem;
-  border-top: 1px solid rgba(255,255,255,.1);
-}
-.sidebar-nav-item.active,
-a.sidebar-nav-item:hover,
-a.sidebar-nav-item:focus {
-  text-decoration: none;
-  background-color: rgba(255,255,255,.1);
-  border-color: transparent;
-}
-
-@media (min-width: 48em) {
-  .sidebar-item {
-    padding: 1.5rem;
-  }
-  .sidebar-nav-item {
-    padding-left:  1.5rem;
-    padding-right: 1.5rem;
-  }
-}
-
-/* Hide the sidebar checkbox that we toggle with `.sidebar-toggle` */
-.sidebar-checkbox {
-  display: none;
-}
-
-/* Style the `label` that we use to target the `.sidebar-checkbox` */
-.sidebar-toggle {
-  position: absolute;
-  top:  1rem;
-  left: 1rem;
-  display: block;
-  width: 2.2rem;
-  padding: .25rem .45rem;
-  color: #505050;
-  background-color: #fff;
-  border-radius: 4px;
-  cursor: pointer;
-}
-.sidebar-toggle:before {
-  display: block;
-  content: "";
-  width: 100%;
-
-  /* Make the border inside the box */
-  -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
-}
-
-.sidebar-toggle:active,
-#sidebar-checkbox:checked ~ .sidebar-toggle {
-  color: #fff;
-  background-color: #505050;
-}
-
-@media (min-width: 30.1rem) {
-  .sidebar-toggle {
-    position: fixed;
-    width: 2.25rem;
-  }
-  .sidebar-toggle:before {
-    padding-bottom: .2rem;
-  }
-}
-
-
-/* Slide effect
- *
- * Handle the sliding effects of the sidebar and content in one spot, seperate
- * from the default styles.
- *
- * As an a heads up, we don't use `transform: translate3d()` here because when
- * mixed with `position: fixed;` for the sidebar toggle, it creates a new
- * containing block. Put simply, the fixed sidebar toggle behaves like
- * `position: absolute;` when transformed.
- *
- * Read more about it at http://meyerweb.com/eric/thoughts/2011/09/12/.
- */
-
-.wrap,
-.sidebar,
-.sidebar-toggle {
-  -webkit-backface-visibility: hidden;
-      -ms-backface-visibility: hidden;
-          backface-visibility: hidden;
-}
-.wrap,
-.sidebar-toggle {
-  -webkit-transition: -webkit-transform .3s ease-in-out;
-          transition: transform .3s ease-in-out;
-}
-
-#sidebar-checkbox:checked + .sidebar {
-  visibility: visible;
-}
-#sidebar-checkbox:checked ~ .sidebar,
-#sidebar-checkbox:checked ~ .wrap,
-#sidebar-checkbox:checked ~ .sidebar-toggle {
-  -webkit-transform: translateX(14rem);
-      -ms-transform: translateX(14rem);
-          transform: translateX(14rem);
 }

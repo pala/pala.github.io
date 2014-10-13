@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Categories
+title: 分类
 permalink: /category/
 ---
 {% for category in site.categories %}[{{ category | first }}](#{{ category | first }}) {% endfor %}

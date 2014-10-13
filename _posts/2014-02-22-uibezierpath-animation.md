@@ -21,7 +21,7 @@ CABasicAnimation *animation = [CABasicAnimation animationWithKeyPath:@"path"];
 self.shapeLayer.path = newPath;
 {% endhighlight %}
 
-## Pitfalls
->1. If the two paths have a different number of control points or segments the results are undefined. - [docs](https://developer.apple.com/library/mac/documentation/GraphicsImaging/Reference/CAShapeLayer_class/Reference/Reference.html#//apple_ref/doc/uid/TP40008314-CH1-SW20)
+### Pitfalls
+1. If the two paths have a different number of control points or segments the results are undefined. - [docs](https://developer.apple.com/library/mac/documentation/GraphicsImaging/Reference/CAShapeLayer_class/Reference/Reference.html#//apple_ref/doc/uid/TP40008314-CH1-SW20)
 
->2. If you delay the start of an animation, you might also want to set the fillMode property to `kCAFillModeBackwards`. This fill mode causes the layer to display the animation’s start value, even if the layer object in the layer tree contains a different value. Without this fill mode, you would see a jump to the final value before the animation starts executing. - [docs](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/CoreAnimation_guide/AdvancedAnimationTricks/AdvancedAnimationTricks.html#//apple_ref/doc/uid/TP40004514-CH8-SW2)
+2. If you delay the start of an animation, you might also want to set the fillMode property to `kCAFillModeBackwards`. This fill mode causes the layer to display the animation’s start value, even if the layer object in the layer tree contains a different value. Without this fill mode, you would see a jump to the final value before the animation starts executing. - [docs](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/CoreAnimation_guide/AdvancedAnimationTricks/AdvancedAnimationTricks.html#//apple_ref/doc/uid/TP40004514-CH8-SW2)

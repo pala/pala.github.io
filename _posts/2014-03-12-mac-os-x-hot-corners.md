@@ -5,7 +5,7 @@ tags: Mac
 ---
 You can use the following values to set Mac OS X's hot corners in your [dotfiles](https://github.com/pala/dotfiles/blob/master/osx/set-defaults.sh):
 
-``` sh
+{% highlight sh %}
 # Hot corners
 # Possible values:
 #  0: no-op
@@ -37,4 +37,4 @@ defaults write com.apple.dock wvous-br-modifier -int 0
 # Bottom left Corner → Put display to sleep
 defaults write com.apple.dock wvous-bl-corner -int 10
 defaults write com.apple.dock wvous-bl-modifier -int 0
-```
+{% endhighlight %}

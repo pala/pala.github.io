@@ -2,25 +2,25 @@
 markdown: kramdown
 kramdown:
   input: GFM
-highlighter: pygments
 gems:
-  - jemoji
   - jekyll-sitemap
 
 # Permalinks
 permalink: /:year/:month/:day/:title
 
 # Setup
-title: Tao Zhang
-tagline: 'iOS, 空手道, 自行车，足球'
+title: 如是我聞
+tagline: "iOS 空手道 自行车 足球"
 description: '<a href="https://twitter.com/ztpala" target="_blank">@ztpala</a>，关注<a href="/tag/#iOS">iOS</a>，<a href="/category/#空手道">空手道</a>，<a href="/category/#自行车">自行车</a>以及足球。'
+baseurl: /
 url: http://ztpala.com
 domain: ztpala.com
-twitterID: ztpala
+email: ztpala@gmail.com
+twitter_username: ztpala
+github_username:  pala
 timezone: America/New_York
 subscribe: http://ztpala.com/atom.xml
 exclude: [ README.md, newpost.rb, CNAME ]
-baseurl: "/"
 
 author:
   name:           'Tao Zhang'

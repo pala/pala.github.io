@@ -11,7 +11,7 @@ In [Missing Word](https://itunes.apple.com/app/the-missing-word/id716259978?mt=8
 
 Thanks to the power of **TextKit** which was introduced in iOS 7, this task can be accomplished pretty easily.
 
-``` objc
+{% highlight objc %}
 NSTextStorage *aStorage = textView.textStorage;
 NSTextContainer *aContainer = textView.textContainer;
 CGRect wordRect = [aManager boundingRectForGlyphRange:wordRange inTextContainer:aContainer];
@@ -23,7 +23,7 @@ wordRect.origin.y += inset.top;
 wordRect.origin.x += inset.left;
 
 CGRect textFieldRect = [self.view convertRect:wordRect fromView:textView];
-```
+{% endhighlight %}
 
 Why do I need the missing word's exact bounds instead of the position?
 
@@ -41,9 +41,9 @@ Turn on the `Color Misaligned Images` of the simulator, you'll notice this:
 
 The reason is that the "exact bounds" of the missing word look like this:
 
-```objc
+{% highlight objc %}
 origin=(x=5, y=333.108) size=(width=58.378002, height=46.444)
-```
+{% endhighlight %}
 
 These fractional parts will create a bit of blurriness of your text:
 

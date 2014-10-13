@@ -14,7 +14,6 @@
         <div class="container">
           <h3 class="masthead-title">
             <a href="/" title="Home">{{ site.title }}</a>
-            <small>{{ site.tagline }}</small>
           </h3>
         </div>
       </div>
@@ -24,7 +23,24 @@
       </div>
     </div>
 
-    <label for="sidebar-checkbox" class="sidebar-toggle"><img class="emoji" title=":punch:" alt=":punch:" src="https://assets.github.com/images/icons/emoji/beer.png" height="20" width="20" align="absmiddle"></label>
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
   </body>
 </html>

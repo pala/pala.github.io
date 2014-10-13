@@ -18,7 +18,7 @@ tags:
 
 安装pow后，需要在wiki目录下新建文件 `config.ru`，内容如下：
 
-``` ruby
+{% highlight ruby %}
 require 'rubygems'
 require "gollum/frontend/app"
 
@@ -26,13 +26,13 @@ Precious::App.set(:gollum_path, File.dirname(__FILE__))
 Precious::App.set(:wiki_options, {})
 run Precious::App
 #https://github.com/tecnh/gollum/wiki/Gollum-and-Passenger
-```
+{% endhighlight %}
 
 接着把wiki链接到.pow下：
-```
+{% highlight sh %}
 cd ~/.pow
 ln -s ~/path/to/wiki wiki
-```
+{% endhighlight %}
 
 这样以后只要在浏览器里访问[http://wiki.dev](http://wiki.dev)就行了。xxx.dev的xxx代表着你链接到.pow里的目录名，这里就是wiki。
 
