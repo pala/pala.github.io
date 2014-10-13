@@ -13,7 +13,7 @@ tags:
 
 接着查看git的状态：
 
-```bash
+{% highlight sh %}
 $ git status
 # On branch master
 # Changes to be committed:
@@ -21,18 +21,18 @@ $ git status
 #
 #      new file:   .gitmodules
 #      new file:   subpala
-```
+{% endhighlight %}
 
 这时subpala已经被clone到pala的目录下。目录名为subpala。
 
 `.gitmodules` 文件里存储这所有submodule的信息：
 
-```bash
+{% highlight sh %}
 $ cat .gitmodules
 [submodule "subpala"]
       path = subpala
       url = git://github.com/pala/subpala.git
-```
+{% endhighlight %}
 
 虽然subpala是pala的子目录，但pala的git并不会去追踪subpala里具体文件的情况而只会记录subpala这个项目的commit。如果你去pala的github页面看，subpala作为一个超链接链接到自己的github页面。
 
@@ -42,7 +42,7 @@ $ cat .gitmodules
 
 这样，你就可以在subpala里用git单独管理，虽然它是另一个git项目的子目录。
 
-##删除submodule
+## 删除submodule
 1. Delete the relevant section from the .gitmodules file.
 2. Delete the relevant section from .git/config.
 3. Run git rm --cached path_to_submodule (no trailing slash).

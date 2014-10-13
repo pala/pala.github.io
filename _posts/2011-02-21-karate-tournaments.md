@@ -6,7 +6,7 @@ tags:
 categories:
     - 空手道
 ---
-##1月30号 West Chester
+## 1月30号 West Chester
 
 第一次参加tournament，还是有些紧张。早上7点多爬起来集合，然后一行11人挤在一辆租来的面包车里向4个小时外的目的地出发。
 
@@ -21,7 +21,7 @@ categories:
 
 比赛结束后开车回家，路上在某高速旁的饭馆搓了一顿，顺便每个人总结一下今天自己做的好的与不足的。
 
-##2月19日 Penn State White Building
+## 2月19日 Penn State White Building
 
 这次轮到我们来举办，熟悉的场地，没有舟车劳顿，那是相当的放松。
 

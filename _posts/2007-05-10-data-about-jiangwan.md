@@ -12,12 +12,12 @@ categories:
 >标 题: 今日江湾
 >发信站: 日月光华 (2007年05月10日12:39:33 星期四), 站内信件
 
-##azalea
+## azalea
 * TRIP DIST:21.82
 * AVG SPEED:28.42
 * MAX SPEED:41.82
 
-##pala
+## pala
 * TRIP DIST:28.81
 * AVG SPEED:31.02
 * MAX SPEED:42.07

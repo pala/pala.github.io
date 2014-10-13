@@ -49,7 +49,7 @@ Acadia 和我们去年去的 [Shenandoah](/2011/10/24/shenandoah-national-park/)
 
 回来看到twitter上对iOS6的地图服务骂声一片。不过感觉上它的GPS还是挺好用的，这一路作用挺大，指的路线也是很精确。
 
-##徒步路线推荐
+## 徒步路线推荐
 * Precipice Trail - 最经典的一条
 * 从Jordan Pond House出发，Spring Trail - Jordan Cliffs Trail - East Cliffs Trail - Sargent Mtn - （开始下山）Sargent South Ridge - Sargent Mtn Pond - Penobscot Mtn - Penobscot Mtn Trail - 回到Jordan Pond House。
 

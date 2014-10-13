@@ -7,17 +7,17 @@ categories:
     - 相册
 tags: Tournament
 ---
-##时间
+## 时间
 2012-6-8 到 2012-6-15
-##地点
+## 地点
 [249 Camp Green Lane Road, Green Lane, PA 18054](http://goo.gl/maps/6W5w). 很漂亮的一个训练营
-##人物
+## 人物
 我们Club去了9个人，几乎全体出动了。
 
 所有参加训练营的人约为400人，来自世界各地。
 
 老师们大约10来位，段位从7段到10段不等。训练空手道的时间从30多年到65年不等。多数人为[ISKF技术委员会](http://www.iskf.com/technical%20committee.html)的人。
-##训练
+## 训练
 每天6点起床，15分钟后要洗漱完毕到网球场集合开始热身然后跑步。长度也是每天增加。
 
 接着是早训，一个半小时。这个训练是最艰苦的，又困又累。如果训练内容要再遇上需要做110个俯卧撑的话，简直让人崩溃。
@@ -36,7 +36,7 @@ tags: Tournament
 
 7点晚饭，8:30有讲座，可以去听，也可以躲在Cabin里喝酒。
 
-##营地
+## 营地
 整个营地的条件还是相当好的，各种体育设施应有尽有，虽然乒乓球拍子太差劲，不过总比没有好。还有一个湖可供划船：
 
 <a href="http://www.flickr.com/photos/ztpala/7376013880/" title="IMG_3762 by ztpala, on Flickr"><img src="http://farm6.staticflickr.com/5455/7376013880_52c678a9b6_c.jpg" width="800" height="534" alt="IMG_3762"></a>
@@ -45,7 +45,7 @@ tags: Tournament
 
 <a href="http://www.flickr.com/photos/ztpala/7376004678/" title="IMG_3769 by ztpala, on Flickr"><img src="http://farm8.staticflickr.com/7084/7376004678_9fe890bb52_z.jpg" width="640" height="427" alt="IMG_3769"></a>
 
-##比赛
+## 比赛
 有训练的最后一天在早训后就开始了比赛。分为 White Belt, Color Belt, Brown Belt, Black Belt 四个级别。每个级别分别有 Kata, Team Kata, Kumite, Team Kumite 。当然没有组队的话Team类的就不能参加了。
 
 我参加了 Brown Belt 组的 Kata 和 Kumite 的比赛，拿到了两枚金牌。算是有了个圆满的结束。
@@ -54,7 +54,7 @@ tags: Tournament
 
 黑带比赛简直叫一个惨烈。两个人鼻骨被打骨折。四个人因为出手过重被罚下场。场上不断被洒上鲜血。不过似乎这种情况在以往的比赛中并不常见。
 
-##收获
+## 收获
 太多了，一言难尽。来年再见。
 
 [所有照片](http://flic.kr/s/aHsjzYYW6Y)

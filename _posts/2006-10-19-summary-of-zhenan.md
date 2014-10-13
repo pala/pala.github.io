@@ -7,7 +7,7 @@ tags:
 categories:
     - 自行车
 ---
-##浙南pala一行人的消息 xxxxxx
+## 浙南pala一行人的消息 xxxxxx
 
 10.2
 早上6:30,火车到缙云.都没睡醒,下车后发现托运票据和自行车发票等遗留在火车上
@@ -39,7 +39,7 @@ pala azalae 小胖 yixin 在某一山顶,离大箬岩还有30km
 17:50 到石染住下了 飙的真是快啊-.-
 下午ms跑了60km了
 
-##浙南游记... mythicgirl
+## 浙南游记... mythicgirl
 
 >发信人: mythicgirl (静茹·亲亲o^^o), 信区: Cycling
 

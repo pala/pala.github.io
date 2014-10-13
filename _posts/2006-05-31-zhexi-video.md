@@ -40,7 +40,7 @@ categories:
 
 快12点的时候回去冲凉睡觉 爽
 
-##附记：短片配乐
+## 附记：短片配乐
 
 1. Dying in the sun *The Cranberries*
 

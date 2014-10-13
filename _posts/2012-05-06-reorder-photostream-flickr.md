@@ -13,10 +13,10 @@ flickr是按照上传时间顺序排列照片，好在它是可以修改的，�
 
 目前flickr网页上只支持单张照片修改上传日期，要批量修改需要用第三方的服务，这里推荐两个：
 
-##[flickr photostream update](http://flickrstream.webzardry.com/)
+## [flickr photostream update](http://flickrstream.webzardry.com/)
 这个站点可以方便的将某个set，tag下的照片的上传日期修改为拍摄日期。对于拍摄日期大于账号建立日期的照片很是方便。但更老的照片则无法修改。
 
-##[h4ppier](http://www.h4ppy.com/h4ppier-photos-widget.php)
+## [h4ppier](http://www.h4ppy.com/h4ppier-photos-widget.php)
 可以将特定照片的上传时间往前或者后挪动若干年，月，日，天。这样就可以修改那些更老的照片。
 
 随着硬盘里的照片越来越多，怎样安全方便的整理备份也越来越重要。有人选择买多个硬盘，有人选择Amazon S3这样的云服务，有人选择flickr这种现成的图片服务，也有人选择上传到自己的虚拟主机，另外还有刻盘的。

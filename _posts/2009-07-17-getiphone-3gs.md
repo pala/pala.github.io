@@ -27,7 +27,7 @@ tags:
 
 由于入手这部iPhone主要是为了开发程序，所以今天一整天都在用它debug，也没怎么深入研究它更细微的改进。等未来几天有发现的话陆续发到twitter上吧。
 
-##关于 <a href="http://www.palaapp.com/freshfeed/" target="_blank">FreshFeed</a>
+## 关于 <a href="http://www.palaapp.com/freshfeed/" target="_blank">FreshFeed</a>
 
 从早上开机激活到刚刚凌晨三点，对着电脑一整天终于将新版本<a href="http://www.palaapp.com/freshfeed/" target="_blank">FreshFeed</a>完成上传到App Store了。主要改进如下:
 
@@ -38,6 +38,6 @@ tags:
 
 又困又累，想不清写的什么，睡觉。
 
-##7-20 update 视频效果:
+## 7-20 update 视频效果:
 
 <iframe src="http://player.vimeo.com/video/5667499?title=0&amp;byline=0&amp;portrait=0" width="580" height="435" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>

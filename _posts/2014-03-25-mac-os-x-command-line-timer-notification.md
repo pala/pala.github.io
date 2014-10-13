@@ -40,7 +40,7 @@ System Preferences - Notifications - AppleScript Editor
 
 比如选择通知方式为**Alerts**，这样上面的通知框不会自动消失。
 
-##其他方式
+## 其他方式
 
 如果你不想用系统通知的方式，则可以用一个简单的 `say` 命令让电脑念一段文字：
 

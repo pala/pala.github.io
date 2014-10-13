@@ -9,7 +9,7 @@ categories:
     - 相册
     - 自行车
 ---
-##数据
+## 数据
 距离：98km
 
 均速：27km/h
@@ -20,13 +20,13 @@ categories:
 
 骑行时间：约5小时25分钟（出门前估计距离83,还想3个半小时回来-,-）
 
-##爽的
+## 爽的
 今天骑车严格控制心律，非上坡一般控制在160-，爬坡170-。结果爬坡非常爽，到坡顶也是相当轻松。还有在一个下坡创造了个人最高速记录。另外风景超级漂亮。
 
-##不爽的
+## 不爽的
 最郁闷的一段是不到Bellefonte的缓上缓下，本来还想靠它刷刷均速，结果遇上逆风，艰难的维持20的速度前行。中间还路过几个那种金属网格的桥，直接把尾灯颠了下来(2次)，挂钩摔不见了。另外还需要走一小段路很破的高速，虽然短但是很影响心情。
 
-##有趣的，放几张照片
+## 有趣的，放几张照片
 
 <p style="text-align:center;"><a href="http://pic.ztpala.com/wp-content/uploads/2010/10/IMG_0314.jpg"><img class="size-medium wp-image-4393 aligncenter" title="IMG_0314" src="http://pic.ztpala.com/wp-content/uploads/2010/10/IMG_0314-300x400.jpg" alt="" width="300" height="400" /></a></p>
 <p style="text-align:center;">Bellefonte的标志之一。</p>

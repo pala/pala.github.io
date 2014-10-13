@@ -11,11 +11,11 @@ categories:
 
 <strong>2011-7-17 update</strong>:去了一次圣地亚哥，才发现那里对自行车运动的支持是多么好。具体可以看<a href="http://ztpala.com/2011/07/14/san-diego/" title="橘色的加州阳光（80 pics）">相关游记</a>。真是呆在一个地方久了就会变地井底之蛙。
 
-##成为交通的一部分。
+## 成为交通的一部分。
 
 绝大多数情况下，最安全的骑行方式是成为交通的一部分，即跟随正常交通的流动模式。用此种骑行方式出事的概率是那种按自己方式骑行的1/6 (J. Forester; Effective Cycling. Cambridge, MA, MIT Press, 1985)。因为你越是像是普通交通的一部分，则你在路上的行为则越容易预测同时也越安全。所以一定要像机动车一样遵守交通规则，如不要逆行。
 
-##关于路的边缘
+## 关于路的边缘
 
 一般较慢的车都在右侧车道，左侧为快车超车道。所以你也要呆在右车道，但具体离右边缘多远是个问题。
 
@@ -33,7 +33,7 @@ categories:
 
 <a href="http://pic.ztpala.com/wp-content/uploads/2010/09/road4.gif"><img class="aligncenter size-full wp-image-3971" title="road4" src="http://pic.ztpala.com/wp-content/uploads/2010/09/road4.gif" alt="" width="510" height="120" /></a>
 
-##突然变宽的路
+## 突然变宽的路
 
 <a href="http://pic.ztpala.com/wp-content/uploads/2010/09/road5.gif"><img class="aligncenter size-full wp-image-3967" title="road5" src="http://pic.ztpala.com/wp-content/uploads/2010/09/road5.gif" alt="" width="245" height="275" /></a>
 
@@ -41,7 +41,7 @@ categories:
 
 如上图所示，规则很简单，保持直线骑行。
 
-##在较窄的车道骑行（比较重要）
+## 在较窄的车道骑行（比较重要）
 
 在车道较窄而且一个方向只有一个车道的地方骑行要更加小心。因为机动车在这种路上都是开到逆行车道上超车。所以要时刻注意前方是否有迎面的车跑到你的车道进行超车。至于同方向的车，可以稍微靠点边让他们不至于全部开到逆行上来超你。
 
@@ -55,7 +55,7 @@ categories:
 
 通常较窄的车道上大家都开的不快。当你觉得后面的车可以很快的超过你时，你可以冲他们挥挥手。如果你堵了很长时间的路，交规要求你必须到路边停车让后面的车通过。
 
-##当你骑的比机动车快时
+## 当你骑的比机动车快时
 
 比如堵车时或者一个大下坡。此时把自己「当成」机动车<strong>照常行驶</strong>（慢时呆在右车道，要超车时去左车道超车），但不要和机动车肩并肩（记住盲点问题）。
 
