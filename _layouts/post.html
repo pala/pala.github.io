@@ -7,7 +7,7 @@ layout: default
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
   <div class="tags">
-    <a href="{{ site.github.repo }}/edit/master/{{ page.path }}" style="float: right !important">Edit</a> {% for tag in page.tags %}<a href="/tag/#{{ tag }}">#{{ tag }}</a> {% endfor %}
+    <a href="{{ site.github.repo }}/edit/master/{{ page.path }}" class="pull-right">Edit</a> {% for tag in page.tags %}<a href="/tag/#{{ tag }}">#{{ tag }}</a> {% endfor %}
   </div>
 </div>
 

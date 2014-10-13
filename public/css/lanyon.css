@@ -550,9 +550,6 @@ a.pagination-item:hover {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
 
-.emoji {
-  display: inline;
-  margin: 0 0;
-  border-radius: 0;
-  vertical-align: text-bottom;
+.pull-right {
+  float: right;
 }
