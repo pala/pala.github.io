@@ -23,9 +23,9 @@ subscribe:        http://ztpala.com/atom.xml
 exclude:          [ README.md, newpost.rb, CNAME ]
 
 collections:
-  swift-notes:
+  dev:
     output:       true
-    permalink:    /:collection/:path/
+    permalink:    /notes/:collection/:path/
 
 author:
   name:           'Tao Zhang'
