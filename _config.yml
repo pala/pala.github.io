@@ -1,9 +1,9 @@
 # Dependencies
-markdown: kramdown
+markdown:         kramdown
 kramdown:
-  input: GFM
+  input:          GFM
 gems:
-  - jekyll-sitemap
+                  - jekyll-sitemap
 
 # Permalinks
 permalink:        /:year/:month/:day/:title
@@ -24,8 +24,8 @@ exclude:          [ README.md, newpost.rb, CNAME ]
 
 collections:
   swift-notes:
-    output: true
-    permalink: /:collection/:path/
+    output:       true
+    permalink:    /:collection/:path/
 
 author:
   name:           'Tao Zhang'
