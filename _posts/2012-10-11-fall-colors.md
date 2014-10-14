@@ -3,7 +3,7 @@ layout: post
 title: 2012年秋
 date: 2012-10-11 23:40:54
 categories:
-    - 相册
+    - 相冊
 tags:
     - StateCollege
 ---

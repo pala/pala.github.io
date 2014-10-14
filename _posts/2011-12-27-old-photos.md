@@ -6,7 +6,7 @@ tags:
     - 上海
     - 日子
 categories:
-    - 相册
+    - 相冊
 ---
 <a href="http://pic.ztpala.com/wp-content/uploads/2011/12/aae2febf7847730918d81fe0.jpg"><img class="alignnone size-medium wp-image-5052" title="崇明" src="http://pic.ztpala.com/wp-content/uploads/2011/12/aae2febf7847730918d81fe0-200x300.jpg" alt="" width="200" height="300" /></a>
 

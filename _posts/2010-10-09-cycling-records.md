@@ -6,7 +6,7 @@ tags:
     - 复旦车协
     - 骑行数据
 categories:
-    - 自行车
+    - 自行車
 ---
 昨天在twitter[说](http://twitter.com/#!/ztpala/status/26727336320)：
 

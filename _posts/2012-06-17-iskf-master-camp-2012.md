@@ -4,7 +4,7 @@ title: 2012国际松涛馆空手联盟夏季训练营
 date: 2012-06-17 09:51:26
 categories:
     - 空手道
-    - 相册
+    - 相冊
 tags: Tournament
 ---
 ## 时间

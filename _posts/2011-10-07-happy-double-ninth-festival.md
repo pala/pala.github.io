@@ -7,7 +7,7 @@ tags:
     - 爬山
     - 趣事
 categories:
-    - 相册
+    - 相冊
 ---
 [又](http://youtu.be/MOQVadavObQ)到一年重阳，找个地方登高。下午四点多出发。由于事先找的[路线](http://g.co/maps/arrbb)非常短及简单，所以没有带头灯吃的，拿上两瓶水就出发了。
 

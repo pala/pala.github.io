@@ -3,7 +3,7 @@ date: 2011-09-13 00:56:44
 title: Back From Bike Riding
 layout: post
 categories:
-    - 自行车
+    - 自行車
 ---
 ![](http://farm8.staticflickr.com/7178/7000393942_83963a07a1_z.jpg)
 

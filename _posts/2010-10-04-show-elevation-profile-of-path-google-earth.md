@@ -5,7 +5,7 @@ layout: post
 tags:
     - Tips
 categories:
-    - 自行车
+    - 自行車
 ---
 1. 用"Add Path"画好路线
 

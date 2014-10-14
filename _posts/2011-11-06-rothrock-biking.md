@@ -5,7 +5,7 @@ layout: post
 tags:
     - 绕圈
 categories:
-    - 自行车
+    - 自行車
 ---
 ![](http://pic.ztpala.com/wp-content/uploads/2011/11/IMG_3329.jpeg)
 

@@ -5,8 +5,8 @@ layout: post
 tags:
     - 爬山
 categories:
-    - 相册
-    - 自行车
+    - 相冊
+    - 自行車
 ---
 <iframe width="600" height="400" src="http://www.youtube.com/embed/MOQVadavObQ?rel=0" frameborder="0" allowfullscreen></iframe>
 

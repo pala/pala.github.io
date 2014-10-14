@@ -18,7 +18,7 @@ tags:
 
 6. 多用巡航。这次从马里兰回来中间很久一直用巡航，速度放在限速高一点。脚不疼了，腰不酸了，安全省油又舒服-,-!!!
 
-7. 保证车胎气要足。骑过自行车的都有体会
+7. 保证车胎气要足。骑过自行車的都有体会
 
 8. 尽量晚上加油。温度低，同样的钱可以多加一点。如果是看到有油罐车在加油站，马上换一家，因为新补充的油会荡起油池里的沉淀物加到你车里。如果是刚下过暴雨也不要加，可能会有雨水渗入油池。
 
@@ -26,6 +26,6 @@ tags:
 
 10. 名牌油只是更贵。很多供应商之间都是共用管道，名牌油和无牌油之间几乎没有差别，至少这个差别要远小于他们价格之间的差别。当然，在国内还是需要去中石化中石油的加油站，并索要发票。
 
-11. 终极省油大法：骑自行车！！
+11. 终极省油大法：骑自行車！！
 
 P.S. 如果你在美国并且是<a href="http://maps.google.com" target="_blank">Google Map</a>的用户，请把<a href="http://maps.google.com/ig/directory?synd=mpl&amp;pid=mpl&amp;features=sharedmap%2Cgeofeed&amp;backlink=http%3A%2F%2Fmaps.google.com%2Fmaps%2Fmm%3Fie%3DUTF8%26hl%3Den%26ll%3D40.805607%2C-77.902466%26spn%3D0.109146%2C0.233459%26z%3D12&amp;hl=en&amp;gl=us&amp;num=24&amp;url=http://www.gasbuddy.com/GoogleGadget.aspx&amp;output=html">这个小工具</a>添加到你的map，这样输入地址或者邮编，你的地图上就会自动标出附近的加油站及实时油价，很方便。

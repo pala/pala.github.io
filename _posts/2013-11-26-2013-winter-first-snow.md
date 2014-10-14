@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2013冬的第一场雪
+title: 2013冬的第一場雪
 tags: 
   - StateCollege
   - 雪
@@ -13,11 +13,11 @@ tags:
 
 <a href="http://www.flickr.com/photos/ztpala/11074971475"><img src="http://farm6.staticflickr.com/5540/11074971475_59439baca3_c.jpg" width="800" height="450"></a>
 
-距离上次空手道训练已经过去了**55**天，从秋天到了冬天。
+距離上次空手道訓練已經過去了**55**天，從秋天到了冬天。
 
-<a href="http://www.flickr.com/photos/ztpala/10891009635" title="墙 by Tao, on Flickr"><img src="//farm3.staticflickr.com/2848/10891009635_3d2887a42f_c.jpg" width="800" height="450" alt="墙"></a>
+<a href="http://www.flickr.com/photos/ztpala/10891009635" title="牆 by Tao, on Flickr"><img src="//farm3.staticflickr.com/2848/10891009635_3d2887a42f_c.jpg" width="800" height="450" alt="牆"></a>
 
-<a href="http://www.flickr.com/photos/ztpala/10891009496" title="落红满地 by Tao, on Flickr"><img src="//farm6.staticflickr.com/5505/10891009496_fdfa5d0f23_c.jpg" width="800" height="600" alt="落红满地"></a>
+<a href="http://www.flickr.com/photos/ztpala/10891009496" title="落紅滿地 by Tao, on Flickr"><img src="//farm6.staticflickr.com/5505/10891009496_fdfa5d0f23_c.jpg" width="800" height="600" alt="落紅滿地"></a>
 
 <a href="http://www.flickr.com/photos/ztpala/10880765155" title="Halloween leftover by Tao, on Flickr"><img src="//farm3.staticflickr.com/2827/10880765155_5a8ebdd906.jpg" width="500" height="500" alt="Halloween leftover"></a>
 

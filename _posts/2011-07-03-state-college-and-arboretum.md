@@ -6,7 +6,7 @@ tags:
     - StateCollege
     - 宾夕法尼亚
 categories:
-    - 相册
+    - 相冊
 ---
 State College镇上和植物园
 

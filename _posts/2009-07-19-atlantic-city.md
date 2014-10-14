@@ -7,7 +7,7 @@ tags:
     - 新泽西
 categories:
     - 旅行
-    - 相册
+    - 相冊
 ---
 大西洋城(Atlantic City)是美国东海岸的一个赌城，虽然不比 Las Vegas的名气大但还是值得一玩的。
 

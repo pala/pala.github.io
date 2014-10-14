@@ -8,7 +8,7 @@ tags:
     - 朋友
     - 爬山
 categories:
-    - 相册
+    - 相冊
 ---
 我，azalea，xuan，luoping四人。
 

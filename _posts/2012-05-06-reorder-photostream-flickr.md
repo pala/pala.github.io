@@ -3,7 +3,7 @@ layout: post
 title: 批量重排flickr的照片顺序
 date: 2012-05-06 18:39:18
 categories:
-    - 相册
+    - 相冊
 tags:
     - 软件
 ---

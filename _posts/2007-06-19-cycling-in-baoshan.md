@@ -5,7 +5,7 @@ layout: post
 tags:
     - 上海
 categories:
-    - 自行车
+    - 自行車
 ---
 今天去了传说中的宝山生态道.据说很适合骑车,于是下午和azalea就去探了一下路.
 

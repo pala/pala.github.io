@@ -3,7 +3,7 @@ layout: post
 title: Acadia 国家公园
 date: 2012-09-21 12:33:23
 categories:
-    - 相册
+    - 相冊
 tags:
     - 国家公园
     - 缅因

@@ -6,7 +6,7 @@ tags:
     - 绕圈
     - 骑行数据
 categories:
-    - 自行车
+    - 自行車
 ---
 先介绍一下全新硬件：
 车：Cannondale CAAD9 6

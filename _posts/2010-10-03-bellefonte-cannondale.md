@@ -6,7 +6,7 @@ tags:
     - Bellefonte
     - 骑行数据
 categories:
-    - 自行车
+    - 自行車
 ---
 ![](http://farm8.staticflickr.com/7182/7144179155_9860169a6a_z.jpg)
 

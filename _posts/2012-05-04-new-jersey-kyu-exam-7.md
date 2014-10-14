@@ -2,7 +2,7 @@
 layout: post
 title: 新泽西之行+第七次空手道考试
 categories:
-    - 相册
+    - 相冊
     - 空手道
 tags:
     - 新泽西

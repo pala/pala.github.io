@@ -5,8 +5,8 @@ layout: post
 tags:
     - 山洞
 categories:
-    - 相册
-    - 自行车
+    - 相冊
+    - 自行車
 ---
 今天和azalea骑车去了Penns Cave,总路程68km.
 

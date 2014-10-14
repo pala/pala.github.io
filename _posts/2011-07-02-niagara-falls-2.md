@@ -7,7 +7,7 @@ tags:
     - 纽约
 categories:
     - 旅行
-    - 相册
+    - 相冊
 ---
 
 第二次去 w/ [@azaleasays](https://twitter.com/#!/azaleasays) YiliangDing zhangxuan，可能是因为国庆假，人潮堪比上次两倍。

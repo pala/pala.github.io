@@ -6,8 +6,8 @@ tags:
     - Bellefonte
     - 骑行数据
 categories:
-    - 相册
-    - 自行车
+    - 相冊
+    - 自行車
 ---
 ## 数据
 距离：98km

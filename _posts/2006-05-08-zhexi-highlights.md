@@ -7,7 +7,7 @@ tags:
     - 浙江
     - 趣事
 categories:
-    - 自行车
+    - 自行車
 ---
 azalea同学原创
 
