@@ -1,9 +1,9 @@
 ---
 date: 2011-10-24 03:59:02
-title: Shenandoah 国家公园
+title: Shenandoah 國家公園
 layout: post
 tags:
-    - 国家公园
+    - 國家公園
     - 弗吉尼亚
     - 爬山
 categories:

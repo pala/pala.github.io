@@ -1,11 +1,11 @@
 --- 
 layout: post
-title: Acadia 国家公园
+title: Acadia 國家公園
 date: 2012-09-21 12:33:23
 categories:
     - 相冊
 tags:
-    - 国家公园
+    - 國家公園
     - 缅因
     - 爬山
 ---
