@@ -10,8 +10,7 @@ permalink:        /:year/:month/:day/:title
 
 # Setup
 title:            如是我聞
-tagline:          "iOS 空手道 自行車 足球"
-description:      '<a href="https://twitter.com/ztpala" target="_blank">@ztpala</a>，關注<a href="/tag/#iOS">iOS</a>，<a href="/category/#空手道">空手道</a>，<a href="/category/#自行車">自行車</a>以及足球。'
+description:      '<a href="https://twitter.com/ztpala" target="_blank">@ztpala</a>'
 baseurl:          /
 url:              http://ztpala.com
 domain:           ztpala.com
@@ -22,13 +21,7 @@ timezone:         America/New_York
 subscribe:        http://ztpala.com/atom.xml
 exclude:          [ README.md, newpost.rb, CNAME ]
 
-collections:
-  dev:
-    output:       true
-    permalink:    /notes/:collection/:path/
-
 author:
-  name:           'Tao Zhang'
   url:            https://twitter.com/ztpala
 
 paginate:         5
