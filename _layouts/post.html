@@ -7,7 +7,7 @@ layout: default
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
   <div class="tags">
-    <a href="{{ site.github.repo }}/edit/master/{{ page.path }}" class="pull-right">編輯</a> {% for tag in page.tags %}<a href="/tag/#{{ tag }}">#{{ tag }}</a> {% endfor %}
+    <div class="pull-right"><a href="{{ site.github.repo }}/edit/master/{{ page.path }}">編輯</a> <a href="https://twitter.com/share?url={{site.url}}{{page.url}}&amp;via=ztpala&amp;text={{page.title}}" target="_blank">Tweet</a></div>{% for tag in page.tags %}<a href="/tag/#{{ tag }}">#{{ tag }}</a> {% endfor %}
   </div>
 </div>
 
