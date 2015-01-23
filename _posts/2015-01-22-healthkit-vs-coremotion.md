@@ -3,7 +3,7 @@ layout: post
 title: HealthKit vs CoreMotion
 tags: iOS
 ---
-对于用`CoreMotion`获取步数，走动距离等数据的Fitness程序，比如[Wander](1)，在 iOS 8 增加了`HealthKit`后可以说是多了一种选择。这里写一下这两者的区别和各自的特点。
+对于用`CoreMotion`获取步数，走动距离等数据的Fitness程序，比如[Wander][1]，在 iOS 8 增加了`HealthKit`后可以说是多了一种选择。这里写一下这两者的区别和各自的特点。
 
 `CoreMotion`里用于获取这些数据的Class分别是 `CMPedometer` 和 `CMMotionActivityManager`，下文均用`CoreMotion`代替。
 
@@ -45,7 +45,7 @@ func enableBackgroundDeliveryForType(type: HKObjectType!, frequency: HKUpdateFre
 
 这里就算你把requency设置为`Immediate`，它仍会每小时才通知一次：
 
-> Some data types, such as step counts, have a minimum frequency of HKUpdateFrequencyHourly. This frequency is enforced transparently. [link](2)
+> Some data types, such as step counts, have a minimum frequency of HKUpdateFrequencyHourly. This frequency is enforced transparently. [link][2]
 
 所以`Health`最好用来展现和分析历史数据。
 
