@@ -61,7 +61,7 @@ func enableBackgroundDeliveryForType(type: HKObjectType!, frequency: HKUpdateFre
 
 假如你想获取今天的步数并且实时更新这个数字，如果用`CoreMotion`的话，只需要一句：
 
-```objc
+```swift
 pedometer.startPedometerUpdatesFromDate(startOfToday) {
     data, error in
     // handle data	

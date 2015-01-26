@@ -18,7 +18,7 @@ email:            ztpala@gmail.com
 twitter_username: ztpala
 github_username:  pala
 timezone:         America/New_York
-subscribe:        http://ztpala.com/atom.xml
+subscribe:        http://feed.ztpala.com
 exclude:          [ README.md, newpost.rb, CNAME ]
 
 author:
