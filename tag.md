@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 標籤
+title: 标签
 permalink: /tag/
 ---
 {% for tag in site.tags %}[{{ tag | first }}](#{{ tag | first }}) {% endfor %}
