@@ -28,3 +28,6 @@ paginate:         5
 
 github:
   repo:           https://github.com/pala/pala.github.io
+
+disqus_shortname: ztpala
+google_analytics_id: UA-5531632-1
