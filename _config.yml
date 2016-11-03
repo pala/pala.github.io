@@ -2,8 +2,8 @@
 markdown:         kramdown
 kramdown:
   input:          GFM
-gems:
-                  - jekyll-sitemap
+gems: [jekyll-paginate]
+                  # - jekyll-sitemap
 
 # Permalinks
 permalink:        /:year/:month/:day/:title
@@ -24,7 +24,7 @@ exclude:          [ README.md, newpost.rb, CNAME ]
 author:
   url:            https://twitter.com/ztpala
 
-paginate:         5
+paginate:         1
 
 github:
   repo:           https://github.com/pala/pala.github.io
