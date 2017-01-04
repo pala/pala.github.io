@@ -1,17 +1,12 @@
 # Dependencies
 markdown:         kramdown
-kramdown:
-  input:          GFM
-gems: [jekyll-paginate]
-                  # - jekyll-sitemap
 
 # Permalinks
 permalink:        /:year/:month/:day/:title
 
 # Setup
 title:            如是我聞
-description:      '<a href="https://twitter.com/ztpala" target="_blank">@ztpala</a>'
-baseurl:          /
+description:      Keep Calm and Follow the Code
 url:              http://ztpala.com
 domain:           ztpala.com
 email:            ztpala@gmail.com
@@ -20,14 +15,22 @@ github_username:  pala
 timezone:         America/New_York
 subscribe:        http://feed.ztpala.com
 exclude:          [ README.md, newpost.rb, CNAME ]
-
-author:
-  url:            https://twitter.com/ztpala
-
 paginate:         1
 
-github:
-  repo:           https://github.com/pala/pala.github.io
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+theme: jekyll-theme-lanyon
+
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - newpost.rb
+  - CNAME
 
 disqus_shortname: ztpala
 google_analytics_id: UA-5531632-1

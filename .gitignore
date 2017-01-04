@@ -1,5 +1,6 @@
 _gh_pages
 _site
+.sass-cache
+.jekyll-metadata
 _drafts/
 .DS_Store
-
