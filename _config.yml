@@ -19,9 +19,6 @@ paginate:         1
 
 baseurl: "" # the subpath of your site, e.g. /blog
 
-# Build settings
-theme: jekyll-theme-lanyon
-
 gems:
   - jekyll-feed
   - jekyll-paginate
