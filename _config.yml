@@ -15,13 +15,11 @@ github_username:  pala
 timezone:         America/New_York
 subscribe:        http://feed.ztpala.com
 exclude:          [ README.md, newpost.rb, CNAME ]
-paginate:         1
 
 baseurl: "" # the subpath of your site, e.g. /blog
 
 gems:
   - jekyll-feed
-  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock

@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in site.posts limit:3 %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url | relative_url }}">
@@ -13,20 +13,23 @@ layout: default
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
+    {{ post.excerpt }}
+    <p><a href="{{ post.url }}"> 👉🏻 📃 </a></p>
+
   </div>
   {% endfor %}
 </div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path }}">Newer</a>
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
+<div class="block">
+{% for post in site.posts limit: 5 offset:3 %}
+<p><a href="{{ post.url }}">{{ post.title }}</a> <span class="pull-right">{{ post.date | date_to_long_string }}</span></p>
+{% endfor %}
+<p><a href="/archive">更多文章 🗃</a> <span class="pull-right">{{ site.posts.size }} posts</span></p>
 </div>
+
+<div class="block">
+{% for tag in site.tags %}
+    {% if tag[1].size > 1 %}
+    <a href="/tag/#{{ tag | first }}">{{ tag | first }}<span class="tag-count">{{ tag[1].size }}</span></a>
+    {% endif %}
+    {% endfor %}<a href="/tag"> 👉🏻  </a>
+    </div>

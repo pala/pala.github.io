@@ -3,7 +3,7 @@ layout: page
 title: 标签
 permalink: /tag/
 ---
-{% for tag in site.tags %}[{{ tag | first }}](#{{ tag | first }}) {% endfor %}
+{% for tag in site.tags %}<a href="#{{ tag | first }}">{{ tag | first }}<span class="tag-count">{{ tag[1].size }}</span></a> {% endfor %}
 
 {% for tag in site.tags %}
 <h2><a name="{{ tag | first }}"># {{ tag | first }}</a></h2>
