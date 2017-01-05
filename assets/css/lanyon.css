@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (min-width: 38em) {
   html {
-    font-size: 17px;
+    font-size: 16px;
   }
 }
 
@@ -103,7 +103,7 @@ figure {
 }
 @media (min-width: 56em) {
   .container {
-    max-width: 38rem;
+    max-width: 42rem;
   }
 }
 
@@ -265,8 +265,8 @@ a.sidebar-nav-item:focus {
     width: 2.25rem;
   }
   .sidebar-toggle:before {
-    padding-bottom: .15rem;
-    border-top-width: .45rem;
+    padding-bottom: .14rem;
+    border-top-width: .40rem;
     border-bottom-width: .15rem;
   }
 }
