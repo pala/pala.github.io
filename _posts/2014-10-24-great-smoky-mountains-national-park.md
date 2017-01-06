@@ -11,7 +11,7 @@ tags:
 
 三天半，開車2380公里，爬山27.5公里。
 
-[![](https://farm4.staticflickr.com/3949/15431245958_94f19bdf70_c.jpg)](https://www.flickr.com/photos/ztpala/15431245958)
+[![](https://c7.staticflickr.com/4/3949/15431245958_331e56fdb0_c.jpg)](https://www.flickr.com/photos/ztpala/15431245958)
 
 以後去每個國家公園都要買件 Life is good 做留念。標籤還沒撕。
 
