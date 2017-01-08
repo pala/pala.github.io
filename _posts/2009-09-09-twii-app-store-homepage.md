@@ -15,18 +15,18 @@ update: 已经爬到了24名。
 
 另外发现FreshFeed也进入了前200。不知道是不是因为Twii的影响。貌似这也是唯一一个进入前两百的FriendFeed的第三方程序。
 
-再说一下今天的发布会。发布了最新的iPod产品线。原先预计的添加摄像头的iPod Touch没有出现，反倒是更小的nano增加了<a href="http://www.apple.com/ipodnano/features/video-camera.html" target="_blank">效果很不错的摄像头</a>。不过touch 8gb已经将到了200刀以下，相当超值了。最新款shuffle也有了多彩版。价格不变。请到<a href="http://store.apple.com/" target="_blank">苹果网站</a>参观
+再说一下今天的发布会。发布了最新的iPod产品线。原先预计的添加摄像头的iPod Touch没有出现，反倒是更小的nano增加了[效果很不错的摄像头](http://www.apple.com/ipodnano/features/video-camera.html)。不过touch 8gb已经将到了200刀以下，相当超值了。最新款shuffle也有了多彩版。价格不变。请到[苹果网站](http://store.apple.com/)参观
 
 最后说几个今天公布的数据，不得不说，苹果太牛了：
 
-两年卖出<strong>3000万</strong>部iPhone
+两年卖出**3000万**部iPhone
 
-共7<strong>5,000</strong>款iPhone软件，总计下载量达<strong>18亿</strong>次
+共7**5,000**款iPhone软件，总计下载量达**18亿**次
 
-iTunes共卖出了<strong>85亿</strong>首歌，拥有一亿信用卡账户
+iTunes共卖出了**85亿**首歌，拥有一亿信用卡账户
 
-去年此时卖出<strong>2亿</strong>集电视剧，今年的数据还不知道。
+去年此时卖出**2亿**集电视剧，今年的数据还不知道。
 
-iPod共卖出了<strong>2.2亿</strong>台，其中touch 2<strong>000万</strong>台。占有数字音乐播放器市场的73.8%份额。
+iPod共卖出了**2.2亿**台，其中touch**2000万**台。占有数字音乐播放器市场的73.8%份额。
 
 还有最重要一点，乔帮主今天复出了。
