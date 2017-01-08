@@ -41,3 +41,7 @@ tags: iPhone
 ![](/images/iPhone7PlusPortraitModeTest.jpg)
 
 ![](/images/iPhone7PlusTelephotoCameraTest.jpg)
+
+![](/images/iPhone7PlusCameraTest.jpg)
+
+> 写完去厨房，完成了此iPhone的第一摔，好在是蹲在地上从睡裤里划出来。
