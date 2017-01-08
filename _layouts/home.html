@@ -2,34 +2,35 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts limit:3 %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | relative_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<div class="home">
+  {{ content }}
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+  <ul class="post-list">
+    {% for post in site.posts limit:3 %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-    {{ post.excerpt }}
-    <p><a href="{{ post.url }}"> 👉🏻 📃 </a></p>
-
-  </div>
-  {% endfor %}
-</div>
-<div class="block">
-{% for post in site.posts limit: 5 offset:3 %}
-<p><a href="{{ post.url }}">{{ post.title }}</a> <span class="pull-right">{{ post.date | date_to_long_string }}</span></p>
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+        {{ post.excerpt }}
+        <a href="{{ post.url }}"> 👉🏻 📃 </a>
+      </li>
+    {% endfor %}
+  </ul>
+<div>
+  {% for post in site.posts limit: 5 offset:3 %}
+  <p>
+    <a href="{{ post.url }}">{{ post.title }}</a> <span class="pull-right">{{ post.date | date_to_long_string }}</span>
+  </p>
 {% endfor %}
-<p><a href="/archive">更多文章 🗃</a> <span class="pull-right">{{ site.posts.size }} posts</span></p>
+<p><a href="/archive">更多文章 👉🏻 </a> <span class="pull-right">{{ site.posts.size }} posts</span></p>
 </div>
-
 <div class="block">
-{% for tag in site.tags %}
+    {% for tag in site.tags %}
     {% if tag[1].size > 1 %}
     <a href="/tag/#{{ tag | first }}">{{ tag | first }}<span class="tag-count">{{ tag[1].size }}</span></a>
     {% endif %}
-    {% endfor %}<a href="/tag"> 👉🏻  </a>
-    </div>
+    {% endfor %}<a href="/tag"> 👉🏻 </a>
+</div>
+</div>
