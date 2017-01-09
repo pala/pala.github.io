@@ -7,8 +7,6 @@ tags:
     - 田納西
     - 爬山
 ---
-[![](https://farm6.staticflickr.com/5612/15593674446_6801412940_c.jpg)](https://www.flickr.com/photos/ztpala/15593674446)
-
 三天半，開車2380公里，爬山27.5公里。
 
 [![](https://c7.staticflickr.com/4/3949/15431245958_331e56fdb0_c.jpg)](https://www.flickr.com/photos/ztpala/15431245958)
