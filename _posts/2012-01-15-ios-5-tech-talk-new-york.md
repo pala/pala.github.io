@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: 纽约行 
+title: 纽约行-2012 
 date: 2012-01-15
 categories:
     - 旅行
