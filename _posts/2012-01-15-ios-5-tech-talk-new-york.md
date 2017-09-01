@@ -6,7 +6,7 @@ categories:
     - 旅行
 tags:
     - iOS
-    - 纽约
+    - 紐約
     - 苹果
 ---
 ![](https://farm9.staticflickr.com/8025/7146883263_2d7bdbf8b3_z.jpg)
