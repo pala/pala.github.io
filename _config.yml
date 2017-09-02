@@ -26,3 +26,9 @@ exclude:
   - README.md
   - newpost.rb
   - CNAME
+header_pages:
+  - apps.md
+  - tag.md
+  - category.md
+  - archive.md
+  - search.html
