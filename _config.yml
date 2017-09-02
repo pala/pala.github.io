@@ -18,7 +18,7 @@ timezone:         America/New_York
 subscribe:        http://feed.ztpala.com
 baseurl: ""
 theme: minima
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile

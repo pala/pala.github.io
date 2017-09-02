@@ -34,7 +34,7 @@ categories:
 
 ## 動機
 ### 異國情調 好奇心
-每次出門，不管是騎車還是開車，在路過省界或州界時，看到路邊的指示牌，用巨大的字寫著“xxx省歡迎您”，心中總會勇氣一種興奮感。如果是到了其他國家，上面的字體變成了其他語言和風格，這種興奮感則更會加劇。是這標語設計的充滿美感嗎？不。它代表了你正式地踏入異國他鄉的土地，來到了一片新奇之地。
+每次出門，不管是騎車還是開車，在路過省界或州界時，看到路邊的指示牌，用巨大的字寫著“xxx省歡迎您”，心中總會湧起一種興奮感。如果是到了其他國家，上面的字體變成了其他語言和風格，這種興奮感則更會加劇。是這標語設計的充滿美感嗎？不。它代表了你正式地踏入異國他鄉的土地，來到了一片新奇之地。
 
 > If the sign provokes in me genuine pleasure, it is in part because it offers the first conclusive evidence of my having arrived elsewhere. It is a symbol of being abroad.
 
