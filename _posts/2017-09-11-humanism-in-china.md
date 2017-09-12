@@ -6,7 +6,7 @@ categories:
 tags: 攝影
 ---
 
-![](images/HumanismInChina.jpg)
+![](/images/HumanismInChina.jpg)
 
 這本影集裡紀錄了形形色色的中國人最普通的一面。在這六百多張照片裡，你可能看到幼年的自己，可能看到曾經每天都會遇到但一直都忽略的一些陌生人，可能看到年輕時的父母，可能看到爺爺奶奶口中的那個消失的世界。
 
