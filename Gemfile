@@ -9,10 +9,11 @@ ruby RUBY_VERSION
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "minima"
+gem "jekyll", "~> 3.8.3"
+
+gem "minima", "~> 2.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-   gem "jekyll-feed"
-   gem "github-pages"
+   gem "jekyll-feed", "~> 0.6"
 end
