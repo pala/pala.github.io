@@ -11,6 +11,10 @@ Your face data is only for face tracking when you play and never stored or uploa
 
 No Personally-Identifying Information is transmitted to external locations when using Bian Lian.
 
+### Emojis
+
+Bian Lian uses [Twemoji](https://twemoji.twitter.com), Twitter’s open source emoji, under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
 ### Privacy Policy Changes
 
 Although most changes are likely to be minor, we may change its Privacy Policy from time to time. We encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
@@ -20,6 +24,7 @@ Although most changes are likely to be minor, we may change its Privacy Policy f
 We do not warrant the completeness or accuracy of the information published on this website; nor do we commit to ensuring that the website remains available or that the material on the website is kept up to date. 
 
 To the maximum extent permitted by applicable law, we exclude all representations, warranties and conditions relating to this website and the use of this website (including, without limitation, any warranties implied by law in respect of satisfactory quality, fitness for purpose and/or the use of reasonable care and skill).
+
 
 ### Indemnity
 
