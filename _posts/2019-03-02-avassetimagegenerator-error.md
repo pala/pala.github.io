@@ -12,7 +12,7 @@ tags:
 在导出视频时选择preset：
 
 ```swift
-let supportHEVC =AVAssetExportSession.exportPresets(compatibleWith: asset).contains(AVAssetExportPresetHEVCHighestQuality)
+let supportHEVC = AVAssetExportSession.exportPresets(compatibleWith: asset).contains(AVAssetExportPresetHEVCHighestQuality)
 let preferredPreset = supportHEVC ? AVAssetExportPresetHEVCHighestQuality : AVAssetExportPresetHighestQuality
 ```
 

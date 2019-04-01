@@ -30,3 +30,31 @@ player.play()
 ```
 
 You have no ideas how many hours I spent on this fxxxing issue.
+
+## update
+
+Slow motions videos may have some empty segments, make sure use the timeRange of segment which is not empty.
+
+```swift
+guard let videoTrack = asset.tracks(withMediaType: .video).first else { return }
+
+var range = videoTrack.timeRange
+
+for segment in videoTrack.segments {
+    if !segment.isEmpty {
+        range = segment.timeMapping.target
+        break
+    }
+}
+
+if let audioTrackTimeRange = asset.tracks(withMediaType: .audio).first?.timeRange {
+    range = range.intersection(audioTrackTimeRange)
+}
+
+let item = AVPlayerItem(asset: asset)
+
+self.playerLooper = AVPlayerLooper(player: player,
+                                   templateItem: item,
+                                   timeRange: range)
+player.play()
+```
