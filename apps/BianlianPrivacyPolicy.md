@@ -7,6 +7,8 @@ permalink: /Bianlian/PrivacyPolicy
 
 Bian Lian uses the TrueDepth camera for face detection.
 
+Bian Lian uses ARFaceAnchor data from TrueDepth camera to identify facial expressions, for example smile. The data are only used for gameplay purposes, and they are not stored locally or remotely, or be shared with any third parties.
+
 Your face data is only for face tracking when you play and never stored or uploaded. 
 
 No Personally-Identifying Information is transmitted to external locations when using Bian Lian.
