@@ -4,7 +4,7 @@ permalink: /TileTale/PrivacyPolicy
 ---
 ## Google Admob
 
-We will also install Google Admob to help us measure traffic, serve ads and usage trends for the Service. We collect and use this analytics information with analytics information from other Users so that it cannot reasonably be used to identify any particular individual User.
+We use Google Admob to serve ads. We collect and use this analytics information with analytics information from other Users so that it cannot reasonably be used to identify any particular individual User.
 
 ## Changes to this Policy
 

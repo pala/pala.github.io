@@ -3,7 +3,7 @@ permalink: /SimilarPhotos/PrivacyPolicy
 ---
 ## Google Admob
 
-We install Google Admob to serve ads. We collect and use this analytics information with analytics information from other Users so that it cannot reasonably be used to identify any particular individual User.
+We use Google Admob to serve ads. We collect and use this analytics information with analytics information from other Users so that it cannot reasonably be used to identify any particular individual User.
 
 ## Changes to this Policy
 
