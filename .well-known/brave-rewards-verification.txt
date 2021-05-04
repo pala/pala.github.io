@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ztpala.com
+Token: d9fad8e118c62cbdc15c6fea4d607d5e3c92c73e74197fb53a1f5e49ce865b18
