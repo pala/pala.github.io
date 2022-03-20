@@ -1,0 +1,47 @@
+---
+layout: default
+---
+<style type="text/css" media="screen">
+#post-header h3,
+#post-header p {
+    display: inline;
+    vertical-align: bottom;
+}
+</style>
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header" id="post-header">
+    <h3 itemprop="name headline">{{ page.title | escape }}</h3>
+    <p class="post-meta" style="float: right;">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%Y-%m-%d" -%}
+        {{ page.date | date: date_format }}
+      </time>
+      </p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+
+
+{% assign cat_list = site.categories[cat] %}
+{% for post in cat_list %}
+  {% if post.url == page.url %}
+    {% assign pOffset = forloop.index0 | minus: 1 %}
+    {% assign nOffset = pOffset | plus: 2 %}
+    {% if forloop.last == false %}
+      {% assign previous_post = cat_list[nOffset] %}
+      <a  href="{{ previous_post.url }}"> < {{ previous_post.title }}</a>
+    {% endif %}
+    {% if forloop.first == false %}
+      {% assign next_post = cat_list[pOffset] %}
+      <a style="float: right" href="{{ next_post.url }}"> {{ next_post.title }} > </a>
+    {% endif %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+</article>
