@@ -8,4 +8,4 @@ permalink: /about/
 
 Tao
 
-独立开发者/摄影师
+Developer / Photographer

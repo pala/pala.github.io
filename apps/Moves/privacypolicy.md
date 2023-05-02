@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
-permalink: /PrivacyPolicy
+permalink: /Moves/PrivacyPolicy
 ---
 
 We are committed to protecting the privacy of our users and their personal health information. Our app, which reads health data from Garmin Connect and writes to HealthKit, has been designed with privacy in mind. In this policy, we outline the information we collect, how we use it, and your rights related to your personal health information.

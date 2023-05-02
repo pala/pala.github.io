@@ -26,7 +26,7 @@ layout: default
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 
-
+{% assign cat = page.categories[0] %}
 {% assign cat_list = site.categories[cat] %}
 {% for post in cat_list %}
   {% if post.url == page.url %}
