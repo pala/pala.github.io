@@ -31,3 +31,5 @@ Moves offers these key features:
 Try Moves today to enhance your fitness experience! Download now and get the most out of your fitness journey.
 
 [![](/assets/apps/AppStore.svg)](http://appstore.com/id6448230118)
+
+[Privacy Policy](/Moves/PrivacyPolicy)
