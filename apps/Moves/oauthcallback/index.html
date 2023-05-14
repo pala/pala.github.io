@@ -2,7 +2,8 @@
     window.onload = function() {
         var urlParams = new URLSearchParams(window.location.search);
         var oauth_token = urlParams.get('oauth_token');
-        var redirectUrl = 'moves://authorize?oauth_token=' + oauth_token;
+        var oauth_verifier = urlParams.get('oauth_verifier')
+        var redirectUrl = 'moves://authorize?oauth_token=' + oauth_token + '&oauth_verifier=' + oauth_verifier;
         window.location.href = redirectUrl;
     };
 </script>
