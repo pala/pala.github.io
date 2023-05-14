@@ -1,0 +1,8 @@
+<script type="text/javascript">
+    window.onload = function() {
+        var urlParams = new URLSearchParams(window.location.search);
+        var oauth_token = urlParams.get('oauth_token');
+        var redirectUrl = 'moves://authorize?oauth_token=' + oauth_token;
+        window.location.href = redirectUrl;
+    };
+</script>
