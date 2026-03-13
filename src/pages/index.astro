@@ -1,0 +1,48 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const posts = await getCollection('posts');
+
+// Helper to get the most recent post url for a category
+const getLatestPostUrlForCategory = (category) => {
+  const categoryPosts = posts.filter(p => p.data.categories === category);
+  if (categoryPosts.length === 0) return '#';
+  
+  // Sort descending
+  categoryPosts.sort((a, b) => {
+    const dateA = a.data.date || new Date(a.id.slice(0, 10));
+    const dateB = b.data.date || new Date(b.id.slice(0, 10));
+    return dateB.valueOf() - dateA.valueOf();
+  });
+  
+  const latestPost = categoryPosts[0];
+  const match = latestPost.id.match(/^(\d{4})-(\d{2})-(\d{2})-(.+)$/);
+  if (!match) return `/${latestPost.id}.html`;
+  
+  const catPath = latestPost.data.categories ? latestPost.data.categories.toLowerCase() : '';
+  return `/${catPath}/${match[1]}/${match[2]}/${match[3]}/${match[4]}.html`;
+};
+
+const passionUrl = getLatestPostUrlForCategory('Passion');
+const peopleOnStreetUrl = getLatestPostUrlForCategory('PeopleOnStreet');
+const documentaryPortraitsUrl = getLatestPostUrlForCategory('DocumentaryPortraits');
+const thingsUrl = getLatestPostUrlForCategory('Things');
+
+// Hardcoded cover image link matching original Jekyll setup
+const coverImageUrl = '/assets/EditorSelections/Cover.jpg';
+const coverImageLink = '/documentaryportraits/2021/09/10/guangzhou.html';
+---
+
+<BaseLayout>
+  <div class="home">
+    {passionUrl !== '#' && <h2><a href={passionUrl}>Passion</a></h2>}
+    {peopleOnStreetUrl !== '#' && <h2><a href={peopleOnStreetUrl}>街头遇到的人们</a></h2>}
+    {documentaryPortraitsUrl !== '#' && <h2><a href={documentaryPortraitsUrl}>肖像纪录片</a></h2>}
+    {thingsUrl !== '#' && <h2><a href={thingsUrl}>万物有灵且美</a></h2>}
+
+    <a href={coverImageLink}>
+      <img src={coverImageUrl} alt="Cover" />
+    </a>
+  </div>
+</BaseLayout>

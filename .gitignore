@@ -1,5 +1,14 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+# Astro
+dist/
+node_modules/
+.astro/
+
+# Jekyll (keeping for compatibility during transition, can remove later)
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata/
+vendor/
+
+# OS files
+.DS_Store

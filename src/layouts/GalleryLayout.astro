@@ -1,0 +1,33 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+const { title, prev, next } = Astro.props;
+---
+
+<BaseLayout title={title}>
+  <style>
+    :global(.post-content img) {
+      max-height: 75vh;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .navigation {
+      color: gray;
+      font-size: 12px;
+      margin-top: 20px;
+    }
+  </style>
+
+  <article class="post">
+    <div class="post-content">
+      <slot />
+    </div>
+
+    <div class="navigation">
+      {prev && <a href={prev.url}>Previous</a>}
+      {prev && next && ' / '}
+      {next && <a href={next.url}>Next</a>}
+    </div>
+  </article>
+</BaseLayout>

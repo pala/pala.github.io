@@ -1,0 +1,39 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+const { title, date, prev, next } = Astro.props;
+---
+
+<BaseLayout title={title}>
+  <style>
+    #post-header h3,
+    #post-header p {
+      display: inline;
+      vertical-align: bottom;
+    }
+  </style>
+
+  <article class="post">
+    <header class="post-header" id="post-header">
+      <h3>{title}</h3>
+      <p class="post-meta" style="float: right;">
+        <time datetime={date ? date.toISOString() : ''}>
+          {date ? date.toISOString().split('T')[0] : ''}
+        </time>
+      </p>
+    </header>
+
+    <div class="post-content">
+      <slot />
+    </div>
+
+    <div style="margin-top: 30px; display: flex; justify-content: space-between;">
+      <div>
+        {prev && <a href={prev.url}>&lt; {prev.title}</a>}
+      </div>
+      <div>
+        {next && <a href={next.url}>{next.title} &gt;</a>}
+      </div>
+    </div>
+  </article>
+</BaseLayout>

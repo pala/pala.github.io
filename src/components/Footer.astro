@@ -1,0 +1,31 @@
+---
+import { SITE_EMAIL, INSTAGRAM_USERNAME, SITE_DESCRIPTION } from '../consts';
+---
+
+<footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list" style="list-style: none; padding: 0; margin: 0;">
+          {SITE_EMAIL && <li><a class="u-email" href={`mailto:${SITE_EMAIL}`}>{SITE_EMAIL}</a></li>}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list" style="list-style: none; padding: 0; margin: 0;">
+          {INSTAGRAM_USERNAME && (
+            <li>
+              <a href={`https://instagram.com/${INSTAGRAM_USERNAME}`}>
+                <span class="username">Instagram: {INSTAGRAM_USERNAME}</span>
+              </a>
+            </li>
+          )}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{SITE_DESCRIPTION}</p>
+      </div>
+    </div>
+  </div>
+</footer>
