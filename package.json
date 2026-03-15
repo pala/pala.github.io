@@ -8,10 +8,10 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "preview": "npm run build && wrangler dev",
+    "preview": "astro preview",
     "astro": "astro",
     "generate-types": "wrangler types",
-    "deploy": "npm run build && wrangler deploy",
+    "deploy": "npm run build",
     "optimize": "node scripts/optimize.js"
   },
   "dependencies": {
