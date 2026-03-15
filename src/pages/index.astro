@@ -7,6 +7,7 @@ const galleries = await getCollection('galleries');
 
 // 2. Extract all image paths from markdown bodies
 const allImagePaths = galleries.flatMap(gallery => {
+  if (!gallery.body) return [];
   const imageRegex = /!\[.*?\]\((.*?)\)/g;
   const paths = [];
   let match;
@@ -28,12 +29,12 @@ const imageUrls = await Promise.all(
     );
     
     if (imageKey) {
-      const asset = await allAssets[imageKey]();
+      const asset = await allAssets[imageKey]() as { default: { src: string } };
       return asset.default.src; // Get the processed static URL
     }
     return null;
   })
-).then(urls => urls.filter(url => url !== null));
+).then((urls: (string | null)[]) => urls.filter((url): url is string => url !== null));
 
 const galleriesUrl = '/galleries';
 ---

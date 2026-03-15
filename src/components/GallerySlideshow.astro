@@ -16,12 +16,12 @@ const resolvedImages = await Promise.all(
     );
     
     if (imageKey) {
-      const asset = await allAssets[imageKey]();
+      const asset = await allAssets[imageKey]() as { default: { src: string } };
       return { src: asset.default.src };
     }
     return null;
   })
-).then(imgs => imgs.filter(img => img !== null));
+).then((imgs: ({ src: string } | null)[]) => imgs.filter((img): img is { src: string } => img !== null));
 ---
 
 <div class="slideshow-wrapper">
@@ -125,7 +125,7 @@ const resolvedImages = await Promise.all(
   const currentSpan = document.getElementById('current');
   const total = slides.length;
 
-  const showSlide = (index) => {
+  const showSlide = (index: number) => {
     if (total === 0) return;
     slides[currentIndex].classList.remove('active');
     currentIndex = (index + total) % total;

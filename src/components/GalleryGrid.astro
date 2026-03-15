@@ -22,7 +22,7 @@ const resolvedImages = await Promise.all(
     );
 
     if (imageKey) {
-      const asset = await allAssets[imageKey]();
+      const asset = await allAssets[imageKey]() as { default: { src: string } };
       return {
         src: asset.default.src,
         original: src
@@ -30,7 +30,7 @@ const resolvedImages = await Promise.all(
     }
     return null;
   })
-).then(urls => urls.filter(url => url !== null));
+).then((urls: ({ src: string, original: string } | null)[]) => urls.filter((url): url is { src: string, original: string } => url !== null));
 ---
 
 <div class="gallery-grid">
@@ -129,14 +129,14 @@ const resolvedImages = await Promise.all(
   document.querySelectorAll('.thumbnail').forEach(item => {
     item.addEventListener('click', (e) => {
       const target = e.target as HTMLImageElement;
-      lightbox.style.display = "block";
-      lightboxImg.src = target.src; 
+      if (lightbox) lightbox.style.display = "block";
+      if (lightboxImg) lightboxImg.src = target.src; 
       document.body.style.overflow = 'hidden'; // Prevent scrolling
     });
   });
 
   const closeLightbox = () => {
-    lightbox.style.display = "none";
+    if (lightbox) lightbox.style.display = "none";
     document.body.style.overflow = 'auto';
   };
 

@@ -17,7 +17,8 @@
   "dependencies": {
     "@astrojs/cloudflare": "^13.1.1",
     "@astrojs/rss": "^4.0.17",
-    "astro": "^6.0.4"
+    "astro": "^6.0.4",
+    "glob": "^13.0.6"
   },
   "devDependencies": {
     "wrangler": "^4.73.0"
