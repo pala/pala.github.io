@@ -11,7 +11,8 @@
     "preview": "npm run build && wrangler dev",
     "astro": "astro",
     "generate-types": "wrangler types",
-    "deploy": "npm run build && wrangler deploy"
+    "deploy": "npm run build && wrangler deploy",
+    "optimize": "node scripts/optimize.js"
   },
   "dependencies": {
     "@astrojs/cloudflare": "^13.1.1",
