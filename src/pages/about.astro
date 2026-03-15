@@ -1,5 +1,7 @@
 ---
+import { Image } from 'astro:assets';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import selfieImage from '../assets/site/selfie.jpeg';
 ---
 
 <BaseLayout title="About">
@@ -9,7 +11,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     </header>
 
     <div class="post-content">
-      <img src="/assets/EditorSelections/Selfie.jpeg" alt="Selfie" />
+      <Image src={selfieImage} alt="Selfie" width={800} quality="high" />
       
       <p>Tao</p>
       <p>Developer / Photographer</p>

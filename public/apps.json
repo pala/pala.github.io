@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "apps": [
+    {
+      "appId": "1232787087",
+      "bundleId": "com.ztpala.WhiteBorder",
+      "name": "White Border",
+      "description": "No crop, one tap. Clean borders for photos and videos.",
+      "iconUrl": "https://ztpala.com/assets/apps/WhiteBorder.png",
+      "appStoreUrl": "https://apps.apple.com/app/id1232787087",
+      "isActive": true
+    },
+    {
+      "appId": "6760047280",
+      "bundleId": "com.ztpala.VitaL",
+      "name": "VitaL",
+      "description": "Private supplement tracking. Smart refill forecasts. Daily consistency insights.",
+      "iconUrl": "https://ztpala.com/assets/apps/VitaL.png",
+      "appStoreUrl": "https://apps.apple.com/app/id6760047280",
+      "badgeLabel": "New",
+      "isActive": true
+    }
+  ]
+}

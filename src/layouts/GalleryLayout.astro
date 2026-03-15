@@ -1,33 +1,56 @@
 ---
 import BaseLayout from './BaseLayout.astro';
+import GallerySlideshow from '../components/GallerySlideshow.astro';
 
-const { title, prev, next } = Astro.props;
+const { title, date, images = [] } = Astro.props;
 ---
 
 <BaseLayout title={title}>
   <style>
-    :global(.post-content img) {
-      max-height: 75vh;
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
+    /* Hide all images that are direct children of post-content (Markdown rendered) */
+    .post-content > :global(p) > :global(img),
+    .post-content > :global(img) {
+      display: none !important;
     }
+
     .navigation {
       color: gray;
       font-size: 12px;
-      margin-top: 20px;
+      margin-top: 40px;
+      border-top: 1px solid #eee;
+      padding-top: 20px;
+    }
+    .post-header {
+      margin-bottom: 20px;
+    }
+    .post-meta {
+      color: #828282;
+      font-size: 14px;
+    }
+    .wrapper {
+      max-width: 1000px; /* Slightly wider for the slideshow */
     }
   </style>
 
   <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">{title}</h1>
+      {date && (
+        <p class="post-meta">
+          <time datetime={date.toISOString()}>
+            {date.toISOString().split('T')[0]}
+          </time>
+        </p>
+      )}
+    </header>
+
     <div class="post-content">
-      <slot />
+      <slot /> <!-- This will still render text/descriptions -->
+      <GallerySlideshow images={images} />
     </div>
 
     <div class="navigation">
-      {prev && <a href={prev.url}>Previous</a>}
-      {prev && next && ' / '}
-      {next && <a href={next.url}>Next</a>}
+      <a href="/">Back to Home</a>
     </div>
   </article>
 </BaseLayout>

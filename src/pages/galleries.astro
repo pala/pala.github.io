@@ -1,0 +1,40 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const galleries = await getCollection('galleries');
+---
+
+<BaseLayout title="Galleries">
+  <div class="galleries-list">
+    <header class="post-header">
+      <h1 class="post-title">Galleries</h1>
+    </header>
+
+    <ul class="galleries-ul">
+      {galleries.map(gallery => (
+        <li>
+          <a href={`/${gallery.id}`} class="gallery-link">
+            {gallery.data.title}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</BaseLayout>
+
+<style>
+  .galleries-ul {
+    list-style: none;
+    padding: 0;
+  }
+  .galleries-ul li {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #f2f2f2;
+    padding-bottom: 10px;
+  }
+  .gallery-link {
+    font-size: 18px;
+    color: #2a7ae2;
+  }
+</style>

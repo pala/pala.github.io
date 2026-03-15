@@ -1,48 +1,91 @@
 ---
 import { getCollection } from 'astro:content';
+import { getImage } from 'astro:assets';
 import BaseLayout from '../layouts/BaseLayout.astro';
 
-const posts = await getCollection('posts');
+// 1. Get all galleries
+const galleries = await getCollection('galleries');
 
-// Helper to get the most recent post url for a category
-const getLatestPostUrlForCategory = (category) => {
-  const categoryPosts = posts.filter(p => p.data.categories === category);
-  if (categoryPosts.length === 0) return '#';
-  
-  // Sort descending
-  categoryPosts.sort((a, b) => {
-    const dateA = a.data.date || new Date(a.id.slice(0, 10));
-    const dateB = b.data.date || new Date(b.id.slice(0, 10));
-    return dateB.valueOf() - dateA.valueOf();
-  });
-  
-  const latestPost = categoryPosts[0];
-  const match = latestPost.id.match(/^(\d{4})-(\d{2})-(\d{2})-(.+)$/);
-  if (!match) return `/${latestPost.id}.html`;
-  
-  const catPath = latestPost.data.categories ? latestPost.data.categories.toLowerCase() : '';
-  return `/${catPath}/${match[1]}/${match[2]}/${match[3]}/${match[4]}.html`;
-};
+// 2. Extract all image paths from markdown bodies
+const allImagePaths = galleries.flatMap(gallery => {
+  const imageRegex = /!\[.*?\]\((.*?)\)/g;
+  const paths = [];
+  let match;
+  while ((match = imageRegex.exec(gallery.body)) !== null) {
+    paths.push(match[1]);
+  }
+  return paths;
+});
 
-const passionUrl = getLatestPostUrlForCategory('Passion');
-const peopleOnStreetUrl = getLatestPostUrlForCategory('PeopleOnStreet');
-const documentaryPortraitsUrl = getLatestPostUrlForCategory('DocumentaryPortraits');
-const thingsUrl = getLatestPostUrlForCategory('Things');
+// 3. Resolve and Optimize all images
+const allAssets = import.meta.glob('/src/assets/**/*.{jpeg,jpg,png,svg,JPEG,JPG,PNG,SVG}');
+const normalizePath = (p: string) => p.startsWith('/') ? p : '/' + p;
 
-// Hardcoded cover image link matching original Jekyll setup
-const coverImageUrl = '/assets/EditorSelections/Cover.jpg';
-const coverImageLink = '/documentaryportraits/2021/09/10/guangzhou.html';
+const optimizedImages = await Promise.all(
+  allImagePaths.map(async (src) => {
+    const absPath = normalizePath(src.replace('../../', 'src/'));
+    const imageKey = Object.keys(allAssets).find(key => 
+      normalizePath(key).toLowerCase() === absPath.toLowerCase()
+    );
+    
+    if (imageKey) {
+      const optimized = await getImage({
+        src: allAssets[imageKey](),
+        width: 1200,
+        quality: 'high'
+      });
+      return optimized.src;
+    }
+    return null;
+  })
+);
+
+// Filter out any failed resolutions
+const imageUrls = optimizedImages.filter(url => url !== null);
+const galleriesUrl = '/galleries';
 ---
 
 <BaseLayout>
   <div class="home">
-    {passionUrl !== '#' && <h2><a href={passionUrl}>Passion</a></h2>}
-    {peopleOnStreetUrl !== '#' && <h2><a href={peopleOnStreetUrl}>街头遇到的人们</a></h2>}
-    {documentaryPortraitsUrl !== '#' && <h2><a href={documentaryPortraitsUrl}>肖像纪录片</a></h2>}
-    {thingsUrl !== '#' && <h2><a href={thingsUrl}>万物有灵且美</a></h2>}
-
-    <a href={coverImageLink}>
-      <img src={coverImageUrl} alt="Cover" />
+    <a href={galleriesUrl} id="random-link" class="random-hero">
+      <img id="random-image" src="" alt="Random Photography" style="opacity: 0; transition: opacity 0.5s ease-in;" />
     </a>
   </div>
 </BaseLayout>
+
+<script is:inline define:vars={{ imageUrls }}>
+  // Pick a random image from the pre-optimized list
+  if (imageUrls.length > 0) {
+    const randomIndex = Math.floor(Math.random() * imageUrls.length);
+    const randomUrl = imageUrls[randomIndex];
+    
+    const imgElement = document.getElementById('random-image');
+    if (imgElement) {
+      imgElement.src = randomUrl;
+      imgElement.onload = () => {
+        imgElement.style.opacity = '1';
+      };
+    }
+  }
+</script>
+
+<style>
+  .home {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 60vh;
+  }
+  .random-hero {
+    display: block;
+    width: 100%;
+    max-width: 1000px;
+  }
+  .random-hero img {
+    width: 100%;
+    height: auto;
+    display: block;
+    box-shadow: 0 4px 30px rgba(0,0,0,0.05);
+  }
+</style>

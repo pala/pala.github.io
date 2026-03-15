@@ -6,13 +6,13 @@ import { SITE_EMAIL, INSTAGRAM_USERNAME, SITE_DESCRIPTION } from '../consts';
   <div class="wrapper">
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list" style="list-style: none; padding: 0; margin: 0;">
+        <ul class="contact-list">
           {SITE_EMAIL && <li><a class="u-email" href={`mailto:${SITE_EMAIL}`}>{SITE_EMAIL}</a></li>}
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
-        <ul class="social-media-list" style="list-style: none; padding: 0; margin: 0;">
+        <ul class="social-media-list">
           {INSTAGRAM_USERNAME && (
             <li>
               <a href={`https://instagram.com/${INSTAGRAM_USERNAME}`}>
@@ -24,8 +24,24 @@ import { SITE_EMAIL, INSTAGRAM_USERNAME, SITE_DESCRIPTION } from '../consts';
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{SITE_DESCRIPTION}</p>
+        <p class="site-description">{SITE_DESCRIPTION}</p>
       </div>
     </div>
   </div>
 </footer>
+
+<style>
+  .footer-col-wrapper {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+  }
+  .contact-list, .social-media-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .site-description {
+    margin: 0;
+  }
+</style>

@@ -7,9 +7,5 @@ import cloudflare from '@astrojs/cloudflare';
 export default defineConfig({
   site: 'http://ztpala.com',
 
-  build: {
-    format: 'file'
-  },
-
   adapter: cloudflare()
 });

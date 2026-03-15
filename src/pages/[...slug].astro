@@ -1,80 +1,63 @@
 ---
 import { getCollection, render } from 'astro:content';
-import BaseLayout from '../layouts/BaseLayout.astro';
 import PostLayout from '../layouts/PostLayout.astro';
 import GalleryLayout from '../layouts/GalleryLayout.astro';
 import AppLayout from '../layouts/AppLayout.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
+  const galleries = await getCollection('galleries');
   
-  // Sort posts by date ascending
-  const sortedPosts = posts.sort((a, b) => {
-    const dateA = a.data.date || new Date(a.id.slice(0, 10));
-    const dateB = b.data.date || new Date(b.id.slice(0, 10));
-    return dateA.valueOf() - dateB.valueOf();
-  });
-
-  return sortedPosts.map((post) => {
-    // With glob loader, id is the filename without extension e.g. "YYYY-MM-DD-title"
+  // Dated Post Paths
+  const postPaths = posts.map((post) => {
     const match = post.id.match(/^(\d{4})-(\d{2})-(\d{2})-(.+)$/);
-    let year = '1970', month = '01', day = '01', titleSlug = post.id;
-    
-    if (match) {
-      year = match[1];
-      month = match[2];
-      day = match[3];
-      titleSlug = match[4];
-    }
-    
-    const category = post.data.categories ? post.data.categories.toLowerCase() : '';
-    const generatedSlug = category 
-      ? `${category}/${year}/${month}/${day}/${titleSlug}`
-      : `${year}/${month}/${day}/${titleSlug}`;
-
-    const sameCategoryPosts = sortedPosts.filter(p => p.data.categories === post.data.categories);
-    const currentIndex = sameCategoryPosts.findIndex(p => p.id === post.id);
-    
-    const prevPost = currentIndex > 0 ? sameCategoryPosts[currentIndex - 1] : null;
-    const nextPost = currentIndex < sameCategoryPosts.length - 1 ? sameCategoryPosts[currentIndex + 1] : null;
-
-    const getPostUrl = (p) => {
-      const pMatch = p.id.match(/^(\d{4})-(\d{2})-(\d{2})-(.+)$/);
-      if (!pMatch) return `/${p.id}.html`;
-      const c = p.data.categories ? p.data.categories.toLowerCase() : '';
-      return c 
-        ? `/${c}/${pMatch[1]}/${pMatch[2]}/${pMatch[3]}/${pMatch[4]}.html`
-        : `/${pMatch[1]}/${pMatch[2]}/${pMatch[3]}/${pMatch[4]}.html`;
-    };
+    const year = match ? match[1] : '1970';
+    const titleSlug = match ? match[4] : post.id;
+    const generatedSlug = `${year}/${titleSlug}`;
 
     return {
       params: { slug: generatedSlug },
-      props: {
-        post,
-        prev: prevPost ? { title: prevPost.data.title || prevPost.id, url: getPostUrl(prevPost) } : null,
-        next: nextPost ? { title: nextPost.data.title || nextPost.id, url: getPostUrl(nextPost) } : null,
-      },
+      props: { entry: post, type: 'post' },
     };
   });
+
+  // Themed Gallery Paths (No Date)
+  const galleryPaths = galleries.map((gallery) => {
+    return {
+      params: { slug: gallery.id },
+      props: { entry: gallery, type: 'gallery' },
+    };
+  });
+
+  return [...postPaths, ...galleryPaths];
 }
 
-const { post, prev, next } = Astro.props;
-const { Content } = await render(post);
+const { entry } = Astro.props;
+const { Content } = await render(entry);
 
-// Pick layout
-const layout = post.data.layout || 'post';
+// Extract images from markdown body for the grid
+const imageRegex = /!\[.*?\]\((.*?)\)/g;
+const images = [];
+let match;
+while ((match = imageRegex.exec(entry.body)) !== null) {
+  images.push(match[1]);
+}
+
+const layout = entry.data.layout || 'post';
+const title = entry.data.title;
+const date = entry.data.date;
 ---
 
 {layout === 'gallery' ? (
-  <GalleryLayout title={post.data.title} date={post.data.date} prev={prev} next={next}>
+  <GalleryLayout title={title} date={date} images={images}>
     <Content />
   </GalleryLayout>
 ) : layout === 'app' ? (
-  <AppLayout title={post.data.title} date={post.data.date}>
+  <AppLayout title={title} date={date}>
     <Content />
   </AppLayout>
 ) : (
-  <PostLayout title={post.data.title} date={post.data.date} prev={prev} next={next}>
+  <PostLayout title={title} date={date}>
     <Content />
   </PostLayout>
 )}

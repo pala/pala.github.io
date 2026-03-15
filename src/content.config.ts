@@ -8,7 +8,20 @@ const postsCollection = defineCollection({
 		date: z.coerce.date().optional(),
 		categories: z.string().optional(),
 		layout: z.string().optional(),
+		description: z.string().optional(),
 	}),
 });
 
-export const collections = { posts: postsCollection };
+const galleriesCollection = defineCollection({
+	loader: glob({ pattern: "**/*.md", base: "./src/content/galleries" }),
+	schema: z.object({
+		title: z.string(),
+		description: z.string().optional(),
+		layout: z.string().default('gallery'),
+	}),
+});
+
+export const collections = { 
+	posts: postsCollection,
+	galleries: galleriesCollection 
+};

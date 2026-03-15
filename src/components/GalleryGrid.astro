@@ -1,0 +1,174 @@
+---
+import { Image } from 'astro:assets';
+
+interface Props {
+  images: string[];
+}
+
+const { images } = Astro.props;
+
+// Use a broader glob to ensure we find all assets
+const allImages = import.meta.glob('/src/assets/**/*.{jpeg,jpg,png,svg,JPEG,JPG,PNG,SVG}');
+
+// Normalize helper to match paths consistently
+const normalizePath = (p: string) => p.startsWith('/') ? p : '/' + p;
+
+const resolvedImages = images.map((src) => {
+  // Convert markdown relative path (../../assets/...) to absolute src path (/src/assets/...)
+  const absPath = normalizePath(src.replace('../../', 'src/'));
+  
+  // Find the matching key in allImages (case-insensitive and leading-slash insensitive)
+  const imageKey = Object.keys(allImages).find(key => 
+    normalizePath(key).toLowerCase() === absPath.toLowerCase()
+  );
+
+  return {
+    src: absPath,
+    imageKey: imageKey,
+    original: src
+  };
+});
+---
+
+<div class="gallery-grid">
+  {resolvedImages.map((img) => (
+    <div class="gallery-item">
+      {img.imageKey ? (
+        <Image 
+          src={allImages[img.imageKey]()} 
+          alt="" 
+          width={600} 
+          height={600} 
+          quality="mid"
+          class="thumbnail"
+        />
+      ) : (
+        <div class="error-placeholder">
+          <span>Image Not Found</span>
+          <small>{img.src}</small>
+        </div>
+      )}
+    </div>
+  ))}
+</div>
+
+<div id="lightbox" class="lightbox">
+  <span class="close">&times;</span>
+  <img class="lightbox-content" id="lightbox-img">
+</div>
+
+<style>
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 10px;
+    margin: 40px 0;
+  }
+
+  .gallery-item {
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    cursor: pointer;
+    background: #f0f0f0;
+    position: relative;
+  }
+
+  .thumbnail {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: opacity 0.3s ease, transform 0.5s ease;
+  }
+
+  .gallery-item:hover .thumbnail {
+    transform: scale(1.03);
+    opacity: 0.9;
+  }
+
+  .error-placeholder {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    font-size: 10px;
+    color: #999;
+    text-align: center;
+    padding: 10px;
+  }
+
+  /* Lightbox Styles */
+  .lightbox {
+    display: none;
+    position: fixed;
+    z-index: 2000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.98);
+    backdrop-filter: blur(10px);
+    cursor: zoom-out;
+  }
+
+  .lightbox-content {
+    margin: auto;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 95vw;
+    max-height: 95vh;
+    object-fit: contain;
+    animation: fadeIn 0.3s ease-out;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translate(-50%, -48%) scale(0.98); }
+    to { opacity: 1; transform: translate(-50%, -50%) scale(1); }
+  }
+
+  .close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    color: #111;
+    font-size: 30px;
+    cursor: pointer;
+    z-index: 2100;
+  }
+</style>
+
+<script>
+  const lightbox = document.getElementById('lightbox');
+  const lightboxImg = document.getElementById('lightbox-img') as HTMLImageElement;
+  const closeBtn = document.querySelector('.close');
+
+  document.querySelectorAll('.thumbnail').forEach(item => {
+    item.addEventListener('click', (e) => {
+      const target = e.target as HTMLImageElement;
+      lightbox.style.display = "block";
+      
+      // We use the thumbnail's src but try to get a higher quality version
+      // In a real production environment, you might want to pass a 'large' URL
+      // but for this implementation, the browser will upscale the mid-quality image
+      // or we could use the original src if we exported it.
+      lightboxImg.src = target.src; 
+      document.body.style.overflow = 'hidden'; // Prevent scrolling
+    });
+  });
+
+  const closeLightbox = () => {
+    lightbox.style.display = "none";
+    document.body.style.overflow = 'auto';
+  };
+
+  closeBtn?.addEventListener('click', closeLightbox);
+  lightbox?.addEventListener('click', closeLightbox);
+  
+  // Close on Escape key
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeLightbox();
+  });
+</script>

@@ -3,7 +3,30 @@ import { SITE_TITLE } from '../consts';
 ---
 
 <header class="site-header" role="banner">
-  <div class="wrapper">
+  <div class="wrapper header-wrapper">
     <a class="site-title" rel="author" href="/">{SITE_TITLE}</a>
+    <nav class="site-nav">
+      <ul>
+        <li><a href="/galleries">Galleries</a></li>
+        <li><a href="/posts">Posts</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/rss.xml">RSS</a></li>
+      </ul>
+    </nav>
   </div>
 </header>
+
+<style>
+  .header-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .site-nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+  }
+</style>

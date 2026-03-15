@@ -11,12 +11,20 @@ const { title, date, prev, next } = Astro.props;
       display: inline;
       vertical-align: bottom;
     }
+    .post-meta {
+      float: right;
+    }
+    .post-navigation {
+      margin-top: 30px;
+      display: flex;
+      justify-content: space-between;
+    }
   </style>
 
   <article class="post">
     <header class="post-header" id="post-header">
       <h3>{title}</h3>
-      <p class="post-meta" style="float: right;">
+      <p class="post-meta">
         <time datetime={date ? date.toISOString() : ''}>
           {date ? date.toISOString().split('T')[0] : ''}
         </time>
@@ -27,7 +35,7 @@ const { title, date, prev, next } = Astro.props;
       <slot />
     </div>
 
-    <div style="margin-top: 30px; display: flex; justify-content: space-between;">
+    <div class="post-navigation">
       <div>
         {prev && <a href={prev.url}>&lt; {prev.title}</a>}
       </div>
