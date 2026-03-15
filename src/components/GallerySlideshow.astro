@@ -1,4 +1,6 @@
 ---
+import { getImage } from 'astro:assets';
+
 interface Props {
   images: string[];
 }
@@ -16,8 +18,13 @@ const resolvedImages = await Promise.all(
     );
     
     if (imageKey) {
-      const asset = await allAssets[imageKey]() as { default: { src: string } };
-      return { src: asset.default.src };
+      // Pre-render optimized image for static hosting
+      const optimized = await getImage({
+        src: allAssets[imageKey](),
+        width: 1600,
+        quality: 'high'
+      });
+      return { src: optimized.src };
     }
     return null;
   })
@@ -127,9 +134,14 @@ const resolvedImages = await Promise.all(
 
   const showSlide = (index: number) => {
     if (total === 0) return;
-    slides[currentIndex].classList.remove('active');
+    const currentActive = slides[currentIndex];
+    if (currentActive) currentActive.classList.remove('active');
+    
     currentIndex = (index + total) % total;
-    slides[currentIndex].classList.add('active');
+    
+    const nextActive = slides[currentIndex];
+    if (nextActive) nextActive.classList.add('active');
+    
     if (currentSpan) currentSpan.textContent = (currentIndex + 1).toString();
   };
 
