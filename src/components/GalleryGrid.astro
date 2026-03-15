@@ -1,53 +1,46 @@
 ---
-import { Image } from 'astro:assets';
-
 interface Props {
   images: string[];
 }
 
 const { images } = Astro.props;
 
-// Use a broader glob to ensure we find all assets
-const allImages = import.meta.glob('/src/assets/**/*.{jpeg,jpg,png,svg,JPEG,JPG,PNG,SVG}');
+// For markdown relative paths like ../../assets/posts/2021-09-10-guangzhou/Guangzhou0.jpeg
+// Astro's glob needs to be used to import them dynamically
+const allAssets = import.meta.glob('/src/assets/**/*.{jpeg,jpg,png,svg,JPEG,JPG,PNG,SVG}');
 
-// Normalize helper to match paths consistently
 const normalizePath = (p: string) => p.startsWith('/') ? p : '/' + p;
 
-const resolvedImages = images.map((src) => {
-  // Convert markdown relative path (../../assets/...) to absolute src path (/src/assets/...)
-  const absPath = normalizePath(src.replace('../../', 'src/'));
-  
-  // Find the matching key in allImages (case-insensitive and leading-slash insensitive)
-  const imageKey = Object.keys(allImages).find(key => 
-    normalizePath(key).toLowerCase() === absPath.toLowerCase()
-  );
+const resolvedImages = await Promise.all(
+  images.map(async (src) => {
+    // Convert markdown relative path (../../assets/...) to absolute src path (/src/assets/...)
+    const absPath = normalizePath(src.replace('../../', 'src/'));
+    
+    // Find the matching key in allAssets (case-insensitive and leading-slash insensitive)
+    const imageKey = Object.keys(allAssets).find(key => 
+      normalizePath(key).toLowerCase() === absPath.toLowerCase()
+    );
 
-  return {
-    src: absPath,
-    imageKey: imageKey,
-    original: src
-  };
-});
+    if (imageKey) {
+      const asset = await allAssets[imageKey]();
+      return {
+        src: asset.default.src,
+        original: src
+      };
+    }
+    return null;
+  })
+).then(urls => urls.filter(url => url !== null));
 ---
 
 <div class="gallery-grid">
   {resolvedImages.map((img) => (
     <div class="gallery-item">
-      {img.imageKey ? (
-        <Image 
-          src={allImages[img.imageKey]()} 
-          alt="" 
-          width={600} 
-          height={600} 
-          quality="mid"
-          class="thumbnail"
-        />
-      ) : (
-        <div class="error-placeholder">
-          <span>Image Not Found</span>
-          <small>{img.src}</small>
-        </div>
-      )}
+      <img 
+        src={img.src} 
+        alt="" 
+        class="thumbnail"
+      />
     </div>
   ))}
 </div>
@@ -83,18 +76,6 @@ const resolvedImages = images.map((src) => {
   .gallery-item:hover .thumbnail {
     transform: scale(1.03);
     opacity: 0.9;
-  }
-
-  .error-placeholder {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100%;
-    font-size: 10px;
-    color: #999;
-    text-align: center;
-    padding: 10px;
   }
 
   /* Lightbox Styles */
@@ -149,11 +130,6 @@ const resolvedImages = images.map((src) => {
     item.addEventListener('click', (e) => {
       const target = e.target as HTMLImageElement;
       lightbox.style.display = "block";
-      
-      // We use the thumbnail's src but try to get a higher quality version
-      // In a real production environment, you might want to pass a 'large' URL
-      // but for this implementation, the browser will upscale the mid-quality image
-      // or we could use the original src if we exported it.
       lightboxImg.src = target.src; 
       document.body.style.overflow = 'hidden'; // Prevent scrolling
     });
@@ -167,7 +143,6 @@ const resolvedImages = images.map((src) => {
   closeBtn?.addEventListener('click', closeLightbox);
   lightbox?.addEventListener('click', closeLightbox);
   
-  // Close on Escape key
   document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') closeLightbox();
   });
