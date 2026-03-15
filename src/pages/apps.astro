@@ -1,0 +1,125 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import appsData from '../../public/apps.json';
+
+// Filter for active apps only
+const activeApps = appsData.apps.filter((app: any) => app.isActive);
+---
+
+<BaseLayout title="Apps">
+  <div class="apps-container">
+    <header class="post-header">
+      <h1 class="post-title">Apps</h1>
+    </header>
+
+    <div class="apps-list">
+      {activeApps.map((app: any) => (
+        <div class="app-card">
+          <img src={app.iconUrl} alt={`${app.name} icon`} class="app-icon" />
+          <div class="app-info">
+            <div class="app-name-row">
+              <h2 class="app-name">{app.name}</h2>
+              {app.badgeLabel && <span class="app-badge">{app.badgeLabel}</span>}
+            </div>
+            <p class="app-description">{app.description}</p>
+            <a href={app.appStoreUrl} class="app-link" target="_blank" rel="noopener noreferrer">
+              View on App Store
+            </a>
+          </div>
+        </div>
+      ))}
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .apps-list {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin-top: 20px;
+  }
+
+  .app-card {
+    display: flex;
+    gap: 25px;
+    align-items: flex-start;
+    padding-bottom: 30px;
+    border-bottom: 1px solid var(--border-color);
+  }
+
+  .app-card:last-child {
+    border-bottom: none;
+  }
+
+  .app-icon {
+    width: 80px;
+    height: 80px;
+    border-radius: 18px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    flex-shrink: 0;
+  }
+
+  .app-info {
+    flex-grow: 1;
+  }
+
+  .app-name-row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 8px;
+  }
+
+  .app-name {
+    font-size: 22px;
+    margin: 0;
+    color: var(--text-color);
+  }
+
+  .app-badge {
+    background: var(--link-color);
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 2px 8px;
+    border-radius: 4px;
+    letter-spacing: 0.5px;
+  }
+
+  .app-description {
+    font-size: 16px;
+    color: var(--meta-color);
+    margin: 0 0 15px 0;
+    line-height: 1.4;
+  }
+
+  .app-link {
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--link-color);
+    border: 1.5px solid var(--link-color);
+    padding: 6px 16px;
+    border-radius: 20px;
+    transition: all 0.2s ease;
+  }
+
+  .app-link:hover {
+    background: var(--link-color);
+    color: white;
+    text-decoration: none;
+  }
+
+  @media (max-width: 600px) {
+    .app-card {
+      flex-direction: column;
+      gap: 15px;
+    }
+    .app-icon {
+      width: 64px;
+      height: 64px;
+    }
+  }
+</style>
