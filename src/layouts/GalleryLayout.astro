@@ -14,17 +14,17 @@ const { title, date, images = [] } = Astro.props;
     }
 
     .navigation {
-      color: gray;
+      color: var(--meta-color);
       font-size: 12px;
       margin-top: 40px;
-      border-top: 1px solid #eee;
+      border-top: 1px solid var(--border-color);
       padding-top: 20px;
     }
     .post-header {
       margin-bottom: 20px;
     }
     .post-meta {
-      color: #828282;
+      color: var(--meta-color);
       font-size: 14px;
     }
     .wrapper {
