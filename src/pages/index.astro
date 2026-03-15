@@ -17,7 +17,7 @@ const allImagePaths = galleries.flatMap(gallery => {
 });
 
 // 3. Resolve all images to their STATIC paths
-const allAssets = import.meta.glob('/src/assets/**/*.{jpeg,jpg,png,svg,JPEG,JPG,PNG,SVG}');
+const allAssets = import.meta.glob('/src/assets/**/*.{jpeg,jpg,png,svg,webp,JPEG,JPG,PNG,SVG,WEBP}');
 const normalizePath = (p: string) => p.startsWith('/') ? p : '/' + p;
 
 const imageUrls = await Promise.all(

@@ -4,7 +4,7 @@ interface Props {
 }
 
 const { images } = Astro.props;
-const allAssets = import.meta.glob('/src/assets/**/*.{jpeg,jpg,png,svg,JPEG,JPG,PNG,SVG}');
+const allAssets = import.meta.glob('/src/assets/**/*.{jpeg,jpg,png,svg,webp,JPEG,JPG,PNG,SVG,WEBP}');
 
 const normalizePath = (p: string) => p.startsWith('/') ? p : '/' + p;
 
