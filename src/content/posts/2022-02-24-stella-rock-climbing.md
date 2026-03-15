@@ -7,7 +7,7 @@ categories: Passion
 
 前几天提过的「激情」拍摄项目，今天终于迎来了第一期，欢迎攀岩的Stella。
 
-![](../../assets/posts/2022-02-24-stella-rock-climbing/StellaRockClimbing2.jpeg)
+![](../../assets/posts/2022-02-24-stella-rock-climbing/StellaRockClimbing2.webp)
 
 
 **你的职业是什么？**
@@ -30,7 +30,7 @@ categories: Passion
 
 因为可以暂时抛开生活的细碎，专注到攀岩上只想一件事，不会胡思乱想。攀完后觉得精神头很好，很充盈...不会觉得像是一种发泄，完了后感到空虚...每次攀完就有种今天为自己活过来了。
 
-![](../../assets/posts/2022-02-24-stella-rock-climbing/StellaRockClimbing0.jpeg)
+![](../../assets/posts/2022-02-24-stella-rock-climbing/StellaRockClimbing0.webp)
 
 **关于攀岩，你最喜欢什么？**
 
@@ -41,7 +41,7 @@ categories: Passion
 
 当我知道在一条线路上有多种攀爬的方式时，我不仅看到解题思路的多样化，也被点燃了自身身上存在的多种可能性。一旦这个认知被指出后，我发现自己对待生活和工作中的各种变化也会更积极，更乐观。
 
-![](../../assets/posts/2022-02-24-stella-rock-climbing/StellaRockClimbing7.jpeg)
+![](../../assets/posts/2022-02-24-stella-rock-climbing/StellaRockClimbing7.webp)
 
 **遇到过什么困难或者障碍吗？**
 
@@ -57,16 +57,16 @@ categories: Passion
 Passion 是陪伴我度过困难时期的一种方式，想要与自己连接，想要活出想要的样子。
 
 
-![](../../assets/posts/2022-02-24-stella-rock-climbing/StellaRockClimbing1.jpeg)
+![](../../assets/posts/2022-02-24-stella-rock-climbing/StellaRockClimbing1.webp)
 
-![](../../assets/posts/2022-02-24-stella-rock-climbing/StellaRockClimbing3.jpeg)
+![](../../assets/posts/2022-02-24-stella-rock-climbing/StellaRockClimbing3.webp)
 
-![](../../assets/posts/2022-02-24-stella-rock-climbing/StellaRockClimbing4.jpeg)
+![](../../assets/posts/2022-02-24-stella-rock-climbing/StellaRockClimbing4.webp)
 
-![](../../assets/posts/2022-02-24-stella-rock-climbing/StellaRockClimbing5.jpeg)
+![](../../assets/posts/2022-02-24-stella-rock-climbing/StellaRockClimbing5.webp)
 
-![](../../assets/posts/2022-02-24-stella-rock-climbing/StellaRockClimbing6.jpeg)
+![](../../assets/posts/2022-02-24-stella-rock-climbing/StellaRockClimbing6.webp)
 
-![](../../assets/posts/2022-02-24-stella-rock-climbing/StellaRockClimbing8.jpeg)
+![](../../assets/posts/2022-02-24-stella-rock-climbing/StellaRockClimbing8.webp)
 
-![](../../assets/posts/2022-02-24-stella-rock-climbing/StellaRockClimbing9.jpeg)
+![](../../assets/posts/2022-02-24-stella-rock-climbing/StellaRockClimbing9.webp)
