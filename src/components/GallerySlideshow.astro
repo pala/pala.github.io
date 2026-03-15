@@ -1,34 +1,36 @@
 ---
-import { Image } from 'astro:assets';
-
 interface Props {
   images: string[];
 }
 
 const { images } = Astro.props;
-const allImages = import.meta.glob('/src/assets/**/*.{jpeg,jpg,png,svg,JPEG,JPG,PNG,SVG}');
+const allAssets = import.meta.glob('/src/assets/**/*.{jpeg,jpg,png,svg,JPEG,JPG,PNG,SVG}');
 
 const normalizePath = (p: string) => p.startsWith('/') ? p : '/' + p;
 
-const resolvedImages = images.map((src) => {
-  const absPath = normalizePath(src.replace('../../', 'src/'));
-  const imageKey = Object.keys(allImages).find(key => 
-    normalizePath(key).toLowerCase() === absPath.toLowerCase()
-  );
-  return { src: absPath, imageKey: imageKey };
-}).filter(img => img.imageKey);
+const resolvedImages = await Promise.all(
+  images.map(async (src) => {
+    const absPath = normalizePath(src.replace('../../', 'src/'));
+    const imageKey = Object.keys(allAssets).find(key => 
+      normalizePath(key).toLowerCase() === absPath.toLowerCase()
+    );
+    
+    if (imageKey) {
+      const asset = await allAssets[imageKey]();
+      return { src: asset.default.src };
+    }
+    return null;
+  })
+).then(imgs => imgs.filter(img => img !== null));
 ---
 
 <div class="slideshow-wrapper">
   <div class="slideshow-container" id="slideshow">
     {resolvedImages.map((img, index) => (
       <div class={`slide ${index === 0 ? 'active' : ''}`} data-index={index}>
-        <Image 
-          src={allImages[img.imageKey]()} 
+        <img 
+          src={img.src} 
           alt="" 
-          width={1600} 
-          height={1200} 
-          quality="high"
           class="slide-image"
           loading={index === 0 ? "eager" : "lazy"}
         />
