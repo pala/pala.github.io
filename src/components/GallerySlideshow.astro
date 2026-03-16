@@ -1,6 +1,4 @@
 ---
-import { getImage } from 'astro:assets';
-
 interface Props {
   images: string[];
 }
@@ -18,13 +16,8 @@ const resolvedImages = await Promise.all(
     );
     
     if (imageKey) {
-      // Pre-render optimized image for static hosting
-      const optimized = await getImage({
-        src: allAssets[imageKey](),
-        width: 1600,
-        quality: 'high'
-      });
-      return { src: optimized.src };
+      const asset = await allAssets[imageKey]() as { default: { src: string } };
+      return { src: asset.default.src }; // Direct static path
     }
     return null;
   })

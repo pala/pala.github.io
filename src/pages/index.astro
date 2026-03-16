@@ -1,6 +1,5 @@
 ---
 import { getCollection } from 'astro:content';
-import { getImage } from 'astro:assets';
 import BaseLayout from '../layouts/BaseLayout.astro';
 
 // 1. Get all galleries
@@ -18,7 +17,7 @@ const allImagePaths = galleries.flatMap(gallery => {
   return paths;
 });
 
-// 3. Resolve and Optimize all images
+// 3. Resolve all images to their STATIC paths
 const allAssets = import.meta.glob('/src/assets/**/*.{jpeg,jpg,png,svg,webp,JPEG,JPG,PNG,SVG,WEBP}');
 const normalizePath = (p: string) => p.startsWith('/') ? p : '/' + p;
 
@@ -30,13 +29,8 @@ const imageUrls = await Promise.all(
     );
     
     if (imageKey) {
-      // Use getImage to generate a static optimized file during build
-      const optimized = await getImage({
-        src: allAssets[imageKey](),
-        width: 1200,
-        quality: 'high'
-      });
-      return optimized.src;
+      const asset = await allAssets[imageKey]() as { default: { src: string } };
+      return asset.default.src; // Direct static path
     }
     return null;
   })
