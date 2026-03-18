@@ -4,40 +4,13 @@ interface Props {
 }
 
 const { images } = Astro.props;
-
-// For markdown relative paths like ../../assets/posts/2021-09-10-guangzhou/Guangzhou0.webp
-// Astro's glob needs to be used to import them dynamically
-const allAssets = import.meta.glob('/src/assets/**/*.{jpeg,jpg,png,svg,webp,JPEG,JPG,PNG,SVG,WEBP}');
-
-const normalizePath = (p: string) => p.startsWith('/') ? p : '/' + p;
-
-const resolvedImages = await Promise.all(
-  images.map(async (src) => {
-    // Convert markdown relative path (../../assets/...) to absolute src path (/src/assets/...)
-    const absPath = normalizePath(src.replace('../../', 'src/'));
-    
-    // Find the matching key in allAssets (case-insensitive and leading-slash insensitive)
-    const imageKey = Object.keys(allAssets).find(key => 
-      normalizePath(key).toLowerCase() === absPath.toLowerCase()
-    );
-
-    if (imageKey) {
-      const asset = await allAssets[imageKey]() as { default: { src: string } };
-      return {
-        src: asset.default.src,
-        original: src
-      };
-    }
-    return null;
-  })
-).then((urls: ({ src: string, original: string } | null)[]) => urls.filter((url): url is { src: string, original: string } => url !== null));
 ---
 
 <div class="gallery-grid">
-  {resolvedImages.map((img) => (
+  {images.map((img) => (
     <div class="gallery-item">
       <img 
-        src={img.src} 
+        src={img} 
         alt="" 
         class="thumbnail"
       />

@@ -11,12 +11,17 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
 const { title, description = SITE_DESCRIPTION, image } = Astro.props;
 const pageTitle = title ? `${title} | ${SITE_TITLE}` : SITE_TITLE;
+
+// Use absolute URLs for favicons to ensure they work correctly on all pages and environments
+const faviconSvg = new URL('/favicon.svg', Astro.site).toString();
+const faviconIco = new URL('/favicon.ico', Astro.site).toString();
 ---
 
 <!-- Global Metadata -->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<link rel="icon" type="image/svg+xml" href={faviconSvg} />
+<link rel="alternate icon" type="image/x-icon" href={faviconIco} />
 <meta name="generator" content={Astro.generator} />
 
 <!-- Canonical URL -->

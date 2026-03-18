@@ -14,41 +14,41 @@ description: "A series of conversations with people waiting to leave Shanghai at
 
 现在进站需要扫场所码，然后健康码便多了站点信息。
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8433.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8433.webp)
 
 地铁里只有几个叔叔阿姨闲聊，抱怨一下过去几十天被封在家里，感觉今天是为了重温一下坐地铁的感觉。
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8432.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8432.webp)
 
 现在地铁约20分钟一班，可能因为还没调试好，对面那班车走了之后广播突然响起：图书馆站到了，请出站的旅客... 诡异感。去虹桥的车里，都是带着行李的人。大家各自盯着手机，没人说话，有点紧张感，但听到地铁的报站声，还是有一点生活恢复到正常的感觉。
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8434.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8434.webp)
 
 报站声中插了一句不同的声音，凭当日车票才能进火车站。说来好笑，在出站前的一刻，我犹豫了一下，要不要就此回去。心中的冒险精神和偷懒想法战斗了十几秒，还是胜出了。走到哪算哪吧。
 
 出了站，在进候车厅的队伍旁边，志愿者给每人发了一袋食物。如果没有当日车票，暂时不能进站，需要去滞留乘客集中的一块地方。滞留区入口有辆核酸采样车。有些等待的乘客如果核酸快要过期，可以在这重新检测。
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8447.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8447.webp)
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8460.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8460.webp)
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8474.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8474.webp)
 
 进了滞留区才发现，在这等着明天坐车，或者还没有抢到票的人，仍旧很多。另外还有人叫卖睡袋，50元一个。还有人说，充电30元，可以充到晚上。一辆写着「华夏老兵应急救援」的车，给大家送来了西瓜。🫡
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8475.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8475.webp)
 
 我自己是有些社交恐惧的，总是喜欢远远观察，拍拍照。但这次决定找几个人聊聊天。
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8499.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8499.webp)
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8506.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8506.webp)
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8519.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8519.webp)
 
 来自山东的老蔡，一个人站在离大伙一段距离的地方，太适合我去迈出「采访第一步」了。于是走上前紧张兮兮地说：能不能问您几个问题。可以看出他也有些腼腆，但还是喜欢跟人聊天。
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8527.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8527.webp)
 
 “您是回家吗？”
 “我去苏州，我弟弟那。”
@@ -61,7 +61,7 @@ description: "A series of conversations with people waiting to leave Shanghai at
 
 此时正坐在路边全神贯注打游戏的是小孙。他的目的地是襄阳。和老蔡一样，也是三月来的上海，来玩，住在哥哥那里。
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8524.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8524.webp)
 
 “为什么想走了？”
 
@@ -85,7 +85,7 @@ description: "A series of conversations with people waiting to leave Shanghai at
 
 在上海工作的小杨，就带了一个背包和一个纸袋，但准备了一条毯子。他把毯子铺在地上，坐定没一会儿，就拿出来电脑开始工作。
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8550.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8550.webp)
 
 “你就带这么点东西？” 
 
@@ -101,7 +101,7 @@ description: "A series of conversations with people waiting to leave Shanghai at
 
 坐在小杨旁边的老黄，也是来自山东。二月份到上海，但也只干了半个月活。
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8542.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8542.webp)
 
 “以后上海肯定都是能人，不干活也有钱拿的那种。剩下那些干活才能拿钱的，一天两三百的，不能在上海待了。” 
 
@@ -113,31 +113,31 @@ description: "A series of conversations with people waiting to leave Shanghai at
 
 起风了，似乎要下雨。但仅有的几个雨棚下躺满了人。这时来了几个工作人员，让有明日车票的人进站等待。不用室外露宿了，幸好。
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8521.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8521.webp)
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8522.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8522.webp)
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8523.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8523.webp)
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8526.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8526.webp)
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8530.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8530.webp)
 
 疫情还没结束，此时带上自己所有的东西离开上海，听起来是件挺沉重的事。但跟这几位聊天，完全感觉不到沉重，反而带着一种轻松感，就像一段漫长、艰难的旅程走到了尾声。虽然眼前还有不少困难等着他们，但有个较为清晰的时间线：熬过这一夜；隔离14天等。对他们来说是件好事。让我觉得沉重的不是这些人，而是经历过还面临着那么多的困难，他们仍然盼望着离开这个城市。但也为他们能做出自己的选择，回到一种可期的生活感到高兴。
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8538.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8538.webp)
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8539.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8539.webp)
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8546.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8546.webp)
 
 因为没法再回到地铁站，于是骑车去三站之外乘车。路上遇到了另外一些滞留露营的人，祝他们都早日回家！
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8565.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8565.webp)
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8587.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8587.webp)
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8588.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8588.webp)
 
 四个小时之后，我回到了上海图书馆站。走到湖南路路口，感觉周围的一切特别安静，整齐，像是到了一个新世界。
 
@@ -151,4 +151,4 @@ description: "A series of conversations with people waiting to leave Shanghai at
 
 文中的名字均为化名
 
-![](../../assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8593.webp)
+![](/assets/posts/2022-05-24-conversations-at-hongqiao/DSCF8593.webp)

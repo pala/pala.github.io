@@ -6,7 +6,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 const galleries = await getCollection('galleries');
 
 // 2. Extract all image paths from markdown bodies
-const allImagePaths = galleries.flatMap(gallery => {
+// These are now absolute paths like /assets/posts/...
+const imageUrls = galleries.flatMap(gallery => {
   if (!gallery.body) return [];
   const imageRegex = /!\[.*?\]\((.*?)\)/g;
   const paths = [];
@@ -15,26 +16,7 @@ const allImagePaths = galleries.flatMap(gallery => {
     paths.push(match[1]);
   }
   return paths;
-});
-
-// 3. Resolve all images to their STATIC paths
-const allAssets = import.meta.glob('/src/assets/**/*.{jpeg,jpg,png,svg,webp,JPEG,JPG,PNG,SVG,WEBP}');
-const normalizePath = (p: string) => p.startsWith('/') ? p : '/' + p;
-
-const imageUrls = await Promise.all(
-  allImagePaths.map(async (src) => {
-    const absPath = normalizePath(src.replace('../../', 'src/'));
-    const imageKey = Object.keys(allAssets).find(key => 
-      normalizePath(key).toLowerCase() === absPath.toLowerCase()
-    );
-    
-    if (imageKey) {
-      const asset = await allAssets[imageKey]() as { default: { src: string } };
-      return asset.default.src; // Direct static path
-    }
-    return null;
-  })
-).then((urls: (string | null)[]) => urls.filter((url): url is string => url !== null));
+}).filter(url => url.startsWith('/assets/'));
 
 const galleriesUrl = '/galleries';
 ---
@@ -48,7 +30,7 @@ const galleriesUrl = '/galleries';
 </BaseLayout>
 
 <script is:inline define:vars={{ imageUrls }}>
-  // Pick a random image from the pre-optimized list
+  // Pick a random image from the list
   if (imageUrls.length > 0) {
     const randomIndex = Math.floor(Math.random() * imageUrls.length);
     const randomUrl = imageUrls[randomIndex];

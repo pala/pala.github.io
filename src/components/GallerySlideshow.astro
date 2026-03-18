@@ -4,32 +4,14 @@ interface Props {
 }
 
 const { images } = Astro.props;
-const allAssets = import.meta.glob('/src/assets/**/*.{jpeg,jpg,png,svg,webp,JPEG,JPG,PNG,SVG,WEBP}');
-
-const normalizePath = (p: string) => p.startsWith('/') ? p : '/' + p;
-
-const resolvedImages = await Promise.all(
-  images.map(async (src) => {
-    const absPath = normalizePath(src.replace('../../', 'src/'));
-    const imageKey = Object.keys(allAssets).find(key => 
-      normalizePath(key).toLowerCase() === absPath.toLowerCase()
-    );
-    
-    if (imageKey) {
-      const asset = await allAssets[imageKey]() as { default: { src: string } };
-      return { src: asset.default.src }; // Direct static path
-    }
-    return null;
-  })
-).then((imgs: ({ src: string } | null)[]) => imgs.filter((img): img is { src: string } => img !== null));
 ---
 
 <div class="slideshow-wrapper">
   <div class="slideshow-container" id="slideshow">
-    {resolvedImages.map((img, index) => (
+    {images.map((img, index) => (
       <div class={`slide ${index === 0 ? 'active' : ''}`} data-index={index}>
         <img 
-          src={img.src} 
+          src={img} 
           alt="" 
           class="slide-image"
           loading={index === 0 ? "eager" : "lazy"}
@@ -40,7 +22,7 @@ const resolvedImages = await Promise.all(
 
   <div class="controls">
     <button class="prev" id="prevBtn">&larr;</button>
-    <div class="counter"><span id="current">1</span> / {resolvedImages.length}</div>
+    <div class="counter"><span id="current">1</span> / {images.length}</div>
     <button class="next" id="nextBtn">&rarr;</button>
   </div>
 </div>

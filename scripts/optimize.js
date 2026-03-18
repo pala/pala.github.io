@@ -7,8 +7,8 @@ const TARGET_WIDTH = 2500; // Professional high-res web standard
 const QUALITY = 90;
 
 async function optimize() {
-  // Find all JPEG/JPG/PNG files in src/assets
-  const files = await glob('src/assets/**/*.{jpg,jpeg,png,JPG,JPEG,PNG}');
+  // Find all JPEG/JPG/PNG files in public/assets
+  const files = await glob('public/assets/**/*.{jpg,jpeg,png,JPG,JPEG,PNG}');
   
   if (files.length === 0) {
     console.log('No new images to optimize.');
