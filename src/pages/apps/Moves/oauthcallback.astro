@@ -9,8 +9,8 @@
     <meta charset="utf-8">
     <title>Redirecting to Moves...</title>
     <script type="text/javascript">
-        // Capture query string and redirect to the custom app scheme
-        const redirectUrl = 'moves-app://auth' + window.location.search;
+        // Preserve both the query string and fragment before handing the callback to the app.
+        const redirectUrl = 'moves-app://auth' + window.location.search + window.location.hash;
         window.location.replace(redirectUrl);
         
         // Fallback for manual click
