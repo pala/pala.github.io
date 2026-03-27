@@ -1,0 +1,28 @@
+---
+// src/pages/apps/Moves/oauthcallback.astro
+// This is a static page that handles OAuth redirection for the Moves app.
+// Since the site is static, we use client-side JS to perform the redirect.
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Redirecting to Moves...</title>
+    <script type="text/javascript">
+        // Capture query string and redirect to the custom app scheme
+        const redirectUrl = 'moves-app://auth' + window.location.search;
+        window.location.replace(redirectUrl);
+        
+        // Fallback for manual click
+        setTimeout(() => {
+            const message = document.getElementById('message');
+            if (message) {
+                message.innerHTML = `If you are not redirected automatically, <a href="${redirectUrl}">click here</a>.`;
+            }
+        }, 2000);
+    </script>
+</head>
+<body>
+    <p id="message">Redirecting to the Moves app...</p>
+</body>
+</html>
