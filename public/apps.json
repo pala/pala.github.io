@@ -11,6 +11,16 @@
       "isActive": true
     },
     {
+      "appId": "577675173",
+      "bundleId": "com.palaapp.Tile-Tale",
+      "name": "Tile Tale",
+      "description": "Endless puzzles, daily play.",
+      "iconUrl": "https://ztpala.com/assets/apps/TileTale.png",
+      "appStoreUrl": "https://apps.apple.com/app/id577675173",
+      "badgeLabel": "New",
+      "isActive": true
+    },
+    {
       "appId": "6760047280",
       "bundleId": "com.ztpala.VitaL",
       "name": "VitaL",
